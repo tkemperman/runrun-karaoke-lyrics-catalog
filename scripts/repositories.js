@@ -26,7 +26,7 @@
     const p = C.validate(value);
     // Export only protocol fields, never arbitrary imported metadata or settings.
     return { schemaVersion: p.schemaVersion, videoId: p.videoId, title: p.title, artist: p.artist, originalLanguage: p.originalLanguage, translationLanguage: p.translationLanguage, offset: p.offset, furiganaEnabled: p.furiganaEnabled,
-      sources: p.sources.map(s => ({ provider: s.provider, url: s.url })),
+      source: p.source,
       blocks: p.blocks.map(b => ({ id: b.id, text: b.text, start: b.start, end: b.end, translations: b.translations, ...(b.furigana ? { furigana: b.furigana } : {}) })) };
   }
   function entry(value, file) {

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "videoId": "G3xEh7dHg68",
   "title": "バラライカ (第27話〜51話 OP)",
   "artist": "Yumiko",
@@ -7,16 +7,10 @@
   "translationLanguage": "en",
   "offset": 9.21,
   "furiganaEnabled": true,
-  "sources": [
-    {
-      "provider": "lrclib",
-      "url": "https://lrclib.net/api/get/10831983"
-    },
-    {
-      "provider": "lrclib",
-      "url": "https://lrclib.net/api/get/15913865"
-    }
-  ],
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/15913865"
+  },
   "blocks": [
     {
       "id": "37703c5f-f15e-41cf-baa0-b6c462bb2fa4",

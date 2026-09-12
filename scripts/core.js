@@ -6,10 +6,10 @@
     return { id: id(), start, end, text, translations: {} };
   }
   function project(videoId, title = "") {
-    return { schemaVersion: 2, furiganaEnabled: false, videoId, title, artist: "", originalLanguage: "ja", translationLanguage: "en", offset: 0, sources: [], blocks: [] };
+    return { schemaVersion: 3, furiganaEnabled: false, videoId, title, artist: "", originalLanguage: "ja", translationLanguage: "en", offset: 0, source: null, blocks: [] };
   }
   function validate(value) {
-    if (!value || ![1, 2].includes(value.schemaVersion)) throw new Error("Unsupported project schema.");
+    if (!value || ![1, 2, 3].includes(value.schemaVersion)) throw new Error("Unsupported project schema.");
     value = { ...value };
     if (value.schemaVersion === 1) {
       value.schemaVersion = 2;
@@ -22,7 +22,14 @@
     }
     if (!Number.isFinite(value.offset) || Math.abs(value.offset) > 86400) throw new Error("Invalid timing offset.");
     if (!Array.isArray(value.blocks) || value.blocks.length > 10000) throw new Error("Invalid block list.");
-    if (!Array.isArray(value.sources) || value.sources.length > 100) throw new Error("Invalid sources.");
+    if (value.schemaVersion < 3) {
+      if (value.sources !== undefined) {
+        if (!Array.isArray(value.sources) || value.sources.length > 100) throw new Error("Invalid sources.");
+        value.source = value.sources.at(-1) ?? null;
+      }
+      value.schemaVersion = 3;
+    }
+    delete value.sources;
     const ids = new Set();
     for (const row of value.blocks) {
       if (!row || typeof row.id !== "string" || !row.id || ids.has(row.id)) throw new Error("Block IDs must be unique.");
@@ -39,8 +46,10 @@
         if (!/^[a-zA-Z]{2,8}(-[a-zA-Z0-9]{1,8})*$/.test(language) || typeof text !== "string" || text.length > 20000) throw new Error("Invalid translation entry.");
       }
     }
-    for (const source of value.sources) {
-      if (!source || typeof source.provider !== "string" || typeof source.url !== "string" || !/^https:\/\//.test(source.url)) throw new Error("Invalid source link.");
+    const source = value.source;
+    if (source !== null) {
+      if (!source || Array.isArray(source) || typeof source.provider !== "string" || typeof source.url !== "string" || !/^https:\/\//.test(source.url)) throw new Error("Invalid source link.");
+      value.source = { provider: source.provider, url: source.url };
     }
     return JSON.parse(JSON.stringify(value));
   }
