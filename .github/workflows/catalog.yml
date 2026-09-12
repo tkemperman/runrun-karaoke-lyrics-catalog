@@ -1,0 +1,39 @@
+name: Update lyrics catalog
+on:
+  push:
+    paths:
+      - 'translations/**'
+      - 'scripts/**'
+      - '.github/workflows/catalog.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: lyrics-catalog-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate and commit catalog
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4 5; do
+            git fetch origin "$GITHUB_REF_NAME"
+            git reset --hard FETCH_HEAD
+            node scripts/build-index.js
+            git add index.json
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m "Update lyrics catalog"
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then exit 0; fi
+          done
+          echo 'Branch kept changing; rerun this workflow.' >&2
+          exit 1
