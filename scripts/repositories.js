@@ -73,25 +73,26 @@
     if (project.videoId !== videoId) throw new Error('This project belongs to another video. Open its YouTube video before loading.');
     return project;
   }
-  function destination(source, value) {
+  function destination(source, value, videoTitle) {
     const project = cleanProject(value);
     if (!source.repo) throw new Error('Configure an upload repository in Settings first.');
     if (!/^[a-zA-Z]{2,8}(-[a-zA-Z0-9]{1,8})*$/.test(project.translationLanguage)) throw new Error('Choose a valid translation language before publishing.');
-    const file = `translations/${project.videoId}-${titleSlug(project.title)}/${project.translationLanguage}.json`;
+    if (typeof videoTitle !== 'string' || !videoTitle.trim() || videoTitle.length > 2000) throw new Error('Wait for the YouTube video title before publishing.');
+    const file = `translations/${titleSlug(videoTitle)}-${project.videoId}/${project.translationLanguage}.json`;
     return { project, file, url: `https://api.github.com/repos/${repository(source.repo)}/contents/${encodedPath(file)}` };
   }
   function auth(token) {
     if (!token) throw new Error('Save a GitHub token in Settings first.');
     return { Accept: 'application/vnd.github+json', Authorization: `Bearer ${token}`, 'X-GitHub-Api-Version': '2026-03-10' };
   }
-  async function inspect(source, token, value) {
-    const d = destination(source, value);
+  async function inspect(source, token, value, videoTitle) {
+    const d = destination(source, value, videoTitle);
     const existing = await json(`${d.url}?ref=${encodeURIComponent(source.branch)}`, { headers: auth(token) }, true);
     if (existing && (existing.type !== 'file' || !/^[a-f0-9]{40,64}$/.test(existing.sha))) throw new Error('Invalid upload destination.');
     return { file: d.file, sha: existing?.sha || null };
   }
-  async function publish(source, token, value, sha) {
-    const d = destination(source, value);
+  async function publish(source, token, value, sha, videoTitle) {
+    const d = destination(source, value, videoTitle);
     if (sha !== null && (typeof sha !== 'string' || !/^[a-f0-9]{40,64}$/.test(sha))) throw new Error('Check the upload destination again.');
     const text = JSON.stringify(d.project, null, 2) + '\n';
     const bytes = new TextEncoder().encode(text);
