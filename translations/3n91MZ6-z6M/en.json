@@ -1,0 +1,1013 @@
+{
+  "schemaVersion": 3,
+  "videoId": "3n91MZ6-z6M",
+  "title": "真夜中のドア/Stay With Me",
+  "artist": "Miki Matsubara",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": -12.4,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/35229708"
+  },
+  "blocks": [
+    {
+      "id": "9b3ab85b-89bb-476c-af44-7088de605f4b",
+      "text": "私は私 貴方は貴方と",
+      "start": 23.36,
+      "end": 32.29,
+      "translations": {
+        "en": "“I'm me, and you're you”—"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "貴方",
+          "あなた"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "貴方",
+          "あなた"
+        ],
+        [
+          "と",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "852fc98f-1818-4d60-8cc9-5afaa946ed3a",
+      "text": "昨夜言ってた そんな気もするわ",
+      "start": 32.29,
+      "end": 41.16,
+      "translations": {
+        "en": "I seem to remember saying that last night"
+      },
+      "furigana": [
+        [
+          "昨夜",
+          "ゆうべ"
+        ],
+        [
+          "言って",
+          "いって"
+        ],
+        [
+          "た そんな",
+          null
+        ],
+        [
+          "気",
+          "き"
+        ],
+        [
+          "もするわ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d4a9fbb1-d2f7-474d-a25e-247a094819d5",
+      "text": "グレイのジャケットに",
+      "start": 41.16,
+      "end": 44.49,
+      "translations": {
+        "en": "On your gray jacket"
+      }
+    },
+    {
+      "id": "17cae0ca-a225-4c7d-abc5-4d6d5ee94d4d",
+      "text": "見覚えがある コーヒーのしみ",
+      "start": 44.49,
+      "end": 49.78,
+      "translations": {
+        "en": "There's a coffee stain I recognize"
+      },
+      "furigana": [
+        [
+          "見覚えがある",
+          "みおぼえがある"
+        ],
+        [
+          " コーヒーのしみ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ea051118-3b58-446f-8018-f6412c8796a8",
+      "text": "相変らずなのね",
+      "start": 49.78,
+      "end": 53.65,
+      "translations": {
+        "en": "You haven't changed, have you?"
+      },
+      "furigana": [
+        [
+          "相変らず",
+          "あいかわらず"
+        ],
+        [
+          "なのね",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4653583f-5306-4d81-b5a6-8332fadf316a",
+      "text": "ショーウィンドウに 二人映れば",
+      "start": 53.65,
+      "end": 61.08,
+      "translations": {
+        "en": "When the two of us are reflected in a shop window"
+      },
+      "furigana": [
+        [
+          "ショーウィンドウに ",
+          null
+        ],
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "映れ",
+          "うつれ"
+        ],
+        [
+          "ば",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "75f8f0b5-fe82-48c6-9a96-eaf94756a7ec",
+      "text": "Stay with me",
+      "start": 61.08,
+      "end": 63.74,
+      "translations": {
+        "en": "Stay with me"
+      }
+    },
+    {
+      "id": "d74964e1-019a-4c00-822c-7b8977776e05",
+      "text": "真夜中のドアをたたき",
+      "start": 63.74,
+      "end": 68.12,
+      "translations": {
+        "en": "Knocking on the door at midnight"
+      },
+      "furigana": [
+        [
+          "真夜中",
+          "まよなか"
+        ],
+        [
+          "のドアをたたき",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d40bf641-19f3-4974-a614-4c104561e973",
+      "text": "帰らないでと泣いた",
+      "start": 68.12,
+      "end": 74.63,
+      "translations": {
+        "en": "I cried, begging you not to leave"
+      },
+      "furigana": [
+        [
+          "帰らない",
+          "かえらない"
+        ],
+        [
+          "でと",
+          null
+        ],
+        [
+          "泣いた",
+          "ないた"
+        ]
+      ]
+    },
+    {
+      "id": "fa16aefd-045b-4e61-ad30-25f4c6fcac8a",
+      "text": "あの季節が 今 目の前",
+      "start": 74.63,
+      "end": 78.59,
+      "translations": {
+        "en": "That season is right before my eyes now"
+      },
+      "furigana": [
+        [
+          "あの",
+          null
+        ],
+        [
+          "季節",
+          "きせつ"
+        ],
+        [
+          "が ",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "目の前",
+          "めのまえ"
+        ]
+      ]
+    },
+    {
+      "id": "f63b063e-ecf0-4b15-b7f2-aa6f6bc4f8c2",
+      "text": "Stay with me",
+      "start": 78.59,
+      "end": 81.48,
+      "translations": {
+        "en": "Stay with me"
+      }
+    },
+    {
+      "id": "8640c3fa-9d29-485a-9012-cfc2a6c57790",
+      "text": "口ぐせを言いながら",
+      "start": 81.48,
+      "end": 85.65,
+      "translations": {
+        "en": "Repeating those words I always said"
+      },
+      "furigana": [
+        [
+          "口ぐせ",
+          "くちぐせ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "言いながら",
+          "いいながら"
+        ]
+      ]
+    },
+    {
+      "id": "459c7eb1-624e-4a15-ac4e-4babd62d898d",
+      "text": "二人の瞬間を抱いて",
+      "start": 85.65,
+      "end": 92.27,
+      "translations": {
+        "en": "Holding close the moments we shared"
+      },
+      "furigana": [
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "瞬間",
+          "しゅんかん"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "抱いて",
+          "いだいて"
+        ]
+      ]
+    },
+    {
+      "id": "db56ea58-49d7-4998-9e71-6a6f904ef1b8",
+      "text": "まだ忘れず 大事にしていた",
+      "start": 92.27,
+      "end": 106.55,
+      "translations": {
+        "en": "I still hadn't forgotten them, still cherished them"
+      },
+      "furigana": [
+        [
+          "まだ",
+          null
+        ],
+        [
+          "忘れ",
+          "わすれ"
+        ],
+        [
+          "ず ",
+          null
+        ],
+        [
+          "大事",
+          "だいじ"
+        ],
+        [
+          "にしていた",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "afb973b6-8573-4156-a35c-6d23769094e1",
+      "text": "恋と愛とは 違うものだよと",
+      "start": 106.55,
+      "end": 114.95,
+      "translations": {
+        "en": "“Being in love and loving someone are different”—"
+      },
+      "furigana": [
+        [
+          "恋",
+          "こい"
+        ],
+        [
+          "と",
+          null
+        ],
+        [
+          "愛",
+          "あい"
+        ],
+        [
+          "とは ",
+          null
+        ],
+        [
+          "違う",
+          "ちがう"
+        ],
+        [
+          "ものだよと",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e7d135b2-e386-4387-bb73-bb9495991c76",
+      "text": "昨夜言われた そんな気もするわ",
+      "start": 114.95,
+      "end": 124.11,
+      "translations": {
+        "en": "I seem to remember you telling me that last night"
+      },
+      "furigana": [
+        [
+          "昨夜",
+          "ゆうべ"
+        ],
+        [
+          "言",
+          "げん"
+        ],
+        [
+          "われた そんな",
+          null
+        ],
+        [
+          "気",
+          "き"
+        ],
+        [
+          "もするわ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7fd071a5-1262-4499-88d4-194d48260153",
+      "text": "二度目の冬が来て",
+      "start": 124.11,
+      "end": 127.77,
+      "translations": {
+        "en": "Our second winter came"
+      },
+      "furigana": [
+        [
+          "二度目",
+          "にどめ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "冬",
+          "ふゆ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "来て",
+          "きて"
+        ]
+      ]
+    },
+    {
+      "id": "bf7e70cf-3bee-4e3e-86ac-2b4f350f3748",
+      "text": "離れていった貴方の心",
+      "start": 127.77,
+      "end": 133.42,
+      "translations": {
+        "en": "And your heart drifted away"
+      },
+      "furigana": [
+        [
+          "離れて",
+          "はなれて"
+        ],
+        [
+          "いった",
+          null
+        ],
+        [
+          "貴方",
+          "あなた"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ]
+      ]
+    },
+    {
+      "id": "c34e437c-0134-43e0-9121-175f68a6db4c",
+      "text": "ふり返ればいつも",
+      "start": 133.42,
+      "end": 136.68,
+      "translations": {
+        "en": "Whenever I looked back"
+      },
+      "furigana": [
+        [
+          "ふり返れ",
+          "ふりかえれ"
+        ],
+        [
+          "ばいつも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "273f3c9f-6e62-47d9-b813-8aac740fb35f",
+      "text": "そこに 貴方を感じていたの",
+      "start": 136.68,
+      "end": 144.04,
+      "translations": {
+        "en": "I always felt you there"
+      },
+      "furigana": [
+        [
+          "そこに ",
+          null
+        ],
+        [
+          "貴方",
+          "あなた"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "感じて",
+          "かんじて"
+        ],
+        [
+          "いたの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7031095e-f12f-4370-a267-683ea20dfe75",
+      "text": "Stay with me",
+      "start": 144.04,
+      "end": 147.09,
+      "translations": {
+        "en": "Stay with me"
+      }
+    },
+    {
+      "id": "c87d5c87-0fef-42f1-a6fb-7f746f2ca045",
+      "text": "真夜中のドアをたたき",
+      "start": 147.09,
+      "end": 151.51,
+      "translations": {
+        "en": "Knocking on the door at midnight"
+      },
+      "furigana": [
+        [
+          "真夜中",
+          "まよなか"
+        ],
+        [
+          "のドアをたたき",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4975ca13-7bf7-4ed8-8842-d9ac349151fb",
+      "text": "心に穴があいた",
+      "start": 151.51,
+      "end": 157.84,
+      "translations": {
+        "en": "A hole opened in my heart"
+      },
+      "furigana": [
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "穴",
+          "あな"
+        ],
+        [
+          "があいた",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1c1ce503-fe52-4744-9561-ea5a953d426b",
+      "text": "あの季節が 今 目の前",
+      "start": 157.84,
+      "end": 162.22,
+      "translations": {
+        "en": "That season is right before my eyes now"
+      },
+      "furigana": [
+        [
+          "あの",
+          null
+        ],
+        [
+          "季節",
+          "きせつ"
+        ],
+        [
+          "が ",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "目の前",
+          "めのまえ"
+        ]
+      ]
+    },
+    {
+      "id": "aafd2ea3-283e-4f67-bd11-ef3ad541c9b5",
+      "text": "Stay with me",
+      "start": 162.22,
+      "end": 164.91,
+      "translations": {
+        "en": "Stay with me"
+      }
+    },
+    {
+      "id": "869e2348-cace-400e-a09f-1c6c6ae45c25",
+      "text": "淋しさまぎらわして",
+      "start": 164.91,
+      "end": 169.36,
+      "translations": {
+        "en": "To ease my loneliness"
+      },
+      "furigana": [
+        [
+          "淋",
+          "そそぎ"
+        ],
+        [
+          "しさまぎらわして",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d601b632-deee-4e47-95e1-745cc39ed6c6",
+      "text": "置いたレコードの針",
+      "start": 169.36,
+      "end": 175.26,
+      "translations": {
+        "en": "I set the needle on a record"
+      },
+      "furigana": [
+        [
+          "置いた",
+          "おいた"
+        ],
+        [
+          "レコードの",
+          null
+        ],
+        [
+          "針",
+          "はり"
+        ]
+      ]
+    },
+    {
+      "id": "f01af1b6-9788-4166-a48c-ef6f00a83f8b",
+      "text": "同じメロディ 繰り返していた",
+      "start": 175.26,
+      "end": 202.16,
+      "translations": {
+        "en": "And the same melody kept repeating"
+      },
+      "furigana": [
+        [
+          "同じ",
+          "おなじ"
+        ],
+        [
+          "メロディ ",
+          null
+        ],
+        [
+          "繰り返して",
+          "くりかえして"
+        ],
+        [
+          "いた",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "daf11d60-0bea-4b62-af4b-e5bc2f8cbb18",
+      "text": "Stay with me",
+      "start": 202.16,
+      "end": 204.81,
+      "translations": {
+        "en": "Stay with me"
+      }
+    },
+    {
+      "id": "4ad4a2b0-fea3-4704-b5f5-eb6a32dbc2b8",
+      "text": "真夜中のドアをたたき",
+      "start": 204.81,
+      "end": 209.08,
+      "translations": {
+        "en": "Knocking on the door at midnight"
+      },
+      "furigana": [
+        [
+          "真夜中",
+          "まよなか"
+        ],
+        [
+          "のドアをたたき",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8a3e4374-f5b4-4f54-a9d8-12efb8cd1978",
+      "text": "帰らないでと泣いた",
+      "start": 209.08,
+      "end": 215.63,
+      "translations": {
+        "en": "I cried, begging you not to leave"
+      },
+      "furigana": [
+        [
+          "帰らない",
+          "かえらない"
+        ],
+        [
+          "でと",
+          null
+        ],
+        [
+          "泣いた",
+          "ないた"
+        ]
+      ]
+    },
+    {
+      "id": "0bf4adbf-8058-4be9-854a-ef7e6b7c86d4",
+      "text": "あの季節が 今 目の前",
+      "start": 215.63,
+      "end": 220.09,
+      "translations": {
+        "en": "That season is right before my eyes now"
+      },
+      "furigana": [
+        [
+          "あの",
+          null
+        ],
+        [
+          "季節",
+          "きせつ"
+        ],
+        [
+          "が ",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "目の前",
+          "めのまえ"
+        ]
+      ]
+    },
+    {
+      "id": "712f56b6-be67-437d-9407-98b3f19a75ba",
+      "text": "Stay with me",
+      "start": 220.09,
+      "end": 222.74,
+      "translations": {
+        "en": "Stay with me"
+      }
+    },
+    {
+      "id": "70e16be9-a235-43f9-ad0b-346ed2294b53",
+      "text": "口ぐせを言いながら",
+      "start": 222.74,
+      "end": 226.83,
+      "translations": {
+        "en": "Repeating those words I always said"
+      },
+      "furigana": [
+        [
+          "口ぐせ",
+          "くちぐせ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "言いながら",
+          "いいながら"
+        ]
+      ]
+    },
+    {
+      "id": "67817990-d90c-4d6c-914c-75cc8529d3a0",
+      "text": "二人の瞬間を抱いて hu-woah",
+      "start": 226.83,
+      "end": 233.48,
+      "translations": {
+        "en": "Holding close the moments we shared, hu-woah"
+      },
+      "furigana": [
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "瞬間",
+          "しゅんかん"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "抱いて",
+          "いだいて"
+        ],
+        [
+          " hu-woah",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "81b2f130-19b3-466a-b742-1bf40f12d4da",
+      "text": "まだ忘れず 暖めてた",
+      "start": 233.48,
+      "end": 237.89,
+      "translations": {
+        "en": "I still hadn't forgotten them, still kept them warm"
+      },
+      "furigana": [
+        [
+          "まだ",
+          null
+        ],
+        [
+          "忘れ",
+          "わすれ"
+        ],
+        [
+          "ず ",
+          null
+        ],
+        [
+          "暖めて",
+          "あたためて"
+        ],
+        [
+          "た",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b5a0bdda-9ccc-4152-a576-9858df06edb0",
+      "text": "Stay with me",
+      "start": 237.89,
+      "end": 240.2,
+      "translations": {
+        "en": "Stay with me"
+      }
+    },
+    {
+      "id": "96a9553f-d212-422b-a928-2966f6a11dc7",
+      "text": "真夜中のドアをたたき",
+      "start": 240.2,
+      "end": 244.41,
+      "translations": {
+        "en": "Knocking on the door at midnight"
+      },
+      "furigana": [
+        [
+          "真夜中",
+          "まよなか"
+        ],
+        [
+          "のドアをたたき",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a4409e3f-6ce9-4d6a-a0d4-0e8924e13761",
+      "text": "帰らないでと泣いた",
+      "start": 244.41,
+      "end": 251.03,
+      "translations": {
+        "en": "I cried, begging you not to leave"
+      },
+      "furigana": [
+        [
+          "帰らない",
+          "かえらない"
+        ],
+        [
+          "でと",
+          null
+        ],
+        [
+          "泣いた",
+          "ないた"
+        ]
+      ]
+    },
+    {
+      "id": "95ff7648-e361-42b0-99e7-1e74905f7d54",
+      "text": "(あの季節が 今 目の前)",
+      "start": 251.03,
+      "end": 255.42,
+      "translations": {
+        "en": "(That season is right before my eyes now)"
+      },
+      "furigana": [
+        [
+          "(あの",
+          null
+        ],
+        [
+          "季節",
+          "きせつ"
+        ],
+        [
+          "が ",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "目の前",
+          "めのまえ"
+        ],
+        [
+          ")",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b5a0763d-a585-482a-b047-0a58ed7f42f8",
+      "text": "(Stay with me)",
+      "start": 255.42,
+      "end": 268.8,
+      "translations": {
+        "en": "(Stay with me)"
+      }
+    },
+    {
+      "id": "b673bbd4-80d7-44c5-a25a-aa8a41628e41",
+      "text": "(まだ忘れず 大事にしていた)",
+      "start": 268.8,
+      "end": 272.79,
+      "translations": {
+        "en": "(I still hadn't forgotten them, still cherished them)"
+      },
+      "furigana": [
+        [
+          "(まだ",
+          null
+        ],
+        [
+          "忘れ",
+          "わすれ"
+        ],
+        [
+          "ず ",
+          null
+        ],
+        [
+          "大事",
+          "だいじ"
+        ],
+        [
+          "にしていた)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6873d756-f64f-45d9-a0e0-8a039450f97e",
+      "text": "",
+      "start": 272.79,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
