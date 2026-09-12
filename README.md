@@ -38,3 +38,5 @@ Project files use the add-on's JSON export schema (1 imports migrate to 2). Keep
 Generate locally with `node scripts/build-index.js` (Node 22 or newer). Paths must stay within `translations/`; files and catalog must not exceed 3 MB. This template contains no lyrics. Choose appropriate terms for the content you add; the add-on's code license does not automatically license song lyrics.
 
 Folder titles come from the YouTube video, not the lyric/translation title, and precede the video ID for alphabetical sorting. They use lowercase Unicode letters and numbers, preserving Japanese; whitespace and punctuation become single hyphens. Matching and loading use the exact YouTube video ID regardless of title changes.
+
+Project JSON includes `videoUrl`, derived from `videoId`, and `videoTitle`, the full original YouTube title with punctuation and case preserved. The lyric `title` remains separate; only folder names are sanitized.

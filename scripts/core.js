@@ -6,7 +6,7 @@
     return { id: id(), start, end, text, translations: {} };
   }
   function project(videoId, title = "") {
-    return { schemaVersion: 3, furiganaEnabled: false, videoId, title, artist: "", originalLanguage: "ja", translationLanguage: "en", offset: 0, source: null, blocks: [] };
+    return { schemaVersion: 3, furiganaEnabled: false, videoId, videoUrl: `https://www.youtube.com/watch?v=${videoId}`, videoTitle: title, title, artist: "", originalLanguage: "ja", translationLanguage: "en", offset: 0, source: null, blocks: [] };
   }
   function validate(value) {
     if (!value || ![1, 2, 3].includes(value.schemaVersion)) throw new Error("Unsupported project schema.");
@@ -17,7 +17,10 @@
     }
     if (typeof value.furiganaEnabled !== "boolean") throw new Error("Invalid furigana visibility.");
     if (!/^[\w-]{11}$/.test(value.videoId)) throw new Error("Invalid YouTube video ID.");
-    for (const key of ["title", "artist", "originalLanguage", "translationLanguage"]) {
+    // The video ID is authoritative, including when importing older projects.
+    value.videoUrl = `https://www.youtube.com/watch?v=${value.videoId}`;
+    if (value.videoTitle === undefined) value.videoTitle = "";
+    for (const key of ["videoTitle", "title", "artist", "originalLanguage", "translationLanguage"]) {
       if (typeof value[key] !== "string" || value[key].length > 2000) throw new Error(`Invalid ${key}.`);
     }
     if (!Number.isFinite(value.offset) || Math.abs(value.offset) > 86400) throw new Error("Invalid timing offset.");

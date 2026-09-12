@@ -36,7 +36,7 @@
   function cleanProject(value) {
     const p = C.validate(value);
     // Export only protocol fields, never arbitrary imported metadata or settings.
-    return { schemaVersion: p.schemaVersion, videoId: p.videoId, title: p.title, artist: p.artist, originalLanguage: p.originalLanguage, translationLanguage: p.translationLanguage, offset: p.offset, furiganaEnabled: p.furiganaEnabled,
+    return { schemaVersion: p.schemaVersion, videoId: p.videoId, videoUrl: p.videoUrl, videoTitle: p.videoTitle, title: p.title, artist: p.artist, originalLanguage: p.originalLanguage, translationLanguage: p.translationLanguage, offset: p.offset, furiganaEnabled: p.furiganaEnabled,
       source: p.source,
       blocks: p.blocks.map(b => ({ id: b.id, text: b.text, start: b.start, end: b.end, translations: b.translations, ...(b.furigana ? { furigana: b.furigana } : {}) })) };
   }
@@ -78,6 +78,7 @@
     if (!source.repo) throw new Error('Configure an upload repository in Settings first.');
     if (!/^[a-zA-Z]{2,8}(-[a-zA-Z0-9]{1,8})*$/.test(project.translationLanguage)) throw new Error('Choose a valid translation language before publishing.');
     if (typeof videoTitle !== 'string' || !videoTitle.trim() || videoTitle.length > 2000) throw new Error('Wait for the YouTube video title before publishing.');
+    project.videoTitle = videoTitle;
     const file = `translations/${titleSlug(videoTitle)}-${project.videoId}/${project.translationLanguage}.json`;
     return { project, file, url: `https://api.github.com/repos/${repository(source.repo)}/contents/${encodedPath(file)}` };
   }
