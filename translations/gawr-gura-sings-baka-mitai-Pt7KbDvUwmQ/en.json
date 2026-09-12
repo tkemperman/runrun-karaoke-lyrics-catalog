@@ -1,0 +1,763 @@
+{
+  "schemaVersion": 3,
+  "videoId": "Pt7KbDvUwmQ",
+  "title": "ばかみたい",
+  "artist": "冴島大河(小山力也)",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/33111682"
+  },
+  "blocks": [
+    {
+      "id": "0dc679f3-8716-4afc-a137-56b0d45afd2f",
+      "text": "馬鹿みたい 子供なのね",
+      "start": 14.32,
+      "end": 20.74,
+      "translations": {
+        "en": "Such a fool, such a child"
+      },
+      "furigana": [
+        [
+          "馬鹿みたい",
+          "ばかみたい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "子供",
+          "こども"
+        ],
+        [
+          "なのね",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "074dc40f-1f18-4679-ab41-33695861222b",
+      "text": "夢を追って傷ついて",
+      "start": 20.74,
+      "end": 27.28,
+      "translations": {
+        "en": "Chasing dreams and getting hurt"
+      },
+      "furigana": [
+        [
+          "夢",
+          "ゆめ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "追って",
+          "おって"
+        ],
+        [
+          "傷ついて",
+          "きずついて"
+        ]
+      ]
+    },
+    {
+      "id": "5582298c-9ad9-406a-adea-c260dec67f8c",
+      "text": "嘘が下手なくせに",
+      "start": 27.28,
+      "end": 33.74,
+      "translations": {
+        "en": "So bad at lying, and yet"
+      },
+      "furigana": [
+        [
+          "嘘",
+          "うそ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "下手",
+          "したて"
+        ],
+        [
+          "なくせに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4c2bbe07-7111-4eaf-a9ab-9326e51de10e",
+      "text": "笑えない笑顔みせた",
+      "start": 33.74,
+      "end": 40.88,
+      "translations": {
+        "en": "Putting on a smile without any joy"
+      },
+      "furigana": [
+        [
+          "笑えない",
+          "わらえない"
+        ],
+        [
+          "笑顔",
+          "えがお"
+        ],
+        [
+          "みせた",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d81e9229-1bc3-48fe-956c-bd5c183462b3",
+      "text": "I love youも ろくに言わない",
+      "start": 40.88,
+      "end": 47.14,
+      "translations": {
+        "en": "You could barely even say “I love you”"
+      },
+      "furigana": [
+        [
+          "I love youも ろくに",
+          null
+        ],
+        [
+          "言わない",
+          "いわない"
+        ]
+      ]
+    },
+    {
+      "id": "abf8afb0-fe54-4ade-b9b0-fc70edf43991",
+      "text": "口下手でほんまに不器用",
+      "start": 47.14,
+      "end": 53.64,
+      "translations": {
+        "en": "Bad with words and truly awkward"
+      },
+      "furigana": [
+        [
+          "口下手",
+          "くちべた"
+        ],
+        [
+          "でほんまに",
+          null
+        ],
+        [
+          "不器用",
+          "ぶきよう"
+        ]
+      ]
+    },
+    {
+      "id": "205300de-4808-4bf1-afa3-e39617ad8e5e",
+      "text": "なのになのにどうして",
+      "start": 53.64,
+      "end": 59.69,
+      "translations": {
+        "en": "And yet, and yet, how come"
+      }
+    },
+    {
+      "id": "573dbeae-a874-4f17-b5b5-69168a4b8ee5",
+      "text": "サヨナラは言えたの",
+      "start": 59.69,
+      "end": 65.69,
+      "translations": {
+        "en": "You managed to say goodbye?"
+      },
+      "furigana": [
+        [
+          "サヨナラは",
+          null
+        ],
+        [
+          "言えた",
+          "いえた"
+        ],
+        [
+          "の",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "052651b4-d4e6-4139-a9e5-0f8036fed5b1",
+      "text": "だめだね だめよ だめなのよ",
+      "start": 65.69,
+      "end": 72.15,
+      "translations": {
+        "en": "It's no use, no use, it's no use"
+      }
+    },
+    {
+      "id": "b0c4895d-a51e-4dce-b286-3e7cf3ba7b2b",
+      "text": "あんたが 好きで好きすぎて",
+      "start": 72.15,
+      "end": 78.85,
+      "translations": {
+        "en": "I love you, I love you far too much"
+      },
+      "furigana": [
+        [
+          "あんたが ",
+          null
+        ],
+        [
+          "好き",
+          "すき"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "好きすぎて",
+          "すきすぎて"
+        ]
+      ]
+    },
+    {
+      "id": "ce826ccd-3efd-41c7-ab3f-1bd19b81b879",
+      "text": "どれだけ 強いお酒でも",
+      "start": 78.85,
+      "end": 85.61,
+      "translations": {
+        "en": "No matter how strong the liquor"
+      },
+      "furigana": [
+        [
+          "どれだけ ",
+          null
+        ],
+        [
+          "強い",
+          "つよい"
+        ],
+        [
+          "お酒",
+          "おさけ"
+        ],
+        [
+          "でも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d34d0baa-c298-4477-a0de-bcee378f6bf1",
+      "text": "歪まない思い出が 馬鹿みたい",
+      "start": 85.61,
+      "end": 94.62,
+      "translations": {
+        "en": "These memories won't blur—what a fool I am"
+      },
+      "furigana": [
+        [
+          "歪まない",
+          "ゆがまない"
+        ],
+        [
+          "思い出",
+          "おもいで"
+        ],
+        [
+          "が ",
+          null
+        ],
+        [
+          "馬鹿みたい",
+          "ばかみたい"
+        ]
+      ]
+    },
+    {
+      "id": "2389a22a-aaf3-4883-b910-602363e49949",
+      "text": "",
+      "start": 94.62,
+      "end": 108.33,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "52b796fa-8558-4b3d-953b-0c9a09f9ed3f",
+      "text": "馬鹿みたい 本当バカね",
+      "start": 108.33,
+      "end": 114.86,
+      "translations": {
+        "en": "Such a fool, I'm truly a fool"
+      },
+      "furigana": [
+        [
+          "馬鹿みたい",
+          "ばかみたい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "本当",
+          "ほんとう"
+        ],
+        [
+          "バカね",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ccb62176-090e-4b3d-b0f8-6d95808dc383",
+      "text": "あんた信じるばかりで",
+      "start": 114.86,
+      "end": 121.35,
+      "translations": {
+        "en": "All I ever did was believe in you"
+      },
+      "furigana": [
+        [
+          "あんた",
+          null
+        ],
+        [
+          "信じる",
+          "しんじる"
+        ],
+        [
+          "ばかりで",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "37536f1a-ef8f-4eb5-84ef-c3a79cf217b7",
+      "text": "強い女のふり",
+      "start": 121.35,
+      "end": 127.75,
+      "translations": {
+        "en": "Pretending to be a strong woman"
+      },
+      "furigana": [
+        [
+          "強い",
+          "つよい"
+        ],
+        [
+          "女",
+          "おんな"
+        ],
+        [
+          "のふり",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c5d5ef2a-a860-4d81-a09c-7b53ef873ab3",
+      "text": "切なさの夜風浴びる",
+      "start": 127.75,
+      "end": 134.6,
+      "translations": {
+        "en": "I bathe in the sorrowful night breeze"
+      },
+      "furigana": [
+        [
+          "切",
+          "きり"
+        ],
+        [
+          "なさの",
+          null
+        ],
+        [
+          "夜風",
+          "よかぜ"
+        ],
+        [
+          "浴びる",
+          "あびる"
+        ]
+      ]
+    },
+    {
+      "id": "530aadcf-c9c7-4e6a-a119-41e5ef81f94d",
+      "text": "一人になって ３年が過ぎ",
+      "start": 134.6,
+      "end": 141.26,
+      "translations": {
+        "en": "Three years have passed since I've been on my own"
+      },
+      "furigana": [
+        [
+          "一人",
+          "ひとり"
+        ],
+        [
+          "になって ",
+          null
+        ],
+        [
+          "３年",
+          "さんねん"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "過ぎ",
+          "すぎ"
+        ]
+      ]
+    },
+    {
+      "id": "bd9f19d5-234d-476b-abd6-b69ca16b9df0",
+      "text": "街並みさえも 変わりました",
+      "start": 141.26,
+      "end": 147.8,
+      "translations": {
+        "en": "Even the streets have changed"
+      },
+      "furigana": [
+        [
+          "街並み",
+          "まちなみ"
+        ],
+        [
+          "さえも ",
+          null
+        ],
+        [
+          "変わりました",
+          "かわりました"
+        ]
+      ]
+    },
+    {
+      "id": "77baec1b-deb2-47c7-a3e7-0d90ea311e5f",
+      "text": "なのになのにどうして",
+      "start": 147.8,
+      "end": 153.99,
+      "translations": {
+        "en": "And yet, and yet, how come"
+      }
+    },
+    {
+      "id": "8e99f5d8-b1a8-41c3-bbf3-399e859cb80e",
+      "text": "未練だけ置き去り",
+      "start": 153.99,
+      "end": 159.77,
+      "translations": {
+        "en": "Only my lingering love is left behind?"
+      },
+      "furigana": [
+        [
+          "未練",
+          "みれん"
+        ],
+        [
+          "だけ",
+          null
+        ],
+        [
+          "置き去り",
+          "おきざり"
+        ]
+      ]
+    },
+    {
+      "id": "957bb0b5-9b62-40f1-ac06-489444ee6a52",
+      "text": "ほんまに ロクな男やない",
+      "start": 159.77,
+      "end": 166.28,
+      "translations": {
+        "en": "You're truly a no-good man"
+      },
+      "furigana": [
+        [
+          "ほんまに ロクな",
+          null
+        ],
+        [
+          "男",
+          "おとこ"
+        ],
+        [
+          "やない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d4949d5f-7602-4784-a139-594aa4b2d733",
+      "text": "揃いの指輪 はずします",
+      "start": 166.28,
+      "end": 172.77,
+      "translations": {
+        "en": "I'm taking off the ring that matches yours"
+      },
+      "furigana": [
+        [
+          "揃い",
+          "そろい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "指輪",
+          "ゆびわ"
+        ],
+        [
+          " はずします",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4246776c-b6c7-4fa5-bc2f-cd2a5784525c",
+      "text": "ざまあみろ せいせいするわ",
+      "start": 172.77,
+      "end": 179.62,
+      "translations": {
+        "en": "Serves you right—what a relief"
+      }
+    },
+    {
+      "id": "2ca595ee-61ff-4e4b-966c-74fed8237809",
+      "text": "いい加減 待ってても 馬鹿みたい",
+      "start": 179.62,
+      "end": 188.17,
+      "translations": {
+        "en": "Enough already—I'm a fool to keep waiting"
+      },
+      "furigana": [
+        [
+          "いい加減",
+          "いいかげん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "待って",
+          "まって"
+        ],
+        [
+          "ても ",
+          null
+        ],
+        [
+          "馬鹿みたい",
+          "ばかみたい"
+        ]
+      ]
+    },
+    {
+      "id": "bb28c08b-50cc-457c-9dfd-4b261acd03fa",
+      "text": "",
+      "start": 188.17,
+      "end": 208.72,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "ece84371-3a4d-4fa4-b998-be90c6133d35",
+      "text": "だめだね だめよ だめなのよ",
+      "start": 208.72,
+      "end": 215.17,
+      "translations": {
+        "en": "It's no use, no use, it's no use"
+      }
+    },
+    {
+      "id": "0b96526a-9ebe-4f5c-9a33-ac10974c19ff",
+      "text": "あんたが 好きで好きすぎて",
+      "start": 215.17,
+      "end": 221.26,
+      "translations": {
+        "en": "I love you, I love you far too much"
+      },
+      "furigana": [
+        [
+          "あんたが ",
+          null
+        ],
+        [
+          "好き",
+          "すき"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "好きすぎて",
+          "すきすぎて"
+        ]
+      ]
+    },
+    {
+      "id": "b0ec62fb-62d5-4eff-b4a3-c4aa21153e4b",
+      "text": "どれだけ 強いお酒でも",
+      "start": 221.26,
+      "end": 228.44,
+      "translations": {
+        "en": "No matter how strong the liquor"
+      },
+      "furigana": [
+        [
+          "どれだけ ",
+          null
+        ],
+        [
+          "強い",
+          "つよい"
+        ],
+        [
+          "お酒",
+          "おさけ"
+        ],
+        [
+          "でも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2dda7c38-89f7-4685-ab36-ef9ae7bc84ba",
+      "text": "歪まない思い出が 馬鹿みたい",
+      "start": 228.44,
+      "end": 237.76,
+      "translations": {
+        "en": "These memories won't blur—what a fool I am"
+      },
+      "furigana": [
+        [
+          "歪まない",
+          "ゆがまない"
+        ],
+        [
+          "思い出",
+          "おもいで"
+        ],
+        [
+          "が ",
+          null
+        ],
+        [
+          "馬鹿みたい",
+          "ばかみたい"
+        ]
+      ]
+    },
+    {
+      "id": "ae89c10b-6714-4b50-9b51-373d714fcf6e",
+      "text": "ほんまに ロクな男やない",
+      "start": 237.76,
+      "end": 244.01,
+      "translations": {
+        "en": "You're truly a no-good man"
+      },
+      "furigana": [
+        [
+          "ほんまに ロクな",
+          null
+        ],
+        [
+          "男",
+          "おとこ"
+        ],
+        [
+          "やない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "891bbede-438f-4f90-98b4-40ca6c2950c6",
+      "text": "揃いの指輪 はずします",
+      "start": 244.01,
+      "end": 250.36,
+      "translations": {
+        "en": "I'm taking off the ring that matches yours"
+      },
+      "furigana": [
+        [
+          "揃い",
+          "そろい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "指輪",
+          "ゆびわ"
+        ],
+        [
+          " はずします",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "847ee537-eae9-49d6-bff6-6edfcb53e543",
+      "text": "ざまあみろ せいせいするわ",
+      "start": 250.36,
+      "end": 257.78,
+      "translations": {
+        "en": "Serves you right—what a relief"
+      }
+    },
+    {
+      "id": "9818d353-5b62-4bd0-8f4e-2ebad4c12ede",
+      "text": "なんなのよ この涙 馬鹿みたい",
+      "start": 257.78,
+      "end": 264.19,
+      "translations": {
+        "en": "Then what's with these tears? What a fool I am"
+      },
+      "furigana": [
+        [
+          "なんなのよ この",
+          null
+        ],
+        [
+          "涙",
+          "なみだ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "馬鹿みたい",
+          "ばかみたい"
+        ]
+      ]
+    },
+    {
+      "id": "8ba73fd1-ed36-4a78-9bfc-18c749a35b7b",
+      "text": "",
+      "start": 264.19,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
