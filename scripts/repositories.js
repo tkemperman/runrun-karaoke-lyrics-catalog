@@ -19,9 +19,20 @@
     return result;
   }
   function path(value) {
-    if (typeof value !== 'string' || !/^translations\/(?:[A-Za-z0-9_-]+\/)*[A-Za-z0-9_.-]+\.json$/.test(value) || value.includes('..')) throw new Error('Invalid catalog file path.');
+    if (typeof value !== 'string' || !/^translations\/(?:[\p{L}\p{M}\p{N}_-]+\/)*[\p{L}\p{M}\p{N}_.-]+\.json$/u.test(value) || value.includes('..')) throw new Error('Invalid catalog file path.');
     return value;
   }
+  function titleSlug(title) {
+    const slug = title.normalize('NFC').toLowerCase().replace(/\s+/gu, '-').replace(/[^\p{L}\p{M}\p{N}-]/gu, '').replace(/-+/g, '-').replace(/^-|-$/g, '');
+    // Leave room for the video ID within a filesystem's 255-byte component limit.
+    let result = '';
+    for (const character of slug) {
+      if (new TextEncoder().encode(result + character).length > 220) break;
+      result += character;
+    }
+    return result.replace(/-$/g, '') || 'untitled';
+  }
+  function encodedPath(file) { return file.split('/').map(encodeURIComponent).join('/'); }
   function cleanProject(value) {
     const p = C.validate(value);
     // Export only protocol fields, never arbitrary imported metadata or settings.
@@ -54,7 +65,7 @@
   }
   function raw(source, file) {
     if (!source.repo) throw new Error('Configure a retrieval repository in Settings first.');
-    return `https://raw.githubusercontent.com/${repository(source.repo)}/${encodeURIComponent(source.branch)}/${file}`;
+    return `https://raw.githubusercontent.com/${repository(source.repo)}/${encodeURIComponent(source.branch)}/${encodedPath(file)}`;
   }
   async function catalog(source) { return index(await json(raw(source, 'index.json'))); }
   async function retrieve(source, file, videoId) {
@@ -66,8 +77,8 @@
     const project = cleanProject(value);
     if (!source.repo) throw new Error('Configure an upload repository in Settings first.');
     if (!/^[a-zA-Z]{2,8}(-[a-zA-Z0-9]{1,8})*$/.test(project.translationLanguage)) throw new Error('Choose a valid translation language before publishing.');
-    const file = `translations/${project.videoId}/${project.translationLanguage}.json`;
-    return { project, file, url: `https://api.github.com/repos/${repository(source.repo)}/contents/${file}` };
+    const file = `translations/${project.videoId}-${titleSlug(project.title)}/${project.translationLanguage}.json`;
+    return { project, file, url: `https://api.github.com/repos/${repository(source.repo)}/contents/${encodedPath(file)}` };
   }
   function auth(token) {
     if (!token) throw new Error('Save a GitHub token in Settings first.');
@@ -89,7 +100,7 @@
     await json(d.url, { method: 'PUT', headers: { ...auth(token), 'Content-Type': 'application/json' }, body: JSON.stringify({ message: `Publish karaoke: ${d.project.videoId} (${d.project.translationLanguage})`, content: btoa(binary), branch: source.branch, ...(sha ? { sha } : {}) }) });
     return { file: d.file };
   }
-  const api = { repository, settings, path, cleanProject, entry, index, catalog, retrieve, inspect, publish };
+  const api = { repository, settings, path, titleSlug, cleanProject, entry, index, catalog, retrieve, inspect, publish };
   root.KaraokeRepositories = api;
   if (typeof module !== 'undefined') module.exports = api;
 })(globalThis);

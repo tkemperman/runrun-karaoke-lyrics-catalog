@@ -11,7 +11,7 @@ In ルンルンKARAOKE Settings, set the retrieval repository and branch. For up
 
 In the YouTube lyrics editor, open **Lyrics repositories · GitHub**. **Search repository** fetches `index.json`, initially showing projects for the current video. A title, artist or video ID filter searches the entire catalog. Loading requires the matching YouTube video and confirms replacement of existing work. There is no background polling or automatic replacement.
 
-**Publish project to GitHub** confirms the exact repository, branch and filename before uploading the complete schema 2 project. Files use `translations/VIDEO_ID/LANGUAGE.json`: one project per video and selected translation language, containing all translation languages present in that project. Re-publishing updates that file. Concurrent changes cause an error; check and publish again. Other contributors need write access and their own token; this version does not create forks or pull requests.
+**Publish project to GitHub** confirms the exact repository, branch and filename before uploading the complete schema 3 project. Files use `translations/VIDEO_ID-SANITIZED_TITLE/LANGUAGE.json`: one project per video and selected translation language, containing all translation languages present in that project. Re-publishing updates that file. Concurrent changes cause an error; check and publish again. Other contributors need write access and their own token; this version does not create forks or pull requests.
 
 A push to `translations/` triggers the included Action, which validates every project and regenerates `index.json`. Allow the Action to finish and raw GitHub caches to refresh before searching again. Failed validation leaves the previous index intact; inspect the workflow logs, fix the file, and rerun. Protected branches or read-only workflow permissions can prevent index commits. The Action never publishes lyrics by itself.
 
@@ -36,3 +36,5 @@ Project files use the add-on's JSON export schema (1 imports migrate to 2). Keep
 ```
 
 Generate locally with `node scripts/build-index.js` (Node 22 or newer). Paths must stay within `translations/`; files and catalog must not exceed 3 MB. This template contains no lyrics. Choose appropriate terms for the content you add; the add-on's code license does not automatically license song lyrics.
+
+Folder titles use lowercase Unicode letters and numbers, preserving Japanese; whitespace becomes a single hyphen and punctuation is removed. Matching and loading use the exact YouTube video ID regardless of title changes.
