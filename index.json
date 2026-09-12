@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "file": "translations/fuwamoco-x-senchou-sing-ahoy-h3chCOV_phw/en.json",
+      "videoId": "h3chCOV_phw",
+      "title": "Ahoy!! 我ら宝鐘海賊団☆",
+      "artist": "宝鐘マリン",
+      "originalLanguage": "ja",
+      "translationLanguage": "en"
+    },
+    {
       "file": "translations/gawr-gura-sings-baka-mitai-Pt7KbDvUwmQ/en.json",
       "videoId": "Pt7KbDvUwmQ",
       "title": "ばかみたい",
