@@ -1,0 +1,832 @@
+{
+  "schemaVersion": 2,
+  "videoId": "G3xEh7dHg68",
+  "title": "バラライカ (第27話〜51話 OP)",
+  "artist": "Yumiko",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 9.21,
+  "furiganaEnabled": true,
+  "sources": [
+    {
+      "provider": "lrclib",
+      "url": "https://lrclib.net/api/get/10831983"
+    },
+    {
+      "provider": "lrclib",
+      "url": "https://lrclib.net/api/get/15913865"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "37703c5f-f15e-41cf-baa0-b6c462bb2fa4",
+      "text": "バラライカ",
+      "start": 8.79,
+      "end": 15.44,
+      "translations": {
+        "en": "Balalaika"
+      }
+    },
+    {
+      "id": "93da4fe3-676e-4289-b6f8-f6c4c3bdbf02",
+      "text": "バラライカ",
+      "start": 15.44,
+      "end": 22.37,
+      "translations": {
+        "en": "Balalaika"
+      }
+    },
+    {
+      "id": "acef4cf4-eeaf-4556-97bd-c3cd07dd63b7",
+      "text": "バラライカ",
+      "start": 22.37,
+      "end": 23.66,
+      "translations": {
+        "en": "Balalaika"
+      }
+    },
+    {
+      "id": "9a48d8b5-a10b-406c-8fc4-dfbe8cf53dbb",
+      "text": "ゆらりゆらり揺れている乙女心ピ〜ンチ!",
+      "start": 23.66,
+      "end": 30.45,
+      "translations": {
+        "en": "Swaying, swaying—this maiden's heart is in trouble!"
+      },
+      "furigana": [
+        [
+          "ゆらりゆらり",
+          null
+        ],
+        [
+          "揺れて",
+          "ゆれて"
+        ],
+        [
+          "いる",
+          null
+        ],
+        [
+          "乙女心",
+          "おとめごころ"
+        ],
+        [
+          "ピ〜ンチ!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0e1674af-fecc-4d61-8e7a-bb5e41def936",
+      "text": "かなりかなりヤバイのよ",
+      "start": 30.45,
+      "end": 33.93,
+      "translations": {
+        "en": "This is really, really getting serious!"
+      }
+    },
+    {
+      "id": "ad5b7636-655c-42fc-8bdf-938501bd8d93",
+      "text": "たすけてダーリン! クラクラリン",
+      "start": 33.93,
+      "end": 37.75,
+      "translations": {
+        "en": "Help me, darling! I'm all dizzy!"
+      }
+    },
+    {
+      "id": "22d0d824-efcd-4ec4-9366-3867dc52e5c9",
+      "text": "何もかもが新しい世界にきちゃったわ",
+      "start": 37.75,
+      "end": 44.44,
+      "translations": {
+        "en": "I've stumbled into a world where everything is new!"
+      },
+      "furigana": [
+        [
+          "何もかも",
+          "なにもかも"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "新しい",
+          "あたらしい"
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "にきちゃったわ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ad341d7e-67f9-4792-a92c-79b55cee62be",
+      "text": "たくさんのドキドキ 乗りこえ! 踏みこえ! イクぞ!",
+      "start": 44.44,
+      "end": 50.9,
+      "translations": {
+        "en": "All these heart-pounding moments—get through them! Step over them! Here I go!"
+      },
+      "furigana": [
+        [
+          "たくさんのドキドキ ",
+          null
+        ],
+        [
+          "乗り",
+          "のり"
+        ],
+        [
+          "こえ! 踏みこえ! イクぞ!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3a20e5a7-9661-4ed0-9742-16174d11afe3",
+      "text": "バラライカ バララライカ バラ ライラ カイカイ!",
+      "start": 50.9,
+      "end": 54.66,
+      "translations": {
+        "en": "Balalaika, balalalaika, bala laila, kai-kai!"
+      }
+    },
+    {
+      "id": "27d88aa0-e482-467b-85f5-ac74645392a3",
+      "text": "この想いは止められない",
+      "start": 54.66,
+      "end": 57.87,
+      "translations": {
+        "en": "There's no stopping these feelings!"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "止め",
+          "やめ"
+        ],
+        [
+          "られない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6bde72f7-39ad-44e1-88b7-46ed0db54c5b",
+      "text": "もっと乙女ちっく・パワーきらりんりん",
+      "start": 57.87,
+      "end": 61.71,
+      "translations": {
+        "en": "More girlish power—sparkle, sparkle!"
+      },
+      "furigana": [
+        [
+          "もっと",
+          null
+        ],
+        [
+          "乙女",
+          "おとめ"
+        ],
+        [
+          "ちっく・パワーきらりんりん",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3b2716f4-de90-4201-930b-e263ed3394b9",
+      "text": "ちょっと危険なカ・ン・ジ",
+      "start": 61.71,
+      "end": 64.88,
+      "translations": {
+        "en": "It feels a little dan-ger-ous!"
+      },
+      "furigana": [
+        [
+          "ちょっと",
+          null
+        ],
+        [
+          "危険",
+          "きけん"
+        ],
+        [
+          "なカ・ン・ジ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "45355c45-0d20-424c-a83d-13c122247d17",
+      "text": "バラライカ バララライカ バラ ライラ カイカイ!",
+      "start": 64.88,
+      "end": 68.55,
+      "translations": {
+        "en": "Balalaika, balalalaika, bala laila, kai-kai!"
+      }
+    },
+    {
+      "id": "ba018b31-eaaf-42d2-a4d8-34b268cbe33f",
+      "text": "もうドキドキ止められない",
+      "start": 68.55,
+      "end": 71.72,
+      "translations": {
+        "en": "I can't stop my heart from racing now!"
+      },
+      "furigana": [
+        [
+          "もうドキドキ",
+          null
+        ],
+        [
+          "止め",
+          "やめ"
+        ],
+        [
+          "られない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2a6baf7e-7c45-4b99-b141-60c283729721",
+      "text": "もっとドラマチック・恋ハレルヤ",
+      "start": 71.72,
+      "end": 75.53,
+      "translations": {
+        "en": "More dramatic love—hallelujah!"
+      },
+      "furigana": [
+        [
+          "もっとドラマチック・",
+          null
+        ],
+        [
+          "恋",
+          "こい"
+        ],
+        [
+          "ハレルヤ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "17f0dc79-9933-4816-8cdc-0db132fd5911",
+      "text": "二人だけの バラライカ!",
+      "start": 75.53,
+      "end": 78.52,
+      "translations": {
+        "en": "A balalaika just for the two of us!"
+      },
+      "furigana": [
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "だけの バラライカ!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c1fc2dec-bf49-4be0-9991-6c3790d332a4",
+      "text": "",
+      "start": 78.52,
+      "end": 85.11,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "afb22688-c38d-4611-9b5e-83060db55515",
+      "text": "すごくすごく近づいて乙女心チャ〜ンス!",
+      "start": 85.11,
+      "end": 92.37,
+      "translations": {
+        "en": "Getting so, so close—this maiden's heart has a chance!"
+      },
+      "furigana": [
+        [
+          "すごくすごく",
+          null
+        ],
+        [
+          "近づいて",
+          "ちかづいて"
+        ],
+        [
+          "乙女心",
+          "おとめごころ"
+        ],
+        [
+          "チャ〜ンス!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "abcd9e5e-08ae-47ae-9399-149a231a8918",
+      "text": "ハートハートとび出そう",
+      "start": 92.37,
+      "end": 95.89,
+      "translations": {
+        "en": "My heart, my heart feels ready to leap out!"
+      },
+      "furigana": [
+        [
+          "ハートハートとび",
+          null
+        ],
+        [
+          "出",
+          "で"
+        ],
+        [
+          "そう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3047ed23-9b37-43f9-b86d-31e17bf97d28",
+      "text": "おねがいダーリン! ハラハラリン",
+      "start": 95.89,
+      "end": 99.39,
+      "translations": {
+        "en": "Please, darling! I'm all aflutter!"
+      }
+    },
+    {
+      "id": "cdae9a30-6b5e-4739-b742-6792fcd33c60",
+      "text": "あなただけを見つめてるワタシにしらんぷり?",
+      "start": 99.39,
+      "end": 105.99,
+      "translations": {
+        "en": "I have eyes only for you—are you pretending not to notice?"
+      },
+      "furigana": [
+        [
+          "あなただけを",
+          null
+        ],
+        [
+          "見つめて",
+          "みつめて"
+        ],
+        [
+          "るワタシにしらんぷり?",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1e197600-6323-4226-932f-df1898d31130",
+      "text": "気づいてほしいのよ トキメキ! ヤキモキ! スキよ!",
+      "start": 105.99,
+      "end": 112.72,
+      "translations": {
+        "en": "I want you to notice me! My heart flutters! I'm so anxious! I like you!"
+      },
+      "furigana": [
+        [
+          "気づいて",
+          "きづいて"
+        ],
+        [
+          "ほしいのよ トキメキ! ヤキモキ! スキよ!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4467b618-22de-4052-b8ac-fae6b2b75b92",
+      "text": "バラライカ バララライカ バラ ライラ カイカイ!",
+      "start": 112.72,
+      "end": 116.63,
+      "translations": {
+        "en": "Balalaika, balalalaika, bala laila, kai-kai!"
+      }
+    },
+    {
+      "id": "4a57936d-8235-49f0-8d6c-2cd430c066b2",
+      "text": "その秘密をおしえてよ",
+      "start": 116.63,
+      "end": 119.68,
+      "translations": {
+        "en": "Tell me that secret of yours!"
+      },
+      "furigana": [
+        [
+          "その",
+          null
+        ],
+        [
+          "秘密",
+          "ひみつ"
+        ],
+        [
+          "をおしえてよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8e35c83e-a8ed-4326-8596-16803fa36a60",
+      "text": "もっと乙女ちっく・モードきらりんりん",
+      "start": 119.68,
+      "end": 123.55,
+      "translations": {
+        "en": "More girlish mode—sparkle, sparkle!"
+      },
+      "furigana": [
+        [
+          "もっと",
+          null
+        ],
+        [
+          "乙女",
+          "おとめ"
+        ],
+        [
+          "ちっく・モードきらりんりん",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d2243447-ea38-48d0-866f-e13011324d1e",
+      "text": "やっぱ笑顔がス・テ・キ",
+      "start": 123.55,
+      "end": 126.64,
+      "translations": {
+        "en": "Your smile really is won-der-ful!"
+      },
+      "furigana": [
+        [
+          "やっぱ",
+          null
+        ],
+        [
+          "笑顔",
+          "えがお"
+        ],
+        [
+          "がス・テ・キ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0a615bfd-e76c-4af6-8c67-a6a22239c929",
+      "text": "バラライカ バララライカ バラ ライラ カイカイ!",
+      "start": 126.64,
+      "end": 130.2,
+      "translations": {
+        "en": "Balalaika, balalalaika, bala laila, kai-kai!"
+      }
+    },
+    {
+      "id": "eec77b8a-bd3c-4c64-906a-f01432eb617e",
+      "text": "よそ見してちゃダメダメよ",
+      "start": 130.2,
+      "end": 133.49,
+      "translations": {
+        "en": "No, no—you can't go looking elsewhere!"
+      },
+      "furigana": [
+        [
+          "よそ見",
+          "よそみ"
+        ],
+        [
+          "してちゃダメダメよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6d3dba47-cd25-4acc-adfd-65888d980585",
+      "text": "もっとロマンチック・恋シャラランラン",
+      "start": 133.49,
+      "end": 137.02,
+      "translations": {
+        "en": "More romantic love—sha-la-la-la!"
+      },
+      "furigana": [
+        [
+          "もっとロマンチック・",
+          null
+        ],
+        [
+          "恋",
+          "こい"
+        ],
+        [
+          "シャラランラン",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c89f4a50-9bb8-4d6a-8e56-53aaa505d3a6",
+      "text": "奏でたいの バラライカ!",
+      "start": 137.02,
+      "end": 140.45,
+      "translations": {
+        "en": "I want to play the balalaika!"
+      },
+      "furigana": [
+        [
+          "奏でた",
+          "かなでた"
+        ],
+        [
+          "いの バラライカ!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b390c07a-6400-4694-91f7-804d0589ede5",
+      "text": "",
+      "start": 140.45,
+      "end": 156.08,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "ad20257e-f474-49ad-8c9b-5d180c0a52d6",
+      "text": "オンナのコはいつだって夢見る乙女なの",
+      "start": 156.08,
+      "end": 162.75,
+      "translations": {
+        "en": "Girls are always dreamers at heart!"
+      },
+      "furigana": [
+        [
+          "オンナのコはいつだって",
+          null
+        ],
+        [
+          "夢見る",
+          "ゆめみる"
+        ],
+        [
+          "乙女",
+          "おとめ"
+        ],
+        [
+          "なの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "29e944d8-0044-4dc4-a751-bd63636021b0",
+      "text": "ピュアピュアな心で 恋して! 愛して! S! O! S・O・S!",
+      "start": 162.75,
+      "end": 171.02,
+      "translations": {
+        "en": "With a pure, pure heart, fall in love! Give your love! S! O! S-O-S!"
+      },
+      "furigana": [
+        [
+          "ピュアピュアな",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "で ",
+          null
+        ],
+        [
+          "恋",
+          "こい"
+        ],
+        [
+          "して! ",
+          null
+        ],
+        [
+          "愛して",
+          "あいして"
+        ],
+        [
+          "! S! O! S・O・S!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c9282ca7-fd24-4c69-a2b1-971675e700d4",
+      "text": "バラライカ バララライカ バラ ライラ カイカイ!",
+      "start": 171.02,
+      "end": 174.91,
+      "translations": {
+        "en": "Balalaika, balalalaika, bala laila, kai-kai!"
+      }
+    },
+    {
+      "id": "a757846c-3ac7-4716-bf92-83f421415e24",
+      "text": "この想いは止められない",
+      "start": 174.91,
+      "end": 178.02,
+      "translations": {
+        "en": "There's no stopping these feelings!"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "止め",
+          "やめ"
+        ],
+        [
+          "られない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "479d92b9-2582-4852-a8ba-f59bb76f0a4a",
+      "text": "もっと乙女ちっく・パワーきらりんりん",
+      "start": 178.02,
+      "end": 181.89,
+      "translations": {
+        "en": "More girlish power—sparkle, sparkle!"
+      },
+      "furigana": [
+        [
+          "もっと",
+          null
+        ],
+        [
+          "乙女",
+          "おとめ"
+        ],
+        [
+          "ちっく・パワーきらりんりん",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "33a2cfc4-68e2-4767-9b95-12c9ec9ddcd9",
+      "text": "ちょっと危険なカ・ン・ジ",
+      "start": 181.89,
+      "end": 184.67,
+      "translations": {
+        "en": "It feels a little dan-ger-ous!"
+      },
+      "furigana": [
+        [
+          "ちょっと",
+          null
+        ],
+        [
+          "危険",
+          "きけん"
+        ],
+        [
+          "なカ・ン・ジ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "eee565d5-62b2-440d-9208-a0d87cf7b394",
+      "text": "バラライカ バララライカ バラ ライラ カイカイ!",
+      "start": 184.67,
+      "end": 188.65,
+      "translations": {
+        "en": "Balalaika, balalalaika, bala laila, kai-kai!"
+      }
+    },
+    {
+      "id": "d3ac1b17-d16d-4704-a9c5-9eee5c98e5d0",
+      "text": "もうドキドキ止められない",
+      "start": 188.65,
+      "end": 191.74,
+      "translations": {
+        "en": "I can't stop my heart from racing now!"
+      },
+      "furigana": [
+        [
+          "もうドキドキ",
+          null
+        ],
+        [
+          "止め",
+          "やめ"
+        ],
+        [
+          "られない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a2363c80-aac9-40bf-879c-7c4c46ff699d",
+      "text": "もっとドラマチック・恋ハレルヤ",
+      "start": 191.74,
+      "end": 195.51,
+      "translations": {
+        "en": "More dramatic love—hallelujah!"
+      },
+      "furigana": [
+        [
+          "もっとドラマチック・",
+          null
+        ],
+        [
+          "恋",
+          "こい"
+        ],
+        [
+          "ハレルヤ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e4a9ed42-f4ad-4977-a6eb-17ab12e3e3ba",
+      "text": "二人だけの バラライカ!",
+      "start": 195.51,
+      "end": 204.16,
+      "translations": {
+        "en": "A balalaika just for the two of us!"
+      },
+      "furigana": [
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "だけの バラライカ!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "40ef683d-8b82-4243-8b94-dad893d6e5d6",
+      "text": "バラライカ",
+      "start": 204.16,
+      "end": 210.91,
+      "translations": {
+        "en": "Balalaika"
+      }
+    },
+    {
+      "id": "d2921ccc-e0f0-4e9d-8c06-7a017de56b01",
+      "text": "バラライカ",
+      "start": 210.91,
+      "end": 212.39,
+      "translations": {
+        "en": "Balalaika"
+      }
+    },
+    {
+      "id": "5f6f674c-3fc5-453c-a57c-5d254e6821a3",
+      "text": "",
+      "start": 212.39,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
