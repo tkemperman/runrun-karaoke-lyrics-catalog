@@ -1,0 +1,2031 @@
+{
+  "schemaVersion": 3,
+  "videoId": "h3chCOV_phw",
+  "videoUrl": "https://www.youtube.com/watch?v=h3chCOV_phw",
+  "videoTitle": "FuwaMoco x Senchou Sing - Ahoy!",
+  "title": "Ahoy!! 我ら宝鐘海賊団☆",
+  "artist": "宝鐘マリン",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/21058744"
+  },
+  "blocks": [
+    {
+      "id": "9bc10a13-0de9-467a-b97f-2485e0b67811",
+      "text": "海賊なら Yo-Ho! (Yo-Ho!) 踊れ叫べ Yo-Ho! (Yo-Ho!)",
+      "start": 6.85,
+      "end": 9.52,
+      "translations": {
+        "en": "If you're a pirate, yo-ho! (Yo-ho!) Dance and shout, yo-ho! (Yo-ho!)"
+      },
+      "furigana": [
+        [
+          "海賊",
+          "かいぞく"
+        ],
+        [
+          "なら Yo-Ho! (Yo-Ho!) ",
+          null
+        ],
+        [
+          "踊れ",
+          "おどれ"
+        ],
+        [
+          "叫べ",
+          "さけべ"
+        ],
+        [
+          " Yo-Ho! (Yo-Ho!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "51135bda-aa82-4622-b463-eb869a747b78",
+      "text": "さぁ今旗のもとへ (Hi Hi Hi Hi Ohhhhh)",
+      "start": 9.52,
+      "end": 14.06,
+      "translations": {
+        "en": "Come on, gather beneath the flag! (Hey, hey, hey, hey, ohhhhh!)"
+      },
+      "furigana": [
+        [
+          "さぁ",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "旗",
+          "はた"
+        ],
+        [
+          "のもとへ (Hi Hi Hi Hi Ohhhhh)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "722123bd-15eb-4166-84d3-b17847966c93",
+      "text": "宝鐘海賊団「出航～！」",
+      "start": 14.06,
+      "end": 19.4,
+      "translations": {
+        "en": "Houshou Pirates, “Set sail!”"
+      },
+      "furigana": [
+        [
+          "宝鐘海賊団",
+          "ほうしょうかいぞくだん"
+        ],
+        [
+          "「",
+          null
+        ],
+        [
+          "出航",
+          "しゅっこう"
+        ],
+        [
+          "～！」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "727006d5-0af8-42d3-887c-a872c5e3fc9a",
+      "text": "(Ahoy! Ahoy! Ahoy! Ahoy!)",
+      "start": 19.4,
+      "end": 22.39,
+      "translations": {
+        "en": "(Ahoy! Ahoy! Ahoy! Ahoy!)"
+      },
+      "furigana": [
+        [
+          "(Ahoy! Ahoy! Ahoy! Ahoy!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0c60d567-b3e1-41f9-a9d8-fd515efc688f",
+      "text": "踊る Ahoy! に見る Ahoy! （ホイホーイ！）",
+      "start": 22.39,
+      "end": 25.25,
+      "translations": {
+        "en": "Dancers, ahoy! Onlookers, ahoy! (Hey-ho!)"
+      },
+      "furigana": [
+        [
+          "踊る",
+          "おどる"
+        ],
+        [
+          " Ahoy! に",
+          null
+        ],
+        [
+          "見る",
+          "みる"
+        ],
+        [
+          " Ahoy! （ホイホーイ！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3ea800e5-8306-4597-add9-2f1705540af2",
+      "text": "（Ahoy! Ahoy! Ahoy! ホイホイホーイ！）",
+      "start": 25.25,
+      "end": 28.08,
+      "translations": {
+        "en": "(Ahoy! Ahoy! Ahoy! Hey, hey, ho!)"
+      },
+      "furigana": [
+        [
+          "（Ahoy! Ahoy! Ahoy! ホイホイホーイ！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "66fd62e5-c6e2-4efb-a7d4-3c8805f942bd",
+      "text": "「全速前進だ〜！」",
+      "start": 28.08,
+      "end": 30.49,
+      "translations": {
+        "en": "“Full speed ahead!”"
+      },
+      "furigana": [
+        [
+          "「",
+          null
+        ],
+        [
+          "全速前進",
+          "ぜんそくぜんしん"
+        ],
+        [
+          "だ〜！」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f0080766-763c-4f61-ba8c-c431febf5286",
+      "text": "進め！（進め！）太陽はサンサン 大航海日和だ",
+      "start": 30.49,
+      "end": 36.06,
+      "translations": {
+        "en": "Onward! (Onward!) The sun is shining bright—perfect weather for a grand voyage!"
+      },
+      "furigana": [
+        [
+          "進め",
+          "すすめ"
+        ],
+        [
+          "！（",
+          null
+        ],
+        [
+          "進め",
+          "すすめ"
+        ],
+        [
+          "！）",
+          null
+        ],
+        [
+          "太陽",
+          "たいよう"
+        ],
+        [
+          "はサンサン ",
+          null
+        ],
+        [
+          "大航海日和",
+          "だいこうかいびより"
+        ],
+        [
+          "だ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "85b17c02-7e95-45fb-9f83-913197b80e03",
+      "text": "歌え！（歌え！）最高のテンション 波の音に乗せて ドンブラコ",
+      "start": 36.06,
+      "end": 41.84,
+      "translations": {
+        "en": "Sing! (Sing!) Spirits sky-high, let your voices ride the sound of the waves, bobbing along!"
+      },
+      "furigana": [
+        [
+          "歌え",
+          "うたえ"
+        ],
+        [
+          "！（",
+          null
+        ],
+        [
+          "歌え",
+          "うたえ"
+        ],
+        [
+          "！）",
+          null
+        ],
+        [
+          "最高",
+          "さいこう"
+        ],
+        [
+          "のテンション ",
+          null
+        ],
+        [
+          "波",
+          "なみ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "音",
+          "おと"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "乗せて",
+          "のせて"
+        ],
+        [
+          " ドンブラコ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "be038427-f4e4-4d63-981e-d4ab21ebe217",
+      "text": "海でガールズ PARTY",
+      "start": 41.84,
+      "end": 44.44,
+      "translations": {
+        "en": "The girls are partying at sea"
+      },
+      "furigana": [
+        [
+          "海",
+          "うみ"
+        ],
+        [
+          "でガールズ PARTY",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e59e7f12-b3e8-47c7-862d-76531f160502",
+      "text": "陸で兄貴が HAPPY (Fu-Fu!)",
+      "start": 44.44,
+      "end": 47.44,
+      "translations": {
+        "en": "The guys are happy on land (Woo-woo!)"
+      },
+      "furigana": [
+        [
+          "陸",
+          "りく"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "兄貴",
+          "あにき"
+        ],
+        [
+          "が HAPPY (Fu-Fu!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ec57ffff-33aa-45f0-8236-b21662a50700",
+      "text": "お空ではドクロくん ヒラヒラ",
+      "start": 47.44,
+      "end": 52.14,
+      "translations": {
+        "en": "Up in the sky, Mr. Skull flutters in the breeze"
+      },
+      "furigana": [
+        [
+          "お",
+          null
+        ],
+        [
+          "空",
+          "そら"
+        ],
+        [
+          "ではドクロくん ヒラヒラ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5e1c395b-ce74-4987-869b-4e37aaa33a74",
+      "text": "山奥ボロボロマイハウスで夢を見て",
+      "start": 52.14,
+      "end": 58.08,
+      "translations": {
+        "en": "Dreaming in my ramshackle home deep in the mountains"
+      },
+      "furigana": [
+        [
+          "山奥",
+          "やまおく"
+        ],
+        [
+          "ボロボロマイハウスで",
+          null
+        ],
+        [
+          "夢",
+          "ゆめ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "見て",
+          "みて"
+        ]
+      ]
+    },
+    {
+      "id": "c4b4d7fd-dde3-419c-a23a-1466fdb9e2c5",
+      "text": "「あん、神様ぁ、いつかこのマリンを本物の海賊に... してくだたぁ〜い」",
+      "start": 58.08,
+      "end": 65.64,
+      "translations": {
+        "en": "“Ahh, dear God, someday, pwease make me, Marine... a real pirate!”"
+      },
+      "furigana": [
+        [
+          "「あん、",
+          null
+        ],
+        [
+          "神様",
+          "かみさま"
+        ],
+        [
+          "ぁ、いつかこのマリンを",
+          null
+        ],
+        [
+          "本物",
+          "ほんもの"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "海賊",
+          "かいぞく"
+        ],
+        [
+          "に... してくだたぁ〜い」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "81dc8ea4-7939-4c45-9273-f09ff3a3d75c",
+      "text": "声を上げてさぁ出航だ 我ら宝鐘海賊団",
+      "start": 65.64,
+      "end": 71.21,
+      "translations": {
+        "en": "Raise your voices, it's time to set sail! We are the Houshou Pirates!"
+      },
+      "furigana": [
+        [
+          "声",
+          "こえ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "上げて",
+          "あげて"
+        ],
+        [
+          "さぁ",
+          null
+        ],
+        [
+          "出航",
+          "しゅっこう"
+        ],
+        [
+          "だ ",
+          null
+        ],
+        [
+          "我ら",
+          "われら"
+        ],
+        [
+          "宝鐘海賊団",
+          "ほうしょうかいぞくだん"
+        ]
+      ]
+    },
+    {
+      "id": "dcdd6390-ce82-413b-b4d8-924169fb8525",
+      "text": "コンパス片手に旗を揚げ この海をジャックしちゃおう",
+      "start": 71.21,
+      "end": 77.28,
+      "translations": {
+        "en": "Compass in hand, hoist the flag—let's take over these seas!"
+      },
+      "furigana": [
+        [
+          "コンパス",
+          null
+        ],
+        [
+          "片手",
+          "かたて"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "旗",
+          "はた"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "揚げ",
+          "あげ"
+        ],
+        [
+          " この",
+          null
+        ],
+        [
+          "海",
+          "うみ"
+        ],
+        [
+          "をジャックしちゃおう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "687ffb3b-4cf8-483e-800b-27bcba5ec2f5",
+      "text": "ヨーソロー！ついておいで 共に Yo-Ho Yo-Ho 叫ぼう",
+      "start": 77.28,
+      "end": 82.62,
+      "translations": {
+        "en": "Steady as she goes! Follow me, and let's shout yo-ho, yo-ho together!"
+      },
+      "furigana": [
+        [
+          "ヨーソロー！ついておいで ",
+          null
+        ],
+        [
+          "共に",
+          "ともに"
+        ],
+        [
+          " Yo-Ho Yo-Ho ",
+          null
+        ],
+        [
+          "叫ぼう",
+          "さけぼう"
+        ]
+      ]
+    },
+    {
+      "id": "aba8cfe2-1adb-4232-ac3d-6f3f93782998",
+      "text": "嗚呼 最高の日々 ようこそ我が船へ",
+      "start": 82.62,
+      "end": 91.72,
+      "translations": {
+        "en": "Ah, these are the best of days—welcome aboard my ship!"
+      },
+      "furigana": [
+        [
+          "嗚呼",
+          "ああ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "最高",
+          "さいこう"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "日々",
+          "ひび"
+        ],
+        [
+          " ようこそ",
+          null
+        ],
+        [
+          "我が",
+          "わが"
+        ],
+        [
+          "船",
+          "ふね"
+        ],
+        [
+          "へ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4c4c51b5-f3af-4fa8-b18f-71d027d455e6",
+      "text": "(Ahoy! Ahoy! Ahoy! Ahoy!)",
+      "start": 91.72,
+      "end": 94.54,
+      "translations": {
+        "en": "(Ahoy! Ahoy! Ahoy! Ahoy!)"
+      },
+      "furigana": [
+        [
+          "(Ahoy! Ahoy! Ahoy! Ahoy!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b751b90a-2ded-4e90-bfe7-67c54675aad7",
+      "text": "踊る Ahoy! に見る Ahoy! （ホイホーイ）",
+      "start": 94.54,
+      "end": 97.26,
+      "translations": {
+        "en": "Dancers, ahoy! Onlookers, ahoy! (Hey-ho!)"
+      },
+      "furigana": [
+        [
+          "踊る",
+          "おどる"
+        ],
+        [
+          " Ahoy! に",
+          null
+        ],
+        [
+          "見る",
+          "みる"
+        ],
+        [
+          " Ahoy! （ホイホーイ）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "fce4fbed-e95f-43b9-8b36-86d2d9616125",
+      "text": "（Ahoy! Ahoy! Ahoy! ホイホイホーイ）",
+      "start": 97.26,
+      "end": 99.97,
+      "translations": {
+        "en": "(Ahoy! Ahoy! Ahoy! Hey, hey, ho!)"
+      },
+      "furigana": [
+        [
+          "（Ahoy! Ahoy! Ahoy! ホイホイホーイ）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a6290c78-d1bb-4d2e-9077-c4e4cf6018a2",
+      "text": "「一、二、サンバ！サンバ！」",
+      "start": 99.97,
+      "end": 102.59,
+      "translations": {
+        "en": "“One, two, samba! Samba!”"
+      },
+      "furigana": [
+        [
+          "「",
+          null
+        ],
+        [
+          "一",
+          "いち"
+        ],
+        [
+          "、",
+          null
+        ],
+        [
+          "二",
+          "に"
+        ],
+        [
+          "、サンバ！サンバ！」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5806f172-cc79-41a4-b0bd-f1500bc79b6a",
+      "text": "熱く！（熱く！）語ろうよ パッション 思いを解き放て",
+      "start": 102.59,
+      "end": 108.08,
+      "translations": {
+        "en": "With fire! (With fire!) Let's talk passion—let your feelings run free!"
+      },
+      "furigana": [
+        [
+          "熱く",
+          "あつく"
+        ],
+        [
+          "！（",
+          null
+        ],
+        [
+          "熱く",
+          "あつく"
+        ],
+        [
+          "！）",
+          null
+        ],
+        [
+          "語ろう",
+          "かたろう"
+        ],
+        [
+          "よ パッション ",
+          null
+        ],
+        [
+          "思い",
+          "おもい"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "解き放て",
+          "ときはなて"
+        ]
+      ]
+    },
+    {
+      "id": "a0720667-16c5-4e74-9be1-8b4544924134",
+      "text": "赤く！（赤く！）煌めく ファッション 形から入るタイプです",
+      "start": 108.08,
+      "end": 113.62,
+      "translations": {
+        "en": "In red! (In red!) Dazzling fashion—I'm the type who starts by looking the part!"
+      },
+      "furigana": [
+        [
+          "赤く",
+          "あかく"
+        ],
+        [
+          "！（",
+          null
+        ],
+        [
+          "赤く",
+          "あかく"
+        ],
+        [
+          "！）",
+          null
+        ],
+        [
+          "煌めく",
+          "きらめく"
+        ],
+        [
+          " ファッション ",
+          null
+        ],
+        [
+          "形",
+          "かたち"
+        ],
+        [
+          "から",
+          null
+        ],
+        [
+          "入る",
+          "はいる"
+        ],
+        [
+          "タイプです",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "776c61c4-b473-460f-a312-07c88392960a",
+      "text": "発車10秒前 走れ ガチ恋列車 (Fu-Fu)",
+      "start": 113.62,
+      "end": 119.52,
+      "translations": {
+        "en": "Ten seconds till departure—off you go, head-over-heels love train! (Woo-woo!)"
+      },
+      "furigana": [
+        [
+          "発車",
+          "はっしゃ"
+        ],
+        [
+          "10秒前",
+          "じゅうびょうまえ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "走れ",
+          "はしれ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "ガチ恋",
+          "がちこい"
+        ],
+        [
+          "列車",
+          "れっしゃ"
+        ],
+        [
+          " (Fu-Fu)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ccf2e06e-126a-476b-9208-38873274aeb0",
+      "text": "夕焼けも照れるワ ギラギラ",
+      "start": 119.52,
+      "end": 124.28,
+      "translations": {
+        "en": "Even the sunset blushes at this dazzling glow"
+      },
+      "furigana": [
+        [
+          "夕焼け",
+          "ゆうやけ"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "照れる",
+          "てれる"
+        ],
+        [
+          "ワ ギラギラ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f328afd5-3285-48dd-90c5-5c32f8481202",
+      "text": "じんわり汗も滴るイイ女だけど",
+      "start": 124.28,
+      "end": 130.28,
+      "translations": {
+        "en": "I'm a fine-looking woman, even with sweat slowly trickling down, but..."
+      },
+      "furigana": [
+        [
+          "じんわり",
+          null
+        ],
+        [
+          "汗",
+          "あせ"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "滴る",
+          "したたる"
+        ],
+        [
+          "イイ",
+          null
+        ],
+        [
+          "女",
+          "おんな"
+        ],
+        [
+          "だけど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "fbcd9c34-777a-4c34-a792-1f07d23dc07b",
+      "text": "「あん、神様ぁ、船長はセンシティブだと、BANされちゃうのですね〜！はにゃん」",
+      "start": 130.28,
+      "end": 137.5,
+      "translations": {
+        "en": "“Ahh, dear God, so if the captain gets too risqué, she gets banned! Mrow!”"
+      },
+      "furigana": [
+        [
+          "「あん、",
+          null
+        ],
+        [
+          "神様",
+          "かみさま"
+        ],
+        [
+          "ぁ、",
+          null
+        ],
+        [
+          "船長",
+          "せんちょう"
+        ],
+        [
+          "はセンシティブだと、BANされちゃうのですね〜！はにゃん」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "779dae02-92d7-4110-b2c2-9d75b564919b",
+      "text": "奪われたら 取り戻せ それが 宝鐘海賊団",
+      "start": 137.5,
+      "end": 143.11,
+      "translations": {
+        "en": "If it's stolen, take it back—that's the Houshou Pirates' way!"
+      },
+      "furigana": [
+        [
+          "奪われたら",
+          "うばわれたら"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "取り戻せ",
+          "とりもどせ"
+        ],
+        [
+          " それが ",
+          null
+        ],
+        [
+          "宝鐘海賊団",
+          "ほうしょうかいぞくだん"
+        ]
+      ]
+    },
+    {
+      "id": "63ed4874-fa25-4a11-852f-d5bb709a513f",
+      "text": "キミたちとなら辿り着ける 伝説のエルドラド (Go Go!)",
+      "start": 143.11,
+      "end": 149.47,
+      "translations": {
+        "en": "With you all, I can reach the legendary El Dorado! (Go, go!)"
+      },
+      "furigana": [
+        [
+          "キミたちとなら",
+          null
+        ],
+        [
+          "辿り着ける",
+          "たどりつける"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "伝説",
+          "でんせつ"
+        ],
+        [
+          "のエルドラド (Go Go!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2227d701-a36d-479f-b852-c5fbf369ed01",
+      "text": "ヨーソロー！楽しけりゃ 歌え Yo-Ho Yo-Ho パーリナイ",
+      "start": 149.47,
+      "end": 154.53,
+      "translations": {
+        "en": "Steady as she goes! If you're having fun, sing yo-ho, yo-ho—party all night!"
+      },
+      "furigana": [
+        [
+          "ヨーソロー！",
+          null
+        ],
+        [
+          "楽しけりゃ",
+          "たのしけりゃ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "歌え",
+          "うたえ"
+        ],
+        [
+          " Yo-Ho Yo-Ho パーリナイ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "cf4c6142-5d0d-4d59-b09b-6a2d9f6de5ab",
+      "text": "嗚呼 この景色 大切な仲間よ",
+      "start": 154.53,
+      "end": 163.36,
+      "translations": {
+        "en": "Ah, what a sight, my precious friends!"
+      },
+      "furigana": [
+        [
+          "嗚呼",
+          "ああ"
+        ],
+        [
+          " この",
+          null
+        ],
+        [
+          "景色",
+          "けしき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "大切",
+          "たいせつ"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "仲間",
+          "なかま"
+        ],
+        [
+          "よ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "68a116a2-8b22-47e6-a9aa-535410660fdc",
+      "text": "宴だ宴！騒げや騒げ！踊るAhoy!に見るAhoy!（ホイホーイ）",
+      "start": 163.36,
+      "end": 169.02,
+      "translations": {
+        "en": "It's a feast, a feast! Make some noise, make some noise! Dancers, ahoy! Onlookers, ahoy! (Hey-ho!)"
+      },
+      "furigana": [
+        [
+          "宴",
+          "うたげ"
+        ],
+        [
+          "だ",
+          null
+        ],
+        [
+          "宴",
+          "うたげ"
+        ],
+        [
+          "！",
+          null
+        ],
+        [
+          "騒げ",
+          "さわげ"
+        ],
+        [
+          "や",
+          null
+        ],
+        [
+          "騒げ",
+          "さわげ"
+        ],
+        [
+          "！",
+          null
+        ],
+        [
+          "踊る",
+          "おどる"
+        ],
+        [
+          "Ahoy!に",
+          null
+        ],
+        [
+          "見る",
+          "みる"
+        ],
+        [
+          "Ahoy!（ホイホーイ）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "02b87e64-0729-4fe5-9174-9065406ef2e8",
+      "text": "同じアホなら飲まなきゃソンソン！酒樽片手に いっきまっすよーそれっ！",
+      "start": 169.02,
+      "end": 174.75,
+      "translations": {
+        "en": "We're all fools anyway, so you'd be a fool not to drink! With a barrel of booze in hand, here we go—down the hatch!"
+      },
+      "furigana": [
+        [
+          "同じ",
+          "おなじ"
+        ],
+        [
+          "アホなら",
+          null
+        ],
+        [
+          "飲まなきゃ",
+          "のまなきゃ"
+        ],
+        [
+          "ソンソン！",
+          null
+        ],
+        [
+          "酒樽",
+          "さかだる"
+        ],
+        [
+          "片手",
+          "かたて"
+        ],
+        [
+          "に いっきまっすよーそれっ！",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5534298d-cb83-4054-88fe-b8c0596c9a33",
+      "text": "Ahoy! Ahoy! (Ahoy! Ahoy!)",
+      "start": 174.75,
+      "end": 177.55,
+      "translations": {
+        "en": "Ahoy! Ahoy! (Ahoy! Ahoy!)"
+      },
+      "furigana": [
+        [
+          "Ahoy! Ahoy! (Ahoy! Ahoy!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "eaa527e4-1b05-4353-a47f-f4ad9b225a41",
+      "text": "Ahoy! Ahoy! (Ahoy! Ahoy!)",
+      "start": 177.55,
+      "end": 180.58,
+      "translations": {
+        "en": "Ahoy! Ahoy! (Ahoy! Ahoy!)"
+      },
+      "furigana": [
+        [
+          "Ahoy! Ahoy! (Ahoy! Ahoy!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "39f9c907-13dd-4a42-b960-b07d8fa644ba",
+      "text": "宝鐘マリン！（宝鐘マリン！）世界で1番？（かわいいよ〜！）",
+      "start": 180.58,
+      "end": 186.07,
+      "translations": {
+        "en": "Houshou Marine! (Houshou Marine!) The world's number one? (Cutest of them all!)"
+      },
+      "furigana": [
+        [
+          "宝鐘マリン",
+          "ほうしょうまりん"
+        ],
+        [
+          "！（",
+          null
+        ],
+        [
+          "宝鐘マリン",
+          "ほうしょうまりん"
+        ],
+        [
+          "！）",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "1番",
+          "いちばん"
+        ],
+        [
+          "？（かわいいよ〜！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "10f013aa-cf17-45c9-aefa-34b560cc3d73",
+      "text": "メスガキ！メスガキ！（メスガキ！メスガキ！）",
+      "start": 186.07,
+      "end": 188.86,
+      "translations": {
+        "en": "Bratty girl! Bratty girl! (Bratty girl! Bratty girl!)"
+      },
+      "furigana": [
+        [
+          "メスガキ！メスガキ！（メスガキ！メスガキ！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c0ea91aa-1a16-4749-93f9-32d1ee14472e",
+      "text": "エロガキ！エロガキ！（エロガキ！エロガキ！）",
+      "start": 188.86,
+      "end": 191.77,
+      "translations": {
+        "en": "Lewd brat! Lewd brat! (Lewd brat! Lewd brat!)"
+      },
+      "furigana": [
+        [
+          "エロガキ！エロガキ！（エロガキ！エロガキ！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a9685fd1-8ac9-4aab-a838-562e089865d5",
+      "text": "ボンキュッボーン！（ボンキュッボーン！）",
+      "start": 191.77,
+      "end": 194.06,
+      "translations": {
+        "en": "Big bust, tiny waist, curvy hips! (Big bust, tiny waist, curvy hips!)"
+      },
+      "furigana": [
+        [
+          "ボンキュッボーン！（ボンキュッボーン！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e7ab01ee-f37d-4ae9-a12f-78454bba0f4a",
+      "text": "お嬢ちゃんパンツ何色...？（パンツはいてませーん！）",
+      "start": 194.06,
+      "end": 197.32,
+      "translations": {
+        "en": "Missy, what color are your panties...? (I'm not wearing any!)"
+      },
+      "furigana": [
+        [
+          "お",
+          null
+        ],
+        [
+          "嬢",
+          "じょう"
+        ],
+        [
+          "ちゃんパンツ",
+          null
+        ],
+        [
+          "何色",
+          "なにいろ"
+        ],
+        [
+          "...？（パンツはいてませーん！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0a4bf2a2-8215-4aed-9c0e-91364abd7762",
+      "text": "お宝！お宝！（お宝！お宝！） 魔剤？魔剤？（魔剤！魔剤！）",
+      "start": 197.32,
+      "end": 202.91,
+      "translations": {
+        "en": "Treasure! Treasure! (Treasure! Treasure!) Energy drinks? Energy drinks? (Energy drinks! Energy drinks!)"
+      },
+      "furigana": [
+        [
+          "お",
+          null
+        ],
+        [
+          "宝",
+          "たから"
+        ],
+        [
+          "！お",
+          null
+        ],
+        [
+          "宝",
+          "たから"
+        ],
+        [
+          "！（お",
+          null
+        ],
+        [
+          "宝",
+          "たから"
+        ],
+        [
+          "！お",
+          null
+        ],
+        [
+          "宝",
+          "たから"
+        ],
+        [
+          "！） ",
+          null
+        ],
+        [
+          "魔剤",
+          "まざい"
+        ],
+        [
+          "？",
+          null
+        ],
+        [
+          "魔剤",
+          "まざい"
+        ],
+        [
+          "？（",
+          null
+        ],
+        [
+          "魔剤",
+          "まざい"
+        ],
+        [
+          "！",
+          null
+        ],
+        [
+          "魔剤",
+          "まざい"
+        ],
+        [
+          "！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b736daea-1f2f-4a66-b956-737b53e06cd2",
+      "text": "撫でますドン！（撫でますドン！）",
+      "start": 202.91,
+      "end": 205.35,
+      "translations": {
+        "en": "I'll pat your head—boom! (I'll pat your head—boom!)"
+      },
+      "furigana": [
+        [
+          "撫でます",
+          "なでます"
+        ],
+        [
+          "ドン！（",
+          null
+        ],
+        [
+          "撫でます",
+          "なでます"
+        ],
+        [
+          "ドン！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1e0ac2a2-b2f4-4931-a89f-d7941d478a24",
+      "text": "船長のちょっといいとこ（「見てみたい〜！」）",
+      "start": 205.35,
+      "end": 208.64,
+      "translations": {
+        "en": "The captain's got a little something to show off (“We wanna see!”)"
+      },
+      "furigana": [
+        [
+          "船長",
+          "せんちょう"
+        ],
+        [
+          "のちょっといいとこ（「",
+          null
+        ],
+        [
+          "見てみたい",
+          "みてみたい"
+        ],
+        [
+          "〜！」）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5f8428a9-4def-414f-aa38-2b18a716bb0c",
+      "text": "あはんあは〜ん！（もっと！もっと！）",
+      "start": 208.64,
+      "end": 211.48,
+      "translations": {
+        "en": "Ahh, ahhh! (More! More!)"
+      },
+      "furigana": [
+        [
+          "あはんあは〜ん！（もっと！もっと！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7b437f24-071c-4e8f-8149-b4a4c19f231f",
+      "text": "うふんうふ〜ん！（もっと！もっと！）",
+      "start": 211.48,
+      "end": 214.25,
+      "translations": {
+        "en": "Ooh, oooh! (More! More!)"
+      },
+      "furigana": [
+        [
+          "うふんうふ〜ん！（もっと！もっと！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3a30ec7a-8d6a-4797-a2b6-50396d5e5610",
+      "text": "セクシービーム！（もっと！もっと！）",
+      "start": 214.25,
+      "end": 217.09,
+      "translations": {
+        "en": "Sexy beam! (More! More!)"
+      },
+      "furigana": [
+        [
+          "セクシービーム！（もっと！もっと！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "689d647c-4a64-4145-a6bb-03a88d055878",
+      "text": "いやーん マイチング〜！（もっと！もっと！）",
+      "start": 217.09,
+      "end": 219.82,
+      "translations": {
+        "en": "Oh, nooo! You're making me blush! (More! More!)"
+      },
+      "furigana": [
+        [
+          "いやーん マイチング〜！（もっと！もっと！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b9ef8f8c-8cbf-4dde-a3b8-a0f7b83d0510",
+      "text": "だっちゅーの！（もっともっともっとー！）",
+      "start": 219.82,
+      "end": 222.68,
+      "translations": {
+        "en": "That's what I'm saying! (More, more, more!)"
+      },
+      "furigana": [
+        [
+          "だっちゅーの！（もっともっともっとー！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "cb5cb292-adca-4b80-8ba8-67375b9af566",
+      "text": "サービスサービスぅ！（もっともっともっとー！）",
+      "start": 222.68,
+      "end": 225.53,
+      "translations": {
+        "en": "Fan service, fan service! (More, more, more!)"
+      },
+      "furigana": [
+        [
+          "サービスサービスぅ！（もっともっともっとー！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "55ee5352-26b7-4851-b484-e9fc0fe15dc4",
+      "text": "萌え萌えキュン （もっともっともっとー！）",
+      "start": 225.53,
+      "end": 228.58,
+      "translations": {
+        "en": "Cutie, cutie, heart-throb! (More, more, more!)"
+      },
+      "furigana": [
+        [
+          "萌え",
+          "もえ"
+        ],
+        [
+          "萌え",
+          "もえ"
+        ],
+        [
+          "キュン （もっともっともっとー！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1d1a3270-e4ab-47a9-9af3-2c5e2d442cf7",
+      "text": "出会って5秒で（即出航〜！）",
+      "start": 228.58,
+      "end": 232.35,
+      "translations": {
+        "en": "Five seconds after we meet (We set sail right away!)"
+      },
+      "furigana": [
+        [
+          "出会って",
+          "であって"
+        ],
+        [
+          "5秒",
+          "ごびょう"
+        ],
+        [
+          "で（",
+          null
+        ],
+        [
+          "即出航",
+          "そくしゅっこう"
+        ],
+        [
+          "〜！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "35b3fd5a-662d-4ce4-89a6-c4c2e8e1b122",
+      "text": "あぁんもう！船長は、キミたちをそんな子に育てた覚えはありません！",
+      "start": 232.35,
+      "end": 236.63,
+      "translations": {
+        "en": "Oh, honestly! Your captain doesn't remember raising you to behave like that!"
+      },
+      "furigana": [
+        [
+          "あぁんもう！",
+          null
+        ],
+        [
+          "船長",
+          "せんちょう"
+        ],
+        [
+          "は、キミたちをそんな",
+          null
+        ],
+        [
+          "子",
+          "こ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "育てた",
+          "そだてた"
+        ],
+        [
+          "覚え",
+          "おぼえ"
+        ],
+        [
+          "はありません！",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "af8ff802-6d67-4389-ac26-4c2f83939417",
+      "text": "ほんとにぃ〜〜、めっ、だぞ",
+      "start": 236.63,
+      "end": 239.97,
+      "translations": {
+        "en": "Really now... naughty, naughty!"
+      },
+      "furigana": [
+        [
+          "ほんとにぃ〜〜、めっ、だぞ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d681ffcd-1ab4-4bc4-ac73-83e958a68e69",
+      "text": "立てば痴女 座れば昭和 歩く姿はセンシティブ...",
+      "start": 239.97,
+      "end": 244.87,
+      "translations": {
+        "en": "Standing, she's a shameless perv; sitting, she's straight out of the Showa era; walking, she's too risqué..."
+      },
+      "furigana": [
+        [
+          "立てば",
+          "たてば"
+        ],
+        [
+          "痴女",
+          "ちじょ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "座れば",
+          "すわれば"
+        ],
+        [
+          "昭和",
+          "しょうわ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "歩く",
+          "あるく"
+        ],
+        [
+          "姿",
+          "すがた"
+        ],
+        [
+          "はセンシティブ...",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a623b486-9395-4b33-833b-db67dcd3ecf8",
+      "text": "夢を見よう この船で 後悔なんてさせない",
+      "start": 244.87,
+      "end": 250.35,
+      "translations": {
+        "en": "Let's dream aboard this ship—I won't let you regret a thing"
+      },
+      "furigana": [
+        [
+          "夢",
+          "ゆめ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "見よう",
+          "みよう"
+        ],
+        [
+          " この",
+          null
+        ],
+        [
+          "船",
+          "ふね"
+        ],
+        [
+          "で ",
+          null
+        ],
+        [
+          "後悔",
+          "こうかい"
+        ],
+        [
+          "なんてさせない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c0e24941-5295-40d4-93d5-86fbab005daf",
+      "text": "キミたちのおかげで私は 船長になれるから",
+      "start": 250.35,
+      "end": 256.66,
+      "translations": {
+        "en": "Because it's thanks to all of you that I get to be a captain"
+      },
+      "furigana": [
+        [
+          "キミたちのおかげで",
+          null
+        ],
+        [
+          "私",
+          "わたし"
+        ],
+        [
+          "は ",
+          null
+        ],
+        [
+          "船長",
+          "せんちょう"
+        ],
+        [
+          "になれるから",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1eb936c5-2e07-401d-b06f-dc47c4212299",
+      "text": "「ミラクル船長キャノン、打てーー！」",
+      "start": 256.66,
+      "end": 259.46,
+      "translations": {
+        "en": "“Miracle Captain Cannon—fire!”"
+      },
+      "furigana": [
+        [
+          "「ミラクル",
+          null
+        ],
+        [
+          "船長",
+          "せんちょう"
+        ],
+        [
+          "キャノン、",
+          null
+        ],
+        [
+          "打て",
+          "うて"
+        ],
+        [
+          "ーー！」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6698cacd-964f-4cec-9553-445c57654fb2",
+      "text": "「ブヒィィィィィィ〜〜〜」",
+      "start": 259.46,
+      "end": 261.65,
+      "translations": {
+        "en": "“Oiiiiiiink!”"
+      },
+      "furigana": [
+        [
+          "「ブヒィィィィィィ〜〜〜」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5807bae0-9d3b-40c2-8f5e-9386f25a15ce",
+      "text": "声を上げて さぁ出航だ 我ら 宝鐘海賊団",
+      "start": 261.65,
+      "end": 267.47,
+      "translations": {
+        "en": "Raise your voices, it's time to set sail! We are the Houshou Pirates!"
+      },
+      "furigana": [
+        [
+          "声",
+          "こえ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "上げて",
+          "あげて"
+        ],
+        [
+          " さぁ",
+          null
+        ],
+        [
+          "出航",
+          "しゅっこう"
+        ],
+        [
+          "だ ",
+          null
+        ],
+        [
+          "我ら",
+          "われら"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "宝鐘海賊団",
+          "ほうしょうかいぞくだん"
+        ]
+      ]
+    },
+    {
+      "id": "623f7112-4620-491e-8273-f9d7c559747e",
+      "text": "コンパス片手に旗を揚げ この海をジャックしちゃおう (Go Go!)",
+      "start": 267.47,
+      "end": 273.52,
+      "translations": {
+        "en": "Compass in hand, hoist the flag—let's take over these seas! (Go, go!)"
+      },
+      "furigana": [
+        [
+          "コンパス",
+          null
+        ],
+        [
+          "片手",
+          "かたて"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "旗",
+          "はた"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "揚げ",
+          "あげ"
+        ],
+        [
+          " この",
+          null
+        ],
+        [
+          "海",
+          "うみ"
+        ],
+        [
+          "をジャックしちゃおう (Go Go!)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3a103579-012f-4bbc-b21d-315d5ab253cf",
+      "text": "ヨーソロー！ついておいで 共に Yo-Ho Yo-Ho 叫ぼう",
+      "start": 273.52,
+      "end": 279.09,
+      "translations": {
+        "en": "Steady as she goes! Follow me, and let's shout yo-ho, yo-ho together!"
+      },
+      "furigana": [
+        [
+          "ヨーソロー！ついておいで ",
+          null
+        ],
+        [
+          "共に",
+          "ともに"
+        ],
+        [
+          " Yo-Ho Yo-Ho ",
+          null
+        ],
+        [
+          "叫ぼう",
+          "さけぼう"
+        ]
+      ]
+    },
+    {
+      "id": "9c88ac19-ecbe-4184-906c-b16caba39caf",
+      "text": "嗚呼 最高の日々 ようこそ我が船へ",
+      "start": 279.09,
+      "end": 287.83,
+      "translations": {
+        "en": "Ah, these are the best of days—welcome aboard my ship!"
+      },
+      "furigana": [
+        [
+          "嗚呼",
+          "ああ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "最高",
+          "さいこう"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "日々",
+          "ひび"
+        ],
+        [
+          " ようこそ",
+          null
+        ],
+        [
+          "我が",
+          "わが"
+        ],
+        [
+          "船",
+          "ふね"
+        ],
+        [
+          "へ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0f5a3dd4-a30b-40d0-afc4-234737b8d0e3",
+      "text": "宝鐘の海賊団",
+      "start": 287.83,
+      "end": 293.55,
+      "translations": {
+        "en": "The Houshou Pirates!"
+      },
+      "furigana": [
+        [
+          "宝鐘",
+          "ほうしょう"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "海賊団",
+          "かいぞくだん"
+        ]
+      ]
+    },
+    {
+      "id": "faa10c57-a891-4d50-bcbb-8c0fb4a539ff",
+      "text": "「それでは行きますよ〜〜！出航〜！」（ヨーソロー！）",
+      "start": 293.55,
+      "end": 300.45,
+      "translations": {
+        "en": "“All right, here we go! Set sail!” (Steady as she goes!)"
+      },
+      "furigana": [
+        [
+          "「それでは",
+          null
+        ],
+        [
+          "行きます",
+          "いきます"
+        ],
+        [
+          "よ〜〜！",
+          null
+        ],
+        [
+          "出航",
+          "しゅっこう"
+        ],
+        [
+          "〜！」（ヨーソロー！）",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "eaf54515-a896-4ea7-91bb-f21e1783ceac",
+      "text": "",
+      "start": 300.45,
+      "end": null,
+      "translations": {
+        "en": ""
+      },
+      "furigana": []
+    }
+  ]
+}
