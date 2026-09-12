@@ -23,7 +23,7 @@
     return value;
   }
   function titleSlug(title) {
-    const slug = title.normalize('NFC').toLowerCase().replace(/\s+/gu, '-').replace(/[^\p{L}\p{M}\p{N}-]/gu, '').replace(/-+/g, '-').replace(/^-|-$/g, '');
+    const slug = title.normalize('NFC').toLowerCase().replace(/\s+/gu, '-').replace(/[^\p{L}\p{M}\p{N}-]/gu, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
     // Leave room for the video ID within a filesystem's 255-byte component limit.
     let result = '';
     for (const character of slug) {
