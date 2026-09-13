@@ -1,51 +1,31 @@
 # ルンルンKARAOKE Lyrics Catalog
 
-Public lyrics and translation catalog for ルンルンKARAOKE.
+Set up your own public lyrics and translation repository for ルンルンKARAOKE.
 
-Repository: `tkemperman/runrun-karaoke-lyrics-catalog`  
-Branch: `main`
+## Setup
 
-The included GitHub Action validates project files and updates `index.json` after uploads.
+1. **Fork this repository.** Click [Fork](https://github.com/tkemperman/runrun-karaoke-lyrics-catalog/fork), select your account, and create the fork. Use your fork's name in step 4. A local clone is optional; the extension uploads directly to GitHub. To start with an empty catalog, use the add-on's `lyrics-repository-template/` instead.
 
-In ルンルンKARAOKE Settings, set the retrieval repository and branch. For uploads, set the upload repository and branch separately and save a fine-grained GitHub personal access token restricted to that repository with **Contents: read and write**. Blank token input keeps the saved token; the remove checkbox deletes it. Never commit your token. Public retrieval never uses it.
+2. **Enable GitHub Actions.** In your repository, open **Actions** and enable workflows if prompted. Run **Update lyrics catalog → Run workflow** on `main` and wait for it to finish successfully.
 
-In the YouTube lyrics editor, open **Lyrics repositories · GitHub**. **Search repository** fetches `index.json`, initially showing projects for the current video. A title, artist or video ID filter searches the entire catalog. Loading requires the matching YouTube video and confirms replacement of existing work. There is no background polling or automatic replacement.
+3. **Create a GitHub token.** Open [Fine-grained personal access tokens](https://github.com/settings/personal-access-tokens) and click **Generate new token**. Give it a name and expiration date, select your account as **Resource owner**, and choose **Only select repositories → your new repository**. Under **Repository permissions**, set **Contents → Read and write**, then generate and copy the token. [GitHub's token guide](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) has more detail.
 
-**Publish project to GitHub** confirms the exact repository, branch and filename before uploading the complete schema 3 project. Files use `translations/SANITIZED_VIDEO_TITLE-VIDEO_ID/LANGUAGE.json`: one project per video and selected translation language, containing all translation languages present in that project. Re-publishing updates that file. Concurrent changes cause an error; check and publish again. Other contributors need write access and their own token; this version does not create forks or pull requests.
+4. **Configure ルンルンKARAOKE.** Open the extension's **Settings → Lyrics repositories · GitHub** and enter:
 
-A push to `translations/` triggers the included Action, which validates every project and regenerates `index.json`. Allow the Action to finish and raw GitHub caches to refresh before searching again. Failed validation leaves the previous index intact; inspect the workflow logs, fix the file, and rerun. Protected branches or read-only workflow permissions can prevent index commits. The Action never publishes lyrics by itself.
+   | Field | Value |
+   | --- | --- |
+   | Retrieval repository | `YOUR-USERNAME/YOUR-REPOSITORY` |
+   | Retrieval branch | `main` |
+   | Upload repository | `YOUR-USERNAME/YOUR-REPOSITORY` |
+   | Upload branch | `main` |
+   | GitHub token | The token you just copied |
+
+   Settings save automatically when you leave a field. Keep the token private; never add it to the repository.
+
+5. **Publish or load lyrics.** On YouTube, open the lyrics editor and expand **Lyrics repositories · GitHub**. Use **Publish project to GitHub** to upload your project. After the repository's Action finishes, use **Search repository** to find and load it.
 
 ## License
 
-The software and technical documentation are available under the [MIT License](LICENSE),
-so you can reuse the code to set up your own lyrics and translation repository.
-
-**Song lyrics and translations are not covered by the MIT License.** Rights remain
-with the respective rights holders; this repository grants no license to that
-content. See [CONTENT_NOTICE.md](CONTENT_NOTICE.md) for details.
-
-## Format
-
-Project files use the add-on's JSON export schema (1 imports migrate to 2). Keep `scripts/core.js` and `scripts/repositories.js` aligned with the add-on when upgrading validation. The generated index has its own schema version:
-
-```json
-{
-  "schemaVersion": 1,
-  "entries": [
-    {
-      "file": "translations/abcdefghijk/en.json",
-      "videoId": "abcdefghijk",
-      "title": "Example song",
-      "artist": "Example artist",
-      "originalLanguage": "ja",
-      "translationLanguage": "en"
-    }
-  ]
-}
-```
-
-Generate locally with `node scripts/build-index.js` (Node 22 or newer). Paths must stay within `translations/`; files and catalog must not exceed 3 MB. See [CONTENT_NOTICE.md](CONTENT_NOTICE.md) for the rights notice covering lyrics and translations.
-
-Folder titles come from the YouTube video, not the lyric/translation title, and precede the video ID for alphabetical sorting. They use lowercase Unicode letters and numbers, preserving Japanese; whitespace and punctuation become single hyphens. Matching and loading use the exact YouTube video ID regardless of title changes.
-
-Project JSON includes `videoUrl`, derived from `videoId`, and `videoTitle`, the full original YouTube title with punctuation and case preserved. The lyric `title` remains separate; only folder names are sanitized.
+Code and technical documentation are licensed under [MIT](LICENSE).
+**Lyrics and translations are excluded**; rights remain with their respective
+rights holders. See [CONTENT_NOTICE.md](CONTENT_NOTICE.md).
