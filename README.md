@@ -15,6 +15,15 @@ In the YouTube lyrics editor, open **Lyrics repositories · GitHub**. **Search r
 
 A push to `translations/` triggers the included Action, which validates every project and regenerates `index.json`. Allow the Action to finish and raw GitHub caches to refresh before searching again. Failed validation leaves the previous index intact; inspect the workflow logs, fix the file, and rerun. Protected branches or read-only workflow permissions can prevent index commits. The Action never publishes lyrics by itself.
 
+## License
+
+The software and technical documentation are available under the [MIT License](LICENSE),
+so you can reuse the code to set up your own lyrics and translation repository.
+
+**Song lyrics and translations are not covered by the MIT License.** Rights remain
+with the respective rights holders; this repository grants no license to that
+content. See [CONTENT_NOTICE.md](CONTENT_NOTICE.md) for details.
+
 ## Format
 
 Project files use the add-on's JSON export schema (1 imports migrate to 2). Keep `scripts/core.js` and `scripts/repositories.js` aligned with the add-on when upgrading validation. The generated index has its own schema version:
@@ -35,7 +44,7 @@ Project files use the add-on's JSON export schema (1 imports migrate to 2). Keep
 }
 ```
 
-Generate locally with `node scripts/build-index.js` (Node 22 or newer). Paths must stay within `translations/`; files and catalog must not exceed 3 MB. This template contains no lyrics. Choose appropriate terms for the content you add; the add-on's code license does not automatically license song lyrics.
+Generate locally with `node scripts/build-index.js` (Node 22 or newer). Paths must stay within `translations/`; files and catalog must not exceed 3 MB. See [CONTENT_NOTICE.md](CONTENT_NOTICE.md) for the rights notice covering lyrics and translations.
 
 Folder titles come from the YouTube video, not the lyric/translation title, and precede the video ID for alphabetical sorting. They use lowercase Unicode letters and numbers, preserving Japanese; whitespace and punctuation become single hyphens. Matching and loading use the exact YouTube video ID regardless of title changes.
 
