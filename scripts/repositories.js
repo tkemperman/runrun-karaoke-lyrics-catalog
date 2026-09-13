@@ -92,14 +92,22 @@
     if (existing && (existing.type !== 'file' || !/^[a-f0-9]{40,64}$/.test(existing.sha))) throw new Error('Invalid upload destination.');
     return { file: d.file, sha: existing?.sha || null };
   }
+  async function commitIdentity(token) {
+    const user = await json('https://api.github.com/user', { headers: auth(token) });
+    if (!user || typeof user.login !== 'string' || !/^[A-Za-z0-9][A-Za-z0-9-]*$/.test(user.login) || !Number.isSafeInteger(user.id) || user.id <= 0) throw new Error('Could not determine a safe GitHub commit identity.');
+    // Never use the account email returned by GitHub: it may be private.
+    const email = `${user.id}+${user.login}@users.noreply.github.com`;
+    return { name: user.login, email };
+  }
   async function publish(source, token, value, sha, videoTitle) {
     const d = destination(source, value, videoTitle);
     if (sha !== null && (typeof sha !== 'string' || !/^[a-f0-9]{40,64}$/.test(sha))) throw new Error('Check the upload destination again.');
     const text = JSON.stringify(d.project, null, 2) + '\n';
     const bytes = new TextEncoder().encode(text);
     if (bytes.length > 3000000) throw new Error('Project exceeds 3 MB.');
+    const identity = await commitIdentity(token);
     let binary = ''; for (const byte of bytes) binary += String.fromCharCode(byte);
-    await json(d.url, { method: 'PUT', headers: { ...auth(token), 'Content-Type': 'application/json' }, body: JSON.stringify({ message: `Publish karaoke: ${d.project.videoId} (${d.project.translationLanguage})`, content: btoa(binary), branch: source.branch, ...(sha ? { sha } : {}) }) });
+    await json(d.url, { method: 'PUT', headers: { ...auth(token), 'Content-Type': 'application/json' }, body: JSON.stringify({ author: identity, committer: identity, message: `Publish karaoke: ${d.project.videoId} (${d.project.translationLanguage})`, content: btoa(binary), branch: source.branch, ...(sha ? { sha } : {}) }) });
     return { file: d.file };
   }
   const api = { repository, settings, path, titleSlug, cleanProject, entry, index, catalog, retrieve, inspect, publish };
