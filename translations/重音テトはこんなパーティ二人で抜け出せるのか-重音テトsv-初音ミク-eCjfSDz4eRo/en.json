@@ -1,0 +1,1448 @@
+{
+  "schemaVersion": 3,
+  "videoId": "eCjfSDz4eRo",
+  "videoUrl": "https://www.youtube.com/watch?v=eCjfSDz4eRo",
+  "videoTitle": "重音テトはこんなパーティ二人で抜け出せるのか／重音テトSV＆初音ミク",
+  "title": "重音テトはこんなパーティ二人で抜け出せるのか (feat. 重音テト & 初音ミク)",
+  "artist": "かてらざわ, 重音テト, 初音ミク",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/23542163"
+  },
+  "blocks": [
+    {
+      "id": "c1d88855-c98f-403e-90ba-9dd9f54b4c5c",
+      "text": "ねぇねぇ",
+      "start": 0.38,
+      "end": 0.71,
+      "translations": {
+        "en": "Hey, hey"
+      }
+    },
+    {
+      "id": "38d57eb2-6d6a-4197-a28a-9fc3dee697e2",
+      "text": "こんなパーティ二人で抜け",
+      "start": 0.71,
+      "end": 1.96,
+      "translations": {
+        "en": "Let's slip away from this party together—"
+      },
+      "furigana": [
+        [
+          "こんなパーティ",
+          null
+        ],
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "抜け",
+          "ぬけ"
+        ]
+      ]
+    },
+    {
+      "id": "5db83608-fbb2-4711-8670-d6ea97a3952f",
+      "text": "出さない？",
+      "start": 1.96,
+      "end": 2.61,
+      "translations": {
+        "en": "Shall we?"
+      },
+      "furigana": [
+        [
+          "出さない",
+          "ださない"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "994e2ffa-05f6-43a2-b2f5-196d149fc6c8",
+      "text": "",
+      "start": 2.61,
+      "end": 3.18,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "a6a99f67-ac50-439b-859e-3f316ddd791d",
+      "text": "ごめんなさい",
+      "start": 3.18,
+      "end": 4.5,
+      "translations": {
+        "en": "I'm sorry"
+      }
+    },
+    {
+      "id": "ec383381-23f0-44e9-8179-f5a0d40422f7",
+      "text": "これからこのパーティの",
+      "start": 4.5,
+      "end": 5.62,
+      "translations": {
+        "en": "This party's"
+      }
+    },
+    {
+      "id": "1c03efb0-fcf2-4a6d-8241-08c2e522a5b6",
+      "text": "メインイベント",
+      "start": 5.62,
+      "end": 6.45,
+      "translations": {
+        "en": "Main event,"
+      }
+    },
+    {
+      "id": "2dee0b36-de5d-4da9-a1a4-299db7b8b013",
+      "text": "「ミュージシャンのTシャツと",
+      "start": 6.45,
+      "end": 8,
+      "translations": {
+        "en": "“Wearing a musician's T-shirt"
+      }
+    },
+    {
+      "id": "7ad207aa-4fd1-4028-9511-c8add0ec988e",
+      "text": "かわいい下着を着けた",
+      "start": 8,
+      "end": 9.33,
+      "translations": {
+        "en": "And cute underwear,"
+      },
+      "furigana": [
+        [
+          "かわいい",
+          null
+        ],
+        [
+          "下着",
+          "したぎ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "着けた",
+          "つけた"
+        ]
+      ]
+    },
+    {
+      "id": "7a1ba85a-f6d9-4fa8-affe-e8beaab72243",
+      "text": "不良のバンジージャンプ」",
+      "start": 9.33,
+      "end": 10.18,
+      "translations": {
+        "en": "A punk goes bungee jumping,”"
+      },
+      "furigana": [
+        [
+          "不良",
+          "ふりょう"
+        ],
+        [
+          "のバンジージャンプ」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c551d366-1496-4654-9cf4-078cb246b78d",
+      "text": "が始まるので",
+      "start": 10.18,
+      "end": 11.19,
+      "translations": {
+        "en": "Is about to start, so"
+      },
+      "furigana": [
+        [
+          "が",
+          null
+        ],
+        [
+          "始まる",
+          "はじまる"
+        ],
+        [
+          "ので",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "718916a5-ddb6-4137-a8bc-4351571c493e",
+      "text": "抜け出すことはできません",
+      "start": 11.19,
+      "end": 13.8,
+      "translations": {
+        "en": "I can't slip away"
+      },
+      "furigana": [
+        [
+          "抜け出す",
+          "ぬけだす"
+        ],
+        [
+          "ことはできません",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0bca601a-bbc9-4c34-a10e-fb6bb2cc0aa3",
+      "text": "",
+      "start": 13.8,
+      "end": 14.15,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "7817b7d6-7247-4738-89b8-f40f5351ca9b",
+      "text": "え？え？え？",
+      "start": 14.15,
+      "end": 15.19,
+      "translations": {
+        "en": "Huh? Huh? Huh?"
+      }
+    },
+    {
+      "id": "e8f2366e-346e-4154-ba6c-0d7f96f95047",
+      "text": "このパーティ",
+      "start": 15.19,
+      "end": 15.56,
+      "translations": {
+        "en": "This party"
+      }
+    },
+    {
+      "id": "03ce4dc9-5e6c-4235-9bad-987be500ffa3",
+      "text": "",
+      "start": 15.56,
+      "end": 15.79,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "58246413-51b1-4163-9f6d-35bd8370fb20",
+      "text": "バンTパンティ",
+      "start": 15.79,
+      "end": 16.49,
+      "translations": {
+        "en": "Band tees, panties"
+      }
+    },
+    {
+      "id": "6d772110-fd45-4ebe-a93f-b0530e1f3379",
+      "text": "ヤンキーバンジー",
+      "start": 16.49,
+      "end": 17.32,
+      "translations": {
+        "en": "Punk bungee"
+      }
+    },
+    {
+      "id": "64d972e7-4a3e-4197-912b-bc773ba9e4f3",
+      "text": "パーティだったんだ",
+      "start": 17.32,
+      "end": 18.52,
+      "translations": {
+        "en": "So that's the kind of party it was"
+      }
+    },
+    {
+      "id": "ad4757f6-7890-402d-b3a0-e5b6cd5f569f",
+      "text": "",
+      "start": 18.52,
+      "end": 18.92,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "c1c3bd05-d46f-4505-8979-5e96d1115a0b",
+      "text": "バンTパンティ",
+      "start": 18.92,
+      "end": 19.65,
+      "translations": {
+        "en": "Band tees, panties"
+      }
+    },
+    {
+      "id": "047f0b47-1d24-4c9e-94ce-4c88415777ea",
+      "text": "ヤンキーバンジー",
+      "start": 19.65,
+      "end": 20.32,
+      "translations": {
+        "en": "Punk bungee"
+      }
+    },
+    {
+      "id": "06404c35-5d5e-43d9-8652-6ca2bb501280",
+      "text": "パーティなら仕方がない",
+      "start": 20.32,
+      "end": 21.37,
+      "translations": {
+        "en": "If that's the party, it can't be helped"
+      },
+      "furigana": [
+        [
+          "パーティなら",
+          null
+        ],
+        [
+          "仕方がない",
+          "しかたがない"
+        ]
+      ]
+    },
+    {
+      "id": "abbccc8f-ec1c-4dac-a4a3-d1c3c425587a",
+      "text": "",
+      "start": 21.37,
+      "end": 21.85,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "6bda5cc8-7858-4057-ad43-806b37343922",
+      "text": "バンTパンティ",
+      "start": 21.85,
+      "end": 22.63,
+      "translations": {
+        "en": "Band tees, panties"
+      }
+    },
+    {
+      "id": "d2276c65-74f8-44f1-8be0-f1d6e79a0733",
+      "text": "ヤンキーバンジー",
+      "start": 22.63,
+      "end": 23.51,
+      "translations": {
+        "en": "Punk bungee"
+      }
+    },
+    {
+      "id": "f81b0aec-3819-4483-b9ac-ef2443a99744",
+      "text": "パーティだって知ってたら",
+      "start": 23.51,
+      "end": 25.07,
+      "translations": {
+        "en": "If I'd known it was that kind of party"
+      },
+      "furigana": [
+        [
+          "パーティだって",
+          null
+        ],
+        [
+          "知って",
+          "しって"
+        ],
+        [
+          "たら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "365c7c8c-e39f-4323-b492-d80c0a1dcfdc",
+      "text": "私も最前に陣取ったのにな",
+      "start": 25.07,
+      "end": 27.55,
+      "translations": {
+        "en": "I'd have staked out a spot right up front, too"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "最前",
+          "さいぜん"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "陣取った",
+          "じんどった"
+        ],
+        [
+          "のにな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a49147f9-6bce-433b-9727-27cf9a815734",
+      "text": "リベンジ",
+      "start": 27.55,
+      "end": 29.02,
+      "translations": {
+        "en": "I'll try again!"
+      }
+    },
+    {
+      "id": "9036efe2-8986-41f3-b41f-0f0bdfed7fad",
+      "text": "",
+      "start": 29.02,
+      "end": 29.23,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "1dabea90-abc6-43c3-a31d-70dd5568f10d",
+      "text": "Hey Hey",
+      "start": 29.23,
+      "end": 30.08,
+      "translations": {
+        "en": "Hey Hey"
+      }
+    },
+    {
+      "id": "389e10bc-784b-4a79-b7ed-e7b6f28b64db",
+      "text": "こんなパーティ二人で抜け",
+      "start": 30.08,
+      "end": 31.63,
+      "translations": {
+        "en": "Let's slip away from this party together—"
+      },
+      "furigana": [
+        [
+          "こんなパーティ",
+          null
+        ],
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "抜け",
+          "ぬけ"
+        ]
+      ]
+    },
+    {
+      "id": "8bf1106a-c012-4d24-8028-90a86b649f67",
+      "text": "出さない？",
+      "start": 31.63,
+      "end": 31.87,
+      "translations": {
+        "en": "Shall we?"
+      },
+      "furigana": [
+        [
+          "出さない",
+          "ださない"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7328b53e-9689-4b2e-a691-74f47d5d0fb1",
+      "text": "",
+      "start": 31.87,
+      "end": 32.68,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "e44738a4-bee2-4bc5-8d29-90c350470235",
+      "text": "ごめんなさい",
+      "start": 32.68,
+      "end": 33.85,
+      "translations": {
+        "en": "I'm sorry"
+      }
+    },
+    {
+      "id": "ca982472-b419-4aff-bffb-982cd636680a",
+      "text": "これからこのパーティの",
+      "start": 33.85,
+      "end": 34.94,
+      "translations": {
+        "en": "This party's"
+      }
+    },
+    {
+      "id": "7c6bf4aa-13de-4144-a928-0705885bd118",
+      "text": "ヘッドライナー",
+      "start": 34.94,
+      "end": 35.84,
+      "translations": {
+        "en": "Headliner,"
+      }
+    },
+    {
+      "id": "4d231076-58d3-4882-968e-26ff5882d49b",
+      "text": "「とても痩せていて",
+      "start": 35.84,
+      "end": 36.63,
+      "translations": {
+        "en": "“Very skinny"
+      },
+      "furigana": [
+        [
+          "「とても",
+          null
+        ],
+        [
+          "痩せて",
+          "やせて"
+        ],
+        [
+          "いて",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0edafce7-cd70-45ee-9ec5-15e8b0dc34ba",
+      "text": "女の子っぽいファッションをした",
+      "start": 36.63,
+      "end": 38.26,
+      "translations": {
+        "en": "And dressed in girly clothes,"
+      },
+      "furigana": [
+        [
+          "女の子っぽい",
+          "おんなのこっぽい"
+        ],
+        [
+          "ファッションをした",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2c48852c-443d-444c-859e-0496bbe48258",
+      "text": "手先が寒さで震える兵士」",
+      "start": 38.26,
+      "end": 39.66,
+      "translations": {
+        "en": "A soldier whose hands tremble from the cold,”"
+      },
+      "furigana": [
+        [
+          "手先",
+          "てさき"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "寒さ",
+          "さむさ"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "震える",
+          "ふるえる"
+        ],
+        [
+          "兵士",
+          "へいし"
+        ],
+        [
+          "」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "19517b8d-4657-45da-8f75-f6bc8c588ca5",
+      "text": "が登場するので、",
+      "start": 39.66,
+      "end": 40.62,
+      "translations": {
+        "en": "Is about to appear, so"
+      },
+      "furigana": [
+        [
+          "が",
+          null
+        ],
+        [
+          "登場",
+          "とうじょう"
+        ],
+        [
+          "するので、",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e8f32284-7711-44e3-99a1-cf189ca70784",
+      "text": "抜け出すことはできません",
+      "start": 40.62,
+      "end": 43.27,
+      "translations": {
+        "en": "I can't slip away"
+      },
+      "furigana": [
+        [
+          "抜け出す",
+          "ぬけだす"
+        ],
+        [
+          "ことはできません",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "70fb3df6-8afa-494f-a294-612a6f2071df",
+      "text": "",
+      "start": 43.27,
+      "end": 43.6,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "99269a29-d276-4079-a856-4ff8df46c8d2",
+      "text": "え？え？え？",
+      "start": 43.6,
+      "end": 44.45,
+      "translations": {
+        "en": "Huh? Huh? Huh?"
+      }
+    },
+    {
+      "id": "be5e155b-3cca-427c-a034-f05c4dca9d2c",
+      "text": "このパーティ",
+      "start": 44.45,
+      "end": 44.97,
+      "translations": {
+        "en": "This party"
+      }
+    },
+    {
+      "id": "f9824529-530b-4923-ad5f-2ed27b6f6ad7",
+      "text": "",
+      "start": 44.97,
+      "end": 45.31,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "8eb7e71a-2c19-43a6-be58-17a057a9aa0c",
+      "text": "ガリガリガーリー",
+      "start": 45.31,
+      "end": 45.94,
+      "translations": {
+        "en": "Skinny, girly"
+      }
+    },
+    {
+      "id": "56ba210c-6a7c-45b4-af6a-f4140e784999",
+      "text": "かじかみアーミー",
+      "start": 45.94,
+      "end": 46.72,
+      "translations": {
+        "en": "Shivering army"
+      }
+    },
+    {
+      "id": "41a7f8ed-e03a-42a0-9395-cee52918b2c7",
+      "text": "パーティだったんだ",
+      "start": 46.72,
+      "end": 47.58,
+      "translations": {
+        "en": "So that's the kind of party it was"
+      }
+    },
+    {
+      "id": "aed54197-7053-432a-9315-d4442254c6d6",
+      "text": "",
+      "start": 47.58,
+      "end": 48.12,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "3338f2c3-38a5-43ca-90a5-1cb6d99c4ed3",
+      "text": "ガリガリガーリー",
+      "start": 48.12,
+      "end": 49,
+      "translations": {
+        "en": "Skinny, girly"
+      }
+    },
+    {
+      "id": "43baae8a-2814-4b8b-90b8-52e7b230f4f9",
+      "text": "かじかみアーミー",
+      "start": 49,
+      "end": 49.86,
+      "translations": {
+        "en": "Shivering army"
+      }
+    },
+    {
+      "id": "e9664a87-c9ab-4aec-894b-cc2c260352d1",
+      "text": "パーティなら仕方がない",
+      "start": 49.86,
+      "end": 50.87,
+      "translations": {
+        "en": "If that's the party, it can't be helped"
+      },
+      "furigana": [
+        [
+          "パーティなら",
+          null
+        ],
+        [
+          "仕方がない",
+          "しかたがない"
+        ]
+      ]
+    },
+    {
+      "id": "1593897a-b891-4f31-8fa2-0cbde6af2952",
+      "text": "",
+      "start": 50.87,
+      "end": 51.2,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "adeeaacc-2336-48df-88cf-3a090b628723",
+      "text": "ガリガリガーリー",
+      "start": 51.2,
+      "end": 52.07,
+      "translations": {
+        "en": "Skinny, girly"
+      }
+    },
+    {
+      "id": "3abde893-41ba-47ca-8ee5-2240c906bed6",
+      "text": "かじかみアーミー",
+      "start": 52.07,
+      "end": 52.89,
+      "translations": {
+        "en": "Shivering army"
+      }
+    },
+    {
+      "id": "b8807659-fac0-46b8-abec-a274fb1b0e22",
+      "text": "パーティだって知ってたら",
+      "start": 52.89,
+      "end": 54.44,
+      "translations": {
+        "en": "If I'd known it was that kind of party"
+      },
+      "furigana": [
+        [
+          "パーティだって",
+          null
+        ],
+        [
+          "知って",
+          "しって"
+        ],
+        [
+          "たら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5c1f43bb-dfd0-4350-bc53-30f03fb3d7f3",
+      "text": "私もそれなりのおしゃれして",
+      "start": 54.44,
+      "end": 56.18,
+      "translations": {
+        "en": "I'd have dressed up for the occasion, too"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "もそれなりのおしゃれして",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5b14052e-38aa-46ae-8706-a2f5284f4150",
+      "text": "来たのにな",
+      "start": 56.18,
+      "end": 56.74,
+      "translations": {
+        "en": "Before coming here"
+      },
+      "furigana": [
+        [
+          "来た",
+          "きた"
+        ],
+        [
+          "のにな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "aa4b31db-7766-45ce-abfc-bc870a7e4780",
+      "text": "リベンジ",
+      "start": 56.74,
+      "end": 58.68,
+      "translations": {
+        "en": "I'll try again!"
+      }
+    },
+    {
+      "id": "ce89fe9f-f4d0-420b-b6a0-0ecfeb16b0a9",
+      "text": "",
+      "start": 58.68,
+      "end": 59.03,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "4cce2476-3a98-476b-b10e-3bf89c582066",
+      "text": "なあなあ",
+      "start": 59.03,
+      "end": 59.53,
+      "translations": {
+        "en": "Hey, hey"
+      }
+    },
+    {
+      "id": "d5598c48-367d-49f0-be46-f94e11ea9b76",
+      "text": "こんなパーティ二人で抜け",
+      "start": 59.53,
+      "end": 60.66,
+      "translations": {
+        "en": "Let's slip away from this party together—"
+      },
+      "furigana": [
+        [
+          "こんなパーティ",
+          null
+        ],
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "抜け",
+          "ぬけ"
+        ]
+      ]
+    },
+    {
+      "id": "07d55b95-ad62-4dc4-8534-f4b9db06faec",
+      "text": "出さない？",
+      "start": 60.66,
+      "end": 61.44,
+      "translations": {
+        "en": "Shall we?"
+      },
+      "furigana": [
+        [
+          "出さない",
+          "ださない"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9d914ed1-d1d8-4162-88b9-d14e526c0e3d",
+      "text": "",
+      "start": 61.44,
+      "end": 61.93,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "f4a154da-8f33-456c-89af-5e85fde0f15a",
+      "text": "ごめんなさい",
+      "start": 61.93,
+      "end": 63.07,
+      "translations": {
+        "en": "I'm sorry"
+      }
+    },
+    {
+      "id": "8e126e10-2371-45bd-a6c8-10991d61955f",
+      "text": "これからこのパーティの",
+      "start": 63.07,
+      "end": 64.22,
+      "translations": {
+        "en": "This party's"
+      }
+    },
+    {
+      "id": "85af6fc1-7d08-417a-b059-19152c5d95a4",
+      "text": "グランドフィナーレ",
+      "start": 64.22,
+      "end": 65.31,
+      "translations": {
+        "en": "Grand finale,"
+      }
+    },
+    {
+      "id": "3e38b6d1-778f-48ee-9f7a-413383ab78fd",
+      "text": "「コスタリカの隣好きで",
+      "start": 65.31,
+      "end": 66.63,
+      "translations": {
+        "en": "“Fond of Costa Rica's neighbor"
+      },
+      "furigana": [
+        [
+          "「コスタリカの",
+          null
+        ],
+        [
+          "隣",
+          "となり"
+        ],
+        [
+          "好き",
+          "すき"
+        ],
+        [
+          "で",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e083dfc1-cfbf-4ab1-a4bf-ca41954ccd24",
+      "text": "ギャルの踊りをしている",
+      "start": 66.63,
+      "end": 67.65,
+      "translations": {
+        "en": "And doing a party girl's dance,"
+      },
+      "furigana": [
+        [
+          "ギャルの",
+          null
+        ],
+        [
+          "踊り",
+          "おどり"
+        ],
+        [
+          "をしている",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "62d735c7-20ac-4278-8b67-5b22c18ca612",
+      "text": "巨体なピンクの解体SHOW」",
+      "start": 67.65,
+      "end": 69,
+      "translations": {
+        "en": "A giant pink fellow gets taken apart onstage,”"
+      },
+      "furigana": [
+        [
+          "巨体",
+          "きょたい"
+        ],
+        [
+          "なピンクの",
+          null
+        ],
+        [
+          "解体",
+          "かいたい"
+        ],
+        [
+          "SHOW」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2b4b47a1-ee10-4a62-8b2d-4172c93d18e4",
+      "text": "が始まるので",
+      "start": 69,
+      "end": 69.99,
+      "translations": {
+        "en": "Is about to start, so"
+      },
+      "furigana": [
+        [
+          "が",
+          null
+        ],
+        [
+          "始まる",
+          "はじまる"
+        ],
+        [
+          "ので",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c4106503-8f74-452e-90d0-04b6a6cc041c",
+      "text": "抜け出すことはできません",
+      "start": 69.99,
+      "end": 72.43,
+      "translations": {
+        "en": "I can't slip away"
+      },
+      "furigana": [
+        [
+          "抜け出す",
+          "ぬけだす"
+        ],
+        [
+          "ことはできません",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1333cb11-9f9a-4543-998d-56fa4ef46647",
+      "text": "",
+      "start": 72.43,
+      "end": 73.02,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "43175f34-5d8a-4b2d-a3fe-bed9e2fe9927",
+      "text": "え？え？え？",
+      "start": 73.02,
+      "end": 73.93,
+      "translations": {
+        "en": "Huh? Huh? Huh?"
+      }
+    },
+    {
+      "id": "c1d2704f-4beb-42f1-b125-1035c83d2bda",
+      "text": "このパーティ",
+      "start": 73.93,
+      "end": 74.47,
+      "translations": {
+        "en": "This party"
+      }
+    },
+    {
+      "id": "dd975267-18eb-4be3-8ab7-5e57cb72eec0",
+      "text": "",
+      "start": 74.47,
+      "end": 74.73,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "d64b1d1a-50c9-4853-9c65-d660dd961204",
+      "text": "パナマ派パラパラ",
+      "start": 74.73,
+      "end": 75.35,
+      "translations": {
+        "en": "Panama-loving, Para Para-dancing"
+      },
+      "furigana": [
+        [
+          "パナマ",
+          null
+        ],
+        [
+          "派",
+          "は"
+        ],
+        [
+          "パラパラ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "966753df-eeee-4d84-92ff-b482e708e46a",
+      "text": "バーバパパバラバラ",
+      "start": 75.35,
+      "end": 75.98,
+      "translations": {
+        "en": "Barbapapa in pieces"
+      }
+    },
+    {
+      "id": "7c0907f5-a2a7-499d-a029-952a1313fbe1",
+      "text": "パーティだったんだ",
+      "start": 75.98,
+      "end": 77.08,
+      "translations": {
+        "en": "So that's the kind of party it was"
+      }
+    },
+    {
+      "id": "2558b298-d4ea-4458-9a50-f4fc99a6d214",
+      "text": "",
+      "start": 77.08,
+      "end": 77.64,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "0e6ee994-95d6-4544-9326-500b5619d0dd",
+      "text": "パナマ派パラパラ",
+      "start": 77.64,
+      "end": 78.54,
+      "translations": {
+        "en": "Panama-loving, Para Para-dancing"
+      },
+      "furigana": [
+        [
+          "パナマ",
+          null
+        ],
+        [
+          "派",
+          "は"
+        ],
+        [
+          "パラパラ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1238c2f0-1899-4708-a07b-13efdb4123f1",
+      "text": "バーバパパバラバラ",
+      "start": 78.54,
+      "end": 79.29,
+      "translations": {
+        "en": "Barbapapa in pieces"
+      }
+    },
+    {
+      "id": "7dcf3415-f609-4bf6-9229-5184d375b3a9",
+      "text": "パーティなら仕方がない",
+      "start": 79.29,
+      "end": 80.26,
+      "translations": {
+        "en": "If that's the party, it can't be helped"
+      },
+      "furigana": [
+        [
+          "パーティなら",
+          null
+        ],
+        [
+          "仕方がない",
+          "しかたがない"
+        ]
+      ]
+    },
+    {
+      "id": "8161cdcf-9f82-41f7-9d1e-59d92886362e",
+      "text": "",
+      "start": 80.26,
+      "end": 80.66,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "3727b6fa-1233-4077-b317-66ec5a47295c",
+      "text": "パナマ派パラパラ",
+      "start": 80.66,
+      "end": 81.59,
+      "translations": {
+        "en": "Panama-loving, Para Para-dancing"
+      },
+      "furigana": [
+        [
+          "パナマ",
+          null
+        ],
+        [
+          "派",
+          "は"
+        ],
+        [
+          "パラパラ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "15b90558-9df6-415f-a867-2e3cdb7b11ea",
+      "text": "バーバパパバラバラ",
+      "start": 81.59,
+      "end": 82.26,
+      "translations": {
+        "en": "Barbapapa in pieces"
+      }
+    },
+    {
+      "id": "b24ae7ea-3fe5-4112-bae9-2dd8c517bfa7",
+      "text": "パーティだって知ってたら",
+      "start": 82.26,
+      "end": 83.97,
+      "translations": {
+        "en": "If I'd known it was that kind of party"
+      },
+      "furigana": [
+        [
+          "パーティだって",
+          null
+        ],
+        [
+          "知って",
+          "しって"
+        ],
+        [
+          "たら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "72165538-ad16-486a-acd5-03ef00b91b2a",
+      "text": "私も財布に4〜5万入れてきたのにな",
+      "start": 83.97,
+      "end": 86.35,
+      "translations": {
+        "en": "I'd have brought forty or fifty thousand yen in my wallet, too"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "財布",
+          "さいふ"
+        ],
+        [
+          "に4〜5",
+          null
+        ],
+        [
+          "万",
+          "まん"
+        ],
+        [
+          "入れて",
+          "いれて"
+        ],
+        [
+          "きたのにな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "bd53ea0c-6e96-47f3-9760-b624b0c90a4e",
+      "text": "リベンジ",
+      "start": 86.35,
+      "end": 87.84,
+      "translations": {
+        "en": "I'll try again!"
+      }
+    },
+    {
+      "id": "32d408e2-a07e-4737-91b6-a1404d3ebe65",
+      "text": "",
+      "start": 87.84,
+      "end": 88.32,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "ef929ec5-bde8-4541-b3bd-c9608eaf5afc",
+      "text": "オイオイ",
+      "start": 88.32,
+      "end": 88.96,
+      "translations": {
+        "en": "Hey, hey"
+      }
+    },
+    {
+      "id": "3fe1441c-8dda-4986-a155-411f1d59fa74",
+      "text": "こんなパーティ二人で抜け出さない",
+      "start": 88.96,
+      "end": 91.62,
+      "translations": {
+        "en": "Want to slip away from this party together?"
+      },
+      "furigana": [
+        [
+          "こんなパーティ",
+          null
+        ],
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "抜け出さない",
+          "ぬけださない"
+        ]
+      ]
+    },
+    {
+      "id": "678c4af7-03d2-45e5-ae48-70e17513e111",
+      "text": "ごめんなさい",
+      "start": 91.62,
+      "end": 94.96,
+      "translations": {
+        "en": "I'm sorry"
+      }
+    },
+    {
+      "id": "8ff8f1bf-8ca4-4c03-a71b-65fc861acb45",
+      "text": "ごめんなさい",
+      "start": 94.96,
+      "end": 97.06,
+      "translations": {
+        "en": "I'm sorry"
+      }
+    },
+    {
+      "id": "3b454f70-c994-4a31-afbf-f360a2dce65c",
+      "text": "普通に？",
+      "start": 97.06,
+      "end": 97.49,
+      "translations": {
+        "en": "Just a plain no?"
+      },
+      "furigana": [
+        [
+          "普通に",
+          "ふつうに"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "23effac7-e563-40ce-ae71-83193bd28a23",
+      "text": "普通に",
+      "start": 97.49,
+      "end": 98.12,
+      "translations": {
+        "en": "Just a plain no"
+      },
+      "furigana": [
+        [
+          "普通に",
+          "ふつうに"
+        ]
+      ]
+    },
+    {
+      "id": "29d5f235-5a18-4a2a-b252-a4b4a6cb0ce8",
+      "text": "",
+      "start": 98.12,
+      "end": 99.75,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "bb6d20d7-3e94-4a68-a496-e528f2a36419",
+      "text": "まぁまぁまぁ逆に助かるけどね",
+      "start": 99.75,
+      "end": 100.87,
+      "translations": {
+        "en": "Well, well, well, that's actually a relief"
+      },
+      "furigana": [
+        [
+          "まぁまぁまぁ",
+          null
+        ],
+        [
+          "逆に",
+          "ぎゃくに"
+        ],
+        [
+          "助かる",
+          "たすかる"
+        ],
+        [
+          "けどね",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d8d6f339-2ce5-4ea7-9376-0e1a2cd9a46e",
+      "text": "",
+      "start": 100.87,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
