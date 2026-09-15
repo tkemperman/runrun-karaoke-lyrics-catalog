@@ -1,0 +1,739 @@
+{
+  "schemaVersion": 3,
+  "videoId": "qMQ4P-vI3JI",
+  "videoUrl": "https://www.youtube.com/watch?v=qMQ4P-vI3JI",
+  "videoTitle": "Kyoufuu All Back (強風オールバック) / Gawr Gura Cover",
+  "title": "Kyoufuu All Back",
+  "artist": "Yukopi",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/37882194"
+  },
+  "blocks": [
+    {
+      "id": "40eea06e-38e3-4b29-bec5-f42e458a8e73",
+      "text": "外出た瞬間 終わったわ",
+      "start": 0.22,
+      "end": 3.99,
+      "translations": {
+        "en": "The moment I stepped outside, it was all over."
+      },
+      "furigana": [
+        [
+          "外出",
+          "がいしゅつ"
+        ],
+        [
+          "た",
+          null
+        ],
+        [
+          "瞬間",
+          "しゅんかん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "終わった",
+          "おわった"
+        ],
+        [
+          "わ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ce630808-3737-4e01-9d90-f1afabb7ab12",
+      "text": "天気は良いのに 進めない",
+      "start": 3.99,
+      "end": 6.96,
+      "translations": {
+        "en": "The weather's nice, but I can't move forward."
+      },
+      "furigana": [
+        [
+          "天気",
+          "てんき"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "良い",
+          "よい"
+        ],
+        [
+          "のに ",
+          null
+        ],
+        [
+          "進めない",
+          "すすめない"
+        ]
+      ]
+    },
+    {
+      "id": "c5dc2cd2-a393-4003-abaa-86ac91129e79",
+      "text": "風 強すぎて お亡くなり",
+      "start": 6.96,
+      "end": 11.13,
+      "translations": {
+        "en": "The wind's so strong, I'm dead."
+      },
+      "furigana": [
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "強",
+          "きょう"
+        ],
+        [
+          "すぎて お",
+          null
+        ],
+        [
+          "亡",
+          "ぼう"
+        ],
+        [
+          "くなり",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5fe0fbf5-7d72-4f51-86e3-1810d34d998e",
+      "text": "定期 定期 的にオールバック",
+      "start": 11.13,
+      "end": 16.23,
+      "translations": {
+        "en": "Time, time and again, my hair gets blown straight back."
+      },
+      "furigana": [
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "的",
+          "てき"
+        ],
+        [
+          "にオールバック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6bfc8dfb-d246-4280-a4e4-04d83c35ef4c",
+      "text": "",
+      "start": 16.23,
+      "end": 28.62,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "1704cbe2-86eb-4d56-9ff7-21025b7f87dc",
+      "text": "地下に潜りたいな って 思いました",
+      "start": 28.62,
+      "end": 35.94,
+      "translations": {
+        "en": "I thought, I'd really like to hide underground."
+      },
+      "furigana": [
+        [
+          "地下",
+          "ちか"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "潜り",
+          "くぐり"
+        ],
+        [
+          "たいな って ",
+          null
+        ],
+        [
+          "思いました",
+          "おもいました"
+        ]
+      ]
+    },
+    {
+      "id": "c069424b-5bb7-4c5c-ad38-ee69c08e0d01",
+      "text": "風さえなくなれば あったかいのに",
+      "start": 35.94,
+      "end": 43.09,
+      "translations": {
+        "en": "If only the wind would stop, it'd be warm."
+      },
+      "furigana": [
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          "さえなくなれば あったかいのに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4e38bd25-e5a4-472e-be16-1d29571bd7d5",
+      "text": "ずっと座りたいな って 思いました",
+      "start": 43.09,
+      "end": 50.14,
+      "translations": {
+        "en": "I thought, I'd really like to stay sitting forever."
+      },
+      "furigana": [
+        [
+          "ずっと",
+          null
+        ],
+        [
+          "座り",
+          "すわり"
+        ],
+        [
+          "たいな って ",
+          null
+        ],
+        [
+          "思いました",
+          "おもいました"
+        ]
+      ]
+    },
+    {
+      "id": "9c907214-7423-4536-af56-6cfd108d185c",
+      "text": "いやいや と 外でたら",
+      "start": 50.14,
+      "end": 53.58,
+      "translations": {
+        "en": "But I told myself, no, no, and stepped outside—"
+      },
+      "furigana": [
+        [
+          "いやいや と ",
+          null
+        ],
+        [
+          "外",
+          "そと"
+        ],
+        [
+          "でたら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6db15c9b-c162-4a9f-b03f-51c874a344e4",
+      "text": "ハト ハト ハト ハト 大乱闘",
+      "start": 53.58,
+      "end": 56.74,
+      "translations": {
+        "en": "Pigeons, pigeons, pigeons, pigeons—a massive brawl!"
+      },
+      "furigana": [
+        [
+          "ハト ハト ハト ハト ",
+          null
+        ],
+        [
+          "大乱闘",
+          "だいらんとう"
+        ]
+      ]
+    },
+    {
+      "id": "dd952bf9-f3f8-458b-aea2-0e06e5dbfda9",
+      "text": "ああ 外出た瞬間 終わったわ",
+      "start": 56.74,
+      "end": 60.84,
+      "translations": {
+        "en": "Ah, the moment I stepped outside, it was all over."
+      },
+      "furigana": [
+        [
+          "ああ ",
+          null
+        ],
+        [
+          "外出",
+          "がいしゅつ"
+        ],
+        [
+          "た",
+          null
+        ],
+        [
+          "瞬間",
+          "しゅんかん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "終わった",
+          "おわった"
+        ],
+        [
+          "わ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "92778109-a4e1-4256-b69d-880a3b328002",
+      "text": "天気は良いのに 進めない",
+      "start": 60.84,
+      "end": 63.8,
+      "translations": {
+        "en": "The weather's nice, but I can't move forward."
+      },
+      "furigana": [
+        [
+          "天気",
+          "てんき"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "良い",
+          "よい"
+        ],
+        [
+          "のに ",
+          null
+        ],
+        [
+          "進めない",
+          "すすめない"
+        ]
+      ]
+    },
+    {
+      "id": "841f539c-dc32-462a-aae4-c8c5ccb40133",
+      "text": "風 強すぎて お亡くなり",
+      "start": 63.8,
+      "end": 67.8,
+      "translations": {
+        "en": "The wind's so strong, I'm dead."
+      },
+      "furigana": [
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "強",
+          "きょう"
+        ],
+        [
+          "すぎて お",
+          null
+        ],
+        [
+          "亡",
+          "ぼう"
+        ],
+        [
+          "くなり",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4e4a0164-b49c-4fb2-9cd4-0f43877f9847",
+      "text": "定期 定期 的にオールバック",
+      "start": 67.8,
+      "end": 72.75,
+      "translations": {
+        "en": "Time, time and again, my hair gets blown straight back."
+      },
+      "furigana": [
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "的",
+          "てき"
+        ],
+        [
+          "にオールバック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f051c1c4-5552-44b4-b774-4340d1b72b40",
+      "text": "",
+      "start": 72.75,
+      "end": 85.66,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "0690a61c-cc76-454b-b3ad-52fef8f19b30",
+      "text": "外出た瞬間 終わったわ",
+      "start": 85.66,
+      "end": 89.14,
+      "translations": {
+        "en": "The moment I stepped outside, it was all over."
+      },
+      "furigana": [
+        [
+          "外出",
+          "がいしゅつ"
+        ],
+        [
+          "た",
+          null
+        ],
+        [
+          "瞬間",
+          "しゅんかん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "終わった",
+          "おわった"
+        ],
+        [
+          "わ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "db1158f1-3eff-4a99-b01a-dae2b5326990",
+      "text": "天気は良いのに 進めない",
+      "start": 89.14,
+      "end": 92.21,
+      "translations": {
+        "en": "The weather's nice, but I can't move forward."
+      },
+      "furigana": [
+        [
+          "天気",
+          "てんき"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "良い",
+          "よい"
+        ],
+        [
+          "のに ",
+          null
+        ],
+        [
+          "進めない",
+          "すすめない"
+        ]
+      ]
+    },
+    {
+      "id": "5221f19a-264e-450d-95da-ecacac4ba347",
+      "text": "風 強すぎて お亡くなり",
+      "start": 92.21,
+      "end": 96.33,
+      "translations": {
+        "en": "The wind's so strong, I'm dead."
+      },
+      "furigana": [
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "強",
+          "きょう"
+        ],
+        [
+          "すぎて お",
+          null
+        ],
+        [
+          "亡",
+          "ぼう"
+        ],
+        [
+          "くなり",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "af27fee4-bcde-4a89-84a6-611fc3759a9a",
+      "text": "定期 定期 的にオールバック",
+      "start": 96.33,
+      "end": 99.46,
+      "translations": {
+        "en": "Time, time and again, my hair gets blown straight back."
+      },
+      "furigana": [
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "的",
+          "てき"
+        ],
+        [
+          "にオールバック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "351d7918-8f0f-4008-a7fe-ac17560a1e46",
+      "text": "そっ と出た瞬間 終わったわ",
+      "start": 99.46,
+      "end": 103.36,
+      "translations": {
+        "en": "The moment I crept outside, it was all over."
+      },
+      "furigana": [
+        [
+          "そっ と",
+          null
+        ],
+        [
+          "出た",
+          "でた"
+        ],
+        [
+          "瞬間",
+          "しゅんかん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "終わった",
+          "おわった"
+        ],
+        [
+          "わ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0b75b1cc-718e-4771-9f2d-a15d87bdb49d",
+      "text": "天気は良いのに 進めない",
+      "start": 103.36,
+      "end": 106.45,
+      "translations": {
+        "en": "The weather's nice, but I can't move forward."
+      },
+      "furigana": [
+        [
+          "天気",
+          "てんき"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "良い",
+          "よい"
+        ],
+        [
+          "のに ",
+          null
+        ],
+        [
+          "進めない",
+          "すすめない"
+        ]
+      ]
+    },
+    {
+      "id": "41195331-9561-4608-bb3d-1062b39e5287",
+      "text": "風 強すぎて お亡くなり",
+      "start": 106.45,
+      "end": 110.5,
+      "translations": {
+        "en": "The wind's so strong, I'm dead."
+      },
+      "furigana": [
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "強",
+          "きょう"
+        ],
+        [
+          "すぎて お",
+          null
+        ],
+        [
+          "亡",
+          "ぼう"
+        ],
+        [
+          "くなり",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6d8e2e56-f133-40f4-9444-860cb5ba6015",
+      "text": "定期 定期 的にオールバック",
+      "start": 110.5,
+      "end": 114.17,
+      "translations": {
+        "en": "Time, time and again, my hair gets blown straight back."
+      },
+      "furigana": [
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "定期",
+          "ていき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "的",
+          "てき"
+        ],
+        [
+          "にオールバック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6bf740c1-6e0a-4664-806a-09c78bad3b45",
+      "text": "髪の毛 強風オールバック",
+      "start": 114.17,
+      "end": 116.95,
+      "translations": {
+        "en": "My hair's swept straight back by the gale."
+      },
+      "furigana": [
+        [
+          "髪の毛",
+          "かみのけ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "強風",
+          "きょうふう"
+        ],
+        [
+          "オールバック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c787b7b0-9462-480e-9468-dd30f0d9fc5f",
+      "text": "",
+      "start": 116.95,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
