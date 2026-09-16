@@ -1,0 +1,679 @@
+{
+  "schemaVersion": 3,
+  "videoId": "VO-df6nkLhc",
+  "videoUrl": "https://www.youtube.com/watch?v=VO-df6nkLhc",
+  "videoTitle": "Naruto Shippuden - Opening 11 | Assault Rock",
+  "title": "突撃ロック",
+  "artist": "ザ・クロマニヨンズ",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/33768947"
+  },
+  "blocks": [
+    {
+      "id": "ec62e041-fc8c-4687-851f-4a755aa8b316",
+      "text": "永遠です",
+      "start": 3.04,
+      "end": 5.22,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "73958cf2-f844-4428-bebc-4c037a468726",
+      "text": "永遠です",
+      "start": 5.22,
+      "end": 7.61,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a843a020-e81a-4c3b-a727-39871e1d6fc3",
+      "text": "永遠です",
+      "start": 7.61,
+      "end": 10.07,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f9059664-c24d-4d42-b575-e6f0829d548a",
+      "text": "突撃ロック",
+      "start": 10.07,
+      "end": 15.36,
+      "translations": {
+        "en": "Assault rock"
+      },
+      "furigana": [
+        [
+          "突撃",
+          "とつげき"
+        ],
+        [
+          "ロック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "26b8b7ac-68cd-4da0-b1dd-bf565c848c6a",
+      "text": "ずっと 眠ってた",
+      "start": 15.36,
+      "end": 19.95,
+      "translations": {
+        "en": "I'd been asleep all this time"
+      },
+      "furigana": [
+        [
+          "ずっと ",
+          null
+        ],
+        [
+          "眠って",
+          "ねむって"
+        ],
+        [
+          "た",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "83c530ac-b9b9-4313-a2dd-1289494435bd",
+      "text": "ずっと だまってた",
+      "start": 19.95,
+      "end": 24.91,
+      "translations": {
+        "en": "I'd been silent all this time"
+      }
+    },
+    {
+      "id": "91be2dde-5405-443d-bc89-e6d232104b62",
+      "text": "おーい 呼んでいる",
+      "start": 24.91,
+      "end": 27.67,
+      "translations": {
+        "en": "Hey, something's calling"
+      },
+      "furigana": [
+        [
+          "おーい ",
+          null
+        ],
+        [
+          "呼んで",
+          "よんで"
+        ],
+        [
+          "いる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ed7ce734-70b5-4d33-b68d-0939959c9240",
+      "text": "おーい 行ってみよう",
+      "start": 27.67,
+      "end": 29.72,
+      "translations": {
+        "en": "Hey, let's go and see"
+      },
+      "furigana": [
+        [
+          "おーい ",
+          null
+        ],
+        [
+          "行って",
+          "いって"
+        ],
+        [
+          "みよう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "64e15b59-df80-403f-96b3-1c3dd491d2d0",
+      "text": "遠くに何かが見える",
+      "start": 29.72,
+      "end": 34.99,
+      "translations": {
+        "en": "I can see something in the distance"
+      },
+      "furigana": [
+        [
+          "遠く",
+          "とおく"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "何か",
+          "なにか"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "見える",
+          "みえる"
+        ]
+      ]
+    },
+    {
+      "id": "e5e69fb6-fb05-4a90-bc36-4aae4bba4e73",
+      "text": "勉強よりも いま 大切なもの",
+      "start": 34.99,
+      "end": 44.13,
+      "translations": {
+        "en": "Something more important than studying right now"
+      },
+      "furigana": [
+        [
+          "勉強",
+          "べんきょう"
+        ],
+        [
+          "よりも いま ",
+          null
+        ],
+        [
+          "大切",
+          "たいせつ"
+        ],
+        [
+          "なもの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4f1eceb7-bf19-40c6-bf7b-83fe9040ea23",
+      "text": "おーい 呼んでいる",
+      "start": 44.13,
+      "end": 46.82,
+      "translations": {
+        "en": "Hey, something's calling"
+      },
+      "furigana": [
+        [
+          "おーい ",
+          null
+        ],
+        [
+          "呼んで",
+          "よんで"
+        ],
+        [
+          "いる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4dd5e743-653c-43d7-b999-027a8b4d1ea9",
+      "text": "おーい 行ってみよう",
+      "start": 46.82,
+      "end": 49.17,
+      "translations": {
+        "en": "Hey, let's go and see"
+      },
+      "furigana": [
+        [
+          "おーい ",
+          null
+        ],
+        [
+          "行って",
+          "いって"
+        ],
+        [
+          "みよう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2fd4fe32-0a31-44de-b1bc-5eade02caf93",
+      "text": "見つかりそうなんだ",
+      "start": 49.17,
+      "end": 53.69,
+      "translations": {
+        "en": "I feel like I'm about to find it"
+      },
+      "furigana": [
+        [
+          "見",
+          "けん"
+        ],
+        [
+          "つかりそうなんだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d2f6e018-26f5-4017-82d0-9fd9cc9fa044",
+      "text": "永遠です",
+      "start": 53.69,
+      "end": 55.9,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b8966a5e-8d19-4719-92da-15b9933b6e66",
+      "text": "永遠です",
+      "start": 55.9,
+      "end": 58.21,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2facee8d-c51d-4294-bb41-6ae527aad735",
+      "text": "永遠です",
+      "start": 58.21,
+      "end": 60.72,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "90a1cb72-303e-47de-9e49-6b569d7f33d8",
+      "text": "突撃ロック",
+      "start": 60.72,
+      "end": 64.03,
+      "translations": {
+        "en": "Assault rock"
+      },
+      "furigana": [
+        [
+          "突撃",
+          "とつげき"
+        ],
+        [
+          "ロック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a7793859-ec5b-4ac6-a03c-7d7ebdac1e80",
+      "text": "未来はホラ 追いぬいて",
+      "start": 64.03,
+      "end": 73.21,
+      "translations": {
+        "en": "Look, race right past the future"
+      },
+      "furigana": [
+        [
+          "未来",
+          "みらい"
+        ],
+        [
+          "はホラ ",
+          null
+        ],
+        [
+          "追いぬいて",
+          "おいぬいて"
+        ]
+      ]
+    },
+    {
+      "id": "18277c10-1fd3-438b-965b-19713c2bc5d5",
+      "text": "ホントはソラ 飛べる船",
+      "start": 73.21,
+      "end": 85.49,
+      "translations": {
+        "en": "It's really a ship that can fly through the sky"
+      },
+      "furigana": [
+        [
+          "ホントはソラ ",
+          null
+        ],
+        [
+          "飛べ",
+          "とべ"
+        ],
+        [
+          "る",
+          null
+        ],
+        [
+          "船",
+          "ふね"
+        ]
+      ]
+    },
+    {
+      "id": "d89a82ae-20bc-4826-beed-c4e2e4ad09e7",
+      "text": "そっと行くのか",
+      "start": 85.49,
+      "end": 90.16,
+      "translations": {
+        "en": "Are we going to tread softly?"
+      },
+      "furigana": [
+        [
+          "そっと",
+          null
+        ],
+        [
+          "行く",
+          "いく"
+        ],
+        [
+          "のか",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "93bed7c9-e5fb-4dcb-a6bf-5c4e65b14660",
+      "text": "ぱっとやるのさ",
+      "start": 90.16,
+      "end": 94.76,
+      "translations": {
+        "en": "We're going to do it with a bang"
+      }
+    },
+    {
+      "id": "2accc315-00a8-41a6-af11-7649424f4fe1",
+      "text": "おーい 呼んでいる",
+      "start": 94.76,
+      "end": 96.84,
+      "translations": {
+        "en": "Hey, something's calling"
+      },
+      "furigana": [
+        [
+          "おーい ",
+          null
+        ],
+        [
+          "呼んで",
+          "よんで"
+        ],
+        [
+          "いる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e8af5bf4-2e84-48e4-872c-6eb999584a13",
+      "text": "おーい 行ってみよう",
+      "start": 96.84,
+      "end": 99.41,
+      "translations": {
+        "en": "Hey, let's go and see"
+      },
+      "furigana": [
+        [
+          "おーい ",
+          null
+        ],
+        [
+          "行って",
+          "いって"
+        ],
+        [
+          "みよう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "38742dd2-5ceb-4617-be6f-b1f4b4e40cf2",
+      "text": "見つかりそうなんだ",
+      "start": 99.41,
+      "end": 103.77,
+      "translations": {
+        "en": "I feel like I'm about to find it"
+      },
+      "furigana": [
+        [
+          "見",
+          "けん"
+        ],
+        [
+          "つかりそうなんだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f555d750-a5dd-4b67-b48b-f6ab75b42af1",
+      "text": "永遠です",
+      "start": 103.77,
+      "end": 106.21,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e720c972-efb0-4cf1-9e84-1bc90b298471",
+      "text": "永遠です",
+      "start": 106.21,
+      "end": 108.42,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "334b2625-fca6-433d-9d55-65dab298c366",
+      "text": "永遠です",
+      "start": 108.42,
+      "end": 110.74,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "13a7ac63-6033-4ee7-a90f-f3f41f85638a",
+      "text": "突撃ロック",
+      "start": 110.74,
+      "end": 113.44,
+      "translations": {
+        "en": "Assault rock"
+      },
+      "furigana": [
+        [
+          "突撃",
+          "とつげき"
+        ],
+        [
+          "ロック",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2600f185-32f0-4de7-8739-0423b2667da3",
+      "text": "永遠です",
+      "start": 113.44,
+      "end": 117.91,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4b54fcb2-f0d8-40b7-9f73-ea4afbb9e758",
+      "text": "永遠です",
+      "start": 117.91,
+      "end": 122.75,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "53b22e7e-c220-4224-a9ca-47ebe25ec9ff",
+      "text": "永遠です",
+      "start": 122.75,
+      "end": 129.98,
+      "translations": {
+        "en": "It's eternal"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "です",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "97ff1240-e8ff-458a-8ecf-4e9c85189ca2",
+      "text": "突撃ロック.",
+      "start": 129.98,
+      "end": 146.13,
+      "translations": {
+        "en": "Assault rock."
+      },
+      "furigana": [
+        [
+          "突撃",
+          "とつげき"
+        ],
+        [
+          "ロック.",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "91f7e440-f7f1-4184-aee4-7de033323ba0",
+      "text": "",
+      "start": 146.13,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
