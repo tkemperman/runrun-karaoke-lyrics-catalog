@@ -1,0 +1,620 @@
+{
+  "schemaVersion": 3,
+  "videoId": "q23tMvFJPU0",
+  "videoUrl": "https://www.youtube.com/watch?v=q23tMvFJPU0",
+  "videoTitle": "Gura x Ame - Hajimete No Chuu [3D Concert]",
+  "title": "Hajimete No Chuu",
+  "artist": "Anshin Papa",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/32255829"
+  },
+  "blocks": [
+    {
+      "id": "573556c2-7576-42e4-b24a-82da5109748d",
+      "text": "眠れない 夜 君のせいだよ",
+      "start": 10.34,
+      "end": 19.56,
+      "translations": {
+        "en": "I can't sleep tonight, and it's because of you"
+      },
+      "furigana": [
+        [
+          "眠れない",
+          "ねむれない"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "夜",
+          "よる"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "のせいだよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b5a307e6-9889-434d-aef9-d3de5f053cdd",
+      "text": "さっき 別れた ばかりなのに",
+      "start": 19.56,
+      "end": 26.47,
+      "translations": {
+        "en": "Even though we only just said goodbye"
+      },
+      "furigana": [
+        [
+          "さっき ",
+          null
+        ],
+        [
+          "別れた",
+          "わかれた"
+        ],
+        [
+          " ばかりなのに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4d621b5a-1319-422c-b166-80a5306046ae",
+      "text": "耳たぶが for you 燃えている for you",
+      "start": 26.47,
+      "end": 36.79,
+      "translations": {
+        "en": "My earlobes, for you, are burning, for you"
+      },
+      "furigana": [
+        [
+          "耳たぶ",
+          "みみたぶ"
+        ],
+        [
+          "が for you ",
+          null
+        ],
+        [
+          "燃えて",
+          "もえて"
+        ],
+        [
+          "いる for you",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b2e7763b-54b0-4b5a-9cc7-5fac4ec7eadf",
+      "text": "やった やった やったよ ohh",
+      "start": 36.79,
+      "end": 43.58,
+      "translations": {
+        "en": "I did it, I did it, I did it, ohh"
+      }
+    },
+    {
+      "id": "b320b416-93f6-449c-9663-c0144d01ca73",
+      "text": "はじめてのチュウ 君とチュウ",
+      "start": 43.58,
+      "end": 49.32,
+      "translations": {
+        "en": "My very first kiss, a kiss with you"
+      },
+      "furigana": [
+        [
+          "はじめてのチュウ ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "とチュウ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2cea5f3b-8281-4aa8-8100-bb6e14daae2a",
+      "text": "I will give you all my love",
+      "start": 49.32,
+      "end": 53.92,
+      "translations": {
+        "en": "I will give you all my love"
+      }
+    },
+    {
+      "id": "1a27f11b-aae6-48fa-b9a3-352fe93d77d0",
+      "text": "なぜか 優しい 気持ちが oh, いっぱい",
+      "start": 53.92,
+      "end": 61.68,
+      "translations": {
+        "en": "Somehow I'm filled with tender feelings, oh"
+      },
+      "furigana": [
+        [
+          "なぜか ",
+          null
+        ],
+        [
+          "優しい",
+          "やさしい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "気持ち",
+          "きもち"
+        ],
+        [
+          "が oh, いっぱい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "870bac8d-4a97-46b8-8876-bf462a299c6f",
+      "text": "はじめてのチュウ 君とチュウ",
+      "start": 61.68,
+      "end": 67.48,
+      "translations": {
+        "en": "My very first kiss, a kiss with you"
+      },
+      "furigana": [
+        [
+          "はじめてのチュウ ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "とチュウ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ecff4813-5572-4a07-9b3f-3bee589a97cb",
+      "text": "I will give you all my love",
+      "start": 67.48,
+      "end": 71.6,
+      "translations": {
+        "en": "I will give you all my love"
+      }
+    },
+    {
+      "id": "ec355c55-5517-4074-a187-119e74f396f3",
+      "text": "涙が出ちゃう 男のくせに",
+      "start": 71.6,
+      "end": 78.8,
+      "translations": {
+        "en": "I can't help tearing up, even though I'm a guy"
+      },
+      "furigana": [
+        [
+          "涙",
+          "なみだ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "出",
+          "で"
+        ],
+        [
+          "ちゃう ",
+          null
+        ],
+        [
+          "男",
+          "おとこ"
+        ],
+        [
+          "のくせに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "21df110f-d18e-4a2c-9a90-9b019136f6d5",
+      "text": "Be in love with you",
+      "start": 78.8,
+      "end": 95.36,
+      "translations": {
+        "en": "Be in love with you"
+      }
+    },
+    {
+      "id": "4b4e2ad5-f2c1-4b19-b094-3c69f206bc77",
+      "text": "デートコースは もう 決めたんだ",
+      "start": 95.36,
+      "end": 104.53,
+      "translations": {
+        "en": "I've already planned where we'll go on our date"
+      },
+      "furigana": [
+        [
+          "デートコースは もう ",
+          null
+        ],
+        [
+          "決めた",
+          "きめた"
+        ],
+        [
+          "んだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "fa9463e4-abe5-4148-b68c-e64be5ac3dae",
+      "text": "明日の 夢が ふくらんで くる",
+      "start": 104.53,
+      "end": 111.46,
+      "translations": {
+        "en": "My dreams of tomorrow keep growing"
+      },
+      "furigana": [
+        [
+          "明日",
+          "あした"
+        ],
+        [
+          "の ",
+          null
+        ],
+        [
+          "夢",
+          "ゆめ"
+        ],
+        [
+          "が ふくらんで くる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "06b8dda1-0657-448e-86e1-29a19ab6c451",
+      "text": "この愛を to you いつまでも to you",
+      "start": 111.46,
+      "end": 121.72,
+      "translations": {
+        "en": "This love, to you, forever, to you"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "愛",
+          "あい"
+        ],
+        [
+          "を to you いつまでも to you",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8c6cef9a-98e6-4c02-a279-6bd1916494a8",
+      "text": "きっと きっと きっとさ ohh",
+      "start": 121.72,
+      "end": 128.55,
+      "translations": {
+        "en": "For sure, for sure, for sure, ohh"
+      }
+    },
+    {
+      "id": "453ad994-05e6-4a6e-bd0a-c8668e92e81e",
+      "text": "はじめてのチュウ 君とチュウ",
+      "start": 128.55,
+      "end": 134.45,
+      "translations": {
+        "en": "My very first kiss, a kiss with you"
+      },
+      "furigana": [
+        [
+          "はじめてのチュウ ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "とチュウ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5a65d47f-2d5b-4dde-a1f6-81211f3a1438",
+      "text": "I will give you all my love",
+      "start": 134.45,
+      "end": 139.39,
+      "translations": {
+        "en": "I will give you all my love"
+      }
+    },
+    {
+      "id": "2997a0b4-d910-4e8f-9d64-21a220016509",
+      "text": "なぜか 優しい 気持ちが oh, いっぱい",
+      "start": 139.39,
+      "end": 147.07,
+      "translations": {
+        "en": "Somehow I'm filled with tender feelings, oh"
+      },
+      "furigana": [
+        [
+          "なぜか ",
+          null
+        ],
+        [
+          "優しい",
+          "やさしい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "気持ち",
+          "きもち"
+        ],
+        [
+          "が oh, いっぱい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4143959a-095d-425d-ba18-ff012fc2d51c",
+      "text": "はじめてのチュウ 君とチュウ",
+      "start": 147.07,
+      "end": 152.86,
+      "translations": {
+        "en": "My very first kiss, a kiss with you"
+      },
+      "furigana": [
+        [
+          "はじめてのチュウ ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "とチュウ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6067a441-5a4d-4a10-93b6-67dff8a09d90",
+      "text": "I will give you all my love",
+      "start": 152.86,
+      "end": 157.37,
+      "translations": {
+        "en": "I will give you all my love"
+      }
+    },
+    {
+      "id": "746953c7-4630-416d-9930-05f22ff56146",
+      "text": "涙が出ちゃう 男のくせに",
+      "start": 157.37,
+      "end": 164.36,
+      "translations": {
+        "en": "I can't help tearing up, even though I'm a guy"
+      },
+      "furigana": [
+        [
+          "涙",
+          "なみだ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "出",
+          "で"
+        ],
+        [
+          "ちゃう ",
+          null
+        ],
+        [
+          "男",
+          "おとこ"
+        ],
+        [
+          "のくせに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "df40f237-f857-41cd-b92a-80119bb5e529",
+      "text": "Be in love with you",
+      "start": 164.36,
+      "end": 180.32,
+      "translations": {
+        "en": "Be in love with you"
+      }
+    },
+    {
+      "id": "32487c34-d368-4453-8032-d84a739343ee",
+      "text": "はじめてのチュウ 君とチュウ",
+      "start": 180.32,
+      "end": 185.41,
+      "translations": {
+        "en": "My very first kiss, a kiss with you"
+      },
+      "furigana": [
+        [
+          "はじめてのチュウ ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "とチュウ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4ff681d0-0d2f-49f5-a645-da7902765684",
+      "text": "I will give you all my love",
+      "start": 185.41,
+      "end": 190.45,
+      "translations": {
+        "en": "I will give you all my love"
+      }
+    },
+    {
+      "id": "4ff0ee00-fb08-4887-9ae0-ecb14fff0c2c",
+      "text": "なぜか 優しい 気持ちが oh, いっぱい",
+      "start": 190.45,
+      "end": 197.94,
+      "translations": {
+        "en": "Somehow I'm filled with tender feelings, oh"
+      },
+      "furigana": [
+        [
+          "なぜか ",
+          null
+        ],
+        [
+          "優しい",
+          "やさしい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "気持ち",
+          "きもち"
+        ],
+        [
+          "が oh, いっぱい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7cc862db-8073-419b-a57c-3c41a4cce4fc",
+      "text": "はじめてのチュウ 君とチュウ",
+      "start": 197.94,
+      "end": 203.58,
+      "translations": {
+        "en": "My very first kiss, a kiss with you"
+      },
+      "furigana": [
+        [
+          "はじめてのチュウ ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "とチュウ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f78d4588-5fcc-46d1-8786-4841321ea9c2",
+      "text": "I will give you all my love",
+      "start": 203.58,
+      "end": 208.15,
+      "translations": {
+        "en": "I will give you all my love"
+      }
+    },
+    {
+      "id": "bdbd092d-a4c3-4157-b082-83cf9944a74a",
+      "text": "涙が出ちゃう 男のくせに",
+      "start": 208.15,
+      "end": 215.09,
+      "translations": {
+        "en": "I can't help tearing up, even though I'm a guy"
+      },
+      "furigana": [
+        [
+          "涙",
+          "なみだ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "出",
+          "で"
+        ],
+        [
+          "ちゃう ",
+          null
+        ],
+        [
+          "男",
+          "おとこ"
+        ],
+        [
+          "のくせに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dbde60e5-803f-4944-98e0-d7fb22d9c7ed",
+      "text": "Be in love with you",
+      "start": 215.09,
+      "end": 217.52,
+      "translations": {
+        "en": "Be in love with you"
+      }
+    },
+    {
+      "id": "dbcd7809-3bc6-4ab6-8c35-ad4b80cc850d",
+      "text": "",
+      "start": 217.52,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
