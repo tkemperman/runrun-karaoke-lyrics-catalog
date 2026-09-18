@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 3,
+  "videoId": "orLL5xhQRZU",
+  "videoUrl": "https://www.youtube.com/watch?v=orLL5xhQRZU",
+  "videoTitle": "Roki Vulović - Panteri - Mauzer (Official Video)",
+  "title": "Panteri (Mauzer)",
+  "artist": "Roki Vulovic",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 1.946,
+  "furiganaEnabled": false,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/11917256"
+  },
+  "blocks": [
+    {
+      "id": "c4c5f3ff-dd61-42f7-9fbb-27dfb2d05294",
+      "text": "Bilo je junaka",
+      "start": 16.59,
+      "end": 18.02,
+      "translations": {
+        "en": "There have been heroes"
+      }
+    },
+    {
+      "id": "4c11543e-5049-41ab-9522-886de039536f",
+      "text": "Bilo i biće",
+      "start": 18.02,
+      "end": 20.13,
+      "translations": {
+        "en": "There have been, and there will be"
+      }
+    },
+    {
+      "id": "8e1b1aa3-0479-464d-89e9-c7d71a17206a",
+      "text": "Sunce slobode sada nam sviće",
+      "start": 20.13,
+      "end": 24.28,
+      "translations": {
+        "en": "The sun of freedom now rises for us"
+      }
+    },
+    {
+      "id": "95b915cc-534c-4553-ad8e-ceb6531261f7",
+      "text": "Bilo je i onih koji nisu fer",
+      "start": 24.28,
+      "end": 28.45,
+      "translations": {
+        "en": "There have also been those who don't play fair"
+      }
+    },
+    {
+      "id": "39c703a3-add8-49eb-92fb-eef947111509",
+      "text": "Al' jedan je Mauzer",
+      "start": 28.45,
+      "end": 32.34,
+      "translations": {
+        "en": "But there is only one Mauzer"
+      }
+    },
+    {
+      "id": "23b1148c-4c8e-4490-9f63-6608098ba83e",
+      "text": "Panteri, panteri",
+      "start": 32.34,
+      "end": 34.4,
+      "translations": {
+        "en": "Panthers, Panthers"
+      }
+    },
+    {
+      "id": "b0e7599e-c889-46aa-9244-84089c5b0376",
+      "text": "Vi ste hrabri momci",
+      "start": 34.4,
+      "end": 36.29,
+      "translations": {
+        "en": "You are brave lads"
+      }
+    },
+    {
+      "id": "e01f044b-1951-4431-893f-4a526cc996a4",
+      "text": "Najhrabriji naši srpski dobrovoljci",
+      "start": 36.29,
+      "end": 40.32,
+      "translations": {
+        "en": "Our bravest Serbian volunteers"
+      }
+    },
+    {
+      "id": "2133993c-c3e2-40f7-8540-88ec27500e19",
+      "text": "Podvizi vaši to su prave šeme",
+      "start": 40.32,
+      "end": 44.28,
+      "translations": {
+        "en": "Your exploits are the real deal"
+      }
+    },
+    {
+      "id": "153f04ee-9584-483a-9a9c-17b47c849cd9",
+      "text": "Da ste pravi borci pokazalo vrijeme",
+      "start": 44.28,
+      "end": 50.28,
+      "translations": {
+        "en": "Time has shown that you are true fighters"
+      }
+    },
+    {
+      "id": "ccdeb948-57f5-45e9-996b-218a7938f1a2",
+      "text": "",
+      "start": 50.28,
+      "end": 66.85,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "0d8edb2b-b905-4996-a9c3-9af608520e73",
+      "text": "Ima jedan junak Srpskoga roda",
+      "start": 66.85,
+      "end": 70.72,
+      "translations": {
+        "en": "There is a hero of Serbian blood"
+      }
+    },
+    {
+      "id": "f7e585c4-7b4b-4c6c-b4a9-9bcfc96abb0f",
+      "text": "Iznikao pravo iz svog naroda",
+      "start": 70.72,
+      "end": 74.91,
+      "translations": {
+        "en": "Who rose straight from his own people"
+      }
+    },
+    {
+      "id": "b45c59a4-6454-4fc4-bda1-119c1603b7e8",
+      "text": "Ima jedan borac tih i mnogo fer",
+      "start": 74.91,
+      "end": 78.72,
+      "translations": {
+        "en": "There is a fighter, quiet and very fair"
+      }
+    },
+    {
+      "id": "10fa5916-21b0-41bb-aefd-cd4720ee0720",
+      "text": "To je Ljubo Mauzer",
+      "start": 78.72,
+      "end": 83.09,
+      "translations": {
+        "en": "That is Ljubo Mauzer"
+      }
+    },
+    {
+      "id": "5a7f1ad9-4c5a-4551-be53-09ead8c0cb72",
+      "text": "Panteri, panteri",
+      "start": 83.09,
+      "end": 85.07,
+      "translations": {
+        "en": "Panthers, Panthers"
+      }
+    },
+    {
+      "id": "b58d0609-87dd-4b94-ad72-c168e0b8f7e9",
+      "text": "Vi ste hrabri momci",
+      "start": 85.07,
+      "end": 86.85,
+      "translations": {
+        "en": "You are brave lads"
+      }
+    },
+    {
+      "id": "d1c1dcb3-5eff-48a1-ada3-513c193bd6d3",
+      "text": "Najhrabriji naši",
+      "start": 86.85,
+      "end": 88.94,
+      "translations": {
+        "en": "Our bravest"
+      }
+    },
+    {
+      "id": "c0c2057a-2fa5-45fd-95e4-1c896949a48f",
+      "text": "Srpski dobrovoljci",
+      "start": 88.94,
+      "end": 91.01,
+      "translations": {
+        "en": "Serbian volunteers"
+      }
+    },
+    {
+      "id": "88a04e28-f289-4005-86e0-c2bcc28182a5",
+      "text": "Podvizi vaši to su prave šeme",
+      "start": 91.01,
+      "end": 94.95,
+      "translations": {
+        "en": "Your exploits are the real deal"
+      }
+    },
+    {
+      "id": "4150c812-550e-4ae6-b2ab-7ad4d0e90b5e",
+      "text": "Da ste pravi borci pokazalo vrijeme",
+      "start": 94.95,
+      "end": 100.82,
+      "translations": {
+        "en": "Time has shown that you are true fighters"
+      }
+    },
+    {
+      "id": "8b804bd6-2fb5-49e8-adb5-3450d360955e",
+      "text": "",
+      "start": 100.82,
+      "end": 117.5,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "428d3903-107a-44a8-ae38-0662d43baae1",
+      "text": "Gardisti Srpske zemlje vraćaju",
+      "start": 117.5,
+      "end": 121.08,
+      "translations": {
+        "en": "The guardsmen are reclaiming Serbian lands"
+      }
+    },
+    {
+      "id": "1c5b6747-8642-4524-b3f1-0f54a27812ef",
+      "text": "Dušmani sve to skupo plaćaju",
+      "start": 121.08,
+      "end": 125.66,
+      "translations": {
+        "en": "The enemies pay dearly for it all"
+      }
+    },
+    {
+      "id": "d3210ffd-08b7-4f83-976b-5f93be8517ea",
+      "text": "Gardisti su borci uvek bili fer",
+      "start": 125.66,
+      "end": 129.49,
+      "translations": {
+        "en": "The guardsmen have always been fair fighters"
+      }
+    },
+    {
+      "id": "a563611a-376c-4d20-8a72-7d49d44f91e1",
+      "text": "Jer komanduje Mauzer",
+      "start": 129.49,
+      "end": 133.45,
+      "translations": {
+        "en": "Because Mauzer is in command"
+      }
+    },
+    {
+      "id": "4ced350d-065e-4c6e-9afd-e932a5eb6437",
+      "text": "Panteri, panteri",
+      "start": 133.45,
+      "end": 135.58,
+      "translations": {
+        "en": "Panthers, Panthers"
+      }
+    },
+    {
+      "id": "c6ec73ad-652d-4f1b-b66d-38f0a9326491",
+      "text": "Vi ste hrabri momci",
+      "start": 135.58,
+      "end": 137.32,
+      "translations": {
+        "en": "You are brave lads"
+      }
+    },
+    {
+      "id": "3089aa9f-e7fe-41c8-bb70-dc426e258236",
+      "text": "Najhrabriji naši",
+      "start": 137.32,
+      "end": 139.46,
+      "translations": {
+        "en": "Our bravest"
+      }
+    },
+    {
+      "id": "24fca251-7d4e-40b9-9b9b-8b42f30a2609",
+      "text": "Srpski dobrovoljci",
+      "start": 139.46,
+      "end": 141.56,
+      "translations": {
+        "en": "Serbian volunteers"
+      }
+    },
+    {
+      "id": "cb462837-8ef0-475f-8d1b-5105fa8752d0",
+      "text": "Podvizi vaši to su prave šeme",
+      "start": 141.56,
+      "end": 145.31,
+      "translations": {
+        "en": "Your exploits are the real deal"
+      }
+    },
+    {
+      "id": "e34e9b3c-31c6-4515-9588-71dc192f4553",
+      "text": "Da ste pravi borci pokazalo vrijeme",
+      "start": 145.31,
+      "end": 151.35,
+      "translations": {
+        "en": "Time has shown that you are true fighters"
+      }
+    },
+    {
+      "id": "fc9cb773-a174-4704-b44e-3f4032acd8f9",
+      "text": "Bilo je junaka",
+      "start": 151.35,
+      "end": 153.75,
+      "translations": {
+        "en": "There have been heroes"
+      }
+    },
+    {
+      "id": "ce0d656d-e3ff-4803-8352-550b3ed9bdf4",
+      "text": "Bilo i biće",
+      "start": 153.75,
+      "end": 155.43,
+      "translations": {
+        "en": "There have been, and there will be"
+      }
+    },
+    {
+      "id": "e96b968e-3fcb-4b87-9235-d6ba0f3a86df",
+      "text": "Sunce slobode sada nam sviće",
+      "start": 155.43,
+      "end": 159.68,
+      "translations": {
+        "en": "The sun of freedom now rises for us"
+      }
+    },
+    {
+      "id": "272a4930-3e6f-4cc4-971f-1a7fd4d94997",
+      "text": "Bilo je i onih koji nisu fer",
+      "start": 159.68,
+      "end": 163.54,
+      "translations": {
+        "en": "There have also been those who don't play fair"
+      }
+    },
+    {
+      "id": "a1426a24-2955-448e-8bbe-bfd47a567a7d",
+      "text": "Al' jedan je Mauzer",
+      "start": 163.54,
+      "end": 167.79,
+      "translations": {
+        "en": "But there is only one Mauzer"
+      }
+    },
+    {
+      "id": "46d3b372-4d0a-430d-92ed-75297be728d1",
+      "text": "Panteri, panteri",
+      "start": 167.79,
+      "end": 169.82,
+      "translations": {
+        "en": "Panthers, Panthers"
+      }
+    },
+    {
+      "id": "ea5e6a6f-2a7a-4618-bfdc-3caa701b8577",
+      "text": "Vi ste hrabri momci",
+      "start": 169.82,
+      "end": 171.64,
+      "translations": {
+        "en": "You are brave lads"
+      }
+    },
+    {
+      "id": "85b04875-1c2e-4a17-becc-2de55ec8d465",
+      "text": "Najhrabriji naši",
+      "start": 171.64,
+      "end": 173.68,
+      "translations": {
+        "en": "Our bravest"
+      }
+    },
+    {
+      "id": "51fdc685-8cec-49cc-a438-d5aec27eae96",
+      "text": "Srpski dobrovoljci",
+      "start": 173.68,
+      "end": 175.45,
+      "translations": {
+        "en": "Serbian volunteers"
+      }
+    },
+    {
+      "id": "28bb3fb2-ea8c-4892-8e9c-08825df4cb9d",
+      "text": "Podvizi vaši to su prave šeme",
+      "start": 175.45,
+      "end": 179.63,
+      "translations": {
+        "en": "Your exploits are the real deal"
+      }
+    },
+    {
+      "id": "b2bc26b3-c907-45f4-9a36-7c657c7bf438",
+      "text": "Da ste pravi borci pokazalo vrijeme",
+      "start": 179.63,
+      "end": 185.23,
+      "translations": {
+        "en": "Time has shown that you are true fighters"
+      }
+    },
+    {
+      "id": "fc338d9d-df67-4071-a20a-87f70cc6e865",
+      "text": "",
+      "start": 185.23,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
