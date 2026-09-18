@@ -1,0 +1,1049 @@
+{
+  "schemaVersion": 3,
+  "videoId": "DLiSF-NNF0I",
+  "videoUrl": "https://www.youtube.com/watch?v=DLiSF-NNF0I",
+  "videoTitle": "羊文学 - 銀河鉄道の夜",
+  "title": "銀河鉄道の夜",
+  "artist": "GOING STEADY",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/36489026"
+  },
+  "blocks": [
+    {
+      "id": "bb71b6a2-c456-42a5-91f9-f4eda308f1c4",
+      "text": "日々ひび割れ柿ノ実 夕焼けて夜は来た",
+      "start": 28.28,
+      "end": 35.17,
+      "translations": {
+        "en": "Day by day, persimmons split; the sunset glowed, and night came"
+      },
+      "furigana": [
+        [
+          "日々",
+          "ひび"
+        ],
+        [
+          "ひび割れ",
+          "ひびわれ"
+        ],
+        [
+          "柿",
+          "かき"
+        ],
+        [
+          "ノ",
+          null
+        ],
+        [
+          "実",
+          "じつ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "夕焼け",
+          "ゆうやけ"
+        ],
+        [
+          "て",
+          null
+        ],
+        [
+          "夜",
+          "よる"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "来た",
+          "きた"
+        ]
+      ]
+    },
+    {
+      "id": "cf162bc6-6932-4a79-8540-a2cdcc681496",
+      "text": "空水色オーロラ 蜂蜜に濡れた月",
+      "start": 35.17,
+      "end": 41.95,
+      "translations": {
+        "en": "A sky-blue aurora, a moon drenched in honey"
+      },
+      "furigana": [
+        [
+          "空",
+          "から"
+        ],
+        [
+          "水色",
+          "みずいろ"
+        ],
+        [
+          "オーロラ ",
+          null
+        ],
+        [
+          "蜂蜜",
+          "はちみつ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "濡れた",
+          "ぬれた"
+        ],
+        [
+          "月",
+          "がつ"
+        ]
+      ]
+    },
+    {
+      "id": "be6e7fa5-a70e-4d4b-a229-b95048f31a0f",
+      "text": "赤レンガ煙突の上 ガイコツが踊ってる",
+      "start": 41.95,
+      "end": 49.6,
+      "translations": {
+        "en": "A skeleton is dancing atop a red-brick chimney"
+      },
+      "furigana": [
+        [
+          "赤レンガ",
+          "あかれんが"
+        ],
+        [
+          "煙突",
+          "えんとつ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "上",
+          "うえ"
+        ],
+        [
+          " ガイコツが",
+          null
+        ],
+        [
+          "踊って",
+          "おどって"
+        ],
+        [
+          "る",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "75eaf675-7032-4830-a0bd-1bbca9047b1e",
+      "text": "ハロー今君に素張らしい世界が見えますか",
+      "start": 49.6,
+      "end": 56.73,
+      "translations": {
+        "en": "Hello, can you see a wonderful world now?"
+      },
+      "furigana": [
+        [
+          "ハロー",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "素",
+          "す"
+        ],
+        [
+          "張",
+          "ちょう"
+        ],
+        [
+          "らしい",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "見えます",
+          "みえます"
+        ],
+        [
+          "か",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "76bb0875-df34-4def-bc66-c05d61b6f7ee",
+      "text": "北風は吹雪くのを止め カシオペア輝いて",
+      "start": 56.73,
+      "end": 63.94,
+      "translations": {
+        "en": "The north wind stopped driving the snow, and Cassiopeia shone"
+      },
+      "furigana": [
+        [
+          "北風",
+          "きたかぜ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "吹雪く",
+          "ふぶく"
+        ],
+        [
+          "のを",
+          null
+        ],
+        [
+          "止め",
+          "やめ"
+        ],
+        [
+          " カシオペア",
+          null
+        ],
+        [
+          "輝いて",
+          "かがやいて"
+        ]
+      ]
+    },
+    {
+      "id": "d3c95339-cdb4-4bf0-97fe-ac3c45e62a69",
+      "text": "恋人達は寄り添って静かに歌うのでした",
+      "start": 63.94,
+      "end": 85.06,
+      "translations": {
+        "en": "The lovers nestled close and sang softly"
+      },
+      "furigana": [
+        [
+          "恋人",
+          "こいびと"
+        ],
+        [
+          "達",
+          "たち"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "寄り添って",
+          "よりそって"
+        ],
+        [
+          "静かに",
+          "しずかに"
+        ],
+        [
+          "歌う",
+          "うたう"
+        ],
+        [
+          "のでした",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2ffdda32-c9ea-4214-aae9-962a131a9388",
+      "text": "声 高円寺に消え やがて汽笛は響き",
+      "start": 85.06,
+      "end": 92.19,
+      "translations": {
+        "en": "Voices faded into Koenji, and before long a train whistle rang out"
+      },
+      "furigana": [
+        [
+          "声",
+          "こえ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "高円寺",
+          "こうえんじ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "消",
+          "かつお"
+        ],
+        [
+          "え やがて",
+          null
+        ],
+        [
+          "汽笛",
+          "きてき"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "響き",
+          "ひびき"
+        ]
+      ]
+    },
+    {
+      "id": "f6a7ea6f-f46d-4211-8a70-526eb9a70840",
+      "text": "噛むカムチャッカのガム 蒼白く甘い夜",
+      "start": 92.19,
+      "end": 99.48,
+      "translations": {
+        "en": "Chewing gum from Kamchatka, a pale blue, sweet night"
+      },
+      "furigana": [
+        [
+          "噛む",
+          "かむ"
+        ],
+        [
+          "カムチャッカのガム ",
+          null
+        ],
+        [
+          "蒼白",
+          "そうはく"
+        ],
+        [
+          "く",
+          null
+        ],
+        [
+          "甘い",
+          "あまい"
+        ],
+        [
+          "夜",
+          "よる"
+        ]
+      ]
+    },
+    {
+      "id": "504b2508-b7b0-4a88-b687-a791f59d3ebe",
+      "text": "シベリア鉄道乗り換え 東北を目指します",
+      "start": 99.48,
+      "end": 106.5,
+      "translations": {
+        "en": "Changing trains on the Trans-Siberian Railway, I head for Tohoku"
+      },
+      "furigana": [
+        [
+          "シベリア鉄道",
+          "シベリアてつどう"
+        ],
+        [
+          "乗り換え",
+          "のりかえ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "東北",
+          "とうほく"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "目指します",
+          "めざします"
+        ]
+      ]
+    },
+    {
+      "id": "3def3c4d-e1b6-465b-98b8-1c6bea958dc8",
+      "text": "ハロー今君に素張らしい世界が見えますか",
+      "start": 106.5,
+      "end": 113.59,
+      "translations": {
+        "en": "Hello, can you see a wonderful world now?"
+      },
+      "furigana": [
+        [
+          "ハロー",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "素",
+          "す"
+        ],
+        [
+          "張",
+          "ちょう"
+        ],
+        [
+          "らしい",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "見えます",
+          "みえます"
+        ],
+        [
+          "か",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "97b1553c-076a-48ba-97c8-80dbef4ba34b",
+      "text": "北風は吹雪くのを止め カシオペア輝いて",
+      "start": 113.59,
+      "end": 120.76,
+      "translations": {
+        "en": "The north wind stopped driving the snow, and Cassiopeia shone"
+      },
+      "furigana": [
+        [
+          "北風",
+          "きたかぜ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "吹雪く",
+          "ふぶく"
+        ],
+        [
+          "のを",
+          null
+        ],
+        [
+          "止め",
+          "やめ"
+        ],
+        [
+          " カシオペア",
+          null
+        ],
+        [
+          "輝いて",
+          "かがやいて"
+        ]
+      ]
+    },
+    {
+      "id": "0fdab144-dee6-4e8b-8b32-3ca420aa4d1c",
+      "text": "恋人達は寄り添って静かに歌うのでした",
+      "start": 120.76,
+      "end": 128.34,
+      "translations": {
+        "en": "The lovers nestled close and sang softly"
+      },
+      "furigana": [
+        [
+          "恋人",
+          "こいびと"
+        ],
+        [
+          "達",
+          "たち"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "寄り添って",
+          "よりそって"
+        ],
+        [
+          "静かに",
+          "しずかに"
+        ],
+        [
+          "歌う",
+          "うたう"
+        ],
+        [
+          "のでした",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b5cd1c07-6e65-4ad7-80f5-ccad1a839804",
+      "text": "銀河鉄道の夜",
+      "start": 128.34,
+      "end": 131.7,
+      "translations": {
+        "en": "Night on the Galactic Railroad"
+      },
+      "furigana": [
+        [
+          "銀河鉄道の夜",
+          "ぎんがてつどうのよる"
+        ]
+      ]
+    },
+    {
+      "id": "08b8941b-9511-4a45-9fbb-f24903758244",
+      "text": "僕はもう空の向こう飛び立ってしまいたい",
+      "start": 131.7,
+      "end": 138.89,
+      "translations": {
+        "en": "Now I just want to take flight beyond the sky"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "はもう",
+          null
+        ],
+        [
+          "空",
+          "から"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "向こう",
+          "むこう"
+        ],
+        [
+          "飛び立って",
+          "とびたって"
+        ],
+        [
+          "しまいたい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "bec37050-728c-4472-89b2-0d3f45f06cda",
+      "text": "あなたを",
+      "start": 138.89,
+      "end": 142.53,
+      "translations": {
+        "en": "You"
+      }
+    },
+    {
+      "id": "03a63850-8f49-4b2a-958b-cc8b32c1e4ce",
+      "text": "銀河鉄道の夜",
+      "start": 142.53,
+      "end": 145.8,
+      "translations": {
+        "en": "Night on the Galactic Railroad"
+      },
+      "furigana": [
+        [
+          "銀河鉄道の夜",
+          "ぎんがてつどうのよる"
+        ]
+      ]
+    },
+    {
+      "id": "17ee0849-d234-4d80-a539-207662407d90",
+      "text": "僕はもう空の向こう飛び立ってしまいたい",
+      "start": 145.8,
+      "end": 153.06,
+      "translations": {
+        "en": "Now I just want to take flight beyond the sky"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "はもう",
+          null
+        ],
+        [
+          "空",
+          "から"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "向こう",
+          "むこう"
+        ],
+        [
+          "飛び立って",
+          "とびたって"
+        ],
+        [
+          "しまいたい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1f124036-9b4d-4a62-a4d8-122c99718640",
+      "text": "あなたを想いながら",
+      "start": 153.06,
+      "end": 172.39,
+      "translations": {
+        "en": "While thinking of you"
+      },
+      "furigana": [
+        [
+          "あなたを",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "649ec70c-5cbb-4407-ae4c-a609bb3a16be",
+      "text": "星めぐりの口笛を吹いて",
+      "start": 172.39,
+      "end": 186.67,
+      "translations": {
+        "en": "Whistling the star-circling song"
+      },
+      "furigana": [
+        [
+          "星",
+          "ほし"
+        ],
+        [
+          "めぐりの",
+          null
+        ],
+        [
+          "口笛",
+          "くちぶえ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "吹いて",
+          "ふいて"
+        ]
+      ]
+    },
+    {
+      "id": "68ade0d3-c9d4-4d32-aaf3-eb23d47e1d92",
+      "text": "裸のまま一人ぼっち涙も枯れたああああう",
+      "start": 186.67,
+      "end": 243.09,
+      "translations": {
+        "en": "Naked and all alone, even my tears have dried up—ah, ah, ah, ah, ooh"
+      },
+      "furigana": [
+        [
+          "裸",
+          "はだか"
+        ],
+        [
+          "のまま",
+          null
+        ],
+        [
+          "一人ぼっち",
+          "ひとりぼっち"
+        ],
+        [
+          "涙",
+          "なみだ"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "枯れた",
+          "かれた"
+        ],
+        [
+          "ああああう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8b6f683c-d964-4299-acbf-5f8e37e65613",
+      "text": "ハロー今君に素張らしい世界が見えますか",
+      "start": 243.09,
+      "end": 250.04,
+      "translations": {
+        "en": "Hello, can you see a wonderful world now?"
+      },
+      "furigana": [
+        [
+          "ハロー",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "素",
+          "す"
+        ],
+        [
+          "張",
+          "ちょう"
+        ],
+        [
+          "らしい",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "見えます",
+          "みえます"
+        ],
+        [
+          "か",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8620c5bf-0eff-4157-8386-ae0e0117e313",
+      "text": "ハロー今君に素張らしい世界が見えますか",
+      "start": 250.04,
+      "end": 259.3,
+      "translations": {
+        "en": "Hello, can you see a wonderful world now?"
+      },
+      "furigana": [
+        [
+          "ハロー",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "素",
+          "す"
+        ],
+        [
+          "張",
+          "ちょう"
+        ],
+        [
+          "らしい",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "見えます",
+          "みえます"
+        ],
+        [
+          "か",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3e779c32-c479-461e-b89c-bacd1a08c2af",
+      "text": "銀河鉄道の夜",
+      "start": 259.3,
+      "end": 262.82,
+      "translations": {
+        "en": "Night on the Galactic Railroad"
+      },
+      "furigana": [
+        [
+          "銀河鉄道の夜",
+          "ぎんがてつどうのよる"
+        ]
+      ]
+    },
+    {
+      "id": "c7fe75e2-4632-46b3-8f12-8afc657358b2",
+      "text": "僕はもう空の向こう飛び立ってしまいたい",
+      "start": 262.82,
+      "end": 269.89,
+      "translations": {
+        "en": "Now I just want to take flight beyond the sky"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "はもう",
+          null
+        ],
+        [
+          "空",
+          "から"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "向こう",
+          "むこう"
+        ],
+        [
+          "飛び立って",
+          "とびたって"
+        ],
+        [
+          "しまいたい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "953820c4-b27c-4eeb-b09c-a28e52d4e0d4",
+      "text": "あなたを",
+      "start": 269.89,
+      "end": 273.51,
+      "translations": {
+        "en": "You"
+      }
+    },
+    {
+      "id": "b5c05c7e-8f06-49d1-af3c-01a10e4fced9",
+      "text": "銀河鉄道の夜",
+      "start": 273.51,
+      "end": 277.02,
+      "translations": {
+        "en": "Night on the Galactic Railroad"
+      },
+      "furigana": [
+        [
+          "銀河鉄道の夜",
+          "ぎんがてつどうのよる"
+        ]
+      ]
+    },
+    {
+      "id": "f7267059-75ec-41fd-af76-7455333d8bfa",
+      "text": "僕はもう空の向こう飛び立ってしまいたい",
+      "start": 277.02,
+      "end": 284.31,
+      "translations": {
+        "en": "Now I just want to take flight beyond the sky"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "はもう",
+          null
+        ],
+        [
+          "空",
+          "から"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "向こう",
+          "むこう"
+        ],
+        [
+          "飛び立って",
+          "とびたって"
+        ],
+        [
+          "しまいたい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7e509600-74b0-492b-9dc5-068fbd4b6b37",
+      "text": "あなたを想いながら",
+      "start": 284.31,
+      "end": 291.33,
+      "translations": {
+        "en": "While thinking of you"
+      },
+      "furigana": [
+        [
+          "あなたを",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7212fc1c-f599-4319-b5ff-e1d768501e4d",
+      "text": "あなたを想いながら",
+      "start": 291.33,
+      "end": 298.45,
+      "translations": {
+        "en": "While thinking of you"
+      },
+      "furigana": [
+        [
+          "あなたを",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "33e09a04-3377-4517-ae34-ae208c54c4fe",
+      "text": "あなたを想いながら",
+      "start": 298.45,
+      "end": 307.8,
+      "translations": {
+        "en": "While thinking of you"
+      },
+      "furigana": [
+        [
+          "あなたを",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a2c0d711-d61f-4ffb-b583-17038cfc2460",
+      "text": "",
+      "start": 307.8,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
