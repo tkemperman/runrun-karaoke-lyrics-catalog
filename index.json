@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "file": "translations/anri-杏里-i-can-t-stop-the-loneliness-live-sub-eng-zDNV8zRgrik/en.json",
+      "videoId": "zDNV8zRgrik",
+      "title": "I CAN'T STOP THE LONELINESS",
+      "artist": "杏里",
+      "originalLanguage": "ja",
+      "translationLanguage": "en"
+    },
+    {
       "file": "translations/fuwamoco-x-senchou-sing-ahoy-h3chCOV_phw/en.json",
       "videoId": "h3chCOV_phw",
       "title": "Ahoy!! 我ら宝鐘海賊団☆",
