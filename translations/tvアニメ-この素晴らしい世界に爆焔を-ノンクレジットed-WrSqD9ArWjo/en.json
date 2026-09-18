@@ -1,0 +1,1014 @@
+{
+  "schemaVersion": 3,
+  "videoId": "WrSqD9ArWjo",
+  "videoUrl": "https://www.youtube.com/watch?v=WrSqD9ArWjo",
+  "videoTitle": "TVアニメ『この素晴らしい世界に爆焔を！』 ノンクレジットED",
+  "title": "JUMP IN",
+  "artist": "めぐみん(CV:高橋李依)、ゆんゆん(CV:豊崎愛生)",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/21831197"
+  },
+  "blocks": [
+    {
+      "id": "fe44a2b0-691a-4d01-beda-a8ec96369148",
+      "text": "「唱えてあんたごとぶっ放そうか？」",
+      "start": 0.42,
+      "end": 3.38,
+      "translations": {
+        "en": "“Shall I chant a spell and blast it all away, you included?”"
+      },
+      "furigana": [
+        [
+          "「",
+          null
+        ],
+        [
+          "唱えて",
+          "となえて"
+        ],
+        [
+          "あんたごとぶっ",
+          null
+        ],
+        [
+          "放",
+          "はなし"
+        ],
+        [
+          "そうか？」",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ddd8aed9-6ddb-4e98-9e86-9a2f1225b2af",
+      "text": "なんて憧れるけど",
+      "start": 3.38,
+      "end": 6.05,
+      "translations": {
+        "en": "I wish I could say something like that, but"
+      },
+      "furigana": [
+        [
+          "なんて",
+          null
+        ],
+        [
+          "憧れる",
+          "あこがれる"
+        ],
+        [
+          "けど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "10677d4b-7bce-4a55-b4d1-64d110dbe810",
+      "text": "リアルな心はインダハウス",
+      "start": 6.05,
+      "end": 8.62,
+      "translations": {
+        "en": "My true heart is in the house"
+      },
+      "furigana": [
+        [
+          "リアルな",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "はインダハウス",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d158c2af-a998-4b3c-96e1-e34faef42b8c",
+      "text": "いつでも七転び八起き",
+      "start": 8.62,
+      "end": 10.81,
+      "translations": {
+        "en": "Fall seven times, get up eight—every time"
+      },
+      "furigana": [
+        [
+          "いつでも",
+          null
+        ],
+        [
+          "七転び八起き",
+          "ななころびやおき"
+        ]
+      ]
+    },
+    {
+      "id": "e46119e3-1b7c-4c1f-910f-8971a960d8df",
+      "text": "イカれた性格はお互い",
+      "start": 10.81,
+      "end": 12.82,
+      "translations": {
+        "en": "We're both a little crazy"
+      },
+      "furigana": [
+        [
+          "イカれた",
+          null
+        ],
+        [
+          "性格",
+          "せいかく"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "お互い",
+          "おたがい"
+        ]
+      ]
+    },
+    {
+      "id": "073b6289-339e-46f0-a675-b5da0a8deb37",
+      "text": "傷だらけを認めて",
+      "start": 12.82,
+      "end": 15.89,
+      "translations": {
+        "en": "Let's admit we're covered in scars"
+      },
+      "furigana": [
+        [
+          "傷",
+          "きず"
+        ],
+        [
+          "だらけを",
+          null
+        ],
+        [
+          "認めて",
+          "みとめて"
+        ]
+      ]
+    },
+    {
+      "id": "50090253-80ce-408a-a5bc-ddbb276fec45",
+      "text": "何度でも叫ぼう",
+      "start": 15.89,
+      "end": 20.08,
+      "translations": {
+        "en": "And shout as many times as it takes"
+      },
+      "furigana": [
+        [
+          "何度でも",
+          "なんどでも"
+        ],
+        [
+          "叫",
+          "きょう"
+        ],
+        [
+          "ぼう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "bccfdcde-3d11-4411-8673-16dadb7171c2",
+      "text": "けれど",
+      "start": 20.08,
+      "end": 24.35,
+      "translations": {
+        "en": "But"
+      }
+    },
+    {
+      "id": "c61bcd84-35c8-4aa1-b354-d3e1cc1f20e9",
+      "text": "また 尖ってしまう自分が",
+      "start": 24.35,
+      "end": 29.34,
+      "translations": {
+        "en": "I find myself getting prickly again"
+      },
+      "furigana": [
+        [
+          "また ",
+          null
+        ],
+        [
+          "尖って",
+          "とがって"
+        ],
+        [
+          "しまう",
+          null
+        ],
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "が",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "df21f6eb-16b2-4bb6-b9e8-e7215d5cc372",
+      "text": "けれど",
+      "start": 29.34,
+      "end": 31.91,
+      "translations": {
+        "en": "But"
+      }
+    },
+    {
+      "id": "aacbe73d-d023-42e9-8281-70b63731afb1",
+      "text": "ほんとうはワクワクするストーリーだ",
+      "start": 31.91,
+      "end": 39.75,
+      "translations": {
+        "en": "The truth is, it's an exciting story"
+      }
+    },
+    {
+      "id": "758fe5f4-7a56-412b-b377-cfab1e467891",
+      "text": "勇気を出す 勇気を出す 先には",
+      "start": 39.75,
+      "end": 42.9,
+      "translations": {
+        "en": "Find the courage, find the courage—up ahead"
+      },
+      "furigana": [
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "先に",
+          "さきに"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "231ca2a5-9a5f-4508-bb0b-fff0ac8805a1",
+      "text": "まだ見ない素晴らしい日々があって",
+      "start": 42.9,
+      "end": 49.38,
+      "translations": {
+        "en": "Wonderful days we've yet to see await"
+      },
+      "furigana": [
+        [
+          "まだ",
+          null
+        ],
+        [
+          "見ない",
+          "みない"
+        ],
+        [
+          "素晴らしい",
+          "すばらしい"
+        ],
+        [
+          "日々",
+          "ひび"
+        ],
+        [
+          "があって",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "31ef06c8-99c1-4a50-bb40-3adab79028c7",
+      "text": "勇気を出す 勇気を出す 先には",
+      "start": 49.38,
+      "end": 52.86,
+      "translations": {
+        "en": "Find the courage, find the courage—up ahead"
+      },
+      "furigana": [
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "先に",
+          "さきに"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dc2946d2-7855-46ee-8d46-9dd131761cc7",
+      "text": "笑顔しか残らない世界",
+      "start": 52.86,
+      "end": 58.98,
+      "translations": {
+        "en": "A world where nothing but smiles remain"
+      },
+      "furigana": [
+        [
+          "笑顔",
+          "えがお"
+        ],
+        [
+          "しか",
+          null
+        ],
+        [
+          "残らない",
+          "のこらない"
+        ],
+        [
+          "世界",
+          "せかい"
+        ]
+      ]
+    },
+    {
+      "id": "139de130-9b39-4125-b751-1364e6cea763",
+      "text": "勇気を出す 勇気を出す",
+      "start": 58.98,
+      "end": 63.34,
+      "translations": {
+        "en": "Find the courage, find the courage"
+      },
+      "furigana": [
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ]
+      ]
+    },
+    {
+      "id": "44ba047f-240c-48b3-a4da-2410a6ebf945",
+      "text": "Oh 勇気を出す 勇気を出す",
+      "start": 63.34,
+      "end": 68.58,
+      "translations": {
+        "en": "Oh, find the courage, find the courage"
+      },
+      "furigana": [
+        [
+          "Oh ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ]
+      ]
+    },
+    {
+      "id": "00185e8a-1880-4267-a210-1c99c12600d7",
+      "text": "勇気を出す 勇気を出す 先には",
+      "start": 68.58,
+      "end": 72.93,
+      "translations": {
+        "en": "Find the courage, find the courage—up ahead"
+      },
+      "furigana": [
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "先に",
+          "さきに"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0af3623e-765a-4a50-bc06-cb314e9ff2b1",
+      "text": "Oh 勇気を出す 勇気を出す",
+      "start": 72.93,
+      "end": 78.55,
+      "translations": {
+        "en": "Oh, find the courage, find the courage"
+      },
+      "furigana": [
+        [
+          "Oh ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ]
+      ]
+    },
+    {
+      "id": "1a7458a6-1997-49ad-83aa-c76ccb8cdd4a",
+      "text": "",
+      "start": 78.55,
+      "end": 96.85,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "51ed21e1-d616-463b-8be6-c9ff5599912d",
+      "text": "涙のひとつふたつ溢れる",
+      "start": 96.85,
+      "end": 99.66,
+      "translations": {
+        "en": "A tear or two spills over"
+      },
+      "furigana": [
+        [
+          "涙",
+          "なみだ"
+        ],
+        [
+          "のひとつふたつ",
+          null
+        ],
+        [
+          "溢れる",
+          "あふれる"
+        ]
+      ]
+    },
+    {
+      "id": "16aa798c-1605-4fc0-8bcd-a538f23567e6",
+      "text": "そんなの全然大したことない",
+      "start": 99.66,
+      "end": 102.71,
+      "translations": {
+        "en": "That's really no big deal"
+      },
+      "furigana": [
+        [
+          "そんなの",
+          null
+        ],
+        [
+          "全然",
+          "ぜんぜん"
+        ],
+        [
+          "大したことない",
+          "たいしたことない"
+        ]
+      ]
+    },
+    {
+      "id": "f57483bd-5220-4b7a-a012-780d4cfe91a2",
+      "text": "とわかっていてもなぜか",
+      "start": 102.71,
+      "end": 106.65,
+      "translations": {
+        "en": "Even knowing that, somehow"
+      }
+    },
+    {
+      "id": "8599631c-cb10-4223-a4d7-b018fcb38966",
+      "text": "考えるほど悔しくて",
+      "start": 106.65,
+      "end": 108.85,
+      "translations": {
+        "en": "The more I think, the more frustrated I feel"
+      },
+      "furigana": [
+        [
+          "考える",
+          "かんがえる"
+        ],
+        [
+          "ほど悔しくて",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "45d30cf2-9386-449b-a6a1-36fc0dbdfb2f",
+      "text": "溢れてきやがるからもういいやって",
+      "start": 108.85,
+      "end": 112.23,
+      "translations": {
+        "en": "The damn tears keep spilling, so “Whatever”"
+      },
+      "furigana": [
+        [
+          "溢れて",
+          "あふれて"
+        ],
+        [
+          "きやがるからもういいやって",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3615a488-7742-45b3-86b3-5e846f2ee73b",
+      "text": "思ってしまおう",
+      "start": 112.23,
+      "end": 116.48,
+      "translations": {
+        "en": "Is what I'll let myself think"
+      },
+      "furigana": [
+        [
+          "思って",
+          "おもって"
+        ],
+        [
+          "しまおう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f118d533-8e98-4257-8afd-c953ca1d13eb",
+      "text": "荒くれた冒険者だっていいじゃないか",
+      "start": 116.48,
+      "end": 120.84,
+      "translations": {
+        "en": "What's wrong with being a rough-and-tumble adventurer?"
+      },
+      "furigana": [
+        [
+          "荒くれ",
+          "あらくれ"
+        ],
+        [
+          "た",
+          null
+        ],
+        [
+          "冒険者",
+          "ぼうけんしゃ"
+        ],
+        [
+          "だっていいじゃないか",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e115b05f-196e-45c2-a9b6-8e6b29e8f8b6",
+      "text": "鉄壁潜り抜けて 雑木林抜けて",
+      "start": 120.84,
+      "end": 126.09,
+      "translations": {
+        "en": "Slip past iron defenses, make your way through the thickets"
+      },
+      "furigana": [
+        [
+          "鉄壁",
+          "てっぺき"
+        ],
+        [
+          "潜り抜けて",
+          "くぐりぬけて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "雑木林",
+          "ぞうきばやし"
+        ],
+        [
+          "抜けて",
+          "ぬけて"
+        ]
+      ]
+    },
+    {
+      "id": "d5fcb907-9630-48cd-9526-efffc80e4b01",
+      "text": "机上の空論だけじゃ物足りないから",
+      "start": 126.09,
+      "end": 131.22,
+      "translations": {
+        "en": "Because mere armchair theories aren't enough"
+      },
+      "furigana": [
+        [
+          "机上の空論",
+          "きじょうのくうろん"
+        ],
+        [
+          "だけじゃ",
+          null
+        ],
+        [
+          "物足りない",
+          "ものたりない"
+        ],
+        [
+          "から",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ca9ee9d5-a986-4f54-9a27-7ea9e6492a41",
+      "text": "勇敢な態度で燃え尽きて",
+      "start": 131.22,
+      "end": 137.74,
+      "translations": {
+        "en": "Stand brave and burn yourself out"
+      },
+      "furigana": [
+        [
+          "勇敢",
+          "ゆうかん"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "態度",
+          "たいど"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "燃え尽きて",
+          "もえつきて"
+        ]
+      ]
+    },
+    {
+      "id": "72a685e4-047c-4dce-8850-18d88e0b510e",
+      "text": "Oh 勇気を出す 勇気を出す 先には",
+      "start": 137.74,
+      "end": 141.48,
+      "translations": {
+        "en": "Oh, find the courage, find the courage—up ahead"
+      },
+      "furigana": [
+        [
+          "Oh ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "先に",
+          "さきに"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d33a5cc2-24eb-4fa9-ad2c-10abafeed610",
+      "text": "身体ごと 戦い抜く私達",
+      "start": 141.48,
+      "end": 147.75,
+      "translations": {
+        "en": "We'll fight to the end with our whole bodies"
+      },
+      "furigana": [
+        [
+          "身体",
+          "しんたい"
+        ],
+        [
+          "ごと ",
+          null
+        ],
+        [
+          "戦い抜く",
+          "たたかいぬく"
+        ],
+        [
+          "私達",
+          "わたしたち"
+        ]
+      ]
+    },
+    {
+      "id": "47b0342e-4ab8-4bec-91b5-a110cffae81b",
+      "text": "勇気を出す 勇気を出す 先には",
+      "start": 147.75,
+      "end": 150.83,
+      "translations": {
+        "en": "Find the courage, find the courage—up ahead"
+      },
+      "furigana": [
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "先に",
+          "さきに"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5d88a456-5bb5-48d6-929f-149a987167bd",
+      "text": "境界線のない仲間がいて",
+      "start": 150.83,
+      "end": 156.83,
+      "translations": {
+        "en": "There are friends with no boundaries between us"
+      },
+      "furigana": [
+        [
+          "境界線",
+          "きょうかいせん"
+        ],
+        [
+          "のない",
+          null
+        ],
+        [
+          "仲間",
+          "なかま"
+        ],
+        [
+          "がいて",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7fa2ddc8-5dae-483d-8d1f-fd9e61fb7527",
+      "text": "Oh 勇気を出す 勇気を出す 先には",
+      "start": 156.83,
+      "end": 160.58,
+      "translations": {
+        "en": "Oh, find the courage, find the courage—up ahead"
+      },
+      "furigana": [
+        [
+          "Oh ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "先に",
+          "さきに"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b9397773-925d-41db-ae72-71a42b0822f8",
+      "text": "まだ見ない素晴らしい日々があって",
+      "start": 160.58,
+      "end": 166.95,
+      "translations": {
+        "en": "Wonderful days we've yet to see await"
+      },
+      "furigana": [
+        [
+          "まだ",
+          null
+        ],
+        [
+          "見ない",
+          "みない"
+        ],
+        [
+          "素晴らしい",
+          "すばらしい"
+        ],
+        [
+          "日々",
+          "ひび"
+        ],
+        [
+          "があって",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "77577328-d12b-47d3-8c0d-554d6ba6ab37",
+      "text": "勇気を出す 勇気を出す 先には",
+      "start": 166.95,
+      "end": 170.35,
+      "translations": {
+        "en": "Find the courage, find the courage—up ahead"
+      },
+      "furigana": [
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "先に",
+          "さきに"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "59c10cc4-52cb-4c78-9e28-85a9c928282f",
+      "text": "笑顔しか残らない世界",
+      "start": 170.35,
+      "end": 176.57,
+      "translations": {
+        "en": "A world where nothing but smiles remain"
+      },
+      "furigana": [
+        [
+          "笑顔",
+          "えがお"
+        ],
+        [
+          "しか",
+          null
+        ],
+        [
+          "残らない",
+          "のこらない"
+        ],
+        [
+          "世界",
+          "せかい"
+        ]
+      ]
+    },
+    {
+      "id": "5d3b94f1-0d52-4dfc-9f1f-1d16bbb6ce0b",
+      "text": "勇気を出す 勇気を出す",
+      "start": 176.57,
+      "end": 180.92,
+      "translations": {
+        "en": "Find the courage, find the courage"
+      },
+      "furigana": [
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "勇気を出す",
+          "ゆうきをだす"
+        ]
+      ]
+    },
+    {
+      "id": "94114939-0c6d-47a0-afe5-c6ad1b26d347",
+      "text": "",
+      "start": 180.92,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
