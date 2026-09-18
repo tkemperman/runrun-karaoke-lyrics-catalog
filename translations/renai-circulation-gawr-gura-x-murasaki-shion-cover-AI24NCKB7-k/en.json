@@ -1,0 +1,1239 @@
+{
+  "schemaVersion": 3,
+  "videoId": "AI24NCKB7-k",
+  "videoUrl": "https://www.youtube.com/watch?v=AI24NCKB7-k",
+  "videoTitle": "Renai Circulation / Gawr Gura x Murasaki Shion (Cover)",
+  "title": "Renai Circulation",
+  "artist": "花澤香菜",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/987365"
+  },
+  "blocks": [
+    {
+      "id": "6f5eba53-f9be-4e43-8518-380dcf3217bf",
+      "text": "せーの",
+      "start": 0.71,
+      "end": 1.5699999999999998,
+      "translations": {
+        "en": "Ready, set!"
+      }
+    },
+    {
+      "id": "ef95ca15-6e7a-4472-a34d-54ecd29c639d",
+      "text": "でも そんなんじゃ だめ",
+      "start": 1.5699999999999998,
+      "end": 3.32,
+      "translations": {
+        "en": "But that just won't do"
+      }
+    },
+    {
+      "id": "a0d7dd63-d7e4-442b-b614-821dbd336ddb",
+      "text": "もう そんなんじゃ ほら",
+      "start": 3.32,
+      "end": 5.13,
+      "translations": {
+        "en": "Come on, look—at this rate"
+      }
+    },
+    {
+      "id": "d6492ce1-cc1f-43c2-8870-c6c165376877",
+      "text": "心は進化するよ",
+      "start": 5.13,
+      "end": 7.33,
+      "translations": {
+        "en": "My heart will keep evolving"
+      },
+      "furigana": [
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "進化",
+          "しんか"
+        ],
+        [
+          "するよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9f72ab9b-06f9-494a-b9ae-a0bdb2802850",
+      "text": "もっと もっと",
+      "start": 7.33,
+      "end": 11.31,
+      "translations": {
+        "en": "More and more"
+      }
+    },
+    {
+      "id": "072ad243-803f-450f-9a9a-2db0d62e29df",
+      "text": "",
+      "start": 11.31,
+      "end": 24.88,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "b805dad9-4921-480a-9202-5d3e0f51acba",
+      "text": "言葉にすれば消えちゃう関係なら",
+      "start": 24.88,
+      "end": 27.45,
+      "translations": {
+        "en": "If putting it into words would make our bond disappear"
+      },
+      "furigana": [
+        [
+          "言葉",
+          "ことば"
+        ],
+        [
+          "にすれば",
+          null
+        ],
+        [
+          "消",
+          "かつお"
+        ],
+        [
+          "えちゃう",
+          null
+        ],
+        [
+          "関係",
+          "かんけい"
+        ],
+        [
+          "なら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "66834716-7ac5-4480-aee1-a9b66386c723",
+      "text": "言葉を消せばいいやって",
+      "start": 27.45,
+      "end": 29.39,
+      "translations": {
+        "en": "Then I'd just do away with words"
+      },
+      "furigana": [
+        [
+          "言葉",
+          "ことば"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "消せ",
+          "けせ"
+        ],
+        [
+          "ばいいやって",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "93b1b512-206e-4668-b83e-89689a89aed7",
+      "text": "思ってた 恐れてた",
+      "start": 29.39,
+      "end": 30.94,
+      "translations": {
+        "en": "That's what I thought; I was afraid"
+      },
+      "furigana": [
+        [
+          "思って",
+          "おもって"
+        ],
+        [
+          "た ",
+          null
+        ],
+        [
+          "恐れて",
+          "おそれて"
+        ],
+        [
+          "た",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8bf4f152-9c0c-4a67-8b6c-0030b4b093fb",
+      "text": "だけど あれ? なんかちがうかも",
+      "start": 30.94,
+      "end": 33.19,
+      "translations": {
+        "en": "But, huh? Maybe that's not quite right"
+      }
+    },
+    {
+      "id": "38e5454c-17cf-4f97-aa72-51af02b52789",
+      "text": "せんりのみちもいっぽから!",
+      "start": 33.19,
+      "end": 35.08,
+      "translations": {
+        "en": "Even a thousand-mile journey starts with a single step!"
+      }
+    },
+    {
+      "id": "2102fac1-4224-4e9e-af46-def9475554cc",
+      "text": "石のようにかたい そんな意志で",
+      "start": 35.08,
+      "end": 37.28,
+      "translations": {
+        "en": "With a will as solid as stone"
+      },
+      "furigana": [
+        [
+          "石",
+          "こく"
+        ],
+        [
+          "のようにかたい そんな",
+          null
+        ],
+        [
+          "意志",
+          "いし"
+        ],
+        [
+          "で",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4bc99661-51fe-4b02-9c59-254006c80689",
+      "text": "ちりもつもればやまとなでしこ?",
+      "start": 37.28,
+      "end": 39.38,
+      "translations": {
+        "en": "Even dust piles up into a mountain—or a perfect Japanese lady?"
+      }
+    },
+    {
+      "id": "31313304-97dc-4216-bbec-0a67d2c3a2eb",
+      "text": "「し」抜きで いや 死ぬ気で!",
+      "start": 39.38,
+      "end": 41.2,
+      "translations": {
+        "en": "Leave out the “し”—no, give it all I've got!"
+      },
+      "furigana": [
+        [
+          "「し」",
+          null
+        ],
+        [
+          "抜き",
+          "ぬき"
+        ],
+        [
+          "で いや ",
+          null
+        ],
+        [
+          "死ぬ気で",
+          "しぬきで"
+        ],
+        [
+          "!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7c8eb507-df16-4424-90ae-93b56d35116a",
+      "text": "ふわふわり ふわふわる",
+      "start": 41.2,
+      "end": 44.33,
+      "translations": {
+        "en": "Floating, drifting"
+      }
+    },
+    {
+      "id": "fac40506-02ab-4b6e-960b-9782a61e36a0",
+      "text": "あなたが名前を呼ぶ",
+      "start": 44.33,
+      "end": 46.37,
+      "translations": {
+        "en": "You call my name"
+      },
+      "furigana": [
+        [
+          "あなたが",
+          null
+        ],
+        [
+          "名前",
+          "なまえ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "呼ぶ",
+          "よぶ"
+        ]
+      ]
+    },
+    {
+      "id": "bbd3f072-f023-4c5f-9b3c-a3de0eb4ccf5",
+      "text": "それだけで 宙へ浮かぶ",
+      "start": 46.37,
+      "end": 49.46,
+      "translations": {
+        "en": "And that alone sends me floating into the air"
+      },
+      "furigana": [
+        [
+          "それだけで ",
+          null
+        ],
+        [
+          "宙",
+          "ちゅう"
+        ],
+        [
+          "へ",
+          null
+        ],
+        [
+          "浮かぶ",
+          "うかぶ"
+        ]
+      ]
+    },
+    {
+      "id": "6422aa74-1040-4784-ba20-a859f282a9bc",
+      "text": "ふわふわる ふわふわり",
+      "start": 49.46,
+      "end": 52.36,
+      "translations": {
+        "en": "Drifting, floating"
+      }
+    },
+    {
+      "id": "c17a3168-bf11-4f71-8376-cbbfd6100aa2",
+      "text": "あなたが笑っている",
+      "start": 52.36,
+      "end": 54.01,
+      "translations": {
+        "en": "You're smiling"
+      },
+      "furigana": [
+        [
+          "あなたが",
+          null
+        ],
+        [
+          "笑って",
+          "わらって"
+        ],
+        [
+          "いる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "71c6e181-d15c-44ee-8341-16fa26f8d911",
+      "text": "それだけで 笑顔になる",
+      "start": 54.01,
+      "end": 57.24,
+      "translations": {
+        "en": "And that alone makes me smile"
+      },
+      "furigana": [
+        [
+          "それだけで ",
+          null
+        ],
+        [
+          "笑顔",
+          "えがお"
+        ],
+        [
+          "になる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0b917c67-0cae-4f16-95f2-3e7d2c52186e",
+      "text": "神様 ありがとう",
+      "start": 57.24,
+      "end": 61.12,
+      "translations": {
+        "en": "Thank you, God"
+      },
+      "furigana": [
+        [
+          "神様",
+          "かみさま"
+        ],
+        [
+          " ありがとう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "caed95d9-7617-42e3-92e9-9e60af5253a4",
+      "text": "運命のいたずらでも",
+      "start": 61.12,
+      "end": 65.17,
+      "translations": {
+        "en": "Even if it's just a trick of fate"
+      },
+      "furigana": [
+        [
+          "運命のいたずら",
+          "うんめいのいたずら"
+        ],
+        [
+          "でも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6554b8f5-66a7-4de5-bf16-feec7bd95f90",
+      "text": "めぐり逢えたことが",
+      "start": 65.17,
+      "end": 68.51,
+      "translations": {
+        "en": "Having found you"
+      },
+      "furigana": [
+        [
+          "めぐり逢え",
+          "めぐりあえ"
+        ],
+        [
+          "たことが",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2a5eff07-f81b-48ac-a37b-3d916f6095ce",
+      "text": "しあわせなの",
+      "start": 68.51,
+      "end": 72.85,
+      "translations": {
+        "en": "Makes me happy"
+      }
+    },
+    {
+      "id": "9ef18605-e2bc-4c3c-b647-dcc6c50494a8",
+      "text": "でも そんなんじゃ だめ",
+      "start": 72.85,
+      "end": 75.18,
+      "translations": {
+        "en": "But that just won't do"
+      }
+    },
+    {
+      "id": "08ccf161-3367-45bb-a720-2c8f97e5f66d",
+      "text": "もう そんなんじゃ ほら",
+      "start": 75.18,
+      "end": 77.13,
+      "translations": {
+        "en": "Come on, look—at this rate"
+      }
+    },
+    {
+      "id": "aecb40fa-facf-4aa0-99ff-2d626f7fe88a",
+      "text": "心は進化するよ",
+      "start": 77.13,
+      "end": 79.39,
+      "translations": {
+        "en": "My heart will keep evolving"
+      },
+      "furigana": [
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "進化",
+          "しんか"
+        ],
+        [
+          "するよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2814bdf9-3064-4793-9808-1bd558eba231",
+      "text": "もっと もっと",
+      "start": 79.39,
+      "end": 80.95,
+      "translations": {
+        "en": "More and more"
+      }
+    },
+    {
+      "id": "eb5ddc9d-4e99-4f78-9019-9cae6e548af7",
+      "text": "そう そんなんじゃ やだ",
+      "start": 80.95,
+      "end": 83.26,
+      "translations": {
+        "en": "Yes, I don't want it like that"
+      }
+    },
+    {
+      "id": "865e571f-313d-4f1a-9044-d0d9b5e9b358",
+      "text": "ねぇ そんなんじゃ まだ",
+      "start": 83.26,
+      "end": 85.01,
+      "translations": {
+        "en": "Hey, that's still not enough"
+      }
+    },
+    {
+      "id": "0d807c15-df56-47b5-90ad-ff31f06a7a0e",
+      "text": "私のこと 見ててね",
+      "start": 85.01,
+      "end": 87.18,
+      "translations": {
+        "en": "Keep your eyes on me, okay?"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "のこと ",
+          null
+        ],
+        [
+          "見て",
+          "みて"
+        ],
+        [
+          "てね",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "51396d3e-db93-4df5-ad56-9cda3bf01409",
+      "text": "ずっと ずっと",
+      "start": 87.18,
+      "end": 90.66,
+      "translations": {
+        "en": "Forever and ever"
+      }
+    },
+    {
+      "id": "7505b75c-78d0-44ef-bc97-2d08fb647f81",
+      "text": "",
+      "start": 90.66,
+      "end": 104.77,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "bc036de2-c830-4ab5-af3f-6f5be37951f2",
+      "text": "私の中のあなたほど",
+      "start": 104.77,
+      "end": 107.39,
+      "translations": {
+        "en": "Compared to the place you hold in my heart"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "中",
+          "じゅう"
+        ],
+        [
+          "のあなたほど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "73a85ca2-2196-4d4f-869e-44dcece44758",
+      "text": "あなたの中の私の存在は",
+      "start": 107.39,
+      "end": 109.21,
+      "translations": {
+        "en": "The place I hold in yours"
+      },
+      "furigana": [
+        [
+          "あなたの",
+          null
+        ],
+        [
+          "中",
+          "じゅう"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "存在",
+          "そんざい"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c06a1b77-aea4-43ed-9032-687d2e25b454",
+      "text": "まだまだ 大きくないことも",
+      "start": 109.21,
+      "end": 111.6,
+      "translations": {
+        "en": "Still isn't nearly as big"
+      },
+      "furigana": [
+        [
+          "まだまだ ",
+          null
+        ],
+        [
+          "大きく",
+          "おおきく"
+        ],
+        [
+          "ないことも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2802cb9c-1fc7-499d-9ada-156cb049619c",
+      "text": "わかってるけれど",
+      "start": 111.6,
+      "end": 113.22,
+      "translations": {
+        "en": "I know that, but"
+      }
+    },
+    {
+      "id": "2fb43e47-88a5-4ae6-b0f3-9a7135ee2190",
+      "text": "今この同じ 瞬間",
+      "start": 113.22,
+      "end": 115.39,
+      "translations": {
+        "en": "This very moment, right now"
+      },
+      "furigana": [
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "この",
+          null
+        ],
+        [
+          "同じ",
+          "おなじ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "瞬間",
+          "しゅんかん"
+        ]
+      ]
+    },
+    {
+      "id": "dcbbc17f-0745-4261-839e-f728f04f506b",
+      "text": "共有してる 実感",
+      "start": 115.39,
+      "end": 117.16,
+      "translations": {
+        "en": "I can really feel us sharing it"
+      },
+      "furigana": [
+        [
+          "共有",
+          "きょうゆう"
+        ],
+        [
+          "してる ",
+          null
+        ],
+        [
+          "実感",
+          "じっかん"
+        ]
+      ]
+    },
+    {
+      "id": "5d67ae65-f4ca-456e-8c18-8843cd7f1b69",
+      "text": "ちりもつもればやまとなでしこ!",
+      "start": 117.16,
+      "end": 119.12,
+      "translations": {
+        "en": "Even dust piles up into a mountain—or a perfect Japanese lady!"
+      }
+    },
+    {
+      "id": "6e1d69e7-1859-47d4-af86-03f243cadf7f",
+      "text": "略して? ちりつもやまとなでこ!",
+      "start": 119.12,
+      "end": 121.43,
+      "translations": {
+        "en": "For short? Piled-up dust, a perfect Japanese Nadeko!"
+      },
+      "furigana": [
+        [
+          "略して",
+          "りゃくして"
+        ],
+        [
+          "? ちりつもやまとなでこ!",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9e1f20e9-6738-44d0-a91e-cf203c706494",
+      "text": "くらくらり くらくらる",
+      "start": 121.43,
+      "end": 124.15,
+      "translations": {
+        "en": "Dizzy, spinning"
+      }
+    },
+    {
+      "id": "99ad0bfa-f0f6-4793-bf77-3c985b6285c1",
+      "text": "あなたを見上げたら",
+      "start": 124.15,
+      "end": 126.3,
+      "translations": {
+        "en": "When I look up at you"
+      },
+      "furigana": [
+        [
+          "あなたを",
+          null
+        ],
+        [
+          "見上げた",
+          "みあげた"
+        ],
+        [
+          "ら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b8af414f-8334-4e7d-96a4-2a3da2a15b61",
+      "text": "それだけで まぶしすぎて",
+      "start": 126.3,
+      "end": 129.21,
+      "translations": {
+        "en": "That alone is too dazzling"
+      }
+    },
+    {
+      "id": "8db49b38-f3d5-470f-934d-62fc58b7782a",
+      "text": "くらくらる くらくらり",
+      "start": 129.21,
+      "end": 132.34,
+      "translations": {
+        "en": "Spinning, dizzy"
+      }
+    },
+    {
+      "id": "29dbeb3e-9493-4dac-8e78-65cea8f18540",
+      "text": "あなたを想っている",
+      "start": 132.34,
+      "end": 134.3,
+      "translations": {
+        "en": "I'm thinking of you"
+      },
+      "furigana": [
+        [
+          "あなたを",
+          null
+        ],
+        [
+          "想って",
+          "おもって"
+        ],
+        [
+          "いる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "03551237-3cca-4fe9-83d2-1d911e77a061",
+      "text": "それだけで とけてしまう",
+      "start": 134.3,
+      "end": 137.14,
+      "translations": {
+        "en": "And that alone makes me melt"
+      }
+    },
+    {
+      "id": "8ed1a7dd-bd4d-46b6-a073-faaa5a44410c",
+      "text": "神様 ありがとう",
+      "start": 137.14,
+      "end": 140.93,
+      "translations": {
+        "en": "Thank you, God"
+      },
+      "furigana": [
+        [
+          "神様",
+          "かみさま"
+        ],
+        [
+          " ありがとう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8e28350d-d410-4e14-b080-130bc30f9aeb",
+      "text": "運命のいたずらでも",
+      "start": 140.93,
+      "end": 145.28,
+      "translations": {
+        "en": "Even if it's just a trick of fate"
+      },
+      "furigana": [
+        [
+          "運命のいたずら",
+          "うんめいのいたずら"
+        ],
+        [
+          "でも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c764b2d8-22a6-44d5-b065-edce068a84e6",
+      "text": "めぐり逢えたことが",
+      "start": 145.28,
+      "end": 148.81,
+      "translations": {
+        "en": "Having found you"
+      },
+      "furigana": [
+        [
+          "めぐり逢え",
+          "めぐりあえ"
+        ],
+        [
+          "たことが",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0858733f-81da-4258-aa2a-14f81ebf22d9",
+      "text": "しあわせなの",
+      "start": 148.81,
+      "end": 153.13,
+      "translations": {
+        "en": "Makes me happy"
+      }
+    },
+    {
+      "id": "b3a50b19-7bd9-4d73-8f26-d25ce586c0a6",
+      "text": "コイスル キセツハ ヨクバリ circulation",
+      "start": 153.13,
+      "end": 161.22,
+      "translations": {
+        "en": "The season of love is a greedy circulation"
+      }
+    },
+    {
+      "id": "28354048-9acf-4b52-88e0-a8263d3c203c",
+      "text": "コイスル キモチハ ヨクバリ circulation",
+      "start": 161.22,
+      "end": 169.23,
+      "translations": {
+        "en": "The feeling of love is a greedy circulation"
+      }
+    },
+    {
+      "id": "63f30769-7fa9-477f-82b6-d0d585bedded",
+      "text": "コイスル ヒトミハ ヨクバリ circulation",
+      "start": 169.23,
+      "end": 177.01,
+      "translations": {
+        "en": "Eyes in love are a greedy circulation"
+      }
+    },
+    {
+      "id": "bd9549be-4614-4c66-aacd-1feece5a072a",
+      "text": "コイスル オトメハ ヨクバリ circulation",
+      "start": 177.01,
+      "end": 187.04,
+      "translations": {
+        "en": "A maiden in love is a greedy circulation"
+      }
+    },
+    {
+      "id": "ad63d931-c344-4960-afe9-73346e788a54",
+      "text": "ふわふわり ふわふわる",
+      "start": 187.04,
+      "end": 190.28,
+      "translations": {
+        "en": "Floating, drifting"
+      }
+    },
+    {
+      "id": "e988a2e8-d903-4c9a-b79a-41b9ec74bc91",
+      "text": "あなたが名前を呼ぶ",
+      "start": 190.28,
+      "end": 192.3,
+      "translations": {
+        "en": "You call my name"
+      },
+      "furigana": [
+        [
+          "あなたが",
+          null
+        ],
+        [
+          "名前",
+          "なまえ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "呼ぶ",
+          "よぶ"
+        ]
+      ]
+    },
+    {
+      "id": "ce1f1659-ba0f-4b89-8228-129e2b2c73a9",
+      "text": "それだけで 宙へ浮かぶ",
+      "start": 192.3,
+      "end": 195.58,
+      "translations": {
+        "en": "And that alone sends me floating into the air"
+      },
+      "furigana": [
+        [
+          "それだけで ",
+          null
+        ],
+        [
+          "宙",
+          "ちゅう"
+        ],
+        [
+          "へ",
+          null
+        ],
+        [
+          "浮かぶ",
+          "うかぶ"
+        ]
+      ]
+    },
+    {
+      "id": "0ad2cff6-4e26-410f-a668-8cbd335dea0f",
+      "text": "ふわふわる ふわふわり",
+      "start": 195.58,
+      "end": 198.18,
+      "translations": {
+        "en": "Drifting, floating"
+      }
+    },
+    {
+      "id": "5001fc0d-b91d-48ef-99d9-16fc040cf286",
+      "text": "あなたが笑っている",
+      "start": 198.18,
+      "end": 200.25,
+      "translations": {
+        "en": "You're smiling"
+      },
+      "furigana": [
+        [
+          "あなたが",
+          null
+        ],
+        [
+          "笑って",
+          "わらって"
+        ],
+        [
+          "いる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "808afeca-de4c-4b8b-9df7-293f0aba7bd5",
+      "text": "それだけで 笑顔になる",
+      "start": 200.25,
+      "end": 203.24,
+      "translations": {
+        "en": "And that alone makes me smile"
+      },
+      "furigana": [
+        [
+          "それだけで ",
+          null
+        ],
+        [
+          "笑顔",
+          "えがお"
+        ],
+        [
+          "になる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "bda397ec-b1ae-44e9-8df1-d6d039dcba4b",
+      "text": "神様 ありがとう",
+      "start": 203.24,
+      "end": 206.89,
+      "translations": {
+        "en": "Thank you, God"
+      },
+      "furigana": [
+        [
+          "神様",
+          "かみさま"
+        ],
+        [
+          " ありがとう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5c60832b-993b-4409-ba31-60e01eb05fdb",
+      "text": "運命のいたずらでも",
+      "start": 206.89,
+      "end": 211.34,
+      "translations": {
+        "en": "Even if it's just a trick of fate"
+      },
+      "furigana": [
+        [
+          "運命のいたずら",
+          "うんめいのいたずら"
+        ],
+        [
+          "でも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0c23f167-cba0-4560-b2cb-47736e24cc2b",
+      "text": "めぐり逢えたことが",
+      "start": 211.34,
+      "end": 214.91,
+      "translations": {
+        "en": "Having found you"
+      },
+      "furigana": [
+        [
+          "めぐり逢え",
+          "めぐりあえ"
+        ],
+        [
+          "たことが",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "178f889b-4058-4a5a-bfc3-7fbd7cb9de4a",
+      "text": "しあわせなの",
+      "start": 214.91,
+      "end": 221.08,
+      "translations": {
+        "en": "Makes me happy"
+      }
+    },
+    {
+      "id": "845e3bed-02a6-4534-84c7-68883307fa8f",
+      "text": "",
+      "start": 221.08,
+      "end": 234.69,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "f63b8c61-51a7-422a-a008-a5377529a62a",
+      "text": "でも そんなんじゃ だめ",
+      "start": 234.69,
+      "end": 237.35,
+      "translations": {
+        "en": "But that just won't do"
+      }
+    },
+    {
+      "id": "5067bf5d-7edf-4ff3-b59c-088c2faa796d",
+      "text": "もう そんなんじゃ ほら",
+      "start": 237.35,
+      "end": 239.12,
+      "translations": {
+        "en": "Come on, look—at this rate"
+      }
+    },
+    {
+      "id": "bc9e0b56-0838-431d-b449-bb573ba15c3c",
+      "text": "心は進化するよ",
+      "start": 239.12,
+      "end": 241.62,
+      "translations": {
+        "en": "My heart will keep evolving"
+      },
+      "furigana": [
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "進化",
+          "しんか"
+        ],
+        [
+          "するよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5c3fadcf-ea72-4274-9fc8-e1e668b18857",
+      "text": "もっと もっと",
+      "start": 241.62,
+      "end": 243.14,
+      "translations": {
+        "en": "More and more"
+      }
+    },
+    {
+      "id": "419e6c30-438c-4248-b374-c17a90182603",
+      "text": "そう そんなんじゃ やだ",
+      "start": 243.14,
+      "end": 245.18,
+      "translations": {
+        "en": "Yes, I don't want it like that"
+      }
+    },
+    {
+      "id": "9aa87c92-f892-49f7-9f6f-6727a49651d8",
+      "text": "ねぇ そんなんじゃ まだ",
+      "start": 245.18,
+      "end": 247.04,
+      "translations": {
+        "en": "Hey, that's still not enough"
+      }
+    },
+    {
+      "id": "07da8f71-bb39-4b88-9b49-bcfc5f95a0e2",
+      "text": "私のこと 見ててね",
+      "start": 247.04,
+      "end": 249.38,
+      "translations": {
+        "en": "Keep your eyes on me, okay?"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "のこと ",
+          null
+        ],
+        [
+          "見て",
+          "みて"
+        ],
+        [
+          "てね",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "90d275fe-b70e-4e4f-8b9a-e614f326836e",
+      "text": "ずっと ずっと",
+      "start": 249.38,
+      "end": 250.83,
+      "translations": {
+        "en": "Forever and ever"
+      }
+    },
+    {
+      "id": "61f1d84f-e21c-40af-b98d-037df81104ab",
+      "text": "",
+      "start": 250.83,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
