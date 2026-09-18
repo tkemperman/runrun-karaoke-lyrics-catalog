@@ -1,0 +1,611 @@
+{
+  "schemaVersion": 3,
+  "videoId": "zDNV8zRgrik",
+  "videoUrl": "https://www.youtube.com/watch?v=zDNV8zRgrik",
+  "videoTitle": "Anri (杏里) - I Can't Stop The Loneliness - Live [SUB ENG]",
+  "title": "I CAN'T STOP THE LONELINESS",
+  "artist": "杏里",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/24449805"
+  },
+  "blocks": [
+    {
+      "id": "098a05c0-a363-4236-a487-47c088bb0a4b",
+      "text": "I can't stop the loneliness",
+      "start": 30.19,
+      "end": 34.41,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "8d67b656-5ca4-4667-aebf-91b6dfdd2c8a",
+      "text": "こらえきれず 悲しみがとまらない",
+      "start": 34.41,
+      "end": 44.04,
+      "translations": {
+        "en": "I can't hold it back, the sadness won't stop"
+      },
+      "furigana": [
+        [
+          "こらえきれず ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "がとまらない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "870389e8-cb5f-4c02-a529-59c7102d436c",
+      "text": "I can't stop the loneliness",
+      "start": 44.04,
+      "end": 48.76,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "1601918f-1e28-48ac-8c60-eb803b1cfe2d",
+      "text": "どうしてなの 悲しみがとまらない",
+      "start": 48.76,
+      "end": 58.61,
+      "translations": {
+        "en": "Why is it that the sadness won't stop?"
+      },
+      "furigana": [
+        [
+          "どうしてなの ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "がとまらない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "77085967-46f1-42d7-9f4a-27926fd84539",
+      "text": "",
+      "start": 58.61,
+      "end": 71.07,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "87ed231a-6825-4f0b-8234-cec4210e4a6f",
+      "text": "あなたに彼女",
+      "start": 71.07,
+      "end": 74.9,
+      "translations": {
+        "en": "Introducing her to you"
+      },
+      "furigana": [
+        [
+          "あなたに",
+          null
+        ],
+        [
+          "彼女",
+          "かのじょ"
+        ]
+      ]
+    },
+    {
+      "id": "f1dc8f67-36a5-437c-8dda-0215d8fbb6a2",
+      "text": "会わせたことを わたし今も悔やんでいる",
+      "start": 74.9,
+      "end": 85.92,
+      "translations": {
+        "en": "Is something I still regret"
+      },
+      "furigana": [
+        [
+          "会わせた",
+          "あわせた"
+        ],
+        [
+          "ことを わたし",
+          null
+        ],
+        [
+          "今も",
+          "いまも"
+        ],
+        [
+          "悔やんで",
+          "くやんで"
+        ],
+        [
+          "いる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4cb8ed2e-b7a2-425d-9e0f-dd031c7736f5",
+      "text": "ふたりはシンパシイ感じてた",
+      "start": 85.92,
+      "end": 92.88,
+      "translations": {
+        "en": "The two of you felt a connection"
+      },
+      "furigana": [
+        [
+          "ふたりはシンパシイ",
+          null
+        ],
+        [
+          "感じて",
+          "かんじて"
+        ],
+        [
+          "た",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a2a49725-9dee-47f9-ba30-70243f21c3f7",
+      "text": "昼下りのカフェテラス",
+      "start": 92.88,
+      "end": 99.88,
+      "translations": {
+        "en": "On the café terrace that early afternoon"
+      },
+      "furigana": [
+        [
+          "昼下り",
+          "ひるさがり"
+        ],
+        [
+          "のカフェテラス",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "48775617-518b-4f66-943a-32f13690cb21",
+      "text": "あの日電話が ふいに鳴ったの",
+      "start": 99.88,
+      "end": 106.37,
+      "translations": {
+        "en": "That day, the phone suddenly rang"
+      },
+      "furigana": [
+        [
+          "あの",
+          null
+        ],
+        [
+          "日電",
+          "にちでん"
+        ],
+        [
+          "話",
+          "はなし"
+        ],
+        [
+          "が ふいに",
+          null
+        ],
+        [
+          "鳴った",
+          "なった"
+        ],
+        [
+          "の",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "fa5387cb-8630-4818-8e42-b406ef46f212",
+      "text": "あの人と 別れてと 彼女から",
+      "start": 106.37,
+      "end": 115.13,
+      "translations": {
+        "en": "It was her, telling me to break up with you"
+      },
+      "furigana": [
+        [
+          "あの人",
+          "あのひと"
+        ],
+        [
+          "と ",
+          null
+        ],
+        [
+          "別れて",
+          "わかれて"
+        ],
+        [
+          "と ",
+          null
+        ],
+        [
+          "彼女",
+          "かのじょ"
+        ],
+        [
+          "から",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ba905b69-2366-40ff-b8c5-e9f39c94433d",
+      "text": "I can't stop the loneliness",
+      "start": 115.13,
+      "end": 119.84,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "16e5bed0-7004-452e-bc98-452ceb084860",
+      "text": "どうしてなの 悲しみがとまらない",
+      "start": 119.84,
+      "end": 131.54,
+      "translations": {
+        "en": "Why is it that the sadness won't stop?"
+      },
+      "furigana": [
+        [
+          "どうしてなの ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "がとまらない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8e17d3b2-d344-4bf7-81fc-fb038fde117e",
+      "text": "誤解だよってあなたは笑う",
+      "start": 131.54,
+      "end": 138.18,
+      "translations": {
+        "en": "You laugh and say, \"You've got it wrong\""
+      },
+      "furigana": [
+        [
+          "誤解",
+          "ごかい"
+        ],
+        [
+          "だよってあなたは",
+          null
+        ],
+        [
+          "笑う",
+          "わらう"
+        ]
+      ]
+    },
+    {
+      "id": "8bd31b9e-e3fd-4ed5-9662-b4a3d6514583",
+      "text": "だけどkissはウソのにおい",
+      "start": 138.18,
+      "end": 146.06,
+      "translations": {
+        "en": "But your kiss carries the scent of a lie"
+      }
+    },
+    {
+      "id": "2b4d1835-3f65-4d84-93d1-73743696cfa2",
+      "text": "抱きしめられて 気づいたの",
+      "start": 146.06,
+      "end": 152.7,
+      "translations": {
+        "en": "As you held me, I realized"
+      },
+      "furigana": [
+        [
+          "抱",
+          "かかえ"
+        ],
+        [
+          "きしめられて ",
+          null
+        ],
+        [
+          "気づいた",
+          "きづいた"
+        ],
+        [
+          "の",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "256ef66a-a36c-4492-ad2d-0e36e04ba6e7",
+      "text": "愛がここにないことを",
+      "start": 152.7,
+      "end": 159.89,
+      "translations": {
+        "en": "That there was no love here"
+      },
+      "furigana": [
+        [
+          "愛",
+          "あい"
+        ],
+        [
+          "がここにないことを",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "11e8d0a5-3882-4755-9f4d-bc6f929cbb39",
+      "text": "恋はちいさな アラシみたいに",
+      "start": 159.89,
+      "end": 166.33,
+      "translations": {
+        "en": "Love, like a little storm"
+      },
+      "furigana": [
+        [
+          "恋",
+          "こい"
+        ],
+        [
+          "はちいさな アラシみたいに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "676d5d4d-2b63-45ff-9670-83335104f69b",
+      "text": "友だちも 恋人も 奪って",
+      "start": 166.33,
+      "end": 175.06,
+      "translations": {
+        "en": "Stole both my friend and my lover"
+      },
+      "furigana": [
+        [
+          "友だち",
+          "ともだち"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "恋人",
+          "こいびと"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "奪って",
+          "うばって"
+        ]
+      ]
+    },
+    {
+      "id": "f740d0d8-bc56-4e9c-955c-eacb9d95c903",
+      "text": "I can't stop the loneliness",
+      "start": 175.06,
+      "end": 179.8,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "5f80e19e-7b82-433e-bc1f-ddfc060ae571",
+      "text": "彼を返して 悲しみがとまらない",
+      "start": 179.8,
+      "end": 190.24,
+      "translations": {
+        "en": "Give him back to me, the sadness won't stop"
+      },
+      "furigana": [
+        [
+          "彼",
+          "かれ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "返して",
+          "かえして"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "がとまらない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "02e4582e-1213-4f58-9e06-d3b5f706c9c4",
+      "text": "",
+      "start": 190.24,
+      "end": 207.88,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "83a845be-de2c-435a-8bd7-cf415fc6a45f",
+      "text": "I can't stop the loneliness",
+      "start": 207.88,
+      "end": 212.58,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "ebe42160-37aa-4dad-a611-3628622ef55b",
+      "text": "だれか救けて 悲しみがとまらない",
+      "start": 212.58,
+      "end": 222.22,
+      "translations": {
+        "en": "Someone help me, the sadness won't stop"
+      },
+      "furigana": [
+        [
+          "だれか",
+          null
+        ],
+        [
+          "救けて",
+          "たすけて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "がとまらない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "be1fdaa0-1ba5-48a8-8db8-db6480f30e24",
+      "text": "I can't stop the loneliness",
+      "start": 222.22,
+      "end": 226.97,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "6f6d2452-c893-4e76-99e9-d2e9d91e1cba",
+      "text": "こらえきれず 悲しみがとまらない",
+      "start": 226.97,
+      "end": 236.41,
+      "translations": {
+        "en": "I can't hold it back, the sadness won't stop"
+      },
+      "furigana": [
+        [
+          "こらえきれず ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "がとまらない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4c70e020-1fca-4203-b9b6-04208acf382b",
+      "text": "I can't stop the loneliness",
+      "start": 236.41,
+      "end": 241.46,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "9e3b14b5-6355-4efa-b4b2-aa41e6d40765",
+      "text": "どうしてなの 悲しみがとまらない",
+      "start": 241.46,
+      "end": 251.25,
+      "translations": {
+        "en": "Why is it that the sadness won't stop?"
+      },
+      "furigana": [
+        [
+          "どうしてなの ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "がとまらない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "51f9a41f-2894-49bd-af51-f4b652a38c41",
+      "text": "I can't stop the loneliness",
+      "start": 251.25,
+      "end": 256.55,
+      "translations": {
+        "en": "I can't stop the loneliness"
+      }
+    },
+    {
+      "id": "d773bb4a-29ca-49d4-a83c-a670db5f6b7b",
+      "text": "こらえきれず 悲しみが",
+      "start": 256.55,
+      "end": 263.18,
+      "translations": {
+        "en": "I can't hold it back, the sadness"
+      },
+      "furigana": [
+        [
+          "こらえきれず ",
+          null
+        ],
+        [
+          "悲しみ",
+          "かなしみ"
+        ],
+        [
+          "が",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "922fc2a9-9902-4df6-a06a-96b4f857e10d",
+      "text": "",
+      "start": 263.18,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
