@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 3,
+  "videoId": "817-MDcen9U",
+  "videoUrl": "https://www.youtube.com/watch?v=817-MDcen9U",
+  "videoTitle": "森田童子 - たとえばぼくが死んだら",
+  "title": "たとえばぼくが死んだら",
+  "artist": "森田童子",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": false,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/21604621"
+  },
+  "blocks": [
+    {
+      "id": "c585f778-9e46-4cba-ba46-7b0aa55dd730",
+      "text": "たとえば ぼくが死んだら",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "af658057-5f17-49d0-b00c-b96d8ca38fdb",
+      "text": "そっと忘れてほしい",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "fc484606-50a5-4585-81eb-c577b235df41",
+      "text": "淋しい時は ぼくの好きな",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "2a8114ef-b879-4a15-8276-6573d5c9325d",
+      "text": "菜の花畑で泣いてくれ",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "c32af3c1-2387-4bcd-b83c-ef7cd04e30b6",
+      "text": "たとえば 眠れぬ夜は",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "f9beec98-9170-4a82-b17a-115cd58cf6d3",
+      "text": "暗い海辺の窓から",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "02333cdb-a724-49c7-abf1-82736c33a753",
+      "text": "ぼくの名前を 風にのせて",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "cde7f929-5d42-48ba-95ad-bd7b3eb9568a",
+      "text": "そっと呼んでくれ",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "6342b632-a1c5-44a9-819c-7b671ece27bd",
+      "text": "たとえば 雨にうたれて",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "024abc75-df28-431c-8b1e-8199ef79d58e",
+      "text": "杏子の花が散っている",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "126b71c2-6b7a-492e-92a7-7918b54d1826",
+      "text": "故郷をすてた ぼくが上着の",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "cd7749aa-77ff-4473-afbe-6833b683b1d6",
+      "text": "衿を立てて歩いている",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "05fa6115-8423-4892-98c6-207b1685df9c",
+      "text": "たとえば マッチをすっては",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "febd22c5-6d69-4b98-a105-d71d0a8c1081",
+      "text": "悲しみをもやす この ぼくの",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "66c717ae-5321-4f3d-8e0e-4783f8cdcd37",
+      "text": "涙もろい 想いは 何だろう",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "93b14a71-3b9a-4a60-9ffa-a7c13fcf7af8",
+      "text": "たとえば ぼくが死んだら",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "16448138-f683-426b-9d6b-11a581513378",
+      "text": "そっと忘れてほしい",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "f607bc43-fbf8-482d-9484-51629c2fa360",
+      "text": "淋しい時は ぼくの好きな",
+      "start": null,
+      "end": null,
+      "translations": {}
+    },
+    {
+      "id": "93705ff7-0f0b-4878-9766-cd0fab1021f4",
+      "text": "菜の花畑で泣いてくれ",
+      "start": null,
+      "end": null,
+      "translations": {}
+    }
+  ]
+}
