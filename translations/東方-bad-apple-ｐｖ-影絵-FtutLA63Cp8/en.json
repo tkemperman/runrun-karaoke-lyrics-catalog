@@ -1,0 +1,1479 @@
+{
+  "schemaVersion": 3,
+  "videoId": "FtutLA63Cp8",
+  "videoUrl": "https://www.youtube.com/watch?v=FtutLA63Cp8",
+  "videoTitle": "【東方】Bad Apple!! ＰＶ【影絵】",
+  "title": "【東方】Bad Apple!! ＰＶ【影絵】",
+  "artist": "kasidid2",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/33985487"
+  },
+  "blocks": [
+    {
+      "id": "51e449c8-e826-492e-a4ff-fc332e508f9e",
+      "text": "流れてく　時の中ででも",
+      "start": 29.14,
+      "end": 32.62,
+      "translations": {
+        "en": "Even as time keeps flowing by"
+      },
+      "furigana": [
+        [
+          "流れて",
+          "ながれて"
+        ],
+        [
+          "く　",
+          null
+        ],
+        [
+          "時の",
+          "ときの"
+        ],
+        [
+          "中",
+          "じゅう"
+        ],
+        [
+          "ででも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "38970616-7005-4046-8cdc-17e7e62469c3",
+      "text": "気だるさが　ほらグルグル廻って",
+      "start": 32.62,
+      "end": 36.1,
+      "translations": {
+        "en": "Look, this weariness keeps spinning round and round"
+      },
+      "furigana": [
+        [
+          "気",
+          "き"
+        ],
+        [
+          "だるさが　ほらグルグル",
+          null
+        ],
+        [
+          "廻って",
+          "まわって"
+        ]
+      ]
+    },
+    {
+      "id": "8636034e-8b67-42b2-a597-ef036f057fee",
+      "text": "私から　離れる心も",
+      "start": 36.1,
+      "end": 39.56,
+      "translations": {
+        "en": "Even my heart as it drifts away from me"
+      },
+      "furigana": [
+        [
+          "私か",
+          "ひそか"
+        ],
+        [
+          "ら　",
+          null
+        ],
+        [
+          "離れる",
+          "はなれる"
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "75a4b412-0d94-4688-b7ae-8e57a0678455",
+      "text": "見えないわ　そう知らない？",
+      "start": 39.56,
+      "end": 43.04,
+      "translations": {
+        "en": "I can't see it—don't you know?"
+      },
+      "furigana": [
+        [
+          "見えない",
+          "みえない"
+        ],
+        [
+          "わ　そう",
+          null
+        ],
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3a72cc25-611b-4c87-a2b9-05066c384946",
+      "text": "自分から　動くこともなく",
+      "start": 43.04,
+      "end": 46.52,
+      "translations": {
+        "en": "Without ever making a move of my own"
+      },
+      "furigana": [
+        [
+          "自分から",
+          "じぶんから"
+        ],
+        [
+          "　",
+          null
+        ],
+        [
+          "動く",
+          "うごく"
+        ],
+        [
+          "こともなく",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d6a02f6a-5fe9-4292-a11e-30a4cbefbd1f",
+      "text": "時の隙間に　流され続けて",
+      "start": 46.52,
+      "end": 50,
+      "translations": {
+        "en": "I keep being swept through the gaps in time"
+      },
+      "furigana": [
+        [
+          "時の",
+          "ときの"
+        ],
+        [
+          "隙間",
+          "すきま"
+        ],
+        [
+          "に　",
+          null
+        ],
+        [
+          "流され",
+          "ながされ"
+        ],
+        [
+          "続けて",
+          "つづけて"
+        ]
+      ]
+    },
+    {
+      "id": "490427c9-7fba-4219-98ef-4f996c7f4367",
+      "text": "知らないわ　周りのことなど",
+      "start": 50,
+      "end": 53.48,
+      "translations": {
+        "en": "I know nothing of what's around me"
+      },
+      "furigana": [
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "わ　",
+          null
+        ],
+        [
+          "周り",
+          "まわり"
+        ],
+        [
+          "のことなど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e694a6ca-057b-409d-bd49-dd0c5d7752ac",
+      "text": "私は私　それだけ",
+      "start": 53.48,
+      "end": 56.96,
+      "translations": {
+        "en": "I am me, and that's all"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "　それだけ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ee40dce1-fb56-4978-b9e5-d66ef5fd7952",
+      "text": "夢見てる？　なにも見てない？",
+      "start": 56.96,
+      "end": 59.96,
+      "translations": {
+        "en": "Am I dreaming? Am I seeing nothing?"
+      },
+      "furigana": [
+        [
+          "夢見て",
+          "ゆめみて"
+        ],
+        [
+          "る？　なにも",
+          null
+        ],
+        [
+          "見て",
+          "みて"
+        ],
+        [
+          "ない？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e72afac2-5d86-43d3-8009-a1ea1826dcd7",
+      "text": "語るも無駄な　自分の言葉？",
+      "start": 59.96,
+      "end": 63.46,
+      "translations": {
+        "en": "Are my own words not even worth speaking?"
+      },
+      "furigana": [
+        [
+          "語る",
+          "かたる"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "無駄",
+          "むだ"
+        ],
+        [
+          "な　",
+          null
+        ],
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "言葉",
+          "ことば"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c9a7e94e-6798-407d-86a6-f84cc7cd5ec2",
+      "text": "悲しむなんて　疲れるだけよ",
+      "start": 63.46,
+      "end": 66.94,
+      "translations": {
+        "en": "Feeling sad only wears me out"
+      },
+      "furigana": [
+        [
+          "悲しむ",
+          "かなしむ"
+        ],
+        [
+          "なんて　",
+          null
+        ],
+        [
+          "疲れる",
+          "つかれる"
+        ],
+        [
+          "だけよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "05f15c9b-a8a3-42d4-82c3-c790df31f426",
+      "text": "何も感じず　過ごせばいいの",
+      "start": 66.94,
+      "end": 70.42,
+      "translations": {
+        "en": "I should just get by without feeling a thing"
+      },
+      "furigana": [
+        [
+          "何も",
+          "なにも"
+        ],
+        [
+          "感じ",
+          "かんじ"
+        ],
+        [
+          "ず　",
+          null
+        ],
+        [
+          "過ごせ",
+          "すごせ"
+        ],
+        [
+          "ばいいの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "824d5b79-b049-4702-9bee-c3f02a3a061e",
+      "text": "戸惑う言葉　與えられても",
+      "start": 70.42,
+      "end": 73.9,
+      "translations": {
+        "en": "Even when I'm given words that bewilder me"
+      },
+      "furigana": [
+        [
+          "戸惑う",
+          "とまどう"
+        ],
+        [
+          "言葉",
+          "ことば"
+        ],
+        [
+          "　",
+          null
+        ],
+        [
+          "與",
+          "あたえ"
+        ],
+        [
+          "えられても",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "91204714-569b-495c-91b2-9c4d23c75ba1",
+      "text": "自分の心　ただ上の空",
+      "start": 73.9,
+      "end": 77.38,
+      "translations": {
+        "en": "My heart is simply somewhere else"
+      },
+      "furigana": [
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "　ただ",
+          null
+        ],
+        [
+          "上の空",
+          "うわのそら"
+        ]
+      ]
+    },
+    {
+      "id": "35d575aa-d2db-4d31-9129-0fc96d8754d7",
+      "text": "もし私から　動くのならば",
+      "start": 77.38,
+      "end": 80.86,
+      "translations": {
+        "en": "If I were to make a move of my own"
+      },
+      "furigana": [
+        [
+          "もし",
+          null
+        ],
+        [
+          "私か",
+          "ひそか"
+        ],
+        [
+          "ら　",
+          null
+        ],
+        [
+          "動く",
+          "うごく"
+        ],
+        [
+          "のならば",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9e8ac778-7000-4be4-bdd9-368d3dcc055a",
+      "text": "すべて変えるのなら　黒にする",
+      "start": 80.86,
+      "end": 84.34,
+      "translations": {
+        "en": "If I were to change it all, I'd turn it black"
+      },
+      "furigana": [
+        [
+          "すべて",
+          null
+        ],
+        [
+          "変える",
+          "かえる"
+        ],
+        [
+          "のなら　",
+          null
+        ],
+        [
+          "黒",
+          "くろ"
+        ],
+        [
+          "にする",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ef290e7e-add0-478a-adcf-b7db31ce7c38",
+      "text": "こんな自分に　未來はあるの？",
+      "start": 84.34,
+      "end": 87.84,
+      "translations": {
+        "en": "Is there a future for someone like me?"
+      },
+      "furigana": [
+        [
+          "こんな",
+          null
+        ],
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "に　",
+          null
+        ],
+        [
+          "未來",
+          "はるか"
+        ],
+        [
+          "はあるの？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d4602e52-511e-49ef-9574-068d5e3075a9",
+      "text": "こんな世界に　私はいるの？",
+      "start": 87.84,
+      "end": 91.32,
+      "translations": {
+        "en": "Do I exist in a world like this?"
+      },
+      "furigana": [
+        [
+          "こんな",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "に　",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "はいるの？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6304c6b0-13cf-40eb-83c6-fa30a688b441",
+      "text": "今切ないの？　今悲しいの？",
+      "start": 91.32,
+      "end": 94.82,
+      "translations": {
+        "en": "Am I aching now? Am I sad now?"
+      },
+      "furigana": [
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "切ない",
+          "せつない"
+        ],
+        [
+          "の？　",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "悲しい",
+          "かなしい"
+        ],
+        [
+          "の？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "84237add-4b15-4a8c-aa12-a958a797a252",
+      "text": "自分の事も　わからないまま",
+      "start": 94.82,
+      "end": 98.28,
+      "translations": {
+        "en": "Still not even understanding myself"
+      },
+      "furigana": [
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "事",
+          "こと"
+        ],
+        [
+          "も　わからないまま",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "68929f88-5f02-4400-8aa0-e5f739c00cc2",
+      "text": "歩むことさえ　疲れるだけよ",
+      "start": 98.28,
+      "end": 101.74,
+      "translations": {
+        "en": "Even taking a step only wears me out"
+      },
+      "furigana": [
+        [
+          "歩む",
+          "あゆむ"
+        ],
+        [
+          "ことさえ　",
+          null
+        ],
+        [
+          "疲れる",
+          "つかれる"
+        ],
+        [
+          "だけよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b68181d0-dd16-4b7b-99d8-7e20e03d6ee2",
+      "text": "人のことなど　知りもしないわ",
+      "start": 101.74,
+      "end": 105.22,
+      "translations": {
+        "en": "I don't know a thing about other people"
+      },
+      "furigana": [
+        [
+          "人",
+          "ひと"
+        ],
+        [
+          "のことなど　",
+          null
+        ],
+        [
+          "知",
+          "ち"
+        ],
+        [
+          "りもしないわ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "00af7457-8071-49df-8d87-19914ecb62be",
+      "text": "こんな私も　変われるもなら",
+      "start": 105.22,
+      "end": 108.7,
+      "translations": {
+        "en": "If even someone like me could change"
+      },
+      "furigana": [
+        [
+          "こんな",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "も　",
+          null
+        ],
+        [
+          "変われ",
+          "かわれ"
+        ],
+        [
+          "るもなら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ca576a26-5c36-46b3-9f7c-7eb7eda93d36",
+      "text": "もし変われるのなら　白になる？",
+      "start": 108.7,
+      "end": 112.62,
+      "translations": {
+        "en": "If I could change, would I turn white?"
+      },
+      "furigana": [
+        [
+          "もし",
+          null
+        ],
+        [
+          "変われ",
+          "かわれ"
+        ],
+        [
+          "るのなら　",
+          null
+        ],
+        [
+          "白",
+          "しろ"
+        ],
+        [
+          "になる？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e19aaef6-fd9c-42eb-a307-dbbbb3e2af00",
+      "text": "",
+      "start": 112.62,
+      "end": 126.54,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "9c53ee52-c2b3-4777-bfa0-cfc9f68c2336",
+      "text": "流れてく　時に中ででも",
+      "start": 126.54,
+      "end": 130.02,
+      "translations": {
+        "en": "Even as time keeps flowing by"
+      },
+      "furigana": [
+        [
+          "流れて",
+          "ながれて"
+        ],
+        [
+          "く　",
+          null
+        ],
+        [
+          "時に",
+          "ときに"
+        ],
+        [
+          "中",
+          "じゅう"
+        ],
+        [
+          "ででも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "81ee1736-b2c7-4108-86ac-15d63da78609",
+      "text": "気だるさがほら　グルグル廻って",
+      "start": 130.02,
+      "end": 133.5,
+      "translations": {
+        "en": "Look, this weariness keeps spinning round and round"
+      },
+      "furigana": [
+        [
+          "気",
+          "き"
+        ],
+        [
+          "だるさがほら　グルグル",
+          null
+        ],
+        [
+          "廻って",
+          "まわって"
+        ]
+      ]
+    },
+    {
+      "id": "7591eb57-52d6-4b52-9e86-ef480174efee",
+      "text": "私から　離れる心も",
+      "start": 133.5,
+      "end": 136.98,
+      "translations": {
+        "en": "Even my heart as it drifts away from me"
+      },
+      "furigana": [
+        [
+          "私か",
+          "ひそか"
+        ],
+        [
+          "ら　",
+          null
+        ],
+        [
+          "離れる",
+          "はなれる"
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d40a8f57-ec1b-4d4d-bffe-b83ac3e7b1b8",
+      "text": "見えないわそう　知らない？",
+      "start": 136.98,
+      "end": 140.46,
+      "translations": {
+        "en": "I can't see it—don't you know?"
+      },
+      "furigana": [
+        [
+          "見えない",
+          "みえない"
+        ],
+        [
+          "わそう　",
+          null
+        ],
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "262b81b2-5762-498a-b6b9-769fd5a87e74",
+      "text": "自分から　動くことまなく",
+      "start": 140.46,
+      "end": 143.94,
+      "translations": {
+        "en": "Without ever making a move of my own"
+      },
+      "furigana": [
+        [
+          "自分から",
+          "じぶんから"
+        ],
+        [
+          "　",
+          null
+        ],
+        [
+          "動く",
+          "うごく"
+        ],
+        [
+          "ことまなく",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "27d9f69f-645b-41d6-8d5f-14ae77888892",
+      "text": "時の隙間に　流され続けて",
+      "start": 143.94,
+      "end": 147.42,
+      "translations": {
+        "en": "I keep being swept through the gaps in time"
+      },
+      "furigana": [
+        [
+          "時の",
+          "ときの"
+        ],
+        [
+          "隙間",
+          "すきま"
+        ],
+        [
+          "に　",
+          null
+        ],
+        [
+          "流され",
+          "ながされ"
+        ],
+        [
+          "続けて",
+          "つづけて"
+        ]
+      ]
+    },
+    {
+      "id": "e553a3a6-adcd-42db-9f72-90f7e8cd0560",
+      "text": "知らないわ　周りのことなど",
+      "start": 147.42,
+      "end": 150.9,
+      "translations": {
+        "en": "I know nothing of what's around me"
+      },
+      "furigana": [
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "わ　",
+          null
+        ],
+        [
+          "周り",
+          "まわり"
+        ],
+        [
+          "のことなど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1370b713-bc7e-427a-8752-57e890e76809",
+      "text": "私は私　それだけ？",
+      "start": 150.9,
+      "end": 154.38,
+      "translations": {
+        "en": "I am me—is that all?"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "　それだけ？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dea64a1d-c0e3-4283-9270-1c576a5f417a",
+      "text": "夢見てる？　なにも見てない？",
+      "start": 154.38,
+      "end": 157.4,
+      "translations": {
+        "en": "Am I dreaming? Am I seeing nothing?"
+      },
+      "furigana": [
+        [
+          "夢見て",
+          "ゆめみて"
+        ],
+        [
+          "る？　なにも",
+          null
+        ],
+        [
+          "見て",
+          "みて"
+        ],
+        [
+          "ない？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "487434b4-180c-4c9d-8d3d-e89e064d3b61",
+      "text": "語るも無駄な　自分の言葉？",
+      "start": 157.4,
+      "end": 160.88,
+      "translations": {
+        "en": "Are my own words not even worth speaking?"
+      },
+      "furigana": [
+        [
+          "語る",
+          "かたる"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "無駄",
+          "むだ"
+        ],
+        [
+          "な　",
+          null
+        ],
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "言葉",
+          "ことば"
+        ],
+        [
+          "？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8c84b1f8-3642-47eb-894f-41de953d26ef",
+      "text": "悲しむなんて　疲れるだけよ",
+      "start": 160.88,
+      "end": 164.36,
+      "translations": {
+        "en": "Feeling sad only wears me out"
+      },
+      "furigana": [
+        [
+          "悲しむ",
+          "かなしむ"
+        ],
+        [
+          "なんて　",
+          null
+        ],
+        [
+          "疲れる",
+          "つかれる"
+        ],
+        [
+          "だけよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1446d76d-39f9-4dc3-be79-f8be15466e0c",
+      "text": "何も感じず　過ごせばいいの",
+      "start": 164.36,
+      "end": 167.84,
+      "translations": {
+        "en": "I should just get by without feeling a thing"
+      },
+      "furigana": [
+        [
+          "何も",
+          "なにも"
+        ],
+        [
+          "感じ",
+          "かんじ"
+        ],
+        [
+          "ず　",
+          null
+        ],
+        [
+          "過ごせ",
+          "すごせ"
+        ],
+        [
+          "ばいいの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "151f5166-8b55-4957-9d11-a8db2b24bb11",
+      "text": "戸惑う言葉　與えられても",
+      "start": 167.84,
+      "end": 171.3,
+      "translations": {
+        "en": "Even when I'm given words that bewilder me"
+      },
+      "furigana": [
+        [
+          "戸惑う",
+          "とまどう"
+        ],
+        [
+          "言葉",
+          "ことば"
+        ],
+        [
+          "　",
+          null
+        ],
+        [
+          "與",
+          "あたえ"
+        ],
+        [
+          "えられても",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4725b437-c637-4daf-83e1-666a0a645ed1",
+      "text": "自分の心　ただ上の空",
+      "start": 171.3,
+      "end": 174.8,
+      "translations": {
+        "en": "My heart is simply somewhere else"
+      },
+      "furigana": [
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "　ただ",
+          null
+        ],
+        [
+          "上の空",
+          "うわのそら"
+        ]
+      ]
+    },
+    {
+      "id": "9658d947-4175-4d1c-bc6a-5c74a4257333",
+      "text": "もし私から　動くのならば",
+      "start": 174.8,
+      "end": 178.28,
+      "translations": {
+        "en": "If I were to make a move of my own"
+      },
+      "furigana": [
+        [
+          "もし",
+          null
+        ],
+        [
+          "私か",
+          "ひそか"
+        ],
+        [
+          "ら　",
+          null
+        ],
+        [
+          "動く",
+          "うごく"
+        ],
+        [
+          "のならば",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a2ccc4cc-6281-4c35-90eb-8c8c82c77c6f",
+      "text": "すべて変えるのなら　黒にする",
+      "start": 178.28,
+      "end": 181.78,
+      "translations": {
+        "en": "If I were to change it all, I'd turn it black"
+      },
+      "furigana": [
+        [
+          "すべて",
+          null
+        ],
+        [
+          "変える",
+          "かえる"
+        ],
+        [
+          "のなら　",
+          null
+        ],
+        [
+          "黒",
+          "くろ"
+        ],
+        [
+          "にする",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7791ce7c-51b1-41e4-8764-1db2dea4298e",
+      "text": "動くのならば　動くのならば",
+      "start": 181.78,
+      "end": 185.26,
+      "translations": {
+        "en": "If I were to move, if I were to move"
+      },
+      "furigana": [
+        [
+          "動く",
+          "うごく"
+        ],
+        [
+          "のならば　",
+          null
+        ],
+        [
+          "動く",
+          "うごく"
+        ],
+        [
+          "のならば",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f2b5c9c3-a1d9-42c2-9e40-572894979e61",
+      "text": "すべて壊すわ　すべて壊すわ",
+      "start": 185.26,
+      "end": 188.76,
+      "translations": {
+        "en": "I'd destroy it all, I'd destroy it all"
+      },
+      "furigana": [
+        [
+          "すべて",
+          null
+        ],
+        [
+          "壊す",
+          "こわす"
+        ],
+        [
+          "わ　すべて",
+          null
+        ],
+        [
+          "壊す",
+          "こわす"
+        ],
+        [
+          "わ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "663b7c58-667f-4566-a846-546d0a105f94",
+      "text": "悲しむならば　悲しむならば",
+      "start": 188.76,
+      "end": 192.22,
+      "translations": {
+        "en": "If I were to grieve, if I were to grieve"
+      },
+      "furigana": [
+        [
+          "悲しむ",
+          "かなしむ"
+        ],
+        [
+          "ならば　",
+          null
+        ],
+        [
+          "悲しむ",
+          "かなしむ"
+        ],
+        [
+          "ならば",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5e614ef7-4dc6-4e6b-9103-80cbffa7777f",
+      "text": "私の心　白く変われる？",
+      "start": 192.22,
+      "end": 195.68,
+      "translations": {
+        "en": "Could my heart turn white?"
+      },
+      "furigana": [
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "　",
+          null
+        ],
+        [
+          "白",
+          "しろ"
+        ],
+        [
+          "く",
+          null
+        ],
+        [
+          "変われ",
+          "かわれ"
+        ],
+        [
+          "る？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4f3dd626-6bd0-4dca-93d8-3874ed350b8f",
+      "text": "貴方の事も　私のことも",
+      "start": 195.68,
+      "end": 199.14,
+      "translations": {
+        "en": "About you, about myself"
+      },
+      "furigana": [
+        [
+          "貴方",
+          "あなた"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "事",
+          "こと"
+        ],
+        [
+          "も　",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "のことも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "86d16426-4bdc-4300-9b7e-01d0809dda86",
+      "text": "全ての事も　まだ知らないの",
+      "start": 199.14,
+      "end": 202.64,
+      "translations": {
+        "en": "About anything at all, I still don't know"
+      },
+      "furigana": [
+        [
+          "全て",
+          "すべて"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "事",
+          "こと"
+        ],
+        [
+          "も　まだ",
+          null
+        ],
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "の",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "54e48e71-5019-4bdc-8a2d-e6fef71bcae7",
+      "text": "重い目蓋を　開けたのならば",
+      "start": 202.64,
+      "end": 206.16,
+      "translations": {
+        "en": "If I were to open my heavy eyelids"
+      },
+      "furigana": [
+        [
+          "重い",
+          "おもい"
+        ],
+        [
+          "目蓋",
+          "まぶた"
+        ],
+        [
+          "を　",
+          null
+        ],
+        [
+          "開けた",
+          "あけた"
+        ],
+        [
+          "のならば",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8f8b02c8-b37e-4c19-9c27-823f1335eb82",
+      "text": "すべて壊すのなら　黒になれ",
+      "start": 206.16,
+      "end": null,
+      "translations": {
+        "en": "If everything is to be destroyed, turn black"
+      },
+      "furigana": [
+        [
+          "すべて",
+          null
+        ],
+        [
+          "壊す",
+          "こわす"
+        ],
+        [
+          "のなら　",
+          null
+        ],
+        [
+          "黒",
+          "くろ"
+        ],
+        [
+          "になれ",
+          null
+        ]
+      ]
+    }
+  ]
+}
