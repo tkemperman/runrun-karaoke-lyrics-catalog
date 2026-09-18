@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 3,
+  "videoId": "oMHLkcc9I9c",
+  "videoUrl": "https://www.youtube.com/watch?v=oMHLkcc9I9c",
+  "videoTitle": "NENA | Irgendwie · Irgendwo · Irgendwann [1984] [Offizielles HD Musikvideo]",
+  "title": "Irgendwie, Irgendwo, Irgendwann",
+  "artist": "Nena",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 8.431,
+  "furiganaEnabled": false,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/28650298"
+  },
+  "blocks": [
+    {
+      "id": "1b207f6c-e183-43ce-a1ea-ac6e4a2d76b8",
+      "text": "Im Sturz durch Raum und Zeit",
+      "start": 25.24,
+      "end": 28.16,
+      "translations": {}
+    },
+    {
+      "id": "3130aae8-9d89-4906-9792-699d661ad300",
+      "text": "Richtung Unendlichkeit",
+      "start": 28.16,
+      "end": 36.63,
+      "translations": {}
+    },
+    {
+      "id": "ef471952-873b-451b-a072-2cc70298720a",
+      "text": "Fliegen Motten in das Licht",
+      "start": 36.63,
+      "end": 39.33,
+      "translations": {}
+    },
+    {
+      "id": "05cd0e44-d1b2-418d-85f1-33e459bdf623",
+      "text": "Genau wie du und ich",
+      "start": 39.33,
+      "end": 48.14,
+      "translations": {}
+    },
+    {
+      "id": "223f9a20-2c47-4c77-9f01-2dfda9a5f413",
+      "text": "Irgendwie fängt irgendwann",
+      "start": 48.14,
+      "end": 51.11,
+      "translations": {}
+    },
+    {
+      "id": "e97452fe-f92c-439b-8765-0b0ce854a6df",
+      "text": "Irgendwo die Zukunft an",
+      "start": 51.11,
+      "end": 53.87,
+      "translations": {}
+    },
+    {
+      "id": "1f1d71ba-a7e6-4d8f-9ebe-6e3d6a1b97c3",
+      "text": "Ich warte nicht mehr lang",
+      "start": 53.87,
+      "end": 59.72,
+      "translations": {}
+    },
+    {
+      "id": "f84c10e2-fb4e-4f53-a83b-6eed26d3b8db",
+      "text": "Liebe wird aus Mut gemacht",
+      "start": 59.72,
+      "end": 62.44,
+      "translations": {}
+    },
+    {
+      "id": "e6aa1a92-43fb-4273-9a42-a8f154f8e6bb",
+      "text": "Denk nicht lange nach",
+      "start": 62.44,
+      "end": 64.34,
+      "translations": {}
+    },
+    {
+      "id": "3a32787a-dfb8-4c8e-87ab-4b440c583c4f",
+      "text": "Wir fahr'n auf Feuerrädern",
+      "start": 64.34,
+      "end": 66.78,
+      "translations": {}
+    },
+    {
+      "id": "0f7d726a-ef39-4b93-8ad5-ad9f87082649",
+      "text": "Richtung Zukunft durch die Nacht",
+      "start": 66.78,
+      "end": 72.35,
+      "translations": {}
+    },
+    {
+      "id": "078b34c5-1a8b-4ad8-af46-439dcb154945",
+      "text": "Gib mir die Hand",
+      "start": 72.35,
+      "end": 73.99,
+      "translations": {}
+    },
+    {
+      "id": "83cc253e-215b-4b63-9cbe-724cfd90d390",
+      "text": "Ich bau' dir ein Schloss aus Sand",
+      "start": 73.99,
+      "end": 76.54,
+      "translations": {}
+    },
+    {
+      "id": "53c65196-8a1a-4f4a-b10a-e6098106f787",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 76.54,
+      "end": 83.9,
+      "translations": {}
+    },
+    {
+      "id": "171707fe-2cb3-4661-8fa6-8089a08dc647",
+      "text": "Die Zeit ist reif",
+      "start": 83.9,
+      "end": 85.48,
+      "translations": {}
+    },
+    {
+      "id": "777d73de-de45-4941-bc5d-8f19b9173c6b",
+      "text": "Für ein bisschen Zärtlichkeit",
+      "start": 85.48,
+      "end": 88.69,
+      "translations": {}
+    },
+    {
+      "id": "9a1164ec-99a4-40a7-b219-f9f59daa5707",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 88.69,
+      "end": 96.08,
+      "translations": {}
+    },
+    {
+      "id": "be9116a8-6947-464f-af70-dff81f17a26c",
+      "text": "Im Sturz durch Zeit und Raum",
+      "start": 96.08,
+      "end": 98.7,
+      "translations": {}
+    },
+    {
+      "id": "1768067b-ec60-46d9-a296-2058a7b9071f",
+      "text": "Erwacht aus einem Traum",
+      "start": 98.7,
+      "end": 107.03,
+      "translations": {}
+    },
+    {
+      "id": "12c0011c-2d48-4016-981d-c75b4c319ada",
+      "text": "Nur ein kurzer Augenblick",
+      "start": 107.03,
+      "end": 109.97,
+      "translations": {}
+    },
+    {
+      "id": "5a5dd517-1092-45da-8d4f-7f7d0a42f2bb",
+      "text": "Dann kehrt die Nacht zurück",
+      "start": 109.97,
+      "end": 118.26,
+      "translations": {}
+    },
+    {
+      "id": "e47461d6-e1bf-4408-ac17-3adaa0fd9193",
+      "text": "Irgendwie fängt irgendwann",
+      "start": 118.26,
+      "end": 121.46,
+      "translations": {}
+    },
+    {
+      "id": "73b5ee99-2f7c-4d61-9b51-b490a3df44a4",
+      "text": "Irgendwo die Zukunft an",
+      "start": 121.46,
+      "end": 124.41,
+      "translations": {}
+    },
+    {
+      "id": "965a9e06-1ecd-44f3-bdb7-ad2268a8f735",
+      "text": "Ich warte nicht mehr lang",
+      "start": 124.41,
+      "end": 130.04,
+      "translations": {}
+    },
+    {
+      "id": "2b269a84-6113-4f07-b647-5b4072a39cb1",
+      "text": "Liebe wird aus Mut gemacht",
+      "start": 130.04,
+      "end": 132.93,
+      "translations": {}
+    },
+    {
+      "id": "c1e2d31a-1730-4539-9715-46f650124e94",
+      "text": "Denk nicht lange nach",
+      "start": 132.93,
+      "end": 134.87,
+      "translations": {}
+    },
+    {
+      "id": "87d8ff28-d518-423d-a6d6-eeae4c6e6219",
+      "text": "Wir fahr'n auf Feuerrädern",
+      "start": 134.87,
+      "end": 137.72,
+      "translations": {}
+    },
+    {
+      "id": "13e80921-29cf-4f52-96c8-2745517e3e4a",
+      "text": "Richtung Zukunft durch die Nacht",
+      "start": 137.72,
+      "end": 142.56,
+      "translations": {}
+    },
+    {
+      "id": "7a2134f1-9354-4af1-9ee2-f98aef59a3c5",
+      "text": "Gib mir die Hand",
+      "start": 142.56,
+      "end": 144.19,
+      "translations": {}
+    },
+    {
+      "id": "96ac3ff0-377d-4487-8f27-50d5fa380c4b",
+      "text": "Ich bau dir ein Schloss aus Sand",
+      "start": 144.19,
+      "end": 147.03,
+      "translations": {}
+    },
+    {
+      "id": "e93d968e-3666-472d-92f5-708c7cb6fc17",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 147.03,
+      "end": 153.8,
+      "translations": {}
+    },
+    {
+      "id": "3cc11925-933e-4d84-943a-d890580852e5",
+      "text": "Die Zeit ist reif",
+      "start": 153.8,
+      "end": 155.66,
+      "translations": {}
+    },
+    {
+      "id": "e671feee-2299-487c-acce-050752f521d3",
+      "text": "Für ein bisschen Zärtlichkeit",
+      "start": 155.66,
+      "end": 158.87,
+      "translations": {}
+    },
+    {
+      "id": "a4afb846-9b52-4180-ba8a-a744c3d8a5ed",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 158.87,
+      "end": 194.32,
+      "translations": {}
+    },
+    {
+      "id": "cc73d238-d883-4baf-a9a8-fbf5731eab83",
+      "text": "Gib mir die Hand",
+      "start": 194.32,
+      "end": 195.69,
+      "translations": {}
+    },
+    {
+      "id": "494fb07d-a9c8-4514-a6ad-a9012304935c",
+      "text": "Ich bau dr ein Schloss aus Sand",
+      "start": 195.69,
+      "end": 199.18,
+      "translations": {}
+    },
+    {
+      "id": "de4eb98a-4a60-40dc-b79a-b99cf0383a5a",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 199.18,
+      "end": 205.89,
+      "translations": {}
+    },
+    {
+      "id": "42e20e34-2da2-4ace-aa2d-8aa19bb37796",
+      "text": "Die Zeit ist reif",
+      "start": 205.89,
+      "end": 207.42,
+      "translations": {}
+    },
+    {
+      "id": "7d7b3477-2fdf-49fd-9a06-389193b7c63a",
+      "text": "Für ein bisschen Zärtlichkeit",
+      "start": 207.42,
+      "end": 210.1,
+      "translations": {}
+    },
+    {
+      "id": "36e3959d-2470-4f09-8b10-abe22f8e9a27",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 210.1,
+      "end": 217.83,
+      "translations": {}
+    },
+    {
+      "id": "c656af3d-d4d5-4be7-af61-849b31c7c463",
+      "text": "Gib mir die Hand",
+      "start": 217.83,
+      "end": 218.99,
+      "translations": {}
+    },
+    {
+      "id": "c28d96ab-616e-47a2-a8f1-4c6462b792b6",
+      "text": "Ich bau dr ein Schloss aus Sand",
+      "start": 218.99,
+      "end": 221.57,
+      "translations": {}
+    },
+    {
+      "id": "a4a970b9-51c7-439d-991d-d3404bc5214a",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 221.57,
+      "end": 228.52,
+      "translations": {}
+    },
+    {
+      "id": "cfcc0996-fbbb-4610-b420-000dd8904f9c",
+      "text": "Die Zeit ist reif",
+      "start": 228.52,
+      "end": 230.24,
+      "translations": {}
+    },
+    {
+      "id": "d74e9efc-f0b7-4c6a-91d7-024abdfeb655",
+      "text": "Für ein bisschen Zärtlichkeit",
+      "start": 230.24,
+      "end": 233.15,
+      "translations": {}
+    },
+    {
+      "id": "4f64a9b8-075b-4094-877d-9fe14d9afc4c",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 233.15,
+      "end": 240.8,
+      "translations": {}
+    },
+    {
+      "id": "924045fe-80ec-4642-9684-8061f80464c8",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 240.8,
+      "end": 241.62,
+      "translations": {}
+    },
+    {
+      "id": "213483a1-0b98-4e37-affb-aecc71766074",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 241.62,
+      "end": 241.94,
+      "translations": {}
+    },
+    {
+      "id": "1461f426-7f14-40ee-ab68-c3451d9e72d3",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 241.94,
+      "end": 242.21,
+      "translations": {}
+    },
+    {
+      "id": "7d602e45-48eb-4a4b-8821-eef32138fea3",
+      "text": "Irgendwie, irgendwo, irgendwann",
+      "start": 242.21,
+      "end": 242.54,
+      "translations": {}
+    },
+    {
+      "id": "58306c15-cdd9-4844-94f3-affea2a97f4c",
+      "text": "",
+      "start": 242.54,
+      "end": null,
+      "translations": {}
+    }
+  ]
+}
