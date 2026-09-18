@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 3,
+  "videoId": "4jOmvTsWqGs",
+  "videoUrl": "https://www.youtube.com/watch?v=4jOmvTsWqGs",
+  "videoTitle": "Gawr Gura - Ride on Time (Cover)",
+  "title": "Ride On Time",
+  "artist": "山下達郎",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 7.162,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/18718205"
+  },
+  "blocks": [
+    {
+      "id": "9a4006df-c661-4562-a0bb-efaf600073c0",
+      "text": "青い水平線を いま駆け抜けてく",
+      "start": 0.95,
+      "end": 9.5,
+      "translations": {
+        "en": "Now I'm racing across the blue horizon"
+      },
+      "furigana": [
+        [
+          "青い",
+          "あおい"
+        ],
+        [
+          "水平線",
+          "すいへいせん"
+        ],
+        [
+          "を いま",
+          null
+        ],
+        [
+          "駆け抜けて",
+          "かけぬけて"
+        ],
+        [
+          "く",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "921f31c1-a3e8-44d2-b7f1-7599c01bef9d",
+      "text": "とぎすまされた 時の流れ感じて",
+      "start": 9.5,
+      "end": 20.36,
+      "translations": {
+        "en": "Feeling the flow of time with heightened clarity"
+      },
+      "furigana": [
+        [
+          "とぎすまされた ",
+          null
+        ],
+        [
+          "時の流れ",
+          "ときのながれ"
+        ],
+        [
+          "感じて",
+          "かんじて"
+        ]
+      ]
+    },
+    {
+      "id": "57e86962-7dec-41b5-bba6-958635bc0998",
+      "text": "アア ときめきへと 動き出す世界は",
+      "start": 20.36,
+      "end": 29.5,
+      "translations": {
+        "en": "Ah, the world stirring toward heart-pounding excitement"
+      },
+      "furigana": [
+        [
+          "アア ときめきへと ",
+          null
+        ],
+        [
+          "動き出す",
+          "うごきだす"
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a1b167d0-fe9b-4b10-8dcd-7591e0624182",
+      "text": "忘れかけてた 遠い夢の訪れ",
+      "start": 29.5,
+      "end": 40.59,
+      "translations": {
+        "en": "Is the arrival of a distant dream I'd nearly forgotten"
+      },
+      "furigana": [
+        [
+          "忘れかけて",
+          "わすれかけて"
+        ],
+        [
+          "た ",
+          null
+        ],
+        [
+          "遠い",
+          "とおい"
+        ],
+        [
+          "夢の",
+          "ゆめの"
+        ],
+        [
+          "訪れ",
+          "おとずれ"
+        ]
+      ]
+    },
+    {
+      "id": "c7d4ea47-c112-4c9c-af49-3322dd072e6c",
+      "text": "Ride On Time さまよう想いなら",
+      "start": 40.59,
+      "end": 46.56,
+      "translations": {
+        "en": "Ride On Time, if your feelings are wandering"
+      },
+      "furigana": [
+        [
+          "Ride On Time さまよう",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "なら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a0ba131a-aec7-4798-aee8-27a1d6a37f26",
+      "text": "やさしく受け止めて そっと包んで オー",
+      "start": 46.56,
+      "end": 56.28,
+      "translations": {
+        "en": "Receive them gently, wrap them tenderly, oh"
+      },
+      "furigana": [
+        [
+          "やさしく",
+          null
+        ],
+        [
+          "受け止めて",
+          "うけとめて"
+        ],
+        [
+          " そっと",
+          null
+        ],
+        [
+          "包んで",
+          "つつんで"
+        ],
+        [
+          " オー",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d47618e6-1b6d-4610-924f-230f94149db3",
+      "text": "Ride On Time 心に火を点けて",
+      "start": 56.28,
+      "end": 62.37,
+      "translations": {
+        "en": "Ride On Time, set your heart on fire"
+      },
+      "furigana": [
+        [
+          "Ride On Time ",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "火",
+          "ひ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "点けて",
+          "つけて"
+        ]
+      ]
+    },
+    {
+      "id": "d5498303-0060-4f58-bdc7-fe76dcf4a62a",
+      "text": "あふれる喜びに 拡がれ Ride On Time",
+      "start": 62.37,
+      "end": 71.32,
+      "translations": {
+        "en": "Expand into overflowing joy, Ride On Time"
+      },
+      "furigana": [
+        [
+          "あふれる",
+          null
+        ],
+        [
+          "喜び",
+          "よろこび"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "拡がれ",
+          "ひろがれ"
+        ],
+        [
+          " Ride On Time",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6479779f-4743-433e-95da-36b85282f5e9",
+      "text": "僕の輝く未来 さあ回りはじめて",
+      "start": 71.32,
+      "end": 81.62,
+      "translations": {
+        "en": "My bright future, come on, start turning"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "輝く",
+          "かがやく"
+        ],
+        [
+          "未来",
+          "みらい"
+        ],
+        [
+          " さあ",
+          null
+        ],
+        [
+          "回り",
+          "まわり"
+        ],
+        [
+          "はじめて",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4a1ab570-9f35-4bef-abc2-8635ce46a531",
+      "text": "虚ろな日々も 全て愛に溶け込む",
+      "start": 81.62,
+      "end": 92.47,
+      "translations": {
+        "en": "Even the empty days all melt into love"
+      },
+      "furigana": [
+        [
+          "虚ろ",
+          "うつろ"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "日々",
+          "ひび"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "全て",
+          "すべて"
+        ],
+        [
+          "愛",
+          "あい"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "溶け込む",
+          "とけこむ"
+        ]
+      ]
+    },
+    {
+      "id": "9fb12df3-458c-4680-8bdb-a2c38597b0bb",
+      "text": "アア 何という朝 今すぐ君のもと",
+      "start": 92.47,
+      "end": 101.46,
+      "translations": {
+        "en": "Ah, what a morning—right now, to your side"
+      },
+      "furigana": [
+        [
+          "アア ",
+          null
+        ],
+        [
+          "何という",
+          "なんという"
+        ],
+        [
+          "朝",
+          "あさ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "今すぐ",
+          "いますぐ"
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "のもと",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d81d77b3-8ad8-45bf-9ff5-3b96a1718086",
+      "text": "届けに行こう 燃える心迷わず",
+      "start": 101.46,
+      "end": 112.44,
+      "translations": {
+        "en": "I'll go and bring this burning heart, without hesitation"
+      },
+      "furigana": [
+        [
+          "届け",
+          "とどけ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "行",
+          "ぎょう"
+        ],
+        [
+          "こう ",
+          null
+        ],
+        [
+          "燃える",
+          "もえる"
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "迷わず",
+          "まよわず"
+        ]
+      ]
+    },
+    {
+      "id": "5d68fd3a-bc81-4d9a-a1bd-770e42805399",
+      "text": "Ride On Time 時よ走り出せ",
+      "start": 112.44,
+      "end": 118.26,
+      "translations": {
+        "en": "Ride On Time, time, start racing"
+      },
+      "furigana": [
+        [
+          "Ride On Time ",
+          null
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          "よ",
+          null
+        ],
+        [
+          "走り出せ",
+          "はしりだせ"
+        ]
+      ]
+    },
+    {
+      "id": "f44c873c-a1e4-40d4-b5b4-5a1119e7b161",
+      "text": "愛よ光り出せ 目もくらむ程 オー",
+      "start": 118.26,
+      "end": 127.61,
+      "translations": {
+        "en": "Love, begin to shine so brightly it's blinding, oh"
+      },
+      "furigana": [
+        [
+          "愛",
+          "あい"
+        ],
+        [
+          "よ",
+          null
+        ],
+        [
+          "光り",
+          "ひかり"
+        ],
+        [
+          "出せ",
+          "だせ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "目",
+          "め"
+        ],
+        [
+          "もくらむ",
+          null
+        ],
+        [
+          "程",
+          "ほど"
+        ],
+        [
+          " オー",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9cf5915c-80ad-4c6c-bdc5-0dfd3325697d",
+      "text": "Ride On Time 心に火を点けて",
+      "start": 127.61,
+      "end": 134.16,
+      "translations": {
+        "en": "Ride On Time, set your heart on fire"
+      },
+      "furigana": [
+        [
+          "Ride On Time ",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "火",
+          "ひ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "点けて",
+          "つけて"
+        ]
+      ]
+    },
+    {
+      "id": "7732e1e2-4f40-41f7-bc51-22719dfcf105",
+      "text": "飛び立つ魂に送るよ Ride On Time",
+      "start": 134.16,
+      "end": 163.58,
+      "translations": {
+        "en": "To your soul taking flight, I send these words: Ride On Time"
+      },
+      "furigana": [
+        [
+          "飛び立つ",
+          "とびたつ"
+        ],
+        [
+          "魂",
+          "たましい"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "送る",
+          "おくる"
+        ],
+        [
+          "よ Ride On Time",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ef2ac705-a8ef-4a0c-911c-7f6d066ef364",
+      "text": "アー 届けに行こう 燃える心今こそ オー",
+      "start": 163.58,
+      "end": 176.16,
+      "translations": {
+        "en": "Ah, I'll go and bring this burning heart—now is the time, oh"
+      },
+      "furigana": [
+        [
+          "アー ",
+          null
+        ],
+        [
+          "届け",
+          "とどけ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "行",
+          "ぎょう"
+        ],
+        [
+          "こう ",
+          null
+        ],
+        [
+          "燃える",
+          "もえる"
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "今こそ",
+          "いまこそ"
+        ],
+        [
+          " オー",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4251fefa-ad53-4d7a-8658-add5a2814ae5",
+      "text": "Ride On Time 時よ走り出せ",
+      "start": 176.16,
+      "end": 182.15,
+      "translations": {
+        "en": "Ride On Time, time, start racing"
+      },
+      "furigana": [
+        [
+          "Ride On Time ",
+          null
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          "よ",
+          null
+        ],
+        [
+          "走り出せ",
+          "はしりだせ"
+        ]
+      ]
+    },
+    {
+      "id": "0b6d3ac5-fa42-4935-9ca4-e329055a1ba2",
+      "text": "愛よ光り出せ 目もくらむ程 オー",
+      "start": 182.15,
+      "end": 191.43,
+      "translations": {
+        "en": "Love, begin to shine so brightly it's blinding, oh"
+      },
+      "furigana": [
+        [
+          "愛",
+          "あい"
+        ],
+        [
+          "よ",
+          null
+        ],
+        [
+          "光り",
+          "ひかり"
+        ],
+        [
+          "出せ",
+          "だせ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "目",
+          "め"
+        ],
+        [
+          "もくらむ",
+          null
+        ],
+        [
+          "程",
+          "ほど"
+        ],
+        [
+          " オー",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dbbbe80b-438d-49a0-b0a7-274768d7ab96",
+      "text": "Ride On Time 心に火を点けて",
+      "start": 191.43,
+      "end": 197.94,
+      "translations": {
+        "en": "Ride On Time, set your heart on fire"
+      },
+      "furigana": [
+        [
+          "Ride On Time ",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "火",
+          "ひ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "点けて",
+          "つけて"
+        ]
+      ]
+    },
+    {
+      "id": "ba8d27dc-4bbc-4f49-8b75-c017c79eea01",
+      "text": "飛び立つ魂に送るよ Ride On Time オー",
+      "start": 197.94,
+      "end": 206.5,
+      "translations": {
+        "en": "To your soul taking flight, I send these words: Ride On Time, oh"
+      },
+      "furigana": [
+        [
+          "飛び立つ",
+          "とびたつ"
+        ],
+        [
+          "魂",
+          "たましい"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "送る",
+          "おくる"
+        ],
+        [
+          "よ Ride On Time オー",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3b0a78b9-d9f0-4db0-b0d1-26ee6a29f810",
+      "text": "Ride On Time さまよう想いなら",
+      "start": 206.5,
+      "end": 213.98,
+      "translations": {
+        "en": "Ride On Time, if your feelings are wandering"
+      },
+      "furigana": [
+        [
+          "Ride On Time さまよう",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ],
+        [
+          "なら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "38dd74d3-8a16-44d0-89d0-bfb9f0ec21bc",
+      "text": "やさしく受け止めて そっと包んで オー",
+      "start": 213.98,
+      "end": 223.94,
+      "translations": {
+        "en": "Receive them gently, wrap them tenderly, oh"
+      },
+      "furigana": [
+        [
+          "やさしく",
+          null
+        ],
+        [
+          "受け止めて",
+          "うけとめて"
+        ],
+        [
+          " そっと",
+          null
+        ],
+        [
+          "包んで",
+          "つつんで"
+        ],
+        [
+          " オー",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "60a14042-a664-4580-8423-79725fbbd657",
+      "text": "Ride On Time 心に火を点けて",
+      "start": 223.94,
+      "end": 229.89,
+      "translations": {
+        "en": "Ride On Time, set your heart on fire"
+      },
+      "furigana": [
+        [
+          "Ride On Time ",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "火",
+          "ひ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "点けて",
+          "つけて"
+        ]
+      ]
+    },
+    {
+      "id": "5bb3b088-1cf0-49b1-b227-52d8cefdfab1",
+      "text": "あふれる喜びに 拡がれ Ride On Time オー...",
+      "start": 229.89,
+      "end": 257.43,
+      "translations": {
+        "en": "Expand into overflowing joy, Ride On Time, oh..."
+      },
+      "furigana": [
+        [
+          "あふれる",
+          null
+        ],
+        [
+          "喜び",
+          "よろこび"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "拡がれ",
+          "ひろがれ"
+        ],
+        [
+          " Ride On Time オー...",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "74b5f6d8-b2b2-44d2-8d46-71daa0b8644f",
+      "text": "(Repeat and Fade Out)",
+      "start": 257.43,
+      "end": 261.28,
+      "translations": {
+        "en": "(Repeat and Fade Out)"
+      }
+    },
+    {
+      "id": "16eaa8aa-5438-41c6-a251-0fbffa0e175a",
+      "text": "",
+      "start": 261.28,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
