@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 3,
+  "videoId": "hWjHf-j-R1o",
+  "videoUrl": "https://www.youtube.com/watch?v=hWjHf-j-R1o",
+  "videoTitle": "PARANMAUM- my right hand ブルーハーツ 僕の右手 (Boku No Migite)リンダ リンダ リンダ",
+  "title": "僕の右手",
+  "artist": "パ-ランマウム",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 25.779,
+  "furiganaEnabled": false,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/24640625"
+  },
+  "blocks": [
+    {
+      "id": "ff46df1b-49eb-459f-9510-3779f67bb9a5",
+      "text": "boku no migite wo shirimasen ka?",
+      "start": 0.43,
+      "end": 30.48,
+      "translations": {}
+    },
+    {
+      "id": "aca768c4-6b8c-459d-bdd8-0cb1b09f57c5",
+      "text": "yukue fumei ni narimashita",
+      "start": 30.48,
+      "end": 35.75,
+      "translations": {}
+    },
+    {
+      "id": "f7fd0821-2462-44f1-885c-9110dcb3e60e",
+      "text": "shimei te hai no MONTAAJYU machijuu ni kubaru yo",
+      "start": 35.75,
+      "end": 46.34,
+      "translations": {}
+    },
+    {
+      "id": "6c1c7062-5910-4612-8d7a-e30263bf22e1",
+      "text": "ima sugu sagashi ni ikanai to",
+      "start": 46.34,
+      "end": 51.1,
+      "translations": {}
+    },
+    {
+      "id": "c9b7feb2-589e-46bc-99f5-19841413ea0d",
+      "text": "saa hayaku mitsukenai to",
+      "start": 51.1,
+      "end": 56.39,
+      "translations": {}
+    },
+    {
+      "id": "cb5ed9da-21f5-43fe-ad81-01029aae3518",
+      "text": "yume ni ueta nora inu konya hoeteiru",
+      "start": 56.39,
+      "end": 66.72,
+      "translations": {}
+    },
+    {
+      "id": "8487c829-368a-47ad-a155-69428703c2cb",
+      "text": "mita koto mo nai you na GIITA no hiki kata de",
+      "start": 66.72,
+      "end": 77.29,
+      "translations": {}
+    },
+    {
+      "id": "fd7a384a-d65d-4916-bcdb-578d7e94ba80",
+      "text": "kiita koto mo nai you na utai kata wo shitai dakara",
+      "start": 77.29,
+      "end": 87.95,
+      "translations": {}
+    },
+    {
+      "id": "d13ed428-ff7f-45a5-b27f-0f7c38e5e1cc",
+      "text": "boku no migite wo shirimasenka?",
+      "start": 87.95,
+      "end": 98.12,
+      "translations": {}
+    },
+    {
+      "id": "af90dab9-62cc-49ea-8981-430f43cfba9f",
+      "text": "ningen wa minna yowai kedo",
+      "start": 98.12,
+      "end": 103.31,
+      "translations": {}
+    },
+    {
+      "id": "947a6173-c087-4502-9fa4-70fe542ebdd2",
+      "text": "yume wa kanarazu kanaunda",
+      "start": 103.31,
+      "end": 108.52,
+      "translations": {}
+    },
+    {
+      "id": "07b3204e-84d5-4bef-8526-b148b072c5ea",
+      "text": "hitomi no oku ni nemurikaketa kujikenai kokoro",
+      "start": 108.52,
+      "end": 119.09,
+      "translations": {}
+    },
+    {
+      "id": "e6918341-26e3-4b17-acc0-7a5b4718d3ff",
+      "text": "ima ni mo me kara koboresou na",
+      "start": 119.09,
+      "end": 123.97,
+      "translations": {}
+    },
+    {
+      "id": "1aed4336-c259-4e91-b93f-8c53e4d14e69",
+      "text": "namida no wake ga iemasen",
+      "start": 123.97,
+      "end": 128.95,
+      "translations": {}
+    },
+    {
+      "id": "5905da80-e26c-4070-bb91-caf74089a25a",
+      "text": "kyou mo ashita mo asatte mo nani ka wo sagasu deshou",
+      "start": 128.95,
+      "end": 139.34,
+      "translations": {}
+    },
+    {
+      "id": "f23aa531-2b99-4241-97e2-6e30259b6f0c",
+      "text": "mita koto mo nai you na MAIKUROFON no nigiri kata de",
+      "start": 139.34,
+      "end": 149.81,
+      "translations": {}
+    },
+    {
+      "id": "5f3378d6-1bd4-4cbe-8055-59c353bf454d",
+      "text": "kiita koto mo nai you na utai kata suru yo dakara",
+      "start": 149.81,
+      "end": 160.55,
+      "translations": {}
+    },
+    {
+      "id": "1d2ff4b7-f755-4cf2-9a04-f9f3c1843eb5",
+      "text": "boku no migite wo shirimasen ka?",
+      "start": 160.55,
+      "end": 171.2,
+      "translations": {}
+    },
+    {
+      "id": "fa7a858f-58fe-4e44-a504-ec33f2b9c92d",
+      "text": "",
+      "start": 171.2,
+      "end": null,
+      "translations": {}
+    }
+  ]
+}
