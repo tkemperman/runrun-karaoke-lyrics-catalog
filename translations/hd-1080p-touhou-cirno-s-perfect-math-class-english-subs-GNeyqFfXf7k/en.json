@@ -1,0 +1,2035 @@
+{
+  "schemaVersion": 3,
+  "videoId": "GNeyqFfXf7k",
+  "videoUrl": "https://www.youtube.com/watch?v=GNeyqFfXf7k",
+  "videoTitle": "[HD 1080p] Touhou - Cirno's Perfect Math Class - ENGLISH SUBS",
+  "title": "チルノのパーフェクトさんすう教室 - Cirno's Perfect Math Class",
+  "artist": "IOSYS",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 2.904,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/38175569"
+  },
+  "blocks": [
+    {
+      "id": "58c736d6-05eb-4bfa-abc2-1a66d31aebb2",
+      "text": "\"みんなー チルノの算数教室、始まるよ\"",
+      "start": 1.53,
+      "end": 7.18,
+      "translations": {
+        "en": "\"Everyone! Cirno's math class is starting!\""
+      },
+      "furigana": [
+        [
+          "\"みんなー チルノの",
+          null
+        ],
+        [
+          "算数",
+          "さんすう"
+        ],
+        [
+          "教室",
+          "きょうしつ"
+        ],
+        [
+          "、",
+          null
+        ],
+        [
+          "始まる",
+          "はじまる"
+        ],
+        [
+          "よ\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "cb267edb-bbd1-404e-8d8d-cc2bc307a9ad",
+      "text": "\"あたいみたいな天才目指して、頑張っていってね\"",
+      "start": 7.18,
+      "end": 11.51,
+      "translations": {
+        "en": "\"Work hard and aim to be a genius like me!\""
+      },
+      "furigana": [
+        [
+          "\"あたいみたいな",
+          null
+        ],
+        [
+          "天才",
+          "てんさい"
+        ],
+        [
+          "目指して",
+          "めざして"
+        ],
+        [
+          "、",
+          null
+        ],
+        [
+          "頑張って",
+          "がんばって"
+        ],
+        [
+          "いってね\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e4e22f0c-9f44-4cf8-b9a2-c3f17502c981",
+      "text": "キラキラダイヤモンド 輝く星のように",
+      "start": 11.51,
+      "end": 17.14,
+      "translations": {
+        "en": "Sparkling diamonds, like shining stars"
+      },
+      "furigana": [
+        [
+          "キラキラダイヤモンド ",
+          null
+        ],
+        [
+          "輝く",
+          "かがやく"
+        ],
+        [
+          "星",
+          "ほし"
+        ],
+        [
+          "のように",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6f91dc68-4acd-4964-a330-cc7c2a78803a",
+      "text": "栄光 志望校なんとかして入ろう",
+      "start": 17.14,
+      "end": 20.23,
+      "translations": {
+        "en": "Glory! Let's get into our dream school somehow"
+      },
+      "furigana": [
+        [
+          "栄光",
+          "えいこう"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "志望校",
+          "しぼうこう"
+        ],
+        [
+          "なんとかして",
+          null
+        ],
+        [
+          "入",
+          "しお"
+        ],
+        [
+          "ろう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "214144c4-4ee2-4713-910d-b5577089a5ec",
+      "text": "天才秀才トップ目指して go, go",
+      "start": 20.23,
+      "end": 23.03,
+      "translations": {
+        "en": "Geniuses, star students, aim for the top—go, go!"
+      },
+      "furigana": [
+        [
+          "天才",
+          "てんさい"
+        ],
+        [
+          "秀才",
+          "しゅうさい"
+        ],
+        [
+          "トップ",
+          null
+        ],
+        [
+          "目指して",
+          "めざして"
+        ],
+        [
+          " go, go",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "99f043ec-82ae-46b0-8568-c0b556123faa",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 23.03,
+      "end": 26.32,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "a8da0bc8-983a-49c4-b550-43f0609abdc3",
+      "text": "\"ちょっ、ちがっ、ばかじゃないもん\"",
+      "start": 26.32,
+      "end": 28.45,
+      "translations": {
+        "en": "\"W-wait, no, I'm not a dummy!\""
+      }
+    },
+    {
+      "id": "dccc9080-1705-48dc-b7b0-18477a96f93f",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 28.45,
+      "end": 31.99,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "3fae40a4-dd3c-43ce-958d-1811f89a3aa0",
+      "text": "\"ばかって言う方がばかなのよ\"",
+      "start": 31.99,
+      "end": 33.7,
+      "translations": {
+        "en": "\"Whoever calls someone a dummy is the real dummy!\""
+      },
+      "furigana": [
+        [
+          "\"ばか",
+          null
+        ],
+        [
+          "って言う",
+          "っていう"
+        ],
+        [
+          "方",
+          "かた"
+        ],
+        [
+          "がばかなのよ\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b880f3db-9009-42e8-a8a5-d5c61a5a6729",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 33.7,
+      "end": 37.59,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "e6198b0c-170b-4e96-ac06-dd480361d186",
+      "text": "\"なにようるさいわね、このばか！\"",
+      "start": 37.59,
+      "end": 39.39,
+      "translations": {
+        "en": "\"What? You're so noisy, you dummy!\""
+      }
+    },
+    {
+      "id": "76cfc4cd-56bf-4c7b-a04e-59df5457e35c",
+      "text": "ばーかばーか ばーかばーか",
+      "start": 39.39,
+      "end": 44.86,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "fc42eeb7-34d0-4db6-9a31-73b505b9f6e0",
+      "text": "紅魔館からバスが出て 初めに三人乗りました",
+      "start": 44.86,
+      "end": 50.24,
+      "translations": {
+        "en": "A bus left the Scarlet Devil Mansion; first, three people got on"
+      },
+      "furigana": [
+        [
+          "紅",
+          "くれない"
+        ],
+        [
+          "魔",
+          "ま"
+        ],
+        [
+          "館",
+          "かん"
+        ],
+        [
+          "からバスが",
+          null
+        ],
+        [
+          "出て",
+          "でて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "初めに",
+          "はじめに"
+        ],
+        [
+          "三人乗り",
+          "さんにんのり"
+        ],
+        [
+          "ました",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "62062296-a431-410a-9b2d-b36f5104c751",
+      "text": "白玉楼で一人降りて半人だけ乗りました",
+      "start": 50.24,
+      "end": 55.89,
+      "translations": {
+        "en": "At the White Jade Tower, one got off and just half a person got on"
+      },
+      "furigana": [
+        [
+          "白玉楼",
+          "はくぎょくろう"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "一人",
+          "ひとり"
+        ],
+        [
+          "降りて",
+          "おりて"
+        ],
+        [
+          "半人",
+          "はんにん"
+        ],
+        [
+          "だけ",
+          null
+        ],
+        [
+          "乗りました",
+          "のりました"
+        ]
+      ]
+    },
+    {
+      "id": "547cf04d-c6af-4757-9c03-e3b856030414",
+      "text": "八雲さん家で二人降りて 結局乗客合計何人だ？",
+      "start": 55.89,
+      "end": 61.24,
+      "translations": {
+        "en": "At the Yakumo house, two got off—how many passengers are left in total?"
+      },
+      "furigana": [
+        [
+          "八雲",
+          "やくも"
+        ],
+        [
+          "さ",
+          null
+        ],
+        [
+          "ん家",
+          "んち"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "降りて",
+          "おりて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "結局",
+          "けっきょく"
+        ],
+        [
+          "乗客",
+          "じょうきゃく"
+        ],
+        [
+          "合計",
+          "ごうけい"
+        ],
+        [
+          "何人",
+          "なにびと"
+        ],
+        [
+          "だ？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9bdf75ec-7c67-4c23-8445-e85e519c0565",
+      "text": "答えは答えは0人0人 なぜならなぜならそれは",
+      "start": 61.24,
+      "end": 63.92,
+      "translations": {
+        "en": "The answer, the answer is zero, zero! Because, because, you see"
+      },
+      "furigana": [
+        [
+          "答え",
+          "こたえ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "答え",
+          "こたえ"
+        ],
+        [
+          "は0",
+          null
+        ],
+        [
+          "人",
+          "ひと"
+        ],
+        [
+          "0",
+          null
+        ],
+        [
+          "人",
+          "ひと"
+        ],
+        [
+          " なぜならなぜならそれは",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ad46a92b-70ce-47fb-bd3b-f36b3e5c9ae7",
+      "text": "幻想郷にバス無い",
+      "start": 63.92,
+      "end": 66.8,
+      "translations": {
+        "en": "There are no buses in Gensokyo"
+      },
+      "furigana": [
+        [
+          "幻想",
+          "げんそう"
+        ],
+        [
+          "郷",
+          "きょう"
+        ],
+        [
+          "にバス",
+          null
+        ],
+        [
+          "無い",
+          "ない"
+        ]
+      ]
+    },
+    {
+      "id": "e10a39c0-2b3d-4459-a5d0-917b1da6d594",
+      "text": "ヤマオチ意味などないわ キャラクター立てばいいのよ",
+      "start": 66.8,
+      "end": 72.15,
+      "translations": {
+        "en": "No climax, no punchline, no meaning—just make the characters stand out"
+      },
+      "furigana": [
+        [
+          "ヤマオチ",
+          null
+        ],
+        [
+          "意味",
+          "いみ"
+        ],
+        [
+          "などないわ キャラクター",
+          null
+        ],
+        [
+          "立て",
+          "たて"
+        ],
+        [
+          "ばいいのよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dd925a3a-ba89-4c0a-bff1-44f08ed15b75",
+      "text": "元気があればなんでも",
+      "start": 72.15,
+      "end": 74.93,
+      "translations": {
+        "en": "With enough energy, you can do anything"
+      },
+      "furigana": [
+        [
+          "元気",
+          "げんき"
+        ],
+        [
+          "があればなんでも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a67d2934-fc96-4cc8-b21f-43dd71fa9e31",
+      "text": "1, 2, 9!",
+      "start": 74.93,
+      "end": 77.23,
+      "translations": {
+        "en": "1, 2, 9!"
+      }
+    },
+    {
+      "id": "84c30f49-c762-450e-a424-b50afe20f22b",
+      "text": "くるくる時計の針 ぐるぐる頭回る",
+      "start": 77.23,
+      "end": 82.75,
+      "translations": {
+        "en": "The clock hands go round and round; my head spins round and round"
+      },
+      "furigana": [
+        [
+          "くるくる",
+          null
+        ],
+        [
+          "時計",
+          "とけい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "針",
+          "はり"
+        ],
+        [
+          " ぐるぐる",
+          null
+        ],
+        [
+          "頭",
+          "あたま"
+        ],
+        [
+          "回る",
+          "まわる"
+        ]
+      ]
+    },
+    {
+      "id": "6a296dd6-f1e4-4d85-bc28-10453b72fcbf",
+      "text": "だってつぶら目玉二つしかないのに",
+      "start": 82.75,
+      "end": 85.89,
+      "translations": {
+        "en": "After all, I've only got two round little eyes"
+      },
+      "furigana": [
+        [
+          "だってつぶら",
+          null
+        ],
+        [
+          "目玉",
+          "めだま"
+        ],
+        [
+          "二つ",
+          "ふたつ"
+        ],
+        [
+          "しかないのに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "59cf54af-334c-4bcc-a9f4-07c3e9ecfb48",
+      "text": "三本の針なんてちんぷんかん",
+      "start": 85.89,
+      "end": 88.14,
+      "translations": {
+        "en": "So three clock hands make no sense at all"
+      },
+      "furigana": [
+        [
+          "三本",
+          "さんぼん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "針",
+          "はり"
+        ],
+        [
+          "なんてちんぷんかん",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b273062a-249e-4e5d-95d8-6c4cd40d4fa3",
+      "text": "次々問題出る まだまだ授業続く",
+      "start": 88.14,
+      "end": 93.88,
+      "translations": {
+        "en": "Problems come one after another; class goes on and on"
+      },
+      "furigana": [
+        [
+          "次々",
+          "つぎつぎ"
+        ],
+        [
+          "問題",
+          "もんだい"
+        ],
+        [
+          "出る",
+          "でる"
+        ],
+        [
+          " まだまだ",
+          null
+        ],
+        [
+          "授業",
+          "じゅぎょう"
+        ],
+        [
+          "続く",
+          "つづく"
+        ]
+      ]
+    },
+    {
+      "id": "23c18bf0-c949-47f0-8413-2960a85dfff9",
+      "text": "凍る部屋の中",
+      "start": 93.88,
+      "end": 95.65,
+      "translations": {
+        "en": "Inside this freezing room"
+      },
+      "furigana": [
+        [
+          "凍る",
+          "こおる"
+        ],
+        [
+          "部屋",
+          "へや"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "中",
+          "じゅう"
+        ]
+      ]
+    },
+    {
+      "id": "c67f5387-fa0d-4992-bb8f-74fd3a54baa8",
+      "text": "ひんやりした温度も 時間も気にせず",
+      "start": 95.65,
+      "end": 98.25,
+      "translations": {
+        "en": "Don't worry about the chilly temperature or the time"
+      },
+      "furigana": [
+        [
+          "ひんやりした",
+          null
+        ],
+        [
+          "温度",
+          "おんど"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "時間",
+          "じかん"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "気",
+          "き"
+        ],
+        [
+          "にせず",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d29c527e-c03d-4c0b-b869-c896f8e5c65e",
+      "text": "ゆっくりしていってね！",
+      "start": 98.25,
+      "end": 99.79,
+      "translations": {
+        "en": "Take it easy and stay awhile!"
+      }
+    },
+    {
+      "id": "7ea357b4-12a1-40b8-af1a-48cb7924dde2",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 99.79,
+      "end": 103.7,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "326a81c3-f4f2-4c92-9f37-73efb2b974b7",
+      "text": "\"だから、ばかじゃないって言ってるでしょ\"",
+      "start": 103.7,
+      "end": 105.16,
+      "translations": {
+        "en": "\"I keep telling you, I'm not a dummy!\""
+      },
+      "furigana": [
+        [
+          "\"だから、ばかじゃないって",
+          null
+        ],
+        [
+          "言って",
+          "いって"
+        ],
+        [
+          "るでしょ\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8c2f6309-da02-408d-80e1-2367f59fe432",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 105.16,
+      "end": 109.05,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "5d2d36d2-05ce-4bff-9aef-18a528b2ff10",
+      "text": "\"いい加減にしないと冷凍するわよ\"",
+      "start": 109.05,
+      "end": 110.82,
+      "translations": {
+        "en": "\"Knock it off, or I'll freeze you solid!\""
+      },
+      "furigana": [
+        [
+          "\"",
+          null
+        ],
+        [
+          "いい加減",
+          "いいかげん"
+        ],
+        [
+          "にしないと",
+          null
+        ],
+        [
+          "冷凍",
+          "れいとう"
+        ],
+        [
+          "するわよ\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "39304216-6896-40b9-981d-548d1b6840b2",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 110.82,
+      "end": 114.43,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "21c11032-fc0e-44b0-9291-07171f5f7fbc",
+      "text": "\"そして粉々になって死ねばいいのよ\"",
+      "start": 114.43,
+      "end": 116.27,
+      "translations": {
+        "en": "\"Then you can shatter into pieces and die!\""
+      },
+      "furigana": [
+        [
+          "\"そして",
+          null
+        ],
+        [
+          "粉々",
+          "こなごな"
+        ],
+        [
+          "になって",
+          null
+        ],
+        [
+          "死ね",
+          "しね"
+        ],
+        [
+          "ばいいのよ\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5d750328-cd9a-4af2-a71d-55c9e4049d53",
+      "text": "ばーかばーか ばーかばーか",
+      "start": 116.27,
+      "end": 121.56,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "5c4da082-8cd4-43f9-a06d-5499a6c804ff",
+      "text": "霊夢とこの百万円のつぼを誰かが割っちゃった",
+      "start": 121.56,
+      "end": 126.96,
+      "translations": {
+        "en": "Someone broke a million-yen vase at Reimu's place"
+      },
+      "furigana": [
+        [
+          "霊夢",
+          "れいむ"
+        ],
+        [
+          "とこの",
+          null
+        ],
+        [
+          "百万",
+          "ひゃくまん"
+        ],
+        [
+          "円",
+          "えん"
+        ],
+        [
+          "のつぼを",
+          null
+        ],
+        [
+          "誰か",
+          "だれか"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "割",
+          "わり"
+        ],
+        [
+          "っちゃった",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d93b92cd-0d79-43f3-9225-d1d480b06752",
+      "text": "永遠亭のえーりんが弁償しに来ましたよ",
+      "start": 126.96,
+      "end": 132.6,
+      "translations": {
+        "en": "Eirin from Eientei came to pay for it"
+      },
+      "furigana": [
+        [
+          "永遠",
+          "えいえん"
+        ],
+        [
+          "亭",
+          "てい"
+        ],
+        [
+          "のえーりんが",
+          null
+        ],
+        [
+          "弁償",
+          "べんしょう"
+        ],
+        [
+          "しに",
+          null
+        ],
+        [
+          "来ました",
+          "きました"
+        ],
+        [
+          "よ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "29a09d27-ff70-4295-aaa3-5f6690d60a89",
+      "text": "知らんぷりのイタズラてゐ 結局賠償金額いくら？",
+      "start": 132.6,
+      "end": 138.06,
+      "translations": {
+        "en": "Mischievous Tewi plays innocent—how much compensation is due in the end?"
+      },
+      "furigana": [
+        [
+          "知らんぷり",
+          "しらんぷり"
+        ],
+        [
+          "のイタズラてゐ ",
+          null
+        ],
+        [
+          "結局",
+          "けっきょく"
+        ],
+        [
+          "賠償金",
+          "ばいしょうきん"
+        ],
+        [
+          "額",
+          "がく"
+        ],
+        [
+          "いくら？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "10585e19-4dbd-40e1-a860-d0a35c2bc824",
+      "text": "答えは 答えは 0円 0円 なぜなら なぜなら それは",
+      "start": 138.06,
+      "end": 140.8,
+      "translations": {
+        "en": "The answer, the answer is zero yen, zero yen! Because, because, you see"
+      },
+      "furigana": [
+        [
+          "答え",
+          "こたえ"
+        ],
+        [
+          "は ",
+          null
+        ],
+        [
+          "答え",
+          "こたえ"
+        ],
+        [
+          "は 0",
+          null
+        ],
+        [
+          "円",
+          "えん"
+        ],
+        [
+          " 0",
+          null
+        ],
+        [
+          "円",
+          "えん"
+        ],
+        [
+          " なぜなら なぜなら それは",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1772d7f5-7b60-4ed9-9be7-2ba63f354124",
+      "text": "そんなつぼあるわけない",
+      "start": 140.8,
+      "end": 143.7,
+      "translations": {
+        "en": "There's no way a vase like that exists"
+      }
+    },
+    {
+      "id": "cc91d43a-ed89-47a6-bd86-8722aaf376ca",
+      "text": "常識超えたところに 世界の真理がある",
+      "start": 143.7,
+      "end": 148.96,
+      "translations": {
+        "en": "The truth of the world lies beyond common sense"
+      },
+      "furigana": [
+        [
+          "常識",
+          "じょうしき"
+        ],
+        [
+          "超えた",
+          "こえた"
+        ],
+        [
+          "ところに ",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "真理",
+          "しんり"
+        ],
+        [
+          "がある",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8bab0eab-d261-4585-9a2a-15e7336698f4",
+      "text": "秘密の数字目指して",
+      "start": 148.96,
+      "end": 151.88,
+      "translations": {
+        "en": "Aim for the secret number"
+      },
+      "furigana": [
+        [
+          "秘密",
+          "ひみつ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "数字",
+          "すうじ"
+        ],
+        [
+          "目指して",
+          "めざして"
+        ]
+      ]
+    },
+    {
+      "id": "85d78ca6-c134-4eee-9a4d-3635d214547e",
+      "text": "1, 2, 9!",
+      "start": 151.88,
+      "end": 154.18,
+      "translations": {
+        "en": "1, 2, 9!"
+      }
+    },
+    {
+      "id": "bfd42231-97a8-4f38-84c0-dad23e72e573",
+      "text": "ヘラヘラにやけながら ゲラゲラ笑いながら",
+      "start": 154.18,
+      "end": 159.73,
+      "translations": {
+        "en": "Grinning foolishly, laughing your head off"
+      },
+      "furigana": [
+        [
+          "ヘラヘラにやけながら ゲラゲラ",
+          null
+        ],
+        [
+          "笑い",
+          "わらい"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b3b4dde6-af00-4d0d-a124-ca8e3bd1a91b",
+      "text": "うっざー 因幡うさぎ",
+      "start": 159.73,
+      "end": 161.52,
+      "translations": {
+        "en": "So annoying, you Inaba rabbit"
+      },
+      "furigana": [
+        [
+          "うっざー ",
+          null
+        ],
+        [
+          "因幡",
+          "いなば"
+        ],
+        [
+          "うさぎ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0276196e-3ee4-4b41-833d-ad15f6ebc251",
+      "text": "可愛げもないのに 新参の厨なんてほいほいほい",
+      "start": 161.52,
+      "end": 164.88,
+      "translations": {
+        "en": "You're not even cute, yet those obnoxious newbies come flocking, one, two, three"
+      },
+      "furigana": [
+        [
+          "可愛げ",
+          "かわいげ"
+        ],
+        [
+          "もないのに ",
+          null
+        ],
+        [
+          "新参",
+          "しんざん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "厨",
+          "ちゅう"
+        ],
+        [
+          "なんてほいほいほい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "07ddb0ec-015e-4dba-a078-32d674fff6da",
+      "text": "再生百万回 もれなく愚民なんて",
+      "start": 164.88,
+      "end": 170.76,
+      "translations": {
+        "en": "A million views, and every last viewer a fool?"
+      },
+      "furigana": [
+        [
+          "再生",
+          "さいせい"
+        ],
+        [
+          "百万",
+          "ひゃくまん"
+        ],
+        [
+          "回",
+          "かい"
+        ],
+        [
+          " もれなく",
+          null
+        ],
+        [
+          "愚民",
+          "ぐみん"
+        ],
+        [
+          "なんて",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6dc3ecf7-2380-49bc-b24a-146d21a24c48",
+      "text": "どういうことなのよ どちらかって言うならサーバー管理も",
+      "start": 170.76,
+      "end": 175.14,
+      "translations": {
+        "en": "What's that supposed to mean? If anything, the server admins too"
+      },
+      "furigana": [
+        [
+          "どういうことなのよ どちらか",
+          null
+        ],
+        [
+          "って言う",
+          "っていう"
+        ],
+        [
+          "ならサーバー",
+          null
+        ],
+        [
+          "管理",
+          "かんり"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2d83c983-0f39-4118-bf81-f303c0b5c5dc",
+      "text": "お疲れさんってとこね",
+      "start": 175.14,
+      "end": 176.67,
+      "translations": {
+        "en": "Deserve a thanks for all their hard work"
+      },
+      "furigana": [
+        [
+          "お疲れ",
+          "おつかれ"
+        ],
+        [
+          "さんってとこね",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0875568b-12b9-4aed-ba01-a26c41694def",
+      "text": "\"わかった！\"",
+      "start": 176.67,
+      "end": 177.61,
+      "translations": {
+        "en": "\"I've figured it out!\""
+      }
+    },
+    {
+      "id": "df3c971b-8b51-45ec-a363-e3c560c7d30b",
+      "text": "\"アタイがあまりにも天才だから\"",
+      "start": 177.61,
+      "end": 179.46,
+      "translations": {
+        "en": "\"I'm just such an incredible genius\""
+      },
+      "furigana": [
+        [
+          "\"アタイがあまりにも",
+          null
+        ],
+        [
+          "天才",
+          "てんさい"
+        ],
+        [
+          "だから\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c26b1986-9209-4c19-a8df-a50f8b68c357",
+      "text": "\"嫉妬してるんでしょ？\"",
+      "start": 179.46,
+      "end": 181.09,
+      "translations": {
+        "en": "\"That you're jealous, aren't you?\""
+      },
+      "furigana": [
+        [
+          "\"",
+          null
+        ],
+        [
+          "嫉妬",
+          "しっと"
+        ],
+        [
+          "してるんでしょ？\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3ca1cbe5-29b5-4c68-bf03-11d123dacf46",
+      "text": "\"ほんと、しょうがないわねぇ\"",
+      "start": 181.09,
+      "end": 183.07,
+      "translations": {
+        "en": "\"Honestly, you're hopeless!\""
+      }
+    },
+    {
+      "id": "b64cbdd8-a019-4b14-8e58-9961bb408cb3",
+      "text": "\"せっかくだからアタイの天才の秘訣を\"",
+      "start": 183.07,
+      "end": 185.36,
+      "translations": {
+        "en": "\"Since we're here, the secret to my genius\""
+      },
+      "furigana": [
+        [
+          "\"せっかくだからアタイの",
+          null
+        ],
+        [
+          "天才",
+          "てんさい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "秘訣",
+          "ひけつ"
+        ],
+        [
+          "を\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b4b60427-3b4a-4df0-88d7-3bcf989f14c3",
+      "text": "\"ちょっとだけ教えてあげてもいいわよ\"",
+      "start": 185.36,
+      "end": 187.43,
+      "translations": {
+        "en": "\"Is something I might let you in on, just a little!\""
+      },
+      "furigana": [
+        [
+          "\"ちょっとだけ",
+          null
+        ],
+        [
+          "教えて",
+          "おしえて"
+        ],
+        [
+          "あげてもいいわよ\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "79807cc2-e973-4f7a-90fa-e17f14664779",
+      "text": "あらゆる あらゆる あらゆる あらゆる あらゆる あらゆる 英知を",
+      "start": 187.43,
+      "end": 190.25,
+      "translations": {
+        "en": "All of, all of, all of, all of, all of, all of the world's wisdom"
+      },
+      "furigana": [
+        [
+          "あらゆる あらゆる あらゆる あらゆる あらゆる あらゆる ",
+          null
+        ],
+        [
+          "英知",
+          "えいち"
+        ],
+        [
+          "を",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "2f85ff69-d061-4e36-b3f7-6d85383a56a8",
+      "text": "集めて 集めて 集めて 集めて 束ねても",
+      "start": 190.25,
+      "end": 192.8,
+      "translations": {
+        "en": "Even if you gather, gather, gather, gather it all together"
+      },
+      "furigana": [
+        [
+          "集めて",
+          "あつめて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "集めて",
+          "あつめて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "集めて",
+          "あつめて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "集めて",
+          "あつめて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "束ねて",
+          "たばねて"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "80df65ca-696f-41f1-9f67-7d520e2d3a7b",
+      "text": "あたいの あたいの あたいの あたいの あたいの あたいの 丈夫な",
+      "start": 192.8,
+      "end": 195.68,
+      "translations": {
+        "en": "My, my, my, my, my, my sturdy"
+      },
+      "furigana": [
+        [
+          "あたいの あたいの あたいの あたいの あたいの あたいの ",
+          null
+        ],
+        [
+          "丈夫",
+          "じょうぶ"
+        ],
+        [
+          "な",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8829fb72-71bd-4617-b8c3-dcd85b5de771",
+      "text": "頭に 頭に 頭に 頭に かなわない",
+      "start": 195.68,
+      "end": 198.44,
+      "translations": {
+        "en": "Head, head, head, head—it can't compete with it"
+      },
+      "furigana": [
+        [
+          "頭",
+          "あたま"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "頭",
+          "あたま"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "頭",
+          "あたま"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "頭",
+          "あたま"
+        ],
+        [
+          "に かなわない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c464a55f-cccf-4bab-8c86-6e50f639a206",
+      "text": "朝飯 朝飯 朝飯 朝飯 朝飯 朝飯 食べたら",
+      "start": 198.44,
+      "end": 201.09,
+      "translations": {
+        "en": "Breakfast, breakfast, breakfast, breakfast, breakfast, breakfast—once I've eaten"
+      },
+      "furigana": [
+        [
+          "朝飯",
+          "あさめし"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "朝飯",
+          "あさめし"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "朝飯",
+          "あさめし"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "朝飯",
+          "あさめし"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "朝飯",
+          "あさめし"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "朝飯",
+          "あさめし"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "食べた",
+          "たべた"
+        ],
+        [
+          "ら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ae9a6033-bbbf-4545-b2ea-7a852297ced2",
+      "text": "赤子の 赤子の 赤子の 赤子の 手をひねる",
+      "start": 201.09,
+      "end": 203.83,
+      "translations": {
+        "en": "A baby's, a baby's, a baby's, a baby's arm, I'll twist"
+      },
+      "furigana": [
+        [
+          "赤子",
+          "せきし"
+        ],
+        [
+          "の ",
+          null
+        ],
+        [
+          "赤子",
+          "せきし"
+        ],
+        [
+          "の ",
+          null
+        ],
+        [
+          "赤子",
+          "せきし"
+        ],
+        [
+          "の ",
+          null
+        ],
+        [
+          "赤子",
+          "せきし"
+        ],
+        [
+          "の ",
+          null
+        ],
+        [
+          "手",
+          "て"
+        ],
+        [
+          "をひねる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "df0d1a40-106e-4807-a884-435a0fd5ac4d",
+      "text": "あたいは あたいは あたいは あたいは あたいは あたいは 完璧",
+      "start": 203.83,
+      "end": 206.68,
+      "translations": {
+        "en": "I'm, I'm, I'm, I'm, I'm, I'm flawless"
+      },
+      "furigana": [
+        [
+          "あたいは あたいは あたいは あたいは あたいは あたいは ",
+          null
+        ],
+        [
+          "完璧",
+          "かんぺき"
+        ]
+      ]
+    },
+    {
+      "id": "176766a6-9a11-4f98-9bed-74dd465f2fb4",
+      "text": "いわゆる いわゆる いわゆる いわゆる パーフェクト",
+      "start": 206.68,
+      "end": 209.51,
+      "translations": {
+        "en": "What you'd call, what you'd call, what you'd call, what you'd call perfect"
+      }
+    },
+    {
+      "id": "be44b40e-35c5-4f60-a700-2afaa1bb96f5",
+      "text": "ひゃくおくちょうまんバッチリ！",
+      "start": 209.51,
+      "end": 214.87,
+      "translations": {
+        "en": "A hundred billion trillion ten thousand—nailed it!"
+      }
+    },
+    {
+      "id": "493d65fc-bbe1-4f60-9de2-e510494f2f4d",
+      "text": "ヤマオチ意味などないわ キャラクター立てばいいのよ",
+      "start": 214.87,
+      "end": 220.45,
+      "translations": {
+        "en": "No climax, no punchline, no meaning—just make the characters stand out"
+      },
+      "furigana": [
+        [
+          "ヤマオチ",
+          null
+        ],
+        [
+          "意味",
+          "いみ"
+        ],
+        [
+          "などないわ キャラクター",
+          null
+        ],
+        [
+          "立て",
+          "たて"
+        ],
+        [
+          "ばいいのよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ece80f88-10d5-4180-b456-8f12c3cfa671",
+      "text": "元気があればなんでも",
+      "start": 220.45,
+      "end": 223.27,
+      "translations": {
+        "en": "With enough energy, you can do anything"
+      },
+      "furigana": [
+        [
+          "元気",
+          "げんき"
+        ],
+        [
+          "があればなんでも",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e3dc030f-c6e3-4807-9da3-203292ee104e",
+      "text": "1, 2, 9!",
+      "start": 223.27,
+      "end": 225.23,
+      "translations": {
+        "en": "1, 2, 9!"
+      }
+    },
+    {
+      "id": "c78c608f-22cd-4ee3-9ca4-f2bec2bc8f53",
+      "text": "くるくる時計の針 ぐるぐる頭回る",
+      "start": 225.23,
+      "end": 230.86,
+      "translations": {
+        "en": "The clock hands go round and round; my head spins round and round"
+      },
+      "furigana": [
+        [
+          "くるくる",
+          null
+        ],
+        [
+          "時計",
+          "とけい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "針",
+          "はり"
+        ],
+        [
+          " ぐるぐる",
+          null
+        ],
+        [
+          "頭",
+          "あたま"
+        ],
+        [
+          "回る",
+          "まわる"
+        ]
+      ]
+    },
+    {
+      "id": "7408e634-a0ab-4614-82d6-e2fc079c4cec",
+      "text": "だってつぶら目玉二つしかないのに",
+      "start": 230.86,
+      "end": 233.94,
+      "translations": {
+        "en": "After all, I've only got two round little eyes"
+      },
+      "furigana": [
+        [
+          "だってつぶら",
+          null
+        ],
+        [
+          "目玉",
+          "めだま"
+        ],
+        [
+          "二つ",
+          "ふたつ"
+        ],
+        [
+          "しかないのに",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "37cfd658-fb83-4d7f-825f-e80b0cb19ca8",
+      "text": "三本の針なんてちんぷんかん",
+      "start": 233.94,
+      "end": 236.23,
+      "translations": {
+        "en": "So three clock hands make no sense at all"
+      },
+      "furigana": [
+        [
+          "三本",
+          "さんぼん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "針",
+          "はり"
+        ],
+        [
+          "なんてちんぷんかん",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6e6f87df-3a0d-4908-92be-103a03ccc0a3",
+      "text": "次々問題出る まだまだ授業続く",
+      "start": 236.23,
+      "end": 241.95,
+      "translations": {
+        "en": "Problems come one after another; class goes on and on"
+      },
+      "furigana": [
+        [
+          "次々",
+          "つぎつぎ"
+        ],
+        [
+          "問題",
+          "もんだい"
+        ],
+        [
+          "出る",
+          "でる"
+        ],
+        [
+          " まだまだ",
+          null
+        ],
+        [
+          "授業",
+          "じゅぎょう"
+        ],
+        [
+          "続く",
+          "つづく"
+        ]
+      ]
+    },
+    {
+      "id": "e28408e0-fc8d-4577-a0da-b206ed44291e",
+      "text": "凍る部屋の中",
+      "start": 241.95,
+      "end": 243.71,
+      "translations": {
+        "en": "Inside this freezing room"
+      },
+      "furigana": [
+        [
+          "凍る",
+          "こおる"
+        ],
+        [
+          "部屋",
+          "へや"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "中",
+          "じゅう"
+        ]
+      ]
+    },
+    {
+      "id": "c4e37bf1-933d-4d3d-92ed-37475c9b0e2a",
+      "text": "ひんやりした温度も 時間も気にせず",
+      "start": 243.71,
+      "end": 246.5,
+      "translations": {
+        "en": "Don't worry about the chilly temperature or the time"
+      },
+      "furigana": [
+        [
+          "ひんやりした",
+          null
+        ],
+        [
+          "温度",
+          "おんど"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "時間",
+          "じかん"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "気",
+          "き"
+        ],
+        [
+          "にせず",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7608c82d-80e8-45e5-8851-906b4022dc53",
+      "text": "ゆっくりしていってね！",
+      "start": 246.5,
+      "end": 247.81,
+      "translations": {
+        "en": "Take it easy and stay awhile!"
+      }
+    },
+    {
+      "id": "4999b3f2-47aa-4da3-9698-ea5373d6bc94",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 247.81,
+      "end": 251.92,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "88bdd7b8-fb37-4d68-a76c-2f64a7aaf0e8",
+      "text": "\"ばーかばーか！\"",
+      "start": 251.92,
+      "end": 253.23,
+      "translations": {
+        "en": "\"Dummy, dummy!\""
+      }
+    },
+    {
+      "id": "141f7352-8137-4e3b-ba36-62551ed01194",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 253.23,
+      "end": 257.4,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "3eb62fd4-6fbf-407f-af9a-07142fc0ccd9",
+      "text": "\"ばーかばーか！\"",
+      "start": 257.4,
+      "end": 258.89,
+      "translations": {
+        "en": "\"Dummy, dummy!\""
+      }
+    },
+    {
+      "id": "7c0eae81-8cce-48b0-9481-decac8ec7181",
+      "text": "ばーかばーか ばーかばーか ばーかばーか",
+      "start": 258.89,
+      "end": 262.77,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "0c7e67b7-d848-4527-b690-a945aef86fed",
+      "text": "\"もうバカでいいわよ、知らない！\"",
+      "start": 262.77,
+      "end": 264.25,
+      "translations": {
+        "en": "\"Fine, I'm a dummy! I don't care anymore!\""
+      },
+      "furigana": [
+        [
+          "\"もうバカでいいわよ、",
+          null
+        ],
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "！\"",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dc48ddb2-8b0f-49d5-a50e-fe636ed223ec",
+      "text": "ばーかばーか ばーかばーか",
+      "start": 264.25,
+      "end": 265.7,
+      "translations": {
+        "en": "Dummy, dummy! Dummy, dummy!"
+      }
+    },
+    {
+      "id": "a7c53d75-6faf-45fe-b6b6-e22d8c9933e6",
+      "text": "",
+      "start": 265.7,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
