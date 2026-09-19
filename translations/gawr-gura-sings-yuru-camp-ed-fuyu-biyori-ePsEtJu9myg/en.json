@@ -1,0 +1,794 @@
+{
+  "schemaVersion": 3,
+  "videoId": "ePsEtJu9myg",
+  "videoUrl": "https://www.youtube.com/watch?v=ePsEtJu9myg",
+  "videoTitle": "gawr gura sings Yuru Camp ED - Fuyu Biyori",
+  "title": "Fuyu Biyori",
+  "artist": "Eri Sasaki",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 18.139,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/10734159"
+  },
+  "blocks": [
+    {
+      "id": "ed5b06e7-86ca-48e9-81cb-cedb492f0835",
+      "text": "額に感じる澄んだ空気",
+      "start": 10.27,
+      "end": 19.93,
+      "translations": {
+        "en": "I feel the clear air on my forehead"
+      },
+      "furigana": [
+        [
+          "額",
+          "がく"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "感じる",
+          "かんじる"
+        ],
+        [
+          "澄んだ",
+          "すんだ"
+        ],
+        [
+          "空気",
+          "くうき"
+        ]
+      ]
+    },
+    {
+      "id": "7130a43c-13ca-4fe4-ba72-cd4cece4cc1a",
+      "text": "吐く息が弾む",
+      "start": 19.93,
+      "end": 26.86,
+      "translations": {
+        "en": "My breath comes in quick bursts"
+      },
+      "furigana": [
+        [
+          "吐く",
+          "つく"
+        ],
+        [
+          "息が弾む",
+          "いきがはずむ"
+        ]
+      ]
+    },
+    {
+      "id": "82e76511-c86a-493c-a20c-f6d9d8bf91e4",
+      "text": "止まることもなく 歩き続けていたの",
+      "start": 26.86,
+      "end": 35.46,
+      "translations": {
+        "en": "I've kept walking without stopping"
+      },
+      "furigana": [
+        [
+          "止まる",
+          "とまる"
+        ],
+        [
+          "こともなく ",
+          null
+        ],
+        [
+          "歩き続けて",
+          "あるきつづけて"
+        ],
+        [
+          "いたの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "43bc956d-ad62-457c-acf8-c8cb65b668d8",
+      "text": "ここで振り返る もうすぐだよ",
+      "start": 35.46,
+      "end": 46.51,
+      "translations": {
+        "en": "I look back here—we're almost there"
+      },
+      "furigana": [
+        [
+          "ここで",
+          null
+        ],
+        [
+          "振り返る",
+          "ふりかえる"
+        ],
+        [
+          " もうすぐだよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5227a841-22bb-4276-b17d-fce56298732d",
+      "text": "朝日が昇る 私は旅する",
+      "start": 46.51,
+      "end": 54.09,
+      "translations": {
+        "en": "The morning sun rises, and I journey on"
+      },
+      "furigana": [
+        [
+          "朝日",
+          "あさひ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "昇る",
+          "のぼる"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "旅する",
+          "たびする"
+        ]
+      ]
+    },
+    {
+      "id": "7f6e242c-68d4-4423-8c77-fdaa1f76c556",
+      "text": "新しい日に 自由を吸い込んだら",
+      "start": 54.09,
+      "end": 64.03,
+      "translations": {
+        "en": "Once we breathe in the freedom of a new day"
+      },
+      "furigana": [
+        [
+          "新しい",
+          "あたらしい"
+        ],
+        [
+          "日",
+          "にち"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "自由",
+          "じゆう"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "吸い込んだ",
+          "すいこんだ"
+        ],
+        [
+          "ら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "fdc3f8e1-15f5-495a-902d-b3e1f8e9cce0",
+      "text": "あたたかい火を 囲んで座ろう",
+      "start": 64.03,
+      "end": 72.62,
+      "translations": {
+        "en": "Let's sit around a warm fire"
+      },
+      "furigana": [
+        [
+          "あたたかい",
+          null
+        ],
+        [
+          "火",
+          "ひ"
+        ],
+        [
+          "を ",
+          null
+        ],
+        [
+          "囲んで",
+          "かこんで"
+        ],
+        [
+          "座",
+          "ざ"
+        ],
+        [
+          "ろう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b7bca5b9-899d-4006-981f-4eec27b3a72b",
+      "text": "たわいもないこと 話しながら",
+      "start": 72.62,
+      "end": 82.69,
+      "translations": {
+        "en": "Talking about little things"
+      },
+      "furigana": [
+        [
+          "たわいもないこと ",
+          null
+        ],
+        [
+          "話し",
+          "はなし"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "921bbc86-01f3-43f0-bfaa-adb34afc1470",
+      "text": "",
+      "start": 82.69,
+      "end": 88.67,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "e47e04c3-112a-455a-82a0-7aaec2eb069b",
+      "text": "鼻先に触れる木々の香り",
+      "start": 88.67,
+      "end": 98.32,
+      "translations": {
+        "en": "The scent of trees brushes the tip of my nose"
+      },
+      "furigana": [
+        [
+          "鼻先",
+          "はなさき"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "触れる",
+          "ふれる"
+        ],
+        [
+          "木々",
+          "きぎ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "香り",
+          "かおり"
+        ]
+      ]
+    },
+    {
+      "id": "bea09a3f-619b-4c04-9216-29eeb3cf6e37",
+      "text": "時間も忘れて",
+      "start": 98.32,
+      "end": 105.13,
+      "translations": {
+        "en": "I even lose track of time"
+      },
+      "furigana": [
+        [
+          "時間",
+          "じかん"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "忘れて",
+          "わすれて"
+        ]
+      ]
+    },
+    {
+      "id": "964a2aa3-d59f-4c1a-b5ee-6d81ac56174e",
+      "text": "いつもの生活 やることがたくさんで",
+      "start": 105.13,
+      "end": 113.84,
+      "translations": {
+        "en": "There's so much to do in everyday life"
+      },
+      "furigana": [
+        [
+          "いつもの",
+          null
+        ],
+        [
+          "生活",
+          "せいかつ"
+        ],
+        [
+          " やることがたくさんで",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d6d98a5f-3b8c-46d3-80b7-e6fe5118d88c",
+      "text": "少し休んでも 大丈夫だよ",
+      "start": 113.84,
+      "end": 124.73,
+      "translations": {
+        "en": "It's okay to take a little break"
+      },
+      "furigana": [
+        [
+          "少し",
+          "すこし"
+        ],
+        [
+          "休んで",
+          "やすんで"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "大丈夫",
+          "だいじょうぶ"
+        ],
+        [
+          "だよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "10ad059b-4a56-4775-a104-ac68ff80db1d",
+      "text": "星が広がる 光が流れる",
+      "start": 124.73,
+      "end": 132.39,
+      "translations": {
+        "en": "Stars fill the sky, and light streams across it"
+      },
+      "furigana": [
+        [
+          "星",
+          "ほし"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "広がる",
+          "ひろがる"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "光",
+          "ひかり"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "流れる",
+          "ながれる"
+        ]
+      ]
+    },
+    {
+      "id": "939c5f20-4688-4463-b5f8-aba64a9b9dbe",
+      "text": "優しい景色 心も包まれたら",
+      "start": 132.39,
+      "end": 142.2,
+      "translations": {
+        "en": "Once this gentle scenery embraces our hearts too"
+      },
+      "furigana": [
+        [
+          "優しい",
+          "やさしい"
+        ],
+        [
+          "景色",
+          "けしき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "包まれ",
+          "くるまれ"
+        ],
+        [
+          "たら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8a1413c5-0c19-4eba-a6ae-54d0ccb65c5a",
+      "text": "明かりを消して となりで眠ろう",
+      "start": 142.2,
+      "end": 150.89,
+      "translations": {
+        "en": "Let's turn out the light and sleep side by side"
+      },
+      "furigana": [
+        [
+          "明かり",
+          "あかり"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "消して",
+          "けして"
+        ],
+        [
+          " となりで",
+          null
+        ],
+        [
+          "眠",
+          "ねね"
+        ],
+        [
+          "ろう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "bae862fc-23fc-4c37-89d9-149b7549b84f",
+      "text": "たわいもないこと 話しながら",
+      "start": 150.89,
+      "end": 160.85,
+      "translations": {
+        "en": "Talking about little things"
+      },
+      "furigana": [
+        [
+          "たわいもないこと ",
+          null
+        ],
+        [
+          "話し",
+          "はなし"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f733c7aa-7630-47af-990e-2fbf7afb90b8",
+      "text": "",
+      "start": 160.85,
+      "end": 178.66,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "a3dff3f3-bf77-4792-bda7-42ef354aac81",
+      "text": "ひとりでいることの方が好きだった けれど",
+      "start": 178.66,
+      "end": 192.85,
+      "translations": {
+        "en": "I used to prefer being alone, but"
+      },
+      "furigana": [
+        [
+          "ひとりでいることの",
+          null
+        ],
+        [
+          "方",
+          "かた"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "好き",
+          "すき"
+        ],
+        [
+          "だった けれど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "48c97246-bf58-406f-86ed-dde6052c79ff",
+      "text": "",
+      "start": 192.85,
+      "end": 194.96,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "86ea6d0a-4ca9-4c75-a30d-1dfdef21a380",
+      "text": "朝日が昇る 私は旅する",
+      "start": 194.96,
+      "end": 202.53,
+      "translations": {
+        "en": "The morning sun rises, and I journey on"
+      },
+      "furigana": [
+        [
+          "朝日",
+          "あさひ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "昇る",
+          "のぼる"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "私",
+          "あたし"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "旅する",
+          "たびする"
+        ]
+      ]
+    },
+    {
+      "id": "3cc1563b-49c9-4ff4-996a-826f386a2687",
+      "text": "新しい日に 自由を吸い込んだら",
+      "start": 202.53,
+      "end": 212.34,
+      "translations": {
+        "en": "Once we breathe in the freedom of a new day"
+      },
+      "furigana": [
+        [
+          "新しい",
+          "あたらしい"
+        ],
+        [
+          "日",
+          "にち"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "自由",
+          "じゆう"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "吸い込んだ",
+          "すいこんだ"
+        ],
+        [
+          "ら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ba835d6e-77d5-4704-ab9d-bd6c88157407",
+      "text": "ゆるやかなとき 一緒に過ごそう",
+      "start": 212.34,
+      "end": 219.94,
+      "translations": {
+        "en": "Let's spend some leisurely time together"
+      },
+      "furigana": [
+        [
+          "ゆるやかなとき ",
+          null
+        ],
+        [
+          "一緒に",
+          "いっしょに"
+        ],
+        [
+          "過",
+          "か"
+        ],
+        [
+          "ごそう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "bd7b5029-6ea7-4e2d-87cf-e1903cf93056",
+      "text": "君がいれば 自然と笑顔になる",
+      "start": 219.94,
+      "end": 229.82,
+      "translations": {
+        "en": "When you're here, a smile comes naturally"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "がいれば ",
+          null
+        ],
+        [
+          "自然",
+          "しぜん"
+        ],
+        [
+          "と",
+          null
+        ],
+        [
+          "笑顔",
+          "えがお"
+        ],
+        [
+          "になる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "425b9a34-ab68-4579-99d9-4627c44dfe01",
+      "text": "ココアを入れて 写真も撮ろう",
+      "start": 229.82,
+      "end": 238.57,
+      "translations": {
+        "en": "Let's make some cocoa and take pictures too"
+      },
+      "furigana": [
+        [
+          "ココアを",
+          null
+        ],
+        [
+          "入れて",
+          "いれて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "写真",
+          "しゃしん"
+        ],
+        [
+          "も撮ろう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b659d4a0-7b58-48d0-9b18-38a0a4ca999f",
+      "text": "知らない世界も 歩いてみよう",
+      "start": 238.57,
+      "end": 247.38,
+      "translations": {
+        "en": "Let's explore unfamiliar worlds too"
+      },
+      "furigana": [
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "歩いて",
+          "あるいて"
+        ],
+        [
+          "みよう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ca214891-37e0-4490-9797-37588711db7c",
+      "text": "たわいもないこと 話しながら",
+      "start": 247.38,
+      "end": 255.2,
+      "translations": {
+        "en": "Talking about little things"
+      },
+      "furigana": [
+        [
+          "たわいもないこと ",
+          null
+        ],
+        [
+          "話し",
+          "はなし"
+        ],
+        [
+          "ながら",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1ea1581e-8f7c-49e4-9f7a-e514633c9d76",
+      "text": "",
+      "start": 255.2,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
