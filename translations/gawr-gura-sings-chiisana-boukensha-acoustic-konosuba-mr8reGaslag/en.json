@@ -1,0 +1,667 @@
+{
+  "schemaVersion": 3,
+  "videoId": "mr8reGaslag",
+  "videoUrl": "https://www.youtube.com/watch?v=mr8reGaslag",
+  "videoTitle": "gawr gura sings chiisana boukensha acoustic - KONOSUBA",
+  "title": "Chiisana Boukensha",
+  "artist": "Sora Amamiya, Rie Takahashi & Ai Kayano",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": -2.396,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/23288549"
+  },
+  "blocks": [
+    {
+      "id": "41ac9394-f6e4-4257-a6d8-eafee74d9e7e",
+      "text": "転んで 擦りむいたとこ",
+      "start": 11.01,
+      "end": 16.32,
+      "translations": {
+        "en": "The spot I scraped when I fell"
+      },
+      "furigana": [
+        [
+          "転んで",
+          "ころんで"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "擦りむいた",
+          "すりむいた"
+        ],
+        [
+          "とこ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "be4694eb-713a-4a6d-b6fb-6b11bdb72b7b",
+      "text": "血がにじんで しみるけれど",
+      "start": 16.32,
+      "end": 23.05,
+      "translations": {
+        "en": "Is bleeding a little and stings, but"
+      },
+      "furigana": [
+        [
+          "血",
+          "ち"
+        ],
+        [
+          "がにじんで しみるけれど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4822f328-5311-403b-beac-829acc5ea50f",
+      "text": "へっちゃらさ すぐ治るから",
+      "start": 23.05,
+      "end": 28.45,
+      "translations": {
+        "en": "No big deal—it'll heal soon"
+      },
+      "furigana": [
+        [
+          "へっちゃらさ すぐ",
+          null
+        ],
+        [
+          "治る",
+          "なおる"
+        ],
+        [
+          "から",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ffa97710-eaaa-44b0-8d9d-8a1915401c21",
+      "text": "明日にはかさぶたできる",
+      "start": 28.45,
+      "end": 35.41,
+      "translations": {
+        "en": "By tomorrow, a scab will form"
+      },
+      "furigana": [
+        [
+          "明日",
+          "あした"
+        ],
+        [
+          "にはかさぶたできる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7d07089c-873d-410a-b47d-622a3cf8479e",
+      "text": "今日もまた バカにされたよ",
+      "start": 35.41,
+      "end": 40.66,
+      "translations": {
+        "en": "They made fun of me again today"
+      },
+      "furigana": [
+        [
+          "今日",
+          "きょう"
+        ],
+        [
+          "もまた バカにされたよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a41da925-470c-4c39-a5d2-e341569722fd",
+      "text": "恥ずかしいし 悔しいけれど",
+      "start": 40.66,
+      "end": 47.48,
+      "translations": {
+        "en": "It's embarrassing and frustrating, but"
+      },
+      "furigana": [
+        [
+          "恥ずかしい",
+          "はずかしい"
+        ],
+        [
+          "し ",
+          null
+        ],
+        [
+          "悔しい",
+          "くやしい"
+        ],
+        [
+          "けれど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "fc02fea0-2ef8-4e1a-b829-8b27ab62c765",
+      "text": "へっちゃらさ 覚えておけよ",
+      "start": 47.48,
+      "end": 53.04,
+      "translations": {
+        "en": "No big deal—just you remember"
+      },
+      "furigana": [
+        [
+          "へっちゃらさ ",
+          null
+        ],
+        [
+          "覚えて",
+          "おぼえて"
+        ],
+        [
+          "おけよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "230fd93f-43ce-4ee1-9bf3-ddae124eb6bb",
+      "text": "今に笑い返してやる",
+      "start": 53.04,
+      "end": 58.66,
+      "translations": {
+        "en": "Soon I'll be the one laughing back at you"
+      },
+      "furigana": [
+        [
+          "今に",
+          "いまに"
+        ],
+        [
+          "笑い",
+          "わらい"
+        ],
+        [
+          "返して",
+          "かえして"
+        ],
+        [
+          "やる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dc72a42c-f781-41a7-b2a7-fe3bab6ec622",
+      "text": "岬から 船を出せば",
+      "start": 58.66,
+      "end": 64.55,
+      "translations": {
+        "en": "When I set sail from the cape"
+      },
+      "furigana": [
+        [
+          "岬",
+          "みさき"
+        ],
+        [
+          "から ",
+          null
+        ],
+        [
+          "船",
+          "ふね"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "出せ",
+          "だせ"
+        ],
+        [
+          "ば",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "617e9261-2835-4b26-9d50-8455d1f743c6",
+      "text": "風を受け 帆が膨らむ",
+      "start": 64.55,
+      "end": 70.49,
+      "translations": {
+        "en": "The sails catch the wind and billow"
+      },
+      "furigana": [
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "受け",
+          "うけ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "帆",
+          "ほ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "膨らむ",
+          "ふくらむ"
+        ]
+      ]
+    },
+    {
+      "id": "8791417c-e4c9-42f5-8396-40faf09b4ef8",
+      "text": "ぼくは今 土を離れ",
+      "start": 70.49,
+      "end": 76.53,
+      "translations": {
+        "en": "Now I leave the land behind"
+      },
+      "furigana": [
+        [
+          "ぼくは",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "土",
+          "つち"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "離れ",
+          "はなれ"
+        ]
+      ]
+    },
+    {
+      "id": "640a0cf1-6a0e-47e3-b6d5-e7103f1df7e0",
+      "text": "七つの海を股にかける",
+      "start": 76.53,
+      "end": 108.26,
+      "translations": {
+        "en": "And roam the seven seas"
+      },
+      "furigana": [
+        [
+          "七つの海",
+          "ななつのうみ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "股にかける",
+          "またにかける"
+        ]
+      ]
+    },
+    {
+      "id": "f3acdd8c-ec7c-4a2f-9828-cc6e1cce9987",
+      "text": "ケンカして 殴られたとこ",
+      "start": 108.26,
+      "end": 113.58,
+      "translations": {
+        "en": "The spot where I got punched in a fight"
+      },
+      "furigana": [
+        [
+          "ケンカして 殴られたとこ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "568913b0-3530-4356-b58d-44b458ef3c2d",
+      "text": "紫色 アザになった",
+      "start": 113.58,
+      "end": 120.56,
+      "translations": {
+        "en": "Has turned into a purple bruise"
+      },
+      "furigana": [
+        [
+          "紫色",
+          "むらさきいろ"
+        ],
+        [
+          " アザになった",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "95de57b6-7c34-4555-a325-877d692cc777",
+      "text": "へっちゃらさ 今日のところは",
+      "start": 120.56,
+      "end": 125.87,
+      "translations": {
+        "en": "No big deal—just for today"
+      },
+      "furigana": [
+        [
+          "へっちゃらさ ",
+          null
+        ],
+        [
+          "今日のところは",
+          "きょうのところは"
+        ]
+      ]
+    },
+    {
+      "id": "9274b83e-f4b3-4a20-8c04-a9c33b44f2cc",
+      "text": "負けたことにしといてやる",
+      "start": 125.87,
+      "end": 131.91,
+      "translations": {
+        "en": "I'll let you say I lost"
+      },
+      "furigana": [
+        [
+          "負けた",
+          "まけた"
+        ],
+        [
+          "ことにしといてやる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9547a714-27bd-4ade-a70e-a850deaaef47",
+      "text": "丘に立ち 手を広げて",
+      "start": 131.91,
+      "end": 137.88,
+      "translations": {
+        "en": "I stand on a hill, arms spread wide"
+      },
+      "furigana": [
+        [
+          "丘",
+          "おか"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "立ち",
+          "たち"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "手",
+          "て"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "広げて",
+          "ひろげて"
+        ]
+      ]
+    },
+    {
+      "id": "57951cd5-c4f7-4567-8150-81ca798ce8e3",
+      "text": "風を待ち 羽ばたくのさ",
+      "start": 137.88,
+      "end": 144.04,
+      "translations": {
+        "en": "Wait for the wind, then flap my wings"
+      },
+      "furigana": [
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "待ち",
+          "まち"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "羽ばたく",
+          "はばたく"
+        ],
+        [
+          "のさ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "832cccea-1ec0-41cb-a4f2-46b155bfc2a4",
+      "text": "ぼくは今 土を離れ",
+      "start": 144.04,
+      "end": 149.91,
+      "translations": {
+        "en": "Now I leave the ground behind"
+      },
+      "furigana": [
+        [
+          "ぼくは",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "土",
+          "つち"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "離れ",
+          "はなれ"
+        ]
+      ]
+    },
+    {
+      "id": "3ee1790e-4b38-4191-97cb-65c12620620a",
+      "text": "大空渡る一羽の鳥",
+      "start": 149.91,
+      "end": 156.08,
+      "translations": {
+        "en": "A lone bird crossing the wide-open sky"
+      },
+      "furigana": [
+        [
+          "大空",
+          "おおぞら"
+        ],
+        [
+          "渡る",
+          "わたる"
+        ],
+        [
+          "一羽",
+          "いちわ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "鳥",
+          "とり"
+        ]
+      ]
+    },
+    {
+      "id": "4ec605ec-6f1b-4179-bd76-c42cf293b84a",
+      "text": "南から 風が吹いて",
+      "start": 156.08,
+      "end": 161.96,
+      "translations": {
+        "en": "The wind blows from the south"
+      },
+      "furigana": [
+        [
+          "南",
+          "みなみ"
+        ],
+        [
+          "から ",
+          null
+        ],
+        [
+          "風",
+          "ふり"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "吹いて",
+          "ふいて"
+        ]
+      ]
+    },
+    {
+      "id": "033945b0-d10a-4c27-b840-c6e4a1a52fc0",
+      "text": "急に雨 降りはじめた",
+      "start": 161.96,
+      "end": 168.12,
+      "translations": {
+        "en": "And suddenly it starts to rain"
+      },
+      "furigana": [
+        [
+          "急に",
+          "きゅうに"
+        ],
+        [
+          "雨",
+          "あめ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "降りはじめた",
+          "ふりはじめた"
+        ]
+      ]
+    },
+    {
+      "id": "fb889440-d5d4-4543-bc56-ded2d8c3e77b",
+      "text": "春はすぐ 隣りにいる",
+      "start": 168.12,
+      "end": 174.11,
+      "translations": {
+        "en": "Spring is just around the corner"
+      },
+      "furigana": [
+        [
+          "春",
+          "はる"
+        ],
+        [
+          "はすぐ ",
+          null
+        ],
+        [
+          "隣り",
+          "となり"
+        ],
+        [
+          "にいる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5a4aa9c9-be3a-453e-8b10-312c4fa5f483",
+      "text": "洗濯物取り込まなくちゃ",
+      "start": 174.11,
+      "end": 180.75,
+      "translations": {
+        "en": "I've got to bring the laundry in"
+      },
+      "furigana": [
+        [
+          "洗濯物",
+          "せんたくもの"
+        ],
+        [
+          "取り",
+          "とり"
+        ],
+        [
+          "込",
+          "こみ"
+        ],
+        [
+          "まなくちゃ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0e7e4951-6f91-4d6c-846f-1698ee6b8241",
+      "text": "",
+      "start": 180.75,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
