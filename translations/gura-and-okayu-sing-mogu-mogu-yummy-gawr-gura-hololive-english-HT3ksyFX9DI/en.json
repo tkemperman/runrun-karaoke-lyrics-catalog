@@ -1,0 +1,1160 @@
+{
+  "schemaVersion": 3,
+  "videoId": "HT3ksyFX9DI",
+  "videoUrl": "https://www.youtube.com/watch?v=HT3ksyFX9DI",
+  "videoTitle": "Gura And Okayu Sing Mogu Mogu Yummy【Gawr Gura/Hololive English】",
+  "title": "Mogu Mogu YUMMY!",
+  "artist": "猫又おかゆ",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/38163820"
+  },
+  "blocks": [
+    {
+      "id": "37e32ac6-3739-4eac-bf87-04f38a747f5c",
+      "text": "森羅万象も 悪戦苦闘も",
+      "start": 7.18,
+      "end": 10.25,
+      "translations": {
+        "en": "All of creation, all our bitter struggles—"
+      },
+      "furigana": [
+        [
+          "森羅万象",
+          "しんらばんしょう"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "悪戦苦闘",
+          "あくせんくとう"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b96b3a3d-7d46-47ba-a396-6fc101aec672",
+      "text": "マヨネーズかけたら大体おいしくなる？",
+      "start": 10.25,
+      "end": 13.94,
+      "translations": {
+        "en": "Does most anything taste good with mayonnaise on it?"
+      },
+      "furigana": [
+        [
+          "マヨネーズかけたら",
+          null
+        ],
+        [
+          "大体",
+          "だいたい"
+        ],
+        [
+          "おいしくなる？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8e8a69e8-373e-4354-8de6-4cd88c9c148f",
+      "text": "君が泣いても お腹は空くよ",
+      "start": 13.94,
+      "end": 17.5,
+      "translations": {
+        "en": "Even when you cry, I still get hungry"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "泣いて",
+          "ないて"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "お腹",
+          "おなか"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "空く",
+          "あく"
+        ],
+        [
+          "よ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "afda70d5-13ac-4834-8871-71e8011f8f35",
+      "text": "消化できなかった ごめん ごめん",
+      "start": 17.5,
+      "end": 21.09,
+      "translations": {
+        "en": "I couldn't digest it—sorry, sorry"
+      },
+      "furigana": [
+        [
+          "消化",
+          "しょうか"
+        ],
+        [
+          "できなかった ごめん ごめん",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "938720c2-f163-4a2c-b159-21051b981cfb",
+      "text": "酸いも 甘いも 勝手に食べて",
+      "start": 21.09,
+      "end": 24.12,
+      "translations": {
+        "en": "Eating the sour and the sweet as I please"
+      },
+      "furigana": [
+        [
+          "酸い",
+          "すい"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "甘い",
+          "あまい"
+        ],
+        [
+          "も ",
+          null
+        ],
+        [
+          "勝手に",
+          "かってに"
+        ],
+        [
+          "食べて",
+          "たべて"
+        ]
+      ]
+    },
+    {
+      "id": "c6ebaee9-a404-4834-b9c7-4fc2983dc81b",
+      "text": "ご迷惑おかけしています",
+      "start": 24.12,
+      "end": 27.58,
+      "translations": {
+        "en": "I'm sorry for all the trouble I'm causing"
+      },
+      "furigana": [
+        [
+          "ご迷惑",
+          "ごめいわく"
+        ],
+        [
+          "おかけしています",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "8d5cf91d-a7de-4821-8fee-15e8e4405966",
+      "text": "パクチーな掟 変な味のジュース",
+      "start": 27.58,
+      "end": 31.15,
+      "translations": {
+        "en": "Cilantro-flavored rules, strange-tasting juice"
+      },
+      "furigana": [
+        [
+          "パクチーな",
+          null
+        ],
+        [
+          "掟",
+          "おきて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "変",
+          "へん"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "味",
+          "あじ"
+        ],
+        [
+          "のジュース",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6a2e7182-aaac-4f89-bbd6-f635d44d5308",
+      "text": "心を無にして飲み込みます",
+      "start": 31.15,
+      "end": 34.23,
+      "translations": {
+        "en": "I empty my mind and swallow it down"
+      },
+      "furigana": [
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "無",
+          "む"
+        ],
+        [
+          "にして",
+          null
+        ],
+        [
+          "飲み込みます",
+          "のみこみます"
+        ]
+      ]
+    },
+    {
+      "id": "88d38d9e-e551-4423-a9ce-3e9254f399bc",
+      "text": "Ah 混沌 情報過多のレストランで",
+      "start": 34.23,
+      "end": 37.31,
+      "translations": {
+        "en": "Ah, at this restaurant of chaos and information overload"
+      },
+      "furigana": [
+        [
+          "Ah ",
+          null
+        ],
+        [
+          "混沌",
+          "こんとん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "情報過多",
+          "じょうほうかた"
+        ],
+        [
+          "のレストランで",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "56ba4a94-b3f6-4b7c-85e0-6a2ede583831",
+      "text": "嘘っぱちのメニューにお茶こぼして",
+      "start": 37.31,
+      "end": 40.82,
+      "translations": {
+        "en": "Spilling tea on a menu full of lies"
+      },
+      "furigana": [
+        [
+          "嘘っぱち",
+          "うそっぱち"
+        ],
+        [
+          "のメニューに",
+          null
+        ],
+        [
+          "お茶",
+          "おちゃ"
+        ],
+        [
+          "こぼして",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c7eb4376-a1e8-449c-825d-dbb41e0464cb",
+      "text": "君と もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 40.82,
+      "end": 44.99,
+      "translations": {
+        "en": "With you, munch, munch, munch, munch"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "と もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "45666278-e337-4d6d-86c6-06ffc8135694",
+      "text": "銃撃戦の真ん中で もぐもぐ",
+      "start": 44.99,
+      "end": 48.47,
+      "translations": {
+        "en": "In the middle of a gunfight, munch"
+      },
+      "furigana": [
+        [
+          "銃撃戦",
+          "じゅうげきせん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "真ん中",
+          "まんなか"
+        ],
+        [
+          "で もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e254297c-8b45-4e22-ae0e-abd36d85da74",
+      "text": "魑魅魍魎 ハラペコの群れ",
+      "start": 48.47,
+      "end": 51.15,
+      "translations": {
+        "en": "Demons and monsters, a ravenous horde"
+      },
+      "furigana": [
+        [
+          "魑魅魍魎",
+          "ちみもうりょう"
+        ],
+        [
+          " ハラペコの",
+          null
+        ],
+        [
+          "群れ",
+          "むれ"
+        ]
+      ]
+    },
+    {
+      "id": "83f49d02-fb0f-41c9-b367-787887b02d1b",
+      "text": "満腹になる未来を願っているよ",
+      "start": 51.15,
+      "end": 55.24,
+      "translations": {
+        "en": "I'm wishing for a future where we can eat our fill"
+      },
+      "furigana": [
+        [
+          "満腹",
+          "まんぷく"
+        ],
+        [
+          "になる",
+          null
+        ],
+        [
+          "未来",
+          "みらい"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "願って",
+          "ねがって"
+        ],
+        [
+          "いるよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7d2a3fa4-1acc-4448-855a-55d112f65811",
+      "text": "もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 55.24,
+      "end": 58.61,
+      "translations": {
+        "en": "Munch, munch, munch, munch"
+      }
+    },
+    {
+      "id": "8da22781-7e44-4116-aabc-ad243a24f8a1",
+      "text": "世界が終わる前に もぐもぐ",
+      "start": 58.61,
+      "end": 62.15,
+      "translations": {
+        "en": "Before the world ends, munch"
+      },
+      "furigana": [
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "終わる",
+          "おわる"
+        ],
+        [
+          "前に",
+          "まえに"
+        ],
+        [
+          " もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6102c9e0-a5f8-4170-b06d-26a4a5974f0c",
+      "text": "やみぃ マジ神",
+      "start": 62.15,
+      "end": 65.5,
+      "translations": {
+        "en": "Yummy, truly divine"
+      },
+      "furigana": [
+        [
+          "やみぃ マジ",
+          null
+        ],
+        [
+          "神",
+          "かみ"
+        ]
+      ]
+    },
+    {
+      "id": "6a5feb30-6294-4d77-8abc-41a1915a91af",
+      "text": "やむやむ ありのまんま もぐもぐ",
+      "start": 65.5,
+      "end": 69.08,
+      "translations": {
+        "en": "Yum yum, just as it is, munch"
+      }
+    },
+    {
+      "id": "46de9afb-f765-4c62-ac9a-d53adf71541c",
+      "text": "やみぃ Magic coming",
+      "start": 69.08,
+      "end": 72.46,
+      "translations": {
+        "en": "Yummy, magic coming"
+      }
+    },
+    {
+      "id": "3059dd03-35d1-4d1f-b9be-ea0cb9f83845",
+      "text": "この世を味わうんだ うまうま",
+      "start": 72.46,
+      "end": 75.86,
+      "translations": {
+        "en": "Savor this world—yum yum"
+      },
+      "furigana": [
+        [
+          "この世",
+          "このよ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "味わう",
+          "あじわう"
+        ],
+        [
+          "んだ うまうま",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a54d5a24-a515-434d-abdf-0f6061008662",
+      "text": "",
+      "start": 75.86,
+      "end": 82.48,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "a8f95c9d-e0ab-4755-afa6-cbf7f9118c95",
+      "text": "理論武装のミルフィーユサンド (さんど)",
+      "start": 82.48,
+      "end": 85.94,
+      "translations": {
+        "en": "A mille-feuille sandwich armored in theories (sandwich)"
+      },
+      "furigana": [
+        [
+          "理論武装",
+          "りろんぶそう"
+        ],
+        [
+          "のミルフィーユサンド (さんど)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0a5236cd-b9a7-4bde-aad8-c43f5e0f0ef5",
+      "text": "匿名希望のオーロラソース (そーす)",
+      "start": 85.94,
+      "end": 89.48,
+      "translations": {
+        "en": "Aurora sauce that wishes to remain anonymous (sauce)"
+      },
+      "furigana": [
+        [
+          "匿名希望",
+          "とくめいきぼう"
+        ],
+        [
+          "のオーロラソース (そーす)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "80aa2cde-b3e7-4851-9bee-4f04e1a13f3a",
+      "text": "大雑把な味付け 多めに見てよ",
+      "start": 89.48,
+      "end": 92.92,
+      "translations": {
+        "en": "Go easy on my slapdash seasoning"
+      },
+      "furigana": [
+        [
+          "大雑把",
+          "おおざっぱ"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "味付け",
+          "あじつけ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "多め",
+          "おおめ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "見て",
+          "みて"
+        ],
+        [
+          "よ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "28aecfb8-f7ac-49fc-84db-2d428fa5ff20",
+      "text": "おいしくなったら Ok, ok",
+      "start": 92.92,
+      "end": 96.45,
+      "translations": {
+        "en": "As long as it tastes good, okay, okay"
+      }
+    },
+    {
+      "id": "0e8bfb00-388d-4ff4-aa96-f6cdee6568d6",
+      "text": "良いモン 悪いモン いっぱい食べて",
+      "start": 96.45,
+      "end": 99.66,
+      "translations": {
+        "en": "Eating lots of good things and bad things"
+      },
+      "furigana": [
+        [
+          "良い",
+          "よい"
+        ],
+        [
+          "モン ",
+          null
+        ],
+        [
+          "悪い",
+          "わるい"
+        ],
+        [
+          "モン いっぱい",
+          null
+        ],
+        [
+          "食べて",
+          "たべて"
+        ]
+      ]
+    },
+    {
+      "id": "6cf76f35-3a0b-4644-a4e7-d3afc3807531",
+      "text": "汚れた口元拭います",
+      "start": 99.66,
+      "end": 102.91,
+      "translations": {
+        "en": "I wipe my messy mouth"
+      },
+      "furigana": [
+        [
+          "汚れた",
+          "よごれた"
+        ],
+        [
+          "口元",
+          "くちもと"
+        ],
+        [
+          "拭います",
+          "ぬぐいます"
+        ]
+      ]
+    },
+    {
+      "id": "6bef31b7-ea1c-4915-99fb-3d9bde3a8027",
+      "text": "おにぎり ピザ ケーキ 豪華なフルコース",
+      "start": 102.91,
+      "end": 106.65,
+      "translations": {
+        "en": "Rice balls, pizza, cake—a lavish full-course meal"
+      },
+      "furigana": [
+        [
+          "おにぎり ピザ ケーキ ",
+          null
+        ],
+        [
+          "豪華",
+          "ごうか"
+        ],
+        [
+          "なフルコース",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c0e4d8b2-1e34-4602-898f-29112666c385",
+      "text": "罠を疑い 気をつけます",
+      "start": 106.65,
+      "end": 109.65,
+      "translations": {
+        "en": "Suspecting a trap, I stay on guard"
+      },
+      "furigana": [
+        [
+          "罠",
+          "わな"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "疑い",
+          "うたがい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "気をつけ",
+          "きをつけ"
+        ],
+        [
+          "ます",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f6703903-1665-46f9-8edc-93708f9d2b0b",
+      "text": "Ah 妄想流言飛語のバイキングで",
+      "start": 109.65,
+      "end": 112.73,
+      "translations": {
+        "en": "Ah, at this buffet of delusions and wild rumors"
+      },
+      "furigana": [
+        [
+          "Ah ",
+          null
+        ],
+        [
+          "妄想",
+          "もうそう"
+        ],
+        [
+          "流言飛語",
+          "りゅうげんひご"
+        ],
+        [
+          "のバイキングで",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c61705c3-1d04-43cb-b079-aa548546ba4c",
+      "text": "毒入りと絶品料理 選り分けて",
+      "start": 112.73,
+      "end": 116.28,
+      "translations": {
+        "en": "Sorting the poisoned dishes from the delicacies"
+      },
+      "furigana": [
+        [
+          "毒入り",
+          "どくいり"
+        ],
+        [
+          "と",
+          null
+        ],
+        [
+          "絶品",
+          "ぜっぴん"
+        ],
+        [
+          "料理",
+          "りょうり"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "選り分けて",
+          "よりわけて"
+        ]
+      ]
+    },
+    {
+      "id": "36bc34fa-5346-4c40-be40-aded02c61d8c",
+      "text": "君と もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 116.28,
+      "end": 120.44,
+      "translations": {
+        "en": "With you, munch, munch, munch, munch"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "と もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a19910f6-bd9b-4590-b3c3-5db02b15f838",
+      "text": "デスゲームの教室で もぐもぐ",
+      "start": 120.44,
+      "end": 123.89,
+      "translations": {
+        "en": "In a classroom turned death game, munch"
+      },
+      "furigana": [
+        [
+          "デスゲームの",
+          null
+        ],
+        [
+          "教室",
+          "きょうしつ"
+        ],
+        [
+          "で もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f5d877bb-b7b3-40e5-902f-ebd6a575d178",
+      "text": "魑魅魍魎 ハラペコの群れ",
+      "start": 123.89,
+      "end": 126.42,
+      "translations": {
+        "en": "Demons and monsters, a ravenous horde"
+      },
+      "furigana": [
+        [
+          "魑魅魍魎",
+          "ちみもうりょう"
+        ],
+        [
+          " ハラペコの",
+          null
+        ],
+        [
+          "群れ",
+          "むれ"
+        ]
+      ]
+    },
+    {
+      "id": "a2ca66cf-5416-4ec6-9cb6-ce1bf36012e4",
+      "text": "仲のいい君と生き残れたらいいな",
+      "start": 126.42,
+      "end": 130.65,
+      "translations": {
+        "en": "I hope I can survive with you, my dear friend"
+      },
+      "furigana": [
+        [
+          "仲のいい",
+          "なかのよい"
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "と",
+          null
+        ],
+        [
+          "生き残れ",
+          "いきのこれ"
+        ],
+        [
+          "たらいいな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "21c5aab2-eb2f-49d6-88e1-07edbdfbdbef",
+      "text": "もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 130.65,
+      "end": 134.18,
+      "translations": {
+        "en": "Munch, munch, munch, munch"
+      }
+    },
+    {
+      "id": "1ea26760-faeb-4b97-a073-6a9ec7356b5b",
+      "text": "数年後もこの場所で もぐもぐ",
+      "start": 134.18,
+      "end": 137.55,
+      "translations": {
+        "en": "Years from now, still here, munch"
+      },
+      "furigana": [
+        [
+          "数年後",
+          "すうねんご"
+        ],
+        [
+          "もこの",
+          null
+        ],
+        [
+          "場所",
+          "ばしょ"
+        ],
+        [
+          "で もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "5d74a011-8078-4b92-905b-67cf5ad8ef16",
+      "text": "やみぃ マジ神",
+      "start": 137.55,
+      "end": 140.93,
+      "translations": {
+        "en": "Yummy, truly divine"
+      },
+      "furigana": [
+        [
+          "やみぃ マジ",
+          null
+        ],
+        [
+          "神",
+          "かみ"
+        ]
+      ]
+    },
+    {
+      "id": "66ccf1bb-4ff6-40f0-861c-5ef450c63222",
+      "text": "今夜の晩御飯は もぐもぐ",
+      "start": 140.93,
+      "end": 144.44,
+      "translations": {
+        "en": "For dinner tonight—munch"
+      },
+      "furigana": [
+        [
+          "今夜",
+          "こんや"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "晩御飯",
+          "ばんごはん"
+        ],
+        [
+          "は もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9383be1e-b03a-4c1e-87dc-fe649d4e1048",
+      "text": "やみぃ Magic coming",
+      "start": 144.44,
+      "end": 147.88,
+      "translations": {
+        "en": "Yummy, magic coming"
+      }
+    },
+    {
+      "id": "d4159672-bf9b-4803-93dd-1e037467f91a",
+      "text": "次はお前の番だ もぐもぐ",
+      "start": 147.88,
+      "end": 151.25,
+      "translations": {
+        "en": "Next, it's your turn—munch"
+      },
+      "furigana": [
+        [
+          "次",
+          "つぎ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "お前",
+          "おまえ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "番",
+          "ばん"
+        ],
+        [
+          "だ もぐもぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c60a5c7b-b485-4ba9-a1c2-5a0c2509b889",
+      "text": "やみぃ マジ神",
+      "start": 151.25,
+      "end": 154.65,
+      "translations": {
+        "en": "Yummy, truly divine"
+      },
+      "furigana": [
+        [
+          "やみぃ マジ",
+          null
+        ],
+        [
+          "神",
+          "かみ"
+        ]
+      ]
+    },
+    {
+      "id": "390aee81-035f-45a1-b696-8192db1fd679",
+      "text": "やむやむ ありのまんま もぐもぐ",
+      "start": 154.65,
+      "end": 158.17,
+      "translations": {
+        "en": "Yum yum, just as it is, munch"
+      }
+    },
+    {
+      "id": "ac919d40-5407-4466-b667-33599f736da0",
+      "text": "やみぃ Magic coming",
+      "start": 158.17,
+      "end": 161.42,
+      "translations": {
+        "en": "Yummy, magic coming"
+      }
+    },
+    {
+      "id": "4fcab774-32ee-41f4-a574-f9ce89b52298",
+      "text": "この世を味わうんだ うまうま",
+      "start": 161.42,
+      "end": 166.71,
+      "translations": {
+        "en": "Savor this world—yum yum"
+      },
+      "furigana": [
+        [
+          "この世",
+          "このよ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "味わう",
+          "あじわう"
+        ],
+        [
+          "んだ うまうま",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "61c95b5a-7821-4452-9db6-be3be6f990fd",
+      "text": "もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 166.71,
+      "end": 170.21,
+      "translations": {
+        "en": "Munch, munch, munch, munch"
+      }
+    },
+    {
+      "id": "616c7ba9-87ef-410a-afd2-b4e4f9d354fb",
+      "text": "もぐもぐ もぐもぐ もぐもぐ やみぃ",
+      "start": 170.21,
+      "end": 173.54,
+      "translations": {
+        "en": "Munch, munch, munch, yummy"
+      }
+    },
+    {
+      "id": "5fcf5ebf-01da-4622-a60c-ff1db852558c",
+      "text": "もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 173.54,
+      "end": 176.96,
+      "translations": {
+        "en": "Munch, munch, munch, munch"
+      }
+    },
+    {
+      "id": "13b06b19-bc21-4842-9688-b865a71c64e7",
+      "text": "もぐもぐ もぐもぐ もぐもぐ やみぃ",
+      "start": 176.96,
+      "end": 180.42,
+      "translations": {
+        "en": "Munch, munch, munch, yummy"
+      }
+    },
+    {
+      "id": "33fd2e89-7bea-4b3e-a14e-dc66abe2bd31",
+      "text": "もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 180.42,
+      "end": 183.82,
+      "translations": {
+        "en": "Munch, munch, munch, munch"
+      }
+    },
+    {
+      "id": "0488e421-643f-45d5-9dfa-b40728fd93d0",
+      "text": "もぐもぐ もぐもぐ もぐもぐ やみぃ",
+      "start": 183.82,
+      "end": 187.23,
+      "translations": {
+        "en": "Munch, munch, munch, yummy"
+      }
+    },
+    {
+      "id": "ecdda82b-ea72-4fc0-8c7b-d1d672e8d6f9",
+      "text": "もぐもぐ もぐもぐ もぐもぐ もぐもぐ",
+      "start": 187.23,
+      "end": 190.71,
+      "translations": {
+        "en": "Munch, munch, munch, munch"
+      }
+    },
+    {
+      "id": "74d39928-d758-4c2a-9f39-40dfe021db3d",
+      "text": "もぐもぐ もぐもぐ もぐもぐ やみぃ やみぃ",
+      "start": 190.71,
+      "end": 195.07,
+      "translations": {
+        "en": "Munch, munch, munch, yummy, yummy"
+      }
+    },
+    {
+      "id": "5f30b5f5-140f-4003-baa2-42f4b55852af",
+      "text": "",
+      "start": 195.07,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
