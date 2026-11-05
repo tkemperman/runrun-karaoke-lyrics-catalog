@@ -1,0 +1,1662 @@
+{
+  "schemaVersion": 3,
+  "videoId": "Yr1EI_jYBB8",
+  "videoUrl": "https://www.youtube.com/watch?v=Yr1EI_jYBB8",
+  "videoTitle": "【MV】怪物／KAIBUTSU  (Cover)【FUWAMOCO】",
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/959123"
+  },
+  "blocks": [
+    {
+      "id": "87982ab4-5f67-416a-ae72-556448400c03",
+      "text": "あぁ素晴らしき世界に今日も乾杯",
+      "start": 1.19,
+      "end": 4.54,
+      "translations": {
+        "en": "Ah, here's a toast to this wonderful world again today"
+      },
+      "furigana": [
+        [
+          "あぁ",
+          null
+        ],
+        [
+          "素晴らしき",
+          "すばらしき"
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "今日",
+          "きょう"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "乾杯",
+          "かんぱい"
+        ]
+      ]
+    },
+    {
+      "id": "e7d35bd4-87f8-441c-91d2-5088bbe227d4",
+      "text": "街に飛び交う笑い声も",
+      "start": 4.54,
+      "end": 7.19,
+      "translations": {
+        "en": "Even the laughter that fills the streets"
+      },
+      "furigana": [
+        [
+          "街",
+          "まち"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "飛び交う",
+          "とびかう"
+        ],
+        [
+          "笑い声",
+          "わらいごえ"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4bde24f2-9e1a-4b00-b993-794d25b5fcb9",
+      "text": "見て見ぬフリしてるだけの作りもんさ",
+      "start": 7.19,
+      "end": 11.62,
+      "translations": {
+        "en": "Is just something fabricated to pretend we don't see"
+      },
+      "furigana": [
+        [
+          "見て見ぬ",
+          "みてみぬ"
+        ],
+        [
+          "フリ",
+          null
+        ],
+        [
+          "してるだけの",
+          null
+        ],
+        [
+          "作りもん",
+          "つくりもん"
+        ],
+        [
+          "さ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "da0d6667-97e3-4c77-8e4d-4cca94c81f7e",
+      "text": "気が触れそうだ",
+      "start": 11.62,
+      "end": 13.04,
+      "translations": {
+        "en": "It's enough to drive me mad"
+      },
+      "furigana": [
+        [
+          "気",
+          "き"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "触れそうだ",
+          "ふれそうだ"
+        ]
+      ]
+    },
+    {
+      "id": "d78d6536-4aa1-41eb-ad46-defcec1173f9",
+      "text": "クラクラするほどの良い匂いが",
+      "start": 13.04,
+      "end": 15.68,
+      "translations": {
+        "en": "An intoxicatingly pleasant scent"
+      },
+      "furigana": [
+        [
+          "クラクラするほどの",
+          null
+        ],
+        [
+          "良い",
+          "よい"
+        ],
+        [
+          "匂い",
+          "におい"
+        ],
+        [
+          "が",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "bb9e9015-767f-4143-90f3-33ac470b7e25",
+      "text": "ツンと刺した鼻の奥",
+      "start": 15.68,
+      "end": 18.05,
+      "translations": {
+        "en": "Stings deep in my nose"
+      },
+      "furigana": [
+        [
+          "ツンと",
+          null
+        ],
+        [
+          "刺した",
+          "さした"
+        ],
+        [
+          "鼻",
+          "はな"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "奥",
+          "おく"
+        ]
+      ]
+    },
+    {
+      "id": "5cf9be3c-7854-4397-aa64-1cca46b9e751",
+      "text": "目を覚ます本能のまま",
+      "start": 18.05,
+      "end": 19.93,
+      "translations": {
+        "en": "Following the instincts it awakens"
+      },
+      "furigana": [
+        [
+          "目",
+          "め"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "覚ます",
+          "さます"
+        ],
+        [
+          "本能",
+          "ほんのう"
+        ],
+        [
+          "のまま",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "affada11-aa21-4db4-9d73-8e989c636180",
+      "text": "今日は誰の番だ？",
+      "start": 19.93,
+      "end": 22.83,
+      "translations": {
+        "en": "Whose turn is it today?"
+      },
+      "furigana": [
+        [
+          "今日",
+          "きょう"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "番",
+          "ばん"
+        ],
+        [
+          "だ？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d1866410-e4ef-4df8-b44d-8672f85263e6",
+      "text": "この世界で何が出来るのか",
+      "start": 22.83,
+      "end": 26.68,
+      "translations": {
+        "en": "What can I do in this world?"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "何",
+          "なに"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "出来る",
+          "できる"
+        ],
+        [
+          "のか",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c1bbbcc5-b74f-4b9e-8db7-0108ceeb4b7d",
+      "text": "僕には何が出来るのか",
+      "start": 26.68,
+      "end": 29.65,
+      "translations": {
+        "en": "What can I do?"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "には",
+          null
+        ],
+        [
+          "何",
+          "なに"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "出来る",
+          "できる"
+        ],
+        [
+          "のか",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0a325cb3-8ed1-45a7-9fc9-97c2445020f8",
+      "text": "ただその真っ黒な目から",
+      "start": 29.65,
+      "end": 32.35,
+      "translations": {
+        "en": "So that from those pitch-black eyes"
+      },
+      "furigana": [
+        [
+          "ただその",
+          null
+        ],
+        [
+          "真っ黒",
+          "まっくろ"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "目",
+          "め"
+        ],
+        [
+          "から",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7d322eaf-8d67-4e5d-801f-6342ce9453c0",
+      "text": "涙溢れ落ちないように",
+      "start": 32.35,
+      "end": 35.37,
+      "translations": {
+        "en": "No tears spill and fall"
+      },
+      "furigana": [
+        [
+          "涙",
+          "なみだ"
+        ],
+        [
+          "溢れ落ちない",
+          "あふれおちない"
+        ],
+        [
+          "ように",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9f8dffcf-0404-4865-b2c8-8e2a913ced9b",
+      "text": "あぁ願う未来に何度でもずっと",
+      "start": 35.37,
+      "end": 38.62,
+      "translations": {
+        "en": "Ah, I keep reaching for the future I wish for, again and again"
+      },
+      "furigana": [
+        [
+          "あぁ",
+          null
+        ],
+        [
+          "願う",
+          "ねがう"
+        ],
+        [
+          "未来",
+          "みらい"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "何度",
+          "なんど"
+        ],
+        [
+          "でもずっと",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0f1fa0cb-7e0b-4138-b28a-d35739c844a3",
+      "text": "喰らいつく",
+      "start": 38.62,
+      "end": 39.71,
+      "translations": {
+        "en": "Clinging to it"
+      },
+      "furigana": [
+        [
+          "喰らいつく",
+          "くらいつく"
+        ]
+      ]
+    },
+    {
+      "id": "aaf18aa7-8519-4705-81aa-e30683f6a33f",
+      "text": "この間違いだらけの世界の中",
+      "start": 39.71,
+      "end": 43.91,
+      "translations": {
+        "en": "In this world full of mistakes"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "間違い",
+          "まちがい"
+        ],
+        [
+          "だらけの",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "中",
+          "なか"
+        ]
+      ]
+    },
+    {
+      "id": "f3a7bc63-a9ce-45d8-9858-3e6de8d908e9",
+      "text": "君には笑ってほしいから",
+      "start": 43.91,
+      "end": 47.14,
+      "translations": {
+        "en": "Because I want you to smile"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "には",
+          null
+        ],
+        [
+          "笑って",
+          "わらって"
+        ],
+        [
+          "ほしいから",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d3ef2f8e-6d2c-4450-b6a4-763e11beca21",
+      "text": "もう誰も傷付けない",
+      "start": 47.14,
+      "end": 49.26,
+      "translations": {
+        "en": "So that no one will be hurt anymore"
+      },
+      "furigana": [
+        [
+          "もう",
+          null
+        ],
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "傷付けない",
+          "きずつけない"
+        ]
+      ]
+    },
+    {
+      "id": "91b3016d-cf01-486b-a8ba-5469aff232e4",
+      "text": "強く強くなりたいんだよ",
+      "start": 49.26,
+      "end": 51.92,
+      "translations": {
+        "en": "I want to become stronger and stronger"
+      },
+      "furigana": [
+        [
+          "強く",
+          "つよく"
+        ],
+        [
+          "強く",
+          "つよく"
+        ],
+        [
+          "なりたいんだよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3372073f-58d6-4cc2-bd90-455e1ca596c0",
+      "text": "僕が僕でいられるように",
+      "start": 51.92,
+      "end": 57.15,
+      "translations": {
+        "en": "So I can remain myself"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "でいられるように",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "42783d4d-5e12-477d-aa5a-cfe72b04f7e6",
+      "text": "",
+      "start": 57.15,
+      "end": 63.62,
+      "translations": {
+        "en": ""
+      },
+      "furigana": []
+    },
+    {
+      "id": "13820af6-c4c2-490a-82e5-b9a1ba0f968c",
+      "text": "素晴らしき世界は今日も安泰",
+      "start": 63.62,
+      "end": 66.63,
+      "translations": {
+        "en": "This wonderful world is peaceful again today"
+      },
+      "furigana": [
+        [
+          "素晴らしき",
+          "すばらしき"
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "今日",
+          "きょう"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "安泰",
+          "あんたい"
+        ]
+      ]
+    },
+    {
+      "id": "cced5e74-1054-4d35-8b21-d18a84ad3003",
+      "text": "街に渦巻く悪い話も",
+      "start": 66.63,
+      "end": 69.41,
+      "translations": {
+        "en": "Even the ugly rumors swirling through the streets"
+      },
+      "furigana": [
+        [
+          "街",
+          "まち"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "渦巻く",
+          "うずまく"
+        ],
+        [
+          "悪い",
+          "わるい"
+        ],
+        [
+          "話",
+          "はなし"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "738b76ed-b4b3-4108-8038-863509e47eec",
+      "text": "知らない知らないフリして目を逸らした",
+      "start": 69.41,
+      "end": 73.57,
+      "translations": {
+        "en": "I looked away, pretending I didn't know, didn't know"
+      },
+      "furigana": [
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "知らない",
+          "しらない"
+        ],
+        [
+          "フリして",
+          null
+        ],
+        [
+          "目",
+          "め"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "逸らした",
+          "そらした"
+        ]
+      ]
+    },
+    {
+      "id": "8251f8b3-53e9-4126-9aba-4054760a8684",
+      "text": "正気の沙汰じゃないな",
+      "start": 73.57,
+      "end": 75.72,
+      "translations": {
+        "en": "This is madness"
+      },
+      "furigana": [
+        [
+          "正気",
+          "しょうき"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "沙汰",
+          "さた"
+        ],
+        [
+          "じゃないな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7ef351db-1472-4a52-bc59-77f50206f4e3",
+      "text": "真面目に着飾った行進",
+      "start": 75.72,
+      "end": 77.93,
+      "translations": {
+        "en": "A solemnly dressed procession"
+      },
+      "furigana": [
+        [
+          "真面目",
+          "まじめ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "着飾った",
+          "きかざった"
+        ],
+        [
+          "行進",
+          "こうしん"
+        ]
+      ]
+    },
+    {
+      "id": "72da639d-9a9a-408d-94db-c2f058b7bde4",
+      "text": "鳴らす足音が弾む行き先は",
+      "start": 77.93,
+      "end": 80.83,
+      "translations": {
+        "en": "Where the bouncing footsteps ring out as they head"
+      },
+      "furigana": [
+        [
+          "鳴らす",
+          "ならす"
+        ],
+        [
+          "足音",
+          "あしおと"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "弾む",
+          "はずむ"
+        ],
+        [
+          "行き先",
+          "いきさき"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b923a549-8e6b-4ed6-afd7-0456ef4d007e",
+      "text": "消えない消えない味が染み付いている",
+      "start": 80.83,
+      "end": 84.98,
+      "translations": {
+        "en": "An unforgettable taste has seeped into it"
+      },
+      "furigana": [
+        [
+          "消えない",
+          "きえない"
+        ],
+        [
+          "消えない",
+          "きえない"
+        ],
+        [
+          "味",
+          "あじ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "染み付いている",
+          "しみついている"
+        ]
+      ]
+    },
+    {
+      "id": "79995247-374f-4936-9f29-e8ec02bd714e",
+      "text": "裏側の世界",
+      "start": 84.98,
+      "end": 88.06,
+      "translations": {
+        "en": "The world on the other side"
+      },
+      "furigana": [
+        [
+          "裏側",
+          "うらがわ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ]
+      ]
+    },
+    {
+      "id": "0220a617-ddbe-4c30-82e1-e08bacb217f3",
+      "text": "",
+      "start": 88.06,
+      "end": 97.85,
+      "translations": {
+        "en": ""
+      },
+      "furigana": []
+    },
+    {
+      "id": "2a708a42-95c5-4014-87c7-89d360839ebc",
+      "text": "清く正しく生きること",
+      "start": 97.85,
+      "end": 100.29,
+      "translations": {
+        "en": "To live purely and rightly"
+      },
+      "furigana": [
+        [
+          "清く",
+          "きよく"
+        ],
+        [
+          "正しく",
+          "ただしく"
+        ],
+        [
+          "生きる",
+          "いきる"
+        ],
+        [
+          "こと",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "63a49f99-c5d9-407a-9909-d65e4b861ac9",
+      "text": "誰も悲しませずに生きること",
+      "start": 100.29,
+      "end": 102.84,
+      "translations": {
+        "en": "To live without making anyone sad"
+      },
+      "furigana": [
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "悲しませずに",
+          "かなしませずに"
+        ],
+        [
+          "生きる",
+          "いきる"
+        ],
+        [
+          "こと",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "52ef0df3-d62f-4f32-b01c-f83142401bf5",
+      "text": "はみ出さず真っ直ぐに生きること",
+      "start": 102.84,
+      "end": 105.79,
+      "translations": {
+        "en": "To live straight without stepping out of line"
+      },
+      "furigana": [
+        [
+          "はみ",
+          null
+        ],
+        [
+          "出さず",
+          "ださず"
+        ],
+        [
+          "真っ直ぐ",
+          "まっすぐ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "生きる",
+          "いきる"
+        ],
+        [
+          "こと",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "02a12891-efcb-4eb1-8544-04a8c25fd2e4",
+      "text": "それが間違わないで生きること？",
+      "start": 105.79,
+      "end": 108.67,
+      "translations": {
+        "en": "Is that what it means to live without making mistakes?"
+      },
+      "furigana": [
+        [
+          "それが",
+          null
+        ],
+        [
+          "間違わないで",
+          "まちがわないで"
+        ],
+        [
+          "生きる",
+          "いきる"
+        ],
+        [
+          "こと？",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3e92407f-57e5-464a-bdc3-e6ee29ff4301",
+      "text": "ありのまま生きることが正義か",
+      "start": 108.67,
+      "end": 111.38,
+      "translations": {
+        "en": "Is living as you truly are justice?"
+      },
+      "furigana": [
+        [
+          "ありのまま",
+          null
+        ],
+        [
+          "生きる",
+          "いきる"
+        ],
+        [
+          "ことが",
+          null
+        ],
+        [
+          "正義",
+          "せいぎ"
+        ],
+        [
+          "か",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a8da654a-46fa-429d-a586-c37728ee1f3d",
+      "text": "騙し騙し生きるのは正義か",
+      "start": 111.38,
+      "end": 114.28,
+      "translations": {
+        "en": "Is living by deceiving yourself justice?"
+      },
+      "furigana": [
+        [
+          "騙し騙し",
+          "だましだまし"
+        ],
+        [
+          "生きる",
+          "いきる"
+        ],
+        [
+          "のは",
+          null
+        ],
+        [
+          "正義",
+          "せいぎ"
+        ],
+        [
+          "か",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f46e5044-0b14-4754-b720-f7788d24c76f",
+      "text": "僕の在るべき姿とはなんだ",
+      "start": 114.28,
+      "end": 117,
+      "translations": {
+        "en": "What am I supposed to be?"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "在るべき",
+          "あるべき"
+        ],
+        [
+          "姿",
+          "すがた"
+        ],
+        [
+          "とはなんだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e2211591-11da-4a6a-9d87-82e1a97d674a",
+      "text": "本当の僕は何者なんだ",
+      "start": 117,
+      "end": 119.63,
+      "translations": {
+        "en": "Who am I really?"
+      },
+      "furigana": [
+        [
+          "本当",
+          "ほんとう"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "何者",
+          "なにもの"
+        ],
+        [
+          "なんだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "19fe30b6-9143-4254-97a6-95d9c8b26d7d",
+      "text": "教えてくれよ",
+      "start": 119.63,
+      "end": 122.66,
+      "translations": {
+        "en": "Tell me"
+      },
+      "furigana": [
+        [
+          "教えて",
+          "おしえて"
+        ],
+        [
+          "くれよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "45dbbdfe-c8d4-4f86-b41d-72c32d958302",
+      "text": "",
+      "start": 122.66,
+      "end": 125.27,
+      "translations": {
+        "en": ""
+      },
+      "furigana": []
+    },
+    {
+      "id": "afcec030-dcd1-4de5-a926-adbcfcf0ca89",
+      "text": "教えてくれよ",
+      "start": 125.27,
+      "end": 128.34,
+      "translations": {
+        "en": "Tell me"
+      },
+      "furigana": [
+        [
+          "教えて",
+          "おしえて"
+        ],
+        [
+          "くれよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "f34f3c86-0295-44b5-847e-411b2b430c71",
+      "text": "",
+      "start": 128.34,
+      "end": 130.96,
+      "translations": {
+        "en": ""
+      },
+      "furigana": []
+    },
+    {
+      "id": "27e32507-4603-482b-8adb-6519af84efce",
+      "text": "今日も",
+      "start": 130.96,
+      "end": 131.76,
+      "translations": {
+        "en": "Today, too"
+      },
+      "furigana": [
+        [
+          "今日",
+          "きょう"
+        ],
+        [
+          "も",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6abda3e5-5a68-4dc5-bc66-fb8e79742af1",
+      "text": "答えのない世界の中で",
+      "start": 131.76,
+      "end": 134.61,
+      "translations": {
+        "en": "In this world without answers"
+      },
+      "furigana": [
+        [
+          "答え",
+          "こたえ"
+        ],
+        [
+          "のない",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "中",
+          "なか"
+        ],
+        [
+          "で",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dd105a4b-8d8a-46d4-836e-ceb319a5d48c",
+      "text": "願ってるんだよ",
+      "start": 134.61,
+      "end": 136.24,
+      "translations": {
+        "en": "I keep wishing"
+      },
+      "furigana": [
+        [
+          "願ってるんだよ",
+          "ねがってるんだよ"
+        ]
+      ]
+    },
+    {
+      "id": "32be05f4-ca70-4b1f-9b05-0394a820e7ea",
+      "text": "不器用だけれど",
+      "start": 136.24,
+      "end": 137.92,
+      "translations": {
+        "en": "Though I'm clumsy"
+      },
+      "furigana": [
+        [
+          "不器用",
+          "ぶきよう"
+        ],
+        [
+          "だけれど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "668a0671-822c-4da4-8208-2cac8bbb0baf",
+      "text": "いつまでも君とただ",
+      "start": 137.92,
+      "end": 141.17,
+      "translations": {
+        "en": "Because I want to keep on simply"
+      },
+      "furigana": [
+        [
+          "いつまでも",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "とただ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "586bb2a2-3b25-456d-96b2-fe3048df89a9",
+      "text": "笑っていたいから",
+      "start": 141.17,
+      "end": 142.91,
+      "translations": {
+        "en": "Laughing with you forever"
+      },
+      "furigana": [
+        [
+          "笑っていたいから",
+          "わらっていたいから"
+        ]
+      ]
+    },
+    {
+      "id": "265e6048-4f79-45f4-a275-4210082a5547",
+      "text": "あぁ跳ねる心臓が",
+      "start": 142.91,
+      "end": 145.25,
+      "translations": {
+        "en": "Ah, my pounding heart"
+      },
+      "furigana": [
+        [
+          "あぁ",
+          null
+        ],
+        [
+          "跳ねる",
+          "はねる"
+        ],
+        [
+          "心臓",
+          "しんぞう"
+        ],
+        [
+          "が",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b2b16dee-366f-4ff2-8392-f3738caa9e4c",
+      "text": "体揺らし叫ぶんだよ",
+      "start": 145.25,
+      "end": 147.99,
+      "translations": {
+        "en": "Shakes my body and cries out"
+      },
+      "furigana": [
+        [
+          "体",
+          "からだ"
+        ],
+        [
+          "揺らし",
+          "ゆらし"
+        ],
+        [
+          "叫ぶんだよ",
+          "さけぶんだよ"
+        ]
+      ]
+    },
+    {
+      "id": "11bb269e-0a58-4117-aaf1-9e80371a610c",
+      "text": "今こそ動き出せ",
+      "start": 147.99,
+      "end": 150.93,
+      "translations": {
+        "en": "Now's the time to move"
+      },
+      "furigana": [
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "こそ",
+          null
+        ],
+        [
+          "動き出せ",
+          "うごきだせ"
+        ]
+      ]
+    },
+    {
+      "id": "c046f1fd-f463-4025-a0d7-60e096497431",
+      "text": "あぁ弱い自分を何度でもずっと",
+      "start": 150.93,
+      "end": 154.29,
+      "translations": {
+        "en": "Ah, again and again, I'll keep on"
+      },
+      "furigana": [
+        [
+          "あぁ",
+          null
+        ],
+        [
+          "弱い",
+          "よわい"
+        ],
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "何度",
+          "なんど"
+        ],
+        [
+          "でもずっと",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1f635586-8c16-4d39-ad37-94dd484660b5",
+      "text": "喰らい尽くす",
+      "start": 154.29,
+      "end": 155.35,
+      "translations": {
+        "en": "Devouring my weaker self"
+      },
+      "furigana": [
+        [
+          "喰らい尽くす",
+          "くらいつくす"
+        ]
+      ]
+    },
+    {
+      "id": "d1f2341b-0cea-4edc-abde-ba877707f7ee",
+      "text": "この間違いだらけの世界の中",
+      "start": 155.35,
+      "end": 159.66,
+      "translations": {
+        "en": "In this world full of mistakes"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "間違い",
+          "まちがい"
+        ],
+        [
+          "だらけの",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "中",
+          "なか"
+        ]
+      ]
+    },
+    {
+      "id": "8e91e256-85ea-4530-9a4d-657b47a3c6be",
+      "text": "君には笑ってほしいから",
+      "start": 159.66,
+      "end": 162.81,
+      "translations": {
+        "en": "Because I want you to smile"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "には",
+          null
+        ],
+        [
+          "笑って",
+          "わらって"
+        ],
+        [
+          "ほしいから",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "49d950bf-1b4f-433b-8b64-aa5d94d61f9f",
+      "text": "もう誰も泣かないよう",
+      "start": 162.81,
+      "end": 165.18,
+      "translations": {
+        "en": "So that no one will cry anymore"
+      },
+      "furigana": [
+        [
+          "もう",
+          null
+        ],
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          "泣かない",
+          "なかない"
+        ],
+        [
+          "よう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "466f8c05-2315-4598-bb70-bb0d9e3d5882",
+      "text": "強く強くなりたいんだよ",
+      "start": 165.18,
+      "end": 167.77,
+      "translations": {
+        "en": "I want to become stronger and stronger"
+      },
+      "furigana": [
+        [
+          "強く",
+          "つよく"
+        ],
+        [
+          "強く",
+          "つよく"
+        ],
+        [
+          "なりたいんだよ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "71ecc468-50c3-47f4-8fc5-8b15206312bb",
+      "text": "僕が僕でいられるように",
+      "start": 167.77,
+      "end": 174.04,
+      "translations": {
+        "en": "So I can remain myself"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "でいられるように",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a9fb8f24-7318-4af8-ba09-d4ef4c0054c4",
+      "text": "",
+      "start": 174.04,
+      "end": 181.99,
+      "translations": {
+        "en": ""
+      },
+      "furigana": []
+    },
+    {
+      "id": "e08b4050-dd64-45da-8d0c-a5a16b81f0b4",
+      "text": "ただ君を守るそのために",
+      "start": 181.99,
+      "end": 184.91,
+      "translations": {
+        "en": "For no other reason than to protect you"
+      },
+      "furigana": [
+        [
+          "ただ",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "守る",
+          "まもる"
+        ],
+        [
+          "そのために",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "27b06813-cedc-4e78-a525-aebd35b2452a",
+      "text": "走る走る走るんだよ",
+      "start": 184.91,
+      "end": 187.4,
+      "translations": {
+        "en": "I'll run, run, run"
+      },
+      "furigana": [
+        [
+          "走る",
+          "はしる"
+        ],
+        [
+          "走る",
+          "はしる"
+        ],
+        [
+          "走るんだよ",
+          "はしるんだよ"
+        ]
+      ]
+    },
+    {
+      "id": "62682d65-6344-4f11-ad96-d807f2948297",
+      "text": "僕の中の僕を超える",
+      "start": 187.4,
+      "end": 191.78,
+      "translations": {
+        "en": "Surpassing the self within me"
+      },
+      "furigana": [
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "中",
+          "なか"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "僕",
+          "ぼく"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "超える",
+          "こえる"
+        ]
+      ]
+    },
+    {
+      "id": "7596530b-5a45-46e5-b449-dba70720ae39",
+      "text": "",
+      "start": 191.78,
+      "end": null,
+      "translations": {
+        "en": ""
+      },
+      "furigana": []
+    }
+  ]
+}
