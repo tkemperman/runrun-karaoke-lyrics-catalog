@@ -1,0 +1,1212 @@
+{
+  "schemaVersion": 3,
+  "videoId": "F-iI4-BkwXg",
+  "videoUrl": "https://www.youtube.com/watch?v=F-iI4-BkwXg",
+  "videoTitle": "【LIVE】DEMON'S RESiDENCE【FUWAMOCO】",
+  "title": "DEMON’S RESiDENCE",
+  "artist": "FUWAMOCO",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "source": {
+    "provider": "genius",
+    "url": "https://genius.com/Fuwamoco-demons-residence-lyrics"
+  },
+  "blocks": [
+    {
+      "id": "92d71330-476e-4653-b632-5cadb8047ff9",
+      "text": "「相棒、どこへ行こうか」ネオンの脇を抜け",
+      "start": 20.599762956825924,
+      "end": 24.459718539998157,
+      "translations": {
+        "en": "\"Partner, where shall we go?\" Slipping past the neon lights"
+      },
+      "furigana": [
+        [
+          "「",
+          null
+        ],
+        [
+          "相棒",
+          "あいぼう"
+        ],
+        [
+          "、どこへ",
+          null
+        ],
+        [
+          "行こう",
+          "いこう"
+        ],
+        [
+          "か」ネオンの",
+          null
+        ],
+        [
+          "脇",
+          "わき"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "抜け",
+          "ぬけ"
+        ]
+      ]
+    },
+    {
+      "id": "bd0f2e5c-4ab1-447e-bd52-1eef6d7249c5",
+      "text": "バブルガムがはじけたら let's go",
+      "start": 25.079711405689036,
+      "end": 28.499672051919358,
+      "translations": {
+        "en": "When the bubblegum pops, let's go"
+      },
+      "furigana": [
+        [
+          "バブルガムがはじけたら let's go",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "42addba6-2fb0-49c7-b8eb-aab914f79835",
+      "text": "最低な夜を潜って 僕らは群れをなす",
+      "start": 30.619647657184938,
+      "end": 34.71960047868913,
+      "translations": {
+        "en": "Wading through the worst nights, we form a pack"
+      },
+      "furigana": [
+        [
+          "最低",
+          "さいてい"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "夜",
+          "よる"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "潜って",
+          "もぐって"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "僕ら",
+          "ぼくら"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "群れ",
+          "むれ"
+        ],
+        [
+          "をなす",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "051defc0-5a3b-44d7-aa51-efc6efb19233",
+      "text": "「あの頃よりもマシだね」my way",
+      "start": 35.29959380465801,
+      "end": 38.93955191935929,
+      "translations": {
+        "en": "\"It's better than it was back then,\" my way"
+      },
+      "furigana": [
+        [
+          "「あの",
+          null
+        ],
+        [
+          "頃",
+          "ころ"
+        ],
+        [
+          "よりもマシだね」my way",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "933c3457-460f-48d7-a8b0-396798af5012",
+      "text": "「不完全なんです」首輪をつけた",
+      "start": 40.69953166712694,
+      "end": 45.87947206112492,
+      "translations": {
+        "en": "\"I'm incomplete\"—I put on a collar"
+      },
+      "furigana": [
+        [
+          "「",
+          null
+        ],
+        [
+          "不完全",
+          "ふかんぜん"
+        ],
+        [
+          "なんです」",
+          null
+        ],
+        [
+          "首輪",
+          "くびわ"
+        ],
+        [
+          "をつけた",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4c8b650b-15f9-463b-80aa-b72c1e45e020",
+      "text": "良い子なんかじゃもうイヤ (Ah)",
+      "start": 46.259467688483845,
+      "end": 51.059412455122896,
+      "translations": {
+        "en": "I don't want to be a good kid anymore (Ah)"
+      },
+      "furigana": [
+        [
+          "良い",
+          "よい"
+        ],
+        [
+          "子",
+          "こ"
+        ],
+        [
+          "なんかじゃもうイヤ (Ah)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d3c83247-bc78-4c45-a4de-45231401c16e",
+      "text": "Demon's residence, 噛みついていけ",
+      "start": 51.07941222498389,
+      "end": 53.59938322746939,
+      "translations": {
+        "en": "Demon's residence, go sink your teeth in"
+      },
+      "furigana": [
+        [
+          "Demon's residence, ",
+          null
+        ],
+        [
+          "噛みついて",
+          "かみついて"
+        ],
+        [
+          "いけ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ef9a2698-4206-425b-9db7-8620a7dde552",
+      "text": "この街は壁のようで",
+      "start": 53.639382767191385,
+      "end": 56.15935376967688,
+      "translations": {
+        "en": "This town is like a wall"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "街",
+          "まち"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "壁",
+          "かべ"
+        ],
+        [
+          "のようで",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "232a4467-31c8-46d5-a49c-12458b9eab66",
+      "text": "気分はどうだい 泣いているのかい",
+      "start": 56.19935330939887,
+      "end": 58.71932431188438,
+      "translations": {
+        "en": "How are you feeling? Are you crying?"
+      },
+      "furigana": [
+        [
+          "気分",
+          "きぶん"
+        ],
+        [
+          "はどうだい ",
+          null
+        ],
+        [
+          "泣いて",
+          "ないて"
+        ],
+        [
+          "いるのかい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ab2d87e7-6ce4-4aba-9a4d-88383b33447d",
+      "text": "鎖をちぎって",
+      "start": 58.73932408174537,
+      "end": 61.099296925342905,
+      "translations": {
+        "en": "Tear apart the chains"
+      },
+      "furigana": [
+        [
+          "鎖",
+          "くさり"
+        ],
+        [
+          "をちぎって",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "29bae27e-d22a-4ad3-8fc9-333cc4aecfea",
+      "text": "叫んでいたいんだ stray dogs 遥か",
+      "start": 61.1192966952039,
+      "end": 63.79926585657737,
+      "translations": {
+        "en": "I want to keep shouting, stray dogs, far"
+      },
+      "furigana": [
+        [
+          "叫んで",
+          "さけんで"
+        ],
+        [
+          "いたいんだ stray dogs ",
+          null
+        ],
+        [
+          "遥か",
+          "はるか"
+        ]
+      ]
+    },
+    {
+      "id": "fa0ed0bc-6b0c-4acc-a0af-6716b7266d89",
+      "text": "彼方へと飛ぶ鳥を",
+      "start": 63.83926539629936,
+      "end": 66.31923685906287,
+      "translations": {
+        "en": "At the birds flying off into the distance"
+      },
+      "furigana": [
+        [
+          "彼方",
+          "かなた"
+        ],
+        [
+          "へと",
+          null
+        ],
+        [
+          "飛ぶ",
+          "とぶ"
+        ],
+        [
+          "鳥",
+          "とり"
+        ],
+        [
+          "を",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6348f34c-4275-4073-8990-4111834f138b",
+      "text": "見上げるだけかい それでいいのかい?",
+      "start": 66.41923570836785,
+      "end": 68.89920717113137,
+      "translations": {
+        "en": "Will you only look up at them? Is that enough?"
+      },
+      "furigana": [
+        [
+          "見上げる",
+          "みあげる"
+        ],
+        [
+          "だけかい それでいいのかい?",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ff2d7da0-8569-44ac-bd24-e4f742e78420",
+      "text": "燃えるならほら青く",
+      "start": 68.93920671085336,
+      "end": 81.67906011230784,
+      "translations": {
+        "en": "If you're going to burn, then burn blue"
+      },
+      "furigana": [
+        [
+          "燃える",
+          "もえる"
+        ],
+        [
+          "ならほら",
+          null
+        ],
+        [
+          "青く",
+          "あおく"
+        ]
+      ]
+    },
+    {
+      "id": "e55a1db4-a549-4625-b35c-ef8aae8b2b97",
+      "text": "「説教なんかいらない」スプレー缶振って",
+      "start": 81.71905965202983,
+      "end": 85.65901431464604,
+      "translations": {
+        "en": "\"I don't need your lectures,\" shaking a spray can"
+      },
+      "furigana": [
+        [
+          "「",
+          null
+        ],
+        [
+          "説教",
+          "せっきょう"
+        ],
+        [
+          "なんかいらない」スプレー",
+          null
+        ],
+        [
+          "缶",
+          "かん"
+        ],
+        [
+          "振って",
+          "ふって"
+        ]
+      ]
+    },
+    {
+      "id": "f6d2737e-6d31-45a3-9811-5796b737ea9b",
+      "text": "イタズラ書きで彩る",
+      "start": 86.3990057995029,
+      "end": 88.8989770321274,
+      "translations": {
+        "en": "Coloring it with graffiti"
+      },
+      "furigana": [
+        [
+          "イタズラ",
+          null
+        ],
+        [
+          "書き",
+          "がき"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "彩る",
+          "いろどる"
+        ]
+      ]
+    },
+    {
+      "id": "c8d92808-443a-48eb-a1fb-c3c80e474242",
+      "text": "愛情なんか coin toss誰に bet するのか",
+      "start": 88.9589763417104,
+      "end": 95.85889694375402,
+      "translations": {
+        "en": "Love is just a coin toss—who will you bet on?"
+      },
+      "furigana": [
+        [
+          "愛情",
+          "あいじょう"
+        ],
+        [
+          "なんか coin toss",
+          null
+        ],
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "に bet するのか",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e26b9600-bbd8-4e14-bed4-3446e0e580c8",
+      "text": "不確定要素 ばかりね lonely",
+      "start": 96.55888888888889,
+      "end": 99.99884930498021,
+      "translations": {
+        "en": "Nothing but uncertain factors, lonely"
+      },
+      "furigana": [
+        [
+          "不確定要素",
+          "ふかくていようそ"
+        ],
+        [
+          " ばかりね lonely",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "677dce85-b20a-4c67-a90c-bf5b9b42d7e9",
+      "text": "二人でひとつと決めた",
+      "start": 102.15882444996778,
+      "end": 107.35876461382675,
+      "translations": {
+        "en": "We decided the two of us would be one"
+      },
+      "furigana": [
+        [
+          "二人",
+          "ふたり"
+        ],
+        [
+          "でひとつと",
+          null
+        ],
+        [
+          "決めた",
+          "きめた"
+        ]
+      ]
+    },
+    {
+      "id": "425737ab-0c83-4f76-b5d4-5fc720b6425a",
+      "text": "あの日を忘れない (Ah)",
+      "start": 107.5787620822977,
+      "end": 112.29870776949276,
+      "translations": {
+        "en": "I won't forget that day (Ah)"
+      },
+      "furigana": [
+        [
+          "あの",
+          null
+        ],
+        [
+          "日",
+          "ひ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "忘れない",
+          "わすれない"
+        ],
+        [
+          " (Ah)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4eda4bd2-4769-424d-acb5-eff4ab28e596",
+      "text": "Demon's residence, 満天の空",
+      "start": 112.33870730921477,
+      "end": 114.85867831170026,
+      "translations": {
+        "en": "Demon's residence, a sky full of stars"
+      },
+      "furigana": [
+        [
+          "Demon's residence, ",
+          null
+        ],
+        [
+          "満天",
+          "まんてん"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "空",
+          "そら"
+        ]
+      ]
+    },
+    {
+      "id": "08f5f006-99d1-4f67-9abb-f71f1f57fd4a",
+      "text": "あの星がひどく不快で",
+      "start": 114.93867739114425,
+      "end": 117.43864862376876,
+      "translations": {
+        "en": "Those stars are terribly unpleasant"
+      },
+      "furigana": [
+        [
+          "あの",
+          null
+        ],
+        [
+          "星",
+          "ほし"
+        ],
+        [
+          "がひどく",
+          null
+        ],
+        [
+          "不快",
+          "ふかい"
+        ],
+        [
+          "で",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "de0956ca-fbd6-44f4-a224-a85d18a3ec42",
+      "text": "勝利はどうだい 味がするのかい?",
+      "start": 117.45864839362974,
+      "end": 119.99861916597625,
+      "translations": {
+        "en": "How about victory—can you taste it?"
+      },
+      "furigana": [
+        [
+          "勝利",
+          "しょうり"
+        ],
+        [
+          "はどうだい ",
+          null
+        ],
+        [
+          "味",
+          "あじ"
+        ],
+        [
+          "がするのかい?",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "dd7a0888-87a9-4e2b-a52b-32b8231580d5",
+      "text": "鎖を噛んで",
+      "start": 120.01861893583724,
+      "end": 122.37859177943477,
+      "translations": {
+        "en": "Bite the chains"
+      },
+      "furigana": [
+        [
+          "鎖",
+          "くさり"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "噛んで",
+          "かんで"
+        ]
+      ]
+    },
+    {
+      "id": "a3ce92a8-34b1-4fe3-8129-b05e6567a0d8",
+      "text": "唸って いたいんだ stray dogs 僕ら",
+      "start": 122.45859085887876,
+      "end": 125.05856094080825,
+      "translations": {
+        "en": "We want to keep growling, stray dogs"
+      },
+      "furigana": [
+        [
+          "唸って",
+          "うなって"
+        ],
+        [
+          " いたいんだ stray dogs ",
+          null
+        ],
+        [
+          "僕ら",
+          "ぼくら"
+        ]
+      ]
+    },
+    {
+      "id": "28f49493-71e7-4236-8966-5d7385e67186",
+      "text": "宇宙さえも撃ち落として",
+      "start": 125.07856071066924,
+      "end": 127.61853148301574,
+      "translations": {
+        "en": "Shooting down even the universe"
+      },
+      "furigana": [
+        [
+          "宇宙",
+          "うちゅう"
+        ],
+        [
+          "さえも",
+          null
+        ],
+        [
+          "撃ち落として",
+          "うちおとして"
+        ]
+      ]
+    },
+    {
+      "id": "40b37fb2-48e5-43ff-8367-b16409454287",
+      "text": "見下ろす奈落 ビルは輝く",
+      "start": 127.67853079259872,
+      "end": 130.17850202522322,
+      "translations": {
+        "en": "Looking down into the abyss, the buildings shine"
+      },
+      "furigana": [
+        [
+          "見下ろす",
+          "みおろす"
+        ],
+        [
+          "奈落",
+          "ならく"
+        ],
+        [
+          " ビルは",
+          null
+        ],
+        [
+          "輝く",
+          "かがやく"
+        ]
+      ]
+    },
+    {
+      "id": "2afb6dbf-c290-4ffb-a1fd-cda5a3e758c8",
+      "text": "LOL, now I am free",
+      "start": 130.45849880327717,
+      "end": 135.17844449047223,
+      "translations": {
+        "en": "LOL, now I am free"
+      },
+      "furigana": [
+        [
+          "LOL, now I am free",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4daf17a6-a095-4d3b-ae57-4ae431274d56",
+      "text": "Woah-oh-oh-oh",
+      "start": 148.07829605081469,
+      "end": 150.6382665930222,
+      "translations": {
+        "en": "Woah-oh-oh-oh"
+      },
+      "furigana": [
+        [
+          "Woah-oh-oh-oh",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e0aa6c4f-c2ce-4fe7-811c-9a99ca918200",
+      "text": "Woah-oh-oh",
+      "start": 150.65826636288318,
+      "end": 152.79824173800975,
+      "translations": {
+        "en": "Woah-oh-oh"
+      },
+      "furigana": [
+        [
+          "Woah-oh-oh",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1c41016e-284a-4026-8b2a-2d7e75ebf541",
+      "text": "Woah-oh-oh-oh",
+      "start": 153.1782373653687,
+      "end": 155.73820790757617,
+      "translations": {
+        "en": "Woah-oh-oh-oh"
+      },
+      "furigana": [
+        [
+          "Woah-oh-oh-oh",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c77ae95a-5c64-4607-9471-49590029caf8",
+      "text": "Woah-oh-oh",
+      "start": 155.75820767743716,
+      "end": 158.25817891006167,
+      "translations": {
+        "en": "Woah-oh-oh"
+      },
+      "furigana": [
+        [
+          "Woah-oh-oh",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "03b28f1f-28fb-424e-82c6-1a524c5d93d8",
+      "text": "孤独を分け合い食べた",
+      "start": 158.31817821964466,
+      "end": 163.39811976433765,
+      "translations": {
+        "en": "We shared our loneliness and devoured it"
+      },
+      "furigana": [
+        [
+          "孤独",
+          "こどく"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "分け合い",
+          "わけあい"
+        ],
+        [
+          "食べた",
+          "たべた"
+        ]
+      ]
+    },
+    {
+      "id": "58c0d3c5-ccaa-49f7-9963-03f63505d08c",
+      "text": "あの日を忘れない (Ah)",
+      "start": 163.75811562183557,
+      "end": 168.51806084875264,
+      "translations": {
+        "en": "I won't forget that day (Ah)"
+      },
+      "furigana": [
+        [
+          "あの",
+          null
+        ],
+        [
+          "日",
+          "ひ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "忘れない",
+          "わすれない"
+        ],
+        [
+          " (Ah)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c5123297-de49-4698-bd07-56799d1174b1",
+      "text": "夜を睨んだ stray dogs そうだ",
+      "start": 168.53806061861363,
+      "end": 171.05803162109913,
+      "translations": {
+        "en": "We glared at the night, stray dogs, that's right"
+      },
+      "furigana": [
+        [
+          "夜",
+          "よる"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "睨んだ",
+          "にらんだ"
+        ],
+        [
+          " stray dogs そうだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0c5b12d2-0d12-4870-a2bf-96dad99fd864",
+      "text": "怪物は世界のほうさ",
+      "start": 171.09803116082114,
+      "end": 173.53800308386266,
+      "translations": {
+        "en": "The world is the real monster"
+      },
+      "furigana": [
+        [
+          "怪物",
+          "かいぶつ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "世界",
+          "せかい"
+        ],
+        [
+          "のほうさ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4cc89678-9217-45d1-8fae-79e2b91ad14b",
+      "text": "抜け出せるのかい 足は動くかい",
+      "start": 173.63800193316763,
+      "end": 176.17797270551412,
+      "translations": {
+        "en": "Can you get out? Can your legs move?"
+      },
+      "furigana": [
+        [
+          "抜け出せる",
+          "ぬけだせる"
+        ],
+        [
+          "のかい ",
+          null
+        ],
+        [
+          "足",
+          "あし"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "動く",
+          "うごく"
+        ],
+        [
+          "かい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a5daab0a-8514-490b-addb-25a6154c5f12",
+      "text": "走るなら今",
+      "start": 176.1979724753751,
+      "end": 178.71794347786062,
+      "translations": {
+        "en": "If you're going to run, now is the time"
+      },
+      "furigana": [
+        [
+          "走る",
+          "はしる"
+        ],
+        [
+          "なら",
+          null
+        ],
+        [
+          "今",
+          "いま"
+        ]
+      ]
+    },
+    {
+      "id": "97c7ce33-b212-47c8-b6e7-498184f94161",
+      "text": "Demon's residence, stray dogs 僕ら",
+      "start": 178.73794324772163,
+      "end": 181.27791402006812,
+      "translations": {
+        "en": "Demon's residence, stray dogs, us"
+      },
+      "furigana": [
+        [
+          "Demon's residence, stray dogs ",
+          null
+        ],
+        [
+          "僕ら",
+          "ぼくら"
+        ]
+      ]
+    },
+    {
+      "id": "d147cd6c-2101-4e38-9ac8-7afce793ea09",
+      "text": "この街を駆けて行け",
+      "start": 181.3179135597901,
+      "end": 183.75788548283163,
+      "translations": {
+        "en": "Run through this town"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "街",
+          "まち"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "駆けて",
+          "かけて"
+        ],
+        [
+          "行け",
+          "いけ"
+        ]
+      ]
+    },
+    {
+      "id": "6035d7e4-eee1-4354-bf75-3e963a7bd8ab",
+      "text": "地獄の果てに 何が見えるかい",
+      "start": 183.79788502255363,
+      "end": 186.63785234281505,
+      "translations": {
+        "en": "What can you see at the end of hell?"
+      },
+      "furigana": [
+        [
+          "地獄",
+          "じごく"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "果て",
+          "はて"
+        ],
+        [
+          "に ",
+          null
+        ],
+        [
+          "何",
+          "なに"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "見える",
+          "みえる"
+        ],
+        [
+          "かい",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "c891dc34-28f4-4b70-a7a8-d2bbced6f477",
+      "text": "鎖をちぎって",
+      "start": 186.69785165239804,
+      "end": 188.75782794808063,
+      "translations": {
+        "en": "Tear apart the chains"
+      },
+      "furigana": [
+        [
+          "鎖",
+          "くさり"
+        ],
+        [
+          "をちぎって",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "87b05f5f-6f2d-4888-be8f-a72a299eadc3",
+      "text": "叫んでいたいんだ stray dogs 僕ら",
+      "start": 188.79782748780264,
+      "end": 191.4577968793151,
+      "translations": {
+        "en": "We want to keep shouting, stray dogs"
+      },
+      "furigana": [
+        [
+          "叫んで",
+          "さけんで"
+        ],
+        [
+          "いたいんだ stray dogs ",
+          null
+        ],
+        [
+          "僕ら",
+          "ぼくら"
+        ]
+      ]
+    },
+    {
+      "id": "f12796e6-8f95-4727-a5d8-35d180a4033d",
+      "text": "この街は檻のようで",
+      "start": 191.5177961888981,
+      "end": 193.9977676516616,
+      "translations": {
+        "en": "This town is like a cage"
+      },
+      "furigana": [
+        [
+          "この",
+          null
+        ],
+        [
+          "街",
+          "まち"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "檻",
+          "おり"
+        ],
+        [
+          "のようで",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "43b904d7-874c-4fc5-8551-94a1c37c97d5",
+      "text": "君ならどうだい 共に駆けるかい?",
+      "start": 194.0577669612446,
+      "end": 196.5977377335911,
+      "translations": {
+        "en": "What about you—will you run with me?"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "ならどうだい ",
+          null
+        ],
+        [
+          "共に",
+          "ともに"
+        ],
+        [
+          "駆ける",
+          "かける"
+        ],
+        [
+          "かい?",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "08ed5873-3ef7-4e65-aa50-940fb9b11342",
+      "text": "夜明けが合図だ行こう",
+      "start": 196.61773750345208,
+      "end": 203.0976629384148,
+      "translations": {
+        "en": "Dawn is our signal—let's go"
+      },
+      "furigana": [
+        [
+          "夜明け",
+          "よあけ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "合図",
+          "あいず"
+        ],
+        [
+          "だ",
+          null
+        ],
+        [
+          "行こう",
+          "いこう"
+        ]
+      ]
+    }
+  ]
+}
