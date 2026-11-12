@@ -1,0 +1,1398 @@
+{
+  "schemaVersion": 4,
+  "videoId": "vSwxof0K8lk",
+  "videoUrl": "https://www.youtube.com/watch?v=vSwxof0K8lk",
+  "videoTitle": "【ORIGINAL SONG】めくるめくランデヴー／Mekurumeku Rendezvous (TVアニメ『自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season』主題歌【FUWAMOCO】",
+  "title": "めくるめくランデヴー (Mekurumeku Rendezvous)",
+  "artist": "FUWAMOCO",
+  "originalLanguage": "ja",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": true,
+  "display": {
+    "fontSize": 30,
+    "position": 13,
+    "translationFontSize": 23,
+    "translationPosition": 8,
+    "showOriginal": true,
+    "showTranslation": true,
+    "showNext": false
+  },
+  "source": {
+    "provider": "genius",
+    "url": "https://genius.com/Fuwamoco-mekurumeku-rendezvous-lyrics"
+  },
+  "blocks": [
+    {
+      "id": "7b9398e2-9d4f-4ca0-a042-e977e6ee5994",
+      "text": "ホッとしちゃうな もっとずっと見たいな",
+      "start": 2.1999630872483222,
+      "end": 6.039898657718121,
+      "translations": {
+        "en": "I can't help but feel relieved—I want to keep looking at you forever."
+      },
+      "furigana": [
+        [
+          "ホッとしちゃうな",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "もっとずっと",
+          null
+        ],
+        [
+          "見",
+          "み"
+        ],
+        [
+          "たいな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "cfcd3ce7-1936-487b-b06f-e548eba67c6b",
+      "text": "また新しい君に出会うストーリーだ",
+      "start": 6.199895973154363,
+      "end": 11.479807382550336,
+      "translations": {
+        "en": "It's a story where I meet a new side of you again."
+      },
+      "furigana": [
+        [
+          "また",
+          null
+        ],
+        [
+          "新",
+          "あたら"
+        ],
+        [
+          "しい",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "出会",
+          "であ"
+        ],
+        [
+          "うストーリーだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e648db07-145a-4bef-8183-f3d8c7aeddf4",
+      "text": "ボタン一つでポチッと 変幻自在の",
+      "start": 19.499672818791947,
+      "end": 23.399607382550336,
+      "translations": {
+        "en": "With a single click of a button, endlessly changeable..."
+      },
+      "furigana": [
+        [
+          "ボタン一つでポチッと",
+          "ぼたんひとつでぽちっと"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "変幻自在",
+          "へんげんじざい"
+        ],
+        [
+          "の",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e03c8175-8339-40b1-b2b1-2e676b65af01",
+      "text": "カラフルな君の表情ミステリー",
+      "start": 23.75960134228188,
+      "end": 27.79953355704698,
+      "translations": {
+        "en": "...the mystery of your colorful expressions."
+      },
+      "furigana": [
+        [
+          "カラフルな",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "表情",
+          "ひょうじょう"
+        ],
+        [
+          "ミステリー",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "55fb80d8-ded6-4baa-bce4-9dcd29de0f32",
+      "text": "甘くて苦くてちょっぴり切ない",
+      "start": 28.039529530201342,
+      "end": 31.89946476510067,
+      "translations": {
+        "en": "Sweet and bitter, and just a little painful."
+      },
+      "furigana": [
+        [
+          "甘",
+          "あま"
+        ],
+        [
+          "くて",
+          null
+        ],
+        [
+          "苦",
+          "にが"
+        ],
+        [
+          "くてちょっぴり",
+          null
+        ],
+        [
+          "切",
+          "せつ"
+        ],
+        [
+          "ない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7c0e52c7-ed76-429c-b1ec-c7e5873c4acc",
+      "text": "君は誰のもの？なんて聞けない",
+      "start": 32.259458724832214,
+      "end": 36.23939194630873,
+      "translations": {
+        "en": "I can't ask something like, “Who do you belong to?”"
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "のもの？なんて",
+          null
+        ],
+        [
+          "聞",
+          "き"
+        ],
+        [
+          "けない",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "489de47e-719d-473c-994c-25aeda8f56a1",
+      "text": "ちょっと痛いな なんか嫉妬しちゃうな",
+      "start": 36.27939127516779,
+      "end": 40.19932550335571,
+      "translations": {
+        "en": "It hurts a little—I somehow can't help getting jealous."
+      },
+      "furigana": [
+        [
+          "ちょっと",
+          null
+        ],
+        [
+          "痛",
+          "いた"
+        ],
+        [
+          "いな",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "なんか",
+          null
+        ],
+        [
+          "嫉妬",
+          "しっと"
+        ],
+        [
+          "しちゃうな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "241022d9-26ed-47e8-bb3a-3dd803f24170",
+      "text": "君は誰にでも優しくしちゃうから",
+      "start": 40.23932483221477,
+      "end": 44.759248993288594,
+      "translations": {
+        "en": "Because you're kind to everyone."
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "にでも",
+          null
+        ],
+        [
+          "優",
+          "やさ"
+        ],
+        [
+          "しくしちゃうから",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1036ce95-dfde-4476-98fb-e0609aa3929d",
+      "text": "ホッとしちゃうな もっとずっと見たいな",
+      "start": 44.799248322147655,
+      "end": 48.7391822147651,
+      "translations": {
+        "en": "I can't help but feel relieved—I want to keep looking at you forever."
+      },
+      "furigana": [
+        [
+          "ホッとしちゃうな",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "もっとずっと",
+          null
+        ],
+        [
+          "見",
+          "み"
+        ],
+        [
+          "たいな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "9c2e1f46-07a2-452f-92df-56f94c72ef44",
+      "text": "また新しい君に出会うストーリーだ",
+      "start": 48.77918154362416,
+      "end": 55.47906912751678,
+      "translations": {
+        "en": "It's a story where I meet a new side of you again."
+      },
+      "furigana": [
+        [
+          "また",
+          null
+        ],
+        [
+          "新",
+          "あたら"
+        ],
+        [
+          "しい",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "出会",
+          "であ"
+        ],
+        [
+          "うストーリーだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "988ea7fe-dbd8-444c-a0ec-bd4d93ae2a69",
+      "text": "めくるめくランデヴー 迷宮で待ってる",
+      "start": 57.01904328859061,
+      "end": 61.45896879194631,
+      "translations": {
+        "en": "A dizzying rendezvous—I’ll be waiting in the labyrinth."
+      },
+      "furigana": [
+        [
+          "めくるめくランデヴー",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "迷宮",
+          "めいきゅう"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "待",
+          "ま"
+        ],
+        [
+          "ってる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b3abf77e-1bf9-481d-a7aa-3172288f16fe",
+      "text": "背中に君を感じていたいの",
+      "start": 61.5189677852349,
+      "end": 65.4989010067114,
+      "translations": {
+        "en": "I want to keep feeling you at my back."
+      },
+      "furigana": [
+        [
+          "背中",
+          "せなか"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "感",
+          "かん"
+        ],
+        [
+          "じていたいの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "0e18177c-55a0-4146-8543-d883e9d96b2b",
+      "text": "あら、不思議なんです テレパシー 分かってる",
+      "start": 65.57889966442953,
+      "end": 70.01882516778524,
+      "translations": {
+        "en": "Oh, how strange—telepathy, you understand me."
+      },
+      "furigana": [
+        [
+          "あら、",
+          null
+        ],
+        [
+          "不思議",
+          "ふしぎ"
+        ],
+        [
+          "なんです",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "テレパシー",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "分",
+          "わ"
+        ],
+        [
+          "かってる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "31217862-71f1-44e5-b9c2-6fdd07cd5956",
+      "text": "大好きだよって 言わなくても まぁいいか",
+      "start": 70.05882449664429,
+      "end": 76.75871208053691,
+      "translations": {
+        "en": "Even if you don't say, “I love you,” well, I guess that's okay."
+      },
+      "furigana": [
+        [
+          "大好",
+          "だいす"
+        ],
+        [
+          "きだよって",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "言",
+          "い"
+        ],
+        [
+          "わなくても",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "まぁいいか",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "aeb6f966-b451-4887-b06a-4cc05e34e1b9",
+      "text": "もしあの時？なんて「たられば」の話",
+      "start": 83.33860167785235,
+      "end": 87.25853590604027,
+      "translations": {
+        "en": "“What if it had been then?”—that kind of hypothetical talk."
+      },
+      "furigana": [
+        [
+          "もしあの",
+          null
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          "？なんて「たられば」の",
+          null
+        ],
+        [
+          "話",
+          "はなし"
+        ]
+      ]
+    },
+    {
+      "id": "17890ce7-826a-4009-b45a-dce52459dc30",
+      "text": "例えば君と出会わなければ",
+      "start": 87.61852986577182,
+      "end": 91.73846073825504,
+      "translations": {
+        "en": "For example, if I had never met you..."
+      },
+      "furigana": [
+        [
+          "例",
+          "たと"
+        ],
+        [
+          "えば",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "と",
+          null
+        ],
+        [
+          "出会",
+          "であ"
+        ],
+        [
+          "わなければ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1715df18-03a4-4613-a763-971d038fa827",
+      "text": "甘いも苦いも モヤモヤ もうやだ！",
+      "start": 91.89845805369127,
+      "end": 95.79839261744966,
+      "translations": {
+        "en": "Sweet or bitter, this hazy feeling—I've had enough!"
+      },
+      "furigana": [
+        [
+          "甘",
+          "あま"
+        ],
+        [
+          "いも",
+          null
+        ],
+        [
+          "苦",
+          "にが"
+        ],
+        [
+          "いも",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "モヤモヤ",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "もうやだ！",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6649f9f4-3bbd-4bbf-9d8f-b741d03e5046",
+      "text": "独り占めしたい なんてわがまま",
+      "start": 96.09838758389262,
+      "end": 100.51831342281879,
+      "translations": {
+        "en": "Wanting to have you all to myself—what a selfish thing to say."
+      },
+      "furigana": [
+        [
+          "独",
+          "ひと"
+        ],
+        [
+          "り",
+          null
+        ],
+        [
+          "占",
+          "じ"
+        ],
+        [
+          "めしたい",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "なんてわがまま",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "471db289-2f6f-4a19-a2c4-84b683df7ba2",
+      "text": "かっこ悪いな こんなはずじゃないな",
+      "start": 100.53831308724833,
+      "end": 104.03825436241611,
+      "translations": {
+        "en": "How uncool of me—this isn't how it was supposed to be."
+      },
+      "furigana": [
+        [
+          "かっこ",
+          null
+        ],
+        [
+          "悪",
+          "わる"
+        ],
+        [
+          "いな",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "こんなはずじゃないな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "a3af9f0e-6acf-47f6-ac38-9e34d9e58125",
+      "text": "君を困らせたいわけじゃないけれど",
+      "start": 104.0982533557047,
+      "end": 108.57817818791946,
+      "translations": {
+        "en": "It's not like I want to trouble you, but..."
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "困",
+          "こま"
+        ],
+        [
+          "らせたいわけじゃないけれど",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "cf29e940-558e-4494-9ee7-0480af1ef9ae",
+      "text": "もっと居たいな ずっと一緒がいいな",
+      "start": 108.61817751677853,
+      "end": 112.55811140939598,
+      "translations": {
+        "en": "I want to stay longer; I want us to be together forever."
+      },
+      "furigana": [
+        [
+          "もっと",
+          null
+        ],
+        [
+          "居",
+          "い"
+        ],
+        [
+          "たいな",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "ずっと",
+          null
+        ],
+        [
+          "一緒",
+          "いっしょ"
+        ],
+        [
+          "がいいな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "28f6dae0-48d6-4424-b46e-5b5d720d9770",
+      "text": "生まれ変わってもまた君に会いに行こう",
+      "start": 112.67810939597315,
+      "end": 119.61799295302013,
+      "translations": {
+        "en": "Even if we're reborn, let's go meet each other again."
+      },
+      "furigana": [
+        [
+          "生",
+          "う"
+        ],
+        [
+          "まれ",
+          null
+        ],
+        [
+          "変",
+          "か"
+        ],
+        [
+          "わってもまた",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "会",
+          "あ"
+        ],
+        [
+          "いに",
+          null
+        ],
+        [
+          "行",
+          "い"
+        ],
+        [
+          "こう",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "55230a60-e70d-41a7-8abd-123ae17684d1",
+      "text": "チグハグなタンデム 心繋がってる",
+      "start": 120.85797214765101,
+      "end": 125.35789664429531,
+      "translations": {
+        "en": "Though we're an awkward tandem, our hearts are connected."
+      },
+      "furigana": [
+        [
+          "チグハグなタンデム",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "繋",
+          "つな"
+        ],
+        [
+          "がってる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "953059ec-2341-4317-893d-e788194d1932",
+      "text": "世界中どこに君がいても",
+      "start": 125.39789597315436,
+      "end": 129.35782953020134,
+      "translations": {
+        "en": "No matter where in the world you are."
+      },
+      "furigana": [
+        [
+          "世界中",
+          "せかいじゅう"
+        ],
+        [
+          "どこに",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "がいても",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "6e5678fc-c631-4fd1-a04a-4af3b1f6051e",
+      "text": "雨粒光ってる ファンタジーになってく",
+      "start": 129.41782852348993,
+      "end": 133.87775369127516,
+      "translations": {
+        "en": "Raindrops are shining, turning into a fantasy."
+      },
+      "furigana": [
+        [
+          "雨粒",
+          "あまつぶ"
+        ],
+        [
+          "光",
+          "ひか"
+        ],
+        [
+          "ってる",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "ファンタジーになってく",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e6db0eed-b207-4caf-b63d-d386f0784707",
+      "text": "七色のストーリー 魔法にかけられていく",
+      "start": 133.91775302013423,
+      "end": 141.59762416107384,
+      "translations": {
+        "en": "A seven-colored story is falling under a spell."
+      },
+      "furigana": [
+        [
+          "七色",
+          "なないろ"
+        ],
+        [
+          "のストーリー",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "魔法",
+          "まほう"
+        ],
+        [
+          "にかけられていく",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "3c21c134-a3f5-4cb5-bc4d-9a9ce252fb90",
+      "text": "奇跡を信じてる",
+      "start": 141.61762382550336,
+      "end": 144.53757483221477,
+      "translations": {
+        "en": "I believe in miracles."
+      },
+      "furigana": [
+        [
+          "奇跡",
+          "きせき"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "信",
+          "しん"
+        ],
+        [
+          "じてる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "fa1339a3-9ebd-4de9-bb59-9b3db0774203",
+      "text": "いつかきっと手を繋ぐ",
+      "start": 144.59757382550336,
+      "end": 149.29749496644297,
+      "translations": {
+        "en": "Someday, I'm sure we'll hold hands."
+      },
+      "furigana": [
+        [
+          "いつかきっと",
+          null
+        ],
+        [
+          "手",
+          "て"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "繋",
+          "つな"
+        ],
+        [
+          "ぐ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "b078f44b-b833-4b6b-8fc7-381f4c4a5ba6",
+      "text": "エンディングは決まってる まってる",
+      "start": 149.3974932885906,
+      "end": 153.03743221476512,
+      "translations": {
+        "en": "The ending is already decided—it's waiting."
+      },
+      "furigana": [
+        [
+          "エンディングは",
+          null
+        ],
+        [
+          "決",
+          "き"
+        ],
+        [
+          "まってる",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "まってる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "df8f594a-59b4-4e07-9a66-5aabe82efee4",
+      "text": "迷宮で待ってる！",
+      "start": 153.0974312080537,
+      "end": 154.9374003355705,
+      "translations": {
+        "en": "I'll be waiting in the labyrinth!"
+      },
+      "furigana": [
+        [
+          "迷宮",
+          "めいきゅう"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "待",
+          "ま"
+        ],
+        [
+          "ってる！",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "cb2b4e10-1f71-4609-98c2-71f99a3ff385",
+      "text": "めくるめくランデヴー 迷宮で待ってる",
+      "start": 154.9574,
+      "end": 159.37732583892617,
+      "translations": {
+        "en": "A dizzying rendezvous—I’ll be waiting in the labyrinth."
+      },
+      "furigana": [
+        [
+          "めくるめくランデヴー",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "迷宮",
+          "めいきゅう"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "待",
+          "ま"
+        ],
+        [
+          "ってる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7d3d1f58-61b3-4206-b3be-d5cbd39013a0",
+      "text": "背中に君を感じていたいの",
+      "start": 159.41732516778524,
+      "end": 163.39725838926174,
+      "translations": {
+        "en": "I want to keep feeling you at my back."
+      },
+      "furigana": [
+        [
+          "背中",
+          "せなか"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "感",
+          "かん"
+        ],
+        [
+          "じていたいの",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "aaed228f-78de-4de6-a274-7eb9e474cf77",
+      "text": "あら、不思議なんです テレパシー 分かってる",
+      "start": 163.47725704697987,
+      "end": 167.95718187919465,
+      "translations": {
+        "en": "Oh, how strange—telepathy, you understand me."
+      },
+      "furigana": [
+        [
+          "あら、",
+          null
+        ],
+        [
+          "不思議",
+          "ふしぎ"
+        ],
+        [
+          "なんです",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "テレパシー",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "分",
+          "わ"
+        ],
+        [
+          "かってる",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "d2d7d664-f4a9-4f19-9d56-4d2e88173ead",
+      "text": "大好きだよって 言わなくても まぁいいか",
+      "start": 167.97718154362417,
+      "end": 173.25709295302013,
+      "translations": {
+        "en": "Even if you don't say, “I love you,” well, I guess that's okay."
+      },
+      "furigana": [
+        [
+          "大好",
+          "だいす"
+        ],
+        [
+          "きだよって",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "言",
+          "い"
+        ],
+        [
+          "わなくても",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "まぁいいか",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "e2f0bd33-d3da-42a3-b0de-de895ac38aa5",
+      "text": "ちょっと痛いな なんか嫉妬しちゃうな",
+      "start": 173.27709261744968,
+      "end": 176.43703959731545,
+      "translations": {
+        "en": "It hurts a little—I somehow can't help getting jealous."
+      },
+      "furigana": [
+        [
+          "ちょっと",
+          null
+        ],
+        [
+          "痛",
+          "いた"
+        ],
+        [
+          "いな",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "なんか",
+          null
+        ],
+        [
+          "嫉妬",
+          "しっと"
+        ],
+        [
+          "しちゃうな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "def96b39-481e-4784-a9c8-7f1bff3d9dde",
+      "text": "君は誰にでも優しくしちゃうから",
+      "start": 176.47703892617452,
+      "end": 180.95696375838926,
+      "translations": {
+        "en": "Because you're kind to everyone."
+      },
+      "furigana": [
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "誰",
+          "だれ"
+        ],
+        [
+          "にでも",
+          null
+        ],
+        [
+          "優",
+          "やさ"
+        ],
+        [
+          "しくしちゃうから",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "37b0f697-7201-4052-ac84-ff2a15e0c4fa",
+      "text": "ホッとしちゃうな もっとずっと見たいな",
+      "start": 180.99696308724833,
+      "end": 184.9568966442953,
+      "translations": {
+        "en": "I can't help but feel relieved—I want to keep looking at you forever."
+      },
+      "furigana": [
+        [
+          "ホッとしちゃうな",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "もっとずっと",
+          null
+        ],
+        [
+          "見",
+          "み"
+        ],
+        [
+          "たいな",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "ce46461c-ecca-4bce-bc3b-1860375acda8",
+      "text": "また新しい君に出会うストーリーだ",
+      "start": 184.99689597315438,
+      "end": 189.83681476510068,
+      "translations": {
+        "en": "It's a story where I meet a new side of you again."
+      },
+      "furigana": [
+        [
+          "また",
+          null
+        ],
+        [
+          "新",
+          "あたら"
+        ],
+        [
+          "しい",
+          null
+        ],
+        [
+          "君",
+          "きみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "出会",
+          "であ"
+        ],
+        [
+          "うストーリーだ",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "4ab81360-07d6-4530-9241-c482142a33a9",
+      "text": "(La-la-la-la-la, la)",
+      "start": 189.89681375838927,
+      "end": 195.15672550335572,
+      "translations": {
+        "en": "(La-la-la-la-la, la)"
+      },
+      "furigana": [
+        [
+          "(La-la-la-la-la, la)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "7715b1e1-464e-4bf7-b449-91becb0e1174",
+      "text": "(La-la-la-la-la, la)",
+      "start": 195.19672483221478,
+      "end": 196.97669496644295,
+      "translations": {
+        "en": "(La-la-la-la-la, la)"
+      },
+      "furigana": [
+        [
+          "(La-la-la-la-la, la)",
+          null
+        ]
+      ]
+    },
+    {
+      "id": "1bbb73bd-188e-4612-abe1-723eea07f949",
+      "text": "迷宮で待ってる",
+      "start": 202.0366100671141,
+      "end": 204.05657617449666,
+      "translations": {
+        "en": "I'll be waiting in the labyrinth."
+      },
+      "furigana": [
+        [
+          "迷宮",
+          "めいきゅう"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "待",
+          "ま"
+        ],
+        [
+          "ってる",
+          null
+        ]
+      ]
+    }
+  ]
+}
