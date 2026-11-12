@@ -7,15 +7,21 @@
       "title": "I CAN'T STOP THE LONELINESS",
       "artist": "杏里",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/balzac-nowhere-no-13-0vOKpBbJq_Y/en.json",
       "videoId": "0vOKpBbJq_Y",
       "title": "Balzac - Nowhere No. 13",
       "artist": "",
-      "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "originalLanguage": "en",
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/fuwamoco-x-senchou-sing-ahoy-h3chCOV_phw/en.json",
@@ -23,7 +29,10 @@
       "title": "Ahoy!! 我ら宝鐘海賊団☆",
       "artist": "宝鐘マリン",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/gawr-gura-ride-on-time-cover-4jOmvTsWqGs/en.json",
@@ -31,7 +40,10 @@
       "title": "Ride On Time",
       "artist": "山下達郎",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/gawr-gura-sings-baka-mitai-Pt7KbDvUwmQ/en.json",
@@ -39,7 +51,10 @@
       "title": "ばかみたい",
       "artist": "冴島大河(小山力也)",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/gawr-gura-sings-chiisana-boukensha-acoustic-konosuba-mr8reGaslag/en.json",
@@ -47,7 +62,10 @@
       "title": "Chiisana Boukensha",
       "artist": "Sora Amamiya, Rie Takahashi & Ai Kayano",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/gawr-gura-sings-yuru-camp-ed-fuyu-biyori-ePsEtJu9myg/en.json",
@@ -55,7 +73,10 @@
       "title": "Fuyu Biyori",
       "artist": "Eri Sasaki",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/gura-and-okayu-sing-mogu-mogu-yummy-gawr-gura-hololive-english-HT3ksyFX9DI/en.json",
@@ -63,7 +84,10 @@
       "title": "Mogu Mogu YUMMY!",
       "artist": "猫又おかゆ",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/gura-x-ame-hajimete-no-chuu-3d-concert-q23tMvFJPU0/en.json",
@@ -71,7 +95,10 @@
       "title": "Hajimete No Chuu",
       "artist": "Anshin Papa",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/gura-x-kiara-balalaika-3d-concert-G3xEh7dHg68/en.json",
@@ -79,7 +106,10 @@
       "title": "バラライカ (第27話〜51話 OP)",
       "artist": "Yumiko",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/hd-1080p-touhou-cirno-s-perfect-math-class-english-subs-GNeyqFfXf7k/en.json",
@@ -87,7 +117,10 @@
       "title": "チルノのパーフェクトさんすう教室 - Cirno's Perfect Math Class",
       "artist": "IOSYS",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/hololive-en-gawr-gura-miki-matsubara-stay-with-me-3n91MZ6-z6M/en.json",
@@ -95,7 +128,10 @@
       "title": "真夜中のドア/Stay With Me",
       "artist": "Miki Matsubara",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/kyoufuu-all-back-強風オールバック-gawr-gura-cover-qMQ4P-vI3JI/en.json",
@@ -103,7 +139,10 @@
       "title": "Kyoufuu All Back",
       "artist": "Yukopi",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/live-demon-s-residence-fuwamoco-F-iI4-BkwXg/en.json",
@@ -111,7 +150,10 @@
       "title": "DEMON’S RESiDENCE",
       "artist": "FUWAMOCO",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/mv-怪物-kaibutsu-cover-fuwamoco-Yr1EI_jYBB8/en.json",
@@ -119,7 +161,10 @@
       "title": "怪物",
       "artist": "YOASOBI",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/naruto-shippuden-opening-11-assault-rock-VO-df6nkLhc/en.json",
@@ -127,15 +172,21 @@
       "title": "突撃ロック",
       "artist": "ザ・クロマニヨンズ",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/nena-irgendwie-irgendwo-irgendwann-1984-offizielles-hd-musikvideo-oMHLkcc9I9c/en.json",
       "videoId": "oMHLkcc9I9c",
       "title": "Irgendwie, Irgendwo, Irgendwann",
       "artist": "Nena",
-      "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "originalLanguage": "de",
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/paranmaum-my-right-hand-ブルーハーツ-僕の右手-boku-no-migite-リンダ-リンダ-リンダ-hWjHf-j-R1o/en.json",
@@ -143,7 +194,10 @@
       "title": "僕の右手",
       "artist": "パ-ランマウム",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/renai-circulation-gawr-gura-x-murasaki-shion-cover-AI24NCKB7-k/en.json",
@@ -151,15 +205,21 @@
       "title": "Renai Circulation",
       "artist": "花澤香菜",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/roki-vulović-panteri-mauzer-official-video-orLL5xhQRZU/en.json",
       "videoId": "orLL5xhQRZU",
       "title": "Panteri (Mauzer)",
       "artist": "Roki Vulovic",
-      "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "originalLanguage": "sr",
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/tvアニメ-この素晴らしい世界に爆焔を-ノンクレジットed-WrSqD9ArWjo/en.json",
@@ -167,7 +227,10 @@
       "title": "JUMP IN",
       "artist": "めぐみん(CV:高橋李依)、ゆんゆん(CV:豊崎愛生)",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/東方-bad-apple-ｐｖ-影絵-FtutLA63Cp8/en.json",
@@ -175,7 +238,10 @@
       "title": "【東方】Bad Apple!! ＰＶ【影絵】",
       "artist": "kasidid2",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/森田童子-たとえばぼくが死んだら-817-MDcen9U/en.json",
@@ -183,7 +249,10 @@
       "title": "たとえばぼくが死んだら",
       "artist": "森田童子",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/羊文学-銀河鉄道の夜-DLiSF-NNF0I/en.json",
@@ -191,7 +260,10 @@
       "title": "銀河鉄道の夜",
       "artist": "GOING STEADY",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     },
     {
       "file": "translations/重音テトはこんなパーティ二人で抜け出せるのか-重音テトsv-初音ミク-eCjfSDz4eRo/en.json",
@@ -199,7 +271,10 @@
       "title": "重音テトはこんなパーティ二人で抜け出せるのか (feat. 重音テト & 初音ミク)",
       "artist": "かてらざわ, 重音テト, 初音ミク",
       "originalLanguage": "ja",
-      "translationLanguage": "en"
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
     }
   ]
 }

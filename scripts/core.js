@@ -6,10 +6,54 @@
     return { id: id(), start, end, text, translations: {} };
   }
   function project(videoId, title = "") {
-    return { schemaVersion: 3, furiganaEnabled: false, videoId, videoUrl: `https://www.youtube.com/watch?v=${videoId}`, videoTitle: title, title, artist: "", originalLanguage: "ja", translationLanguage: "en", offset: 0, source: null, blocks: [] };
+    title = title.trim();
+    return { schemaVersion: 4, display: displayDefaults(), furiganaEnabled: false, videoId, videoUrl: `https://www.youtube.com/watch?v=${videoId}`, videoTitle: title, title, artist: "", originalLanguage: "und", translationLanguage: "en", offset: 0, source: null, blocks: [] };
+  }
+  function displayDefaults() {
+    return { fontSize: 30, position: 13, translationFontSize: 23, translationPosition: 8, showOriginal: true, showTranslation: true, showNext: false };
+  }
+  function languages(value) {
+    return [...new Set([value.translationLanguage, ...value.blocks.flatMap(row => Object.keys(row.translations))])].sort();
+  }
+  function exportProject(value) {
+    const p = validate(value);
+    return { schemaVersion: p.schemaVersion, videoId: p.videoId, videoUrl: p.videoUrl, videoTitle: p.videoTitle,
+      title: p.title, artist: p.artist, originalLanguage: p.originalLanguage, translationLanguage: p.translationLanguage,
+      offset: p.offset, furiganaEnabled: p.furiganaEnabled, display: p.display, source: p.source,
+      blocks: p.blocks.map(b => ({ id: b.id, text: b.text, start: b.start, end: b.end, translations: b.translations,
+        ...(b.furigana ? { furigana: b.furigana } : {}) })) };
+  }
+  function fingerprint(value) {
+    const p = exportProject(value);
+    delete p.translationLanguage;
+    return JSON.stringify(p);
+  }
+  function mergeTranslations(current, incoming) {
+    const a = validate(current), b = validate(incoming);
+    if (!a.blocks.length) return { project: b, conflicts: [], replacement: false };
+    if (a.videoId !== b.videoId || a.blocks.length !== b.blocks.length ||
+        (a.originalLanguage !== 'und' && b.originalLanguage !== 'und' && a.originalLanguage !== b.originalLanguage)) {
+      return { project: b, conflicts: [], replacement: true };
+    }
+    const byId = new Map(b.blocks.map(row => [row.id, row]));
+    let matched = a.blocks.map(row => byId.get(row.id));
+    if (matched.some((row, i) => !row || row.text !== a.blocks[i].text)) {
+      if (a.blocks.some((row, i) => row.text !== b.blocks[i].text)) return { project: b, conflicts: [], replacement: true };
+      matched = b.blocks;
+    }
+    const conflicts = new Set();
+    a.blocks.forEach((row, i) => {
+      for (const [language, text] of Object.entries(matched[i].translations)) {
+        if (row.translations[language]?.trim() && row.translations[language] !== text) conflicts.add(language);
+        row.translations[language] = text;
+      }
+    });
+    a.translationLanguage = b.translationLanguage;
+    if (a.originalLanguage === 'und') a.originalLanguage = b.originalLanguage;
+    return { project: a, conflicts: [...conflicts], replacement: false };
   }
   function validate(value) {
-    if (!value || ![1, 2, 3].includes(value.schemaVersion)) throw new Error("Unsupported project schema.");
+    if (!value || ![1, 2, 3, 4].includes(value.schemaVersion)) throw new Error("Unsupported project schema.");
     value = { ...value };
     if (value.schemaVersion === 1) {
       value.schemaVersion = 2;
@@ -23,6 +67,8 @@
     for (const key of ["videoTitle", "title", "artist", "originalLanguage", "translationLanguage"]) {
       if (typeof value[key] !== "string" || value[key].length > 2000) throw new Error(`Invalid ${key}.`);
     }
+    value.videoTitle = value.videoTitle.trim();
+    value.title = value.title.trim();
     if (!Number.isFinite(value.offset) || Math.abs(value.offset) > 86400) throw new Error("Invalid timing offset.");
     if (!Array.isArray(value.blocks) || value.blocks.length > 10000) throw new Error("Invalid block list.");
     if (value.schemaVersion < 3) {
@@ -54,6 +100,12 @@
       if (!source || Array.isArray(source) || typeof source.provider !== "string" || typeof source.url !== "string" || !/^https:\/\//.test(source.url)) throw new Error("Invalid source link.");
       value.source = { provider: source.provider, url: source.url };
     }
+    const display = { ...displayDefaults(), ...(value.display || {}) };
+    for (const key of ['fontSize', 'translationFontSize']) if (!Number.isFinite(display[key]) || display[key] < 12 || display[key] > 80) throw new Error('Invalid text size.');
+    for (const key of ['position', 'translationPosition']) if (!Number.isFinite(display[key]) || display[key] < 0 || display[key] > 90) throw new Error('Invalid text position.');
+    for (const key of ['showOriginal', 'showTranslation', 'showNext']) if (typeof display[key] !== 'boolean') throw new Error('Invalid text visibility.');
+    value.display = Object.fromEntries(Object.keys(displayDefaults()).map(key => [key, display[key]]));
+    value.schemaVersion = 4;
     return JSON.parse(JSON.stringify(value));
   }
   function validateFurigana(text, parts) {
@@ -113,6 +165,35 @@
     // Blank timestamped lines remain boundaries for instrumental gaps.
     return entries.map((row, i) => ({ ...row, end: entries.slice(i + 1).find(next => next.start > row.start)?.start ?? null }));
   }
+  function importLyrics(text) {
+    if (/\[\d+:[0-5]\d/.test(text)) return parseLrc(text);
+    const rows = text.replace(/^\uFEFF/, "").split(/\r?\n/)
+      .filter(line => line.trim() && !/^\[[a-z]+:.*\]$/i.test(line.trim())).map(line => block(line));
+    if (!rows.length) throw new Error("No lyrics found.");
+    return rows;
+  }
+  function exportLrc(value, timed = true) {
+    const project = validate(value);
+    if (!project.blocks.length) throw new Error("Add lyrics first.");
+    const text = row => row.text.replace(/[\r\n]+/g, " ");
+    if (!timed) return project.blocks.map(text).join("\n") + "\n";
+    if (project.blocks.some(row => row.start === null || row.start + project.offset < 0)) {
+      throw new Error("Every line needs a non-negative video start time. Mark untimed lines or export untimed LRC.");
+    }
+    const timestamp = seconds => {
+      const ms = Math.round(seconds * 1000);
+      return `[${String(Math.floor(ms / 60000)).padStart(2, "0")}:${String(Math.floor(ms / 1000) % 60).padStart(2, "0")}.${String(ms % 1000).padStart(3, "0")}]`;
+    };
+    const rows = [...project.blocks].sort((a, b) => a.start - b.start);
+    const lines = [];
+    rows.forEach((row, index) => {
+      lines.push(timestamp(row.start + project.offset) + text(row));
+      if (row.end !== null && (!rows[index + 1] || row.end < rows[index + 1].start)) {
+        lines.push(timestamp(row.end + project.offset));
+      }
+    });
+    return lines.join("\n") + "\n";
+  }
   function activeBlock(rows, videoTime, offset = 0) {
     let active = null;
     for (const row of rows) {
@@ -141,6 +222,24 @@
     }
     return targets.slice(0, lines.length).map((row, index) => ({ row, text: lines[index] }));
   }
+  function moveLineStart(value, row, videoSeconds) {
+    const index = value.blocks.indexOf(row);
+    if (index < 0) throw new Error("Load lyrics and select a line first.");
+    if (videoSeconds !== null && !Number.isFinite(videoSeconds)) throw new Error("Invalid start time.");
+    const start = videoSeconds === null ? null : Number((videoSeconds - value.offset).toFixed(3));
+    const delta = start === null || row.start === null ? 0 : start - row.start;
+    const blocks = value.blocks.map((block, position) => {
+      if (position < index) return block;
+      const shift = time => time === null ? null : Number((time + delta).toFixed(3));
+      return { ...block, start: position === index ? start : shift(block.start), end: shift(block.end) };
+    });
+    // Validate the entire shift before applying any times to the current project.
+    validate({ ...value, blocks });
+    for (let position = index; position < blocks.length; position++) {
+      value.blocks[position].start = blocks[position].start;
+      value.blocks[position].end = blocks[position].end;
+    }
+  }
   function syncLine(value, row, seconds) {
     if (!row || !value.blocks.includes(row)) throw new Error("Load lyrics and select a line first.");
     if (!Number.isFinite(seconds)) throw new Error("Invalid start time.");
@@ -150,7 +249,7 @@
     try { validate(value); }
     catch (error) { row.start = previousStart; value.offset = previousOffset; throw error; }
   }
-  const api = { replaceFuriganaTerm, validateFurigana, alignKana, block, project, validate, parseLrc, activeBlock, stamp, matchTranslation, syncLine };
+  const api = { displayDefaults, languages, exportProject, fingerprint, mergeTranslations, replaceFuriganaTerm, validateFurigana, alignKana, block, project, validate, parseLrc, importLyrics, exportLrc, activeBlock, stamp, matchTranslation, moveLineStart, syncLine };
   root.KaraokeCore = api;
   if (typeof module !== "undefined") module.exports = api;
 })(globalThis);
