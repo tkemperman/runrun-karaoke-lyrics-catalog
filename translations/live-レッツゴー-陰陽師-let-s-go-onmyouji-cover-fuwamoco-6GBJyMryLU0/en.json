@@ -25,15 +25,15 @@
   "blocks": [
     {
       "id": "5925efa0-2395-4b5b-90d4-6562dad6125f",
-      "text": "あるいは困難が化学で解決するこの平成の時代",
+      "text": "あらゆる困難が科学で解決するこの平成の時代",
       "start": 1.4000175,
       "end": 4.98006225,
       "translations": {
-        "en": "Or perhaps, in this Heisei era, when difficulties are solved by science,"
+        "en": "In this Heisei era, when science can solve any difficulty,"
       },
       "furigana": [
         [
-          "あるいは",
+          "あらゆる",
           null
         ],
         [
@@ -45,7 +45,7 @@
           null
         ],
         [
-          "化学",
+          "科学",
           "かがく"
         ],
         [
@@ -58,7 +58,7 @@
         ],
         [
           "するこの",
-          "するこの"
+          null
         ],
         [
           "平成",
@@ -76,11 +76,11 @@
     },
     {
       "id": "bd82bc04-7854-4f0e-b1ce-ca4904e4a1e9",
-      "text": "人々の閉ざされた心の闇に蔓延る致命猛力が存在していた",
+      "text": "人々の閉ざされた心の闇に蔓延る魑魅魍魎が存在していた",
       "start": 5.620000484496124,
       "end": 10.720062257751938,
       "translations": {
-        "en": "There existed a lethal force spreading through the darkness of people's closed hearts."
+        "en": "malevolent spirits still lurked in the darkness of people's closed hearts."
       },
       "furigana": [
         [
@@ -92,8 +92,12 @@
           null
         ],
         [
-          "閉ざされた",
-          "とざされた"
+          "閉",
+          "と"
+        ],
+        [
+          "ざされた",
+          null
         ],
         [
           "心",
@@ -112,12 +116,16 @@
           null
         ],
         [
-          "蔓延る",
-          "はびこる"
+          "蔓延",
+          "はびこ"
         ],
         [
-          "致命猛力",
-          "ちめいもうりょく"
+          "る",
+          null
+        ],
+        [
+          "魑魅魍魎",
+          "ちみもうりょう"
         ],
         [
           "が",
@@ -129,21 +137,21 @@
         ],
         [
           "していた",
-          "していた"
+          null
         ]
       ]
     },
     {
       "id": "371d3197-c593-4f8a-a066-3fab5117f32e",
-      "text": "化学の力ではどうしようもできないその切っ替えの役に立ち向かう",
+      "text": "科学の力ではどうしようもできないその奇っ怪な輩に立ち向かう",
       "start": 11.42000160944206,
       "end": 15.940062231759658,
       "translations": {
-        "en": "They confront that role of changing things which science's power can do nothing about."
+        "en": "Confronting those bizarre beings that science is powerless against"
       },
       "furigana": [
         [
-          "化学",
+          "科学",
           "かがく"
         ],
         [
@@ -156,62 +164,70 @@
         ],
         [
           "ではどうしようもできないその",
-          "ではどうしようもできないその"
-        ],
-        [
-          "切っ替え",
-          "きっかえ"
-        ],
-        [
-          "の",
           null
         ],
         [
-          "役",
-          "やく"
+          "奇っ怪",
+          "きっかい"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "輩",
+          "やから"
         ],
         [
           "に",
           null
         ],
         [
-          "立ち向かう",
-          "たちむかう"
+          "立",
+          "た"
+        ],
+        [
+          "ち",
+          null
+        ],
+        [
+          "向",
+          "む"
+        ],
+        [
+          "かう",
+          null
         ]
       ]
     },
     {
       "id": "05acf54a-602c-49b2-a037-911b49aabb31",
-      "text": "神明を不可思議にて 悪さんくさい男が一人",
+      "text": "神妙不思議にて 胡散臭い男が一人",
       "start": 16.240000343406592,
       "end": 19.840062156593405,
       "translations": {
-        "en": "By mysterious divine means, there is one suspicious-looking man."
+        "en": "stands a mysterious, rather dubious man."
       },
       "furigana": [
         [
-          "神明",
-          "しんめい"
+          "神妙",
+          "しんみょう"
         ],
         [
-          "を",
+          "不思議",
+          "ふしぎ"
+        ],
+        [
+          "にて ",
           null
         ],
         [
-          "不可思議",
-          "ふかしぎ"
+          "胡散臭",
+          "うさんくさ"
         ],
         [
-          "にて",
-          "にて"
-        ],
-        [
-          " ",
+          "い",
           null
-        ],
-        [
-          "悪さんくさい",
-          "あくさんくさい"
         ],
         [
           "男",
@@ -228,12 +244,86 @@
       ]
     },
     {
+      "id": "023d2caa-c2d1-4efd-bf2d-ff828f0473a4",
+      "text": "その名は矢部野彦麿",
+      "start": 20.56,
+      "end": 22.88,
+      "translations": {
+        "en": "His name: Yabeno Hikomaro."
+      },
+      "furigana": [
+        [
+          "その",
+          null
+        ],
+        [
+          "名",
+          "な"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "矢部野彦麿",
+          "やべのひこまろ"
+        ]
+      ]
+    },
+    {
+      "id": "229e6184-d203-464b-bc30-b79d4af29ed1",
+      "text": "そう 人は彼を陰陽師と呼ぶ",
+      "start": 24.28,
+      "end": 28.04,
+      "translations": {
+        "en": "Yes, people call him an onmyoji."
+      },
+      "furigana": [
+        [
+          "そう ",
+          null
+        ],
+        [
+          "人",
+          "ひと"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          "彼",
+          "かれ"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "陰陽師",
+          "おんみょうじ"
+        ],
+        [
+          "と",
+          null
+        ],
+        [
+          "呼",
+          "よ"
+        ],
+        [
+          "ぶ",
+          null
+        ]
+      ]
+    },
+    {
       "id": "6659f446-0f3e-4956-86e4-e9447a18944d",
-      "text": "悪霊退散 悪霊退散 鬼廟もののけ困ったときは",
+      "text": "悪霊退散 悪霊退散 怨霊もののけ困ったときは",
       "start": 30,
       "end": 35.800058467741934,
       "translations": {
-        "en": "Begone, evil spirits! Begone, evil spirits! When demons and monsters cause trouble,"
+        "en": "Begone, evil spirits! Begone, evil spirits! When vengeful spirits and monsters cause trouble,"
       },
       "furigana": [
         [
@@ -253,79 +343,75 @@
           null
         ],
         [
-          "鬼廟",
-          "きびょう"
+          "怨霊",
+          "おんりょう"
         ],
         [
           "もののけ",
           null
         ],
         [
-          "困った",
-          "こまった"
+          "困",
+          "こま"
         ],
         [
-          "ときは",
+          "ったときは",
           null
         ]
       ]
     },
     {
       "id": "84065f9a-46fd-4c3a-8f8a-9108cfc97483",
-      "text": "同盟 正盟 同盟 正盟 すぐに呼びましょう 音陽子",
+      "text": "ドーマン セーマン ドーマン セーマン すぐに呼びましょう 陰陽師",
       "start": 36.28000043103449,
       "end": 41.920061206896555,
       "translations": {
-        "en": "Alliance, true alliance, alliance, true alliance—let's call Onmyoji right away!"
+        "en": "Dōman! Seiman! Dōman! Seiman! Let's call the onmyoji right away!"
       },
       "furigana": [
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
-          " ",
+          " すぐに",
           null
         ],
         [
-          "すぐに",
+          "呼",
+          "よ"
+        ],
+        [
+          "びましょう ",
           null
         ],
         [
-          "呼びましょう",
-          "よびましょう"
-        ],
-        [
-          " ",
-          null
-        ],
-        [
-          "音陽子",
-          "おんようじ"
+          "陰陽師",
+          "おんみょうじ"
         ]
       ]
     },
@@ -361,23 +447,19 @@
     },
     {
       "id": "87dc961f-d1c2-4606-be2f-c1f09e51fe1b",
-      "text": "てなお この世に未練残す死は 沈み覚えよとなり果てる",
+      "text": "死してなお この世に未練残せしは 魑魅魍魎となり果てる",
       "start": 55.80000089541547,
       "end": 62.640062141833816,
       "translations": {
-        "en": "Yet death that leaves regrets in this world ends up being told to sink and remember."
+        "en": "Those who cling to this world even after death become monstrous spirits."
       },
       "furigana": [
         [
-          "てなお",
-          null
+          "死",
+          "し"
         ],
         [
-          " ",
-          null
-        ],
-        [
-          "この",
+          "してなお この",
           null
         ],
         [
@@ -393,46 +475,38 @@
           "みれん"
         ],
         [
-          "残す",
-          "のこす"
+          "残",
+          "のこ"
         ],
         [
-          "死",
-          "し"
-        ],
-        [
-          "は",
+          "せしは ",
           null
         ],
         [
-          " ",
+          "魑魅魍魎",
+          "ちみもうりょう"
+        ],
+        [
+          "となり",
           null
         ],
         [
-          "沈み",
-          "しずみ"
+          "果",
+          "は"
         ],
         [
-          "覚えよ",
-          "おぼえよ"
-        ],
-        [
-          "と",
+          "てる",
           null
-        ],
-        [
-          "なり果てる",
-          "なりはてる"
         ]
       ]
     },
     {
       "id": "1585d9d3-7dfc-4c77-bcbc-4f645ddb8bb6",
-      "text": "その悪しき血を清めるが 音陽のみち",
+      "text": "その悪しき血を清めるが 陰陽のみち",
       "start": 63.36000164473685,
       "end": 67.78006222587719,
       "translations": {
-        "en": "The path of Onyo is to purify that wicked blood."
+        "en": "To cleanse that wicked blood is the way of yin and yang."
       },
       "furigana": [
         [
@@ -440,8 +514,12 @@
           null
         ],
         [
-          "悪しき",
-          "あしき"
+          "悪",
+          "あ"
+        ],
+        [
+          "しき",
+          null
         ],
         [
           "血",
@@ -452,20 +530,16 @@
           null
         ],
         [
-          "清める",
-          "きよめる"
+          "清",
+          "きよ"
         ],
         [
-          "が",
+          "めるが ",
           null
         ],
         [
-          " ",
-          null
-        ],
-        [
-          "音陽",
-          "おんよう"
+          "陰陽",
+          "おんみょう"
         ],
         [
           "のみち",
@@ -580,60 +654,56 @@
     },
     {
       "id": "1808f5a3-7e04-4af2-bb1f-e2343e179746",
-      "text": "同盟 正盟 同盟 正盟 助けてもらおう 音陽子",
+      "text": "ドーマン セーマン ドーマン セーマン 助けてもらおう 陰陽師",
       "start": 100.00000131118881,
       "end": 105.58006228146853,
       "translations": {
-        "en": "Alliance, true alliance, alliance, true alliance—let's have Onmyoji help us!"
+        "en": "Dōman! Seiman! Dōman! Seiman! Let's have the onmyoji help us!"
       },
       "furigana": [
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "助けて",
-          "たすけて"
+          "助",
+          "たす"
         ],
         [
-          "もらおう",
+          "けてもらおう ",
           null
         ],
         [
-          " ",
-          null
-        ],
-        [
-          "音陽子",
-          "おんようじ"
+          "陰陽師",
+          "おんみょうじ"
         ]
       ]
     },
@@ -669,58 +739,74 @@
     },
     {
       "id": "147841b3-0ac6-4303-987a-8972d89bc77a",
-      "text": "生きながら 恨み憎しみ募りしは 悪気悪量呼びさまれ",
+      "text": "生きながら 恨み憎しみ募りしは 悪鬼悪霊呼び覚ます",
       "start": 119.44000121191135,
       "end": 126.50006232686981,
       "translations": {
-        "en": "Those whose resentment and hatred grow while they live are summoned by evil spirit and evil force."
+        "en": "Those whose resentment and hatred grow while they live awaken demons and evil spirits."
       },
       "furigana": [
         [
-          "生きながら",
-          "いきながら"
+          "生",
+          "い"
         ],
         [
-          " ",
+          "きながら ",
           null
         ],
         [
-          "恨み",
-          "うらみ"
+          "恨",
+          "うら"
         ],
         [
-          "憎しみ",
-          "にくしみ"
-        ],
-        [
-          "募りし",
-          "つのりし"
-        ],
-        [
-          "は",
+          "み",
           null
         ],
         [
-          " ",
+          "憎",
+          "にく"
+        ],
+        [
+          "しみ",
           null
         ],
         [
-          "悪気悪量",
-          "あくきあくりょう"
+          "募",
+          "つの"
         ],
         [
-          "呼びさまれ",
-          "よびさまれ"
+          "りしは ",
+          null
+        ],
+        [
+          "悪鬼悪霊",
+          "あっきあくりょう"
+        ],
+        [
+          "呼",
+          "よ"
+        ],
+        [
+          "び",
+          null
+        ],
+        [
+          "覚",
+          "さ"
+        ],
+        [
+          "ます",
+          null
         ]
       ]
     },
     {
       "id": "edd2e8ec-b973-4417-8448-6c1af408d821",
-      "text": "その血行を悩みるも 音陽のみち",
+      "text": "その激昂を宥めるも 陰陽のみち",
       "start": 127.38000154320989,
       "end": 131.8600591563786,
       "translations": {
-        "en": "Even troubling that circulation is the path of Onyo."
+        "en": "To soothe that fury, too, is the way of yin and yang."
       },
       "furigana": [
         [
@@ -728,28 +814,24 @@
           null
         ],
         [
-          "血行",
-          "けっこう"
+          "激昂",
+          "げっこう"
         ],
         [
           "を",
           null
         ],
         [
-          "悩みる",
-          "なやみる"
+          "宥",
+          "なだ"
         ],
         [
-          "も",
+          "めるも ",
           null
         ],
         [
-          " ",
-          null
-        ],
-        [
-          "音陽",
-          "おんよう"
+          "陰陽",
+          "おんみょう"
         ],
         [
           "のみち",
@@ -759,35 +841,43 @@
     },
     {
       "id": "6c4698d1-0029-4b04-a2ba-48ebc79cc628",
-      "text": "愛しさの 息吐く果てに",
+      "text": "愛しさの 行き着く果てに",
       "start": 133.02000422158153,
       "end": 143.2800570428336,
       "translations": {
-        "en": "At the end of love's breathing,"
+        "en": "At the end of love's path,"
       },
       "furigana": [
         [
-          "愛しさ",
-          "いとしさ"
+          "愛",
+          "いと"
         ],
         [
-          "の",
+          "しさの ",
           null
         ],
         [
-          " ",
+          "行",
+          "い"
+        ],
+        [
+          "き",
           null
         ],
         [
-          "息吐く",
-          "いきづく"
+          "着",
+          "つ"
         ],
         [
-          "果て",
-          "はて"
+          "く",
+          null
         ],
         [
-          "に",
+          "果",
+          "は"
+        ],
+        [
+          "てに",
           null
         ]
       ]
@@ -864,60 +954,56 @@
     },
     {
       "id": "62a0fdb7-8dac-4a71-aa03-570a8ced8330",
-      "text": "同盟 正盟 同盟 正盟 鎮めてもらおう 音陽子",
+      "text": "ドーマン セーマン ドーマン セーマン 鎮めてもらおう 陰陽師",
       "start": 163.98000129310347,
       "end": 169.54006120689655,
       "translations": {
-        "en": "Alliance, true alliance, alliance, true alliance—let's have Onmyoji calm them!"
+        "en": "Dōman! Seiman! Dōman! Seiman! Let's have the onmyoji calm them!"
       },
       "furigana": [
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "鎮めて",
-          "しずめて"
+          "鎮",
+          "しず"
         ],
         [
-          "もらおう",
+          "めてもらおう ",
           null
         ],
         [
-          " ",
-          null
-        ],
-        [
-          "音陽子",
-          "おんようじ"
+          "陰陽師",
+          "おんみょうじ"
         ]
       ]
     },
@@ -968,16 +1054,20 @@
     },
     {
       "id": "4a13c2bd-dd52-49b5-8ca0-e488a95189bc",
-      "text": "悲しい時 悲しい時 人はそんな時 心の隙間に闇ができる",
+      "text": "辛い時 悲しい時 人はそんな時 心の隙間に闇ができる",
       "start": 200.32,
       "end": 205.5600617924528,
       "translations": {
-        "en": "In sad times, in sad times, at such times darkness forms in the gaps of people's hearts."
+        "en": "When times are hard, when you're sad, that's when darkness forms in the gaps in people's hearts."
       },
       "furigana": [
         [
-          "悲しい",
-          "かなしい"
+          "辛",
+          "つら"
+        ],
+        [
+          "い",
+          null
         ],
         [
           "時",
@@ -988,8 +1078,12 @@
           null
         ],
         [
-          "悲しい",
-          "かなしい"
+          "悲",
+          "かな"
+        ],
+        [
+          "しい",
+          null
         ],
         [
           "時",
@@ -1005,7 +1099,7 @@
         ],
         [
           "はそんな",
-          "はそんな"
+          null
         ],
         [
           "時",
@@ -1037,7 +1131,7 @@
         ],
         [
           "ができる",
-          "ができる"
+          null
         ]
       ]
     },
@@ -1106,62 +1200,50 @@
     },
     {
       "id": "2cfdcbe2-3874-4f18-94dc-abfc154f9c8c",
-      "text": "だから 苦しくても くじけるな! 落ち込むな! くいろくいろするな!",
+      "text": "だから 苦しくても くじけるな! 落ち込むな! くよくよするな!",
       "start": 211.8400011755486,
       "end": 217.8200597570533,
       "translations": {
-        "en": "So even if it hurts, don't lose heart! Don't get depressed! Don't fret!"
+        "en": "So even when it hurts, don't lose heart! Don't get down! Don't dwell on your worries!"
       },
       "furigana": [
         [
-          "だから",
+          "だから ",
           null
         ],
         [
-          " ",
+          "苦",
+          "くる"
+        ],
+        [
+          "しくても くじけるな! ",
           null
         ],
         [
-          "苦しくても",
-          "くるしくても"
+          "落",
+          "お"
         ],
         [
-          " ",
+          "ち",
           null
         ],
         [
-          "くじけるな",
-          null
+          "込",
+          "こ"
         ],
         [
-          "! ",
-          null
-        ],
-        [
-          "落ち込むな",
-          "おちこむな"
-        ],
-        [
-          "! ",
-          null
-        ],
-        [
-          "くいろくいろするな",
-          null
-        ],
-        [
-          "!",
+          "むな! くよくよするな!",
           null
         ]
       ]
     },
     {
       "id": "c517e945-097c-42c4-b179-e7c4cbb61a70",
-      "text": "何事にも懲りしない 強靭な心こそが 最強の武器なのだから!",
+      "text": "何事にも屈しない 強靭な心こそが 最強の武器なのだから!",
       "start": 219.40000164473685,
       "end": 224.16005756578946,
       "translations": {
-        "en": "For an unyielding, tough heart is the strongest weapon of all!"
+        "en": "For a strong heart that yields to nothing is the greatest weapon of all!"
       },
       "furigana": [
         [
@@ -1173,11 +1255,11 @@
           null
         ],
         [
-          "懲りしない",
-          "こりしない"
+          "屈",
+          "くっ"
         ],
         [
-          " ",
+          "しない ",
           null
         ],
         [
@@ -1193,11 +1275,7 @@
           "こころ"
         ],
         [
-          "こそが",
-          null
-        ],
-        [
-          " ",
+          "こそが ",
           null
         ],
         [
@@ -1213,11 +1291,7 @@
           "ぶき"
         ],
         [
-          "なのだから",
-          null
-        ],
-        [
-          "!",
+          "なのだから!",
           null
         ]
       ]
@@ -1290,11 +1364,11 @@
     },
     {
       "id": "5c4681ec-bee4-4cfc-ae6d-c4b7e2093d59",
-      "text": "悪霊退散 悪霊退散 表情現象困った時は",
+      "text": "悪霊退散 悪霊退散 超常現象困った時は",
       "start": 252.0000017578125,
       "end": 258.2000623046875,
       "translations": {
-        "en": "Begone, evil spirits! Begone, evil spirits! When facial-expression phenomena cause trouble,"
+        "en": "Begone, evil spirits! Begone, evil spirits! When supernatural phenomena cause trouble,"
       },
       "furigana": [
         [
@@ -1314,12 +1388,16 @@
           null
         ],
         [
-          "表情現象",
-          "ひょうじょうげんしょう"
+          "超常現象",
+          "ちょうじょうげんしょう"
         ],
         [
-          "困った",
-          "こまった"
+          "困",
+          "こま"
+        ],
+        [
+          "った",
+          null
         ],
         [
           "時",
@@ -1333,60 +1411,56 @@
     },
     {
       "id": "d76c480d-32cd-4030-bbd5-381b9f993c85",
-      "text": "同盟 正盟 同盟 正盟 払ってもらおう 音陽子",
+      "text": "ドーマン セーマン ドーマン セーマン 祓ってもらおう 陰陽師",
       "start": 258.38000129757785,
       "end": 264.020062283737,
       "translations": {
-        "en": "Alliance, true alliance, alliance, true alliance—let's have Onmyoji drive them away!"
+        "en": "Dōman! Seiman! Dōman! Seiman! Let's have the onmyoji drive them away!"
       },
       "furigana": [
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "払って",
-          "はらって"
+          "祓",
+          "はら"
         ],
         [
-          "もらおう",
+          "ってもらおう ",
           null
         ],
         [
-          " ",
-          null
-        ],
-        [
-          "音陽子",
-          "おんようじ"
+          "陰陽師",
+          "おんみょうじ"
         ]
       ]
     },
@@ -1454,40 +1528,40 @@
     },
     {
       "id": "d57b8a0a-4ed0-40d1-875b-f3dbda71c1e5",
-      "text": "同盟 正盟 同盟 正盟 相談しましょう 音陽子",
+      "text": "ドーマン セーマン ドーマン セーマン 相談しましょう 陰陽師",
       "start": 271.18000129757786,
       "end": 276.820062283737,
       "translations": {
-        "en": "Alliance, true alliance, alliance, true alliance—let's consult Onmyoji!"
+        "en": "Dōman! Seiman! Dōman! Seiman! Let's consult the onmyoji!"
       },
       "furigana": [
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
           null
         ],
         [
-          "同盟",
-          "どうめい"
+          "ドーマン",
+          "道満"
         ],
         [
           " ",
           null
         ],
         [
-          "正盟",
-          "せいめい"
+          "セーマン",
+          "晴明"
         ],
         [
           " ",
@@ -1498,16 +1572,12 @@
           "そうだん"
         ],
         [
-          "しましょう",
+          "しましょう ",
           null
         ],
         [
-          " ",
-          null
-        ],
-        [
-          "音陽子",
-          "おんようじ"
+          "陰陽師",
+          "おんみょうじ"
         ]
       ]
     },
@@ -1528,11 +1598,11 @@
     },
     {
       "id": "5c6fb839-2b6c-42d0-8af5-4bafa551b29f",
-      "text": "やっぱり頼れる 音陽子",
+      "text": "やっぱり頼れる 陰陽師",
       "start": 277.80000320512823,
       "end": 280.000061965812,
       "translations": {
-        "en": "As expected, Onmyoji is dependable."
+        "en": "The onmyoji is someone you can always count on!"
       },
       "furigana": [
         [
@@ -1540,16 +1610,16 @@
           null
         ],
         [
-          "頼れる",
-          "たよれる"
+          "頼",
+          "たよ"
         ],
         [
-          " ",
+          "れる ",
           null
         ],
         [
-          "音陽子",
-          "おんようじ"
+          "陰陽師",
+          "おんみょうじ"
         ]
       ]
     },
@@ -1570,11 +1640,11 @@
     },
     {
       "id": "8c28dd85-aab0-4252-9632-2c04cfdafd28",
-      "text": "みんなのヒーロー 音!陽!子!",
+      "text": "みんなのヒーロー 陰!陽!師!",
       "start": 281.00000157374103,
       "end": 285.62005350719426,
       "translations": {
-        "en": "Everyone's hero, On! Yo! Ji!"
+        "en": "Everyone's hero: On! Myo! Ji!"
       },
       "furigana": [
         [
@@ -1582,7 +1652,7 @@
           null
         ],
         [
-          "音",
+          "陰",
           "おん"
         ],
         [
@@ -1591,14 +1661,14 @@
         ],
         [
           "陽",
-          "よう"
+          "みょう"
         ],
         [
           "!",
           null
         ],
         [
-          "子",
+          "師",
           "じ"
         ],
         [
@@ -1654,16 +1724,16 @@
     },
     {
       "id": "fff10d66-809a-4a1f-951d-2ebcffc34472",
-      "text": "増物しろよ",
+      "text": "成仏しろよ",
       "start": 315.02000568181813,
       "end": 316.10005681818177,
       "translations": {
-        "en": "Increase it!"
+        "en": "Now rest in peace!"
       },
       "furigana": [
         [
-          "増物",
-          "ぞうぶつ"
+          "成仏",
+          "じょうぶつ"
         ],
         [
           "しろよ",

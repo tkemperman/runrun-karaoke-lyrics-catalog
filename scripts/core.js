@@ -109,10 +109,18 @@
     return JSON.parse(JSON.stringify(value));
   }
   function validateFurigana(text, parts) {
+    const kana = /^[\p{Script=Hiragana}\p{Script=Katakana}ー・\s]+$/u;
+    const validAnnotation = (base, annotation) => {
+      if (typeof annotation !== "string" || annotation.length > 1000) return false;
+      if (kana.test(annotation)) return true;
+      // Manual reverse ruby keeps the sung kana below its kanji spelling.
+      return kana.test(base) && /[\p{Script=Hiragana}\p{Script=Katakana}]/u.test(base) &&
+        /[\p{Script=Han}]/u.test(annotation) && /^[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}ー・\s]+$/u.test(annotation);
+    };
     if (!Array.isArray(parts) || parts.length > text.length || parts.some(part =>
       !Array.isArray(part) || part.length !== 2 || typeof part[0] !== "string" || !part[0] ||
-      (part[1] !== null && (typeof part[1] !== "string" || !/^[\p{Script=Hiragana}\p{Script=Katakana}ー・\s]+$/u.test(part[1]) || part[1].length > 1000))) ||
-      parts.map(part => part[0]).join("") !== text) throw new Error("Invalid furigana: segments must exactly match the original lyrics and readings must be kana.");
+      (part[1] !== null && !validAnnotation(part[0], part[1]))) ||
+      parts.map(part => part[0]).join("") !== text) throw new Error("Invalid furigana: segments must exactly match the original lyrics; annotations must be kana, or kanji above kana text.");
     return parts;
   }
   function replaceFuriganaTerm(text, parts, term, reading) {
