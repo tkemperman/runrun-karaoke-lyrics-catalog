@@ -5,10 +5,10 @@
   "videoTitle": "【LIVE】レッツゴー! 陰陽師／LET'S GO! ONMYOUJI (Cover)【FUWAMOCO】",
   "title": "レッツゴー！陰陽師",
   "artist": "矢部野彦麿 & 琴姫 With 坊主ダンサーズ",
-  "originalLanguage": "und",
+  "originalLanguage": "ja",
   "translationLanguage": "en",
   "offset": 0,
-  "furiganaEnabled": false,
+  "furiganaEnabled": true,
   "display": {
     "fontSize": 30,
     "position": 13,
@@ -29,8 +29,50 @@
       "start": 1.4000175,
       "end": 4.98006225,
       "translations": {
-        "en": ""
-      }
+        "en": "Or perhaps, in this Heisei era, when difficulties are solved by science,"
+      },
+      "furigana": [
+        [
+          "あるいは",
+          null
+        ],
+        [
+          "困難",
+          "こんなん"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "化学",
+          "かがく"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "解決",
+          "かいけつ"
+        ],
+        [
+          "するこの",
+          "するこの"
+        ],
+        [
+          "平成",
+          "へいせい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "時代",
+          "じだい"
+        ]
+      ]
     },
     {
       "id": "bd82bc04-7854-4f0e-b1ce-ca4904e4a1e9",
@@ -38,8 +80,58 @@
       "start": 5.620000484496124,
       "end": 10.720062257751938,
       "translations": {
-        "en": ""
-      }
+        "en": "There existed a lethal force spreading through the darkness of people's closed hearts."
+      },
+      "furigana": [
+        [
+          "人々",
+          "ひとびと"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "閉ざされた",
+          "とざされた"
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "闇",
+          "やみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "蔓延る",
+          "はびこる"
+        ],
+        [
+          "致命猛力",
+          "ちめいもうりょく"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "存在",
+          "そんざい"
+        ],
+        [
+          "していた",
+          "していた"
+        ]
+      ]
     },
     {
       "id": "371d3197-c593-4f8a-a066-3fab5117f32e",
@@ -47,8 +139,46 @@
       "start": 11.42000160944206,
       "end": 15.940062231759658,
       "translations": {
-        "en": ""
-      }
+        "en": "They confront that role of changing things which science's power can do nothing about."
+      },
+      "furigana": [
+        [
+          "化学",
+          "かがく"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "力",
+          "ちから"
+        ],
+        [
+          "ではどうしようもできないその",
+          "ではどうしようもできないその"
+        ],
+        [
+          "切っ替え",
+          "きっかえ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "役",
+          "やく"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "立ち向かう",
+          "たちむかう"
+        ]
+      ]
     },
     {
       "id": "05acf54a-602c-49b2-a037-911b49aabb31",
@@ -56,8 +186,46 @@
       "start": 16.240000343406592,
       "end": 19.840062156593405,
       "translations": {
-        "en": ""
-      }
+        "en": "By mysterious divine means, there is one suspicious-looking man."
+      },
+      "furigana": [
+        [
+          "神明",
+          "しんめい"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "不可思議",
+          "ふかしぎ"
+        ],
+        [
+          "にて",
+          "にて"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悪さんくさい",
+          "あくさんくさい"
+        ],
+        [
+          "男",
+          "おとこ"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "一人",
+          "ひとり"
+        ]
+      ]
     },
     {
       "id": "6659f446-0f3e-4956-86e4-e9447a18944d",
@@ -65,8 +233,42 @@
       "start": 30,
       "end": 35.800058467741934,
       "translations": {
-        "en": ""
-      }
+        "en": "Begone, evil spirits! Begone, evil spirits! When demons and monsters cause trouble,"
+      },
+      "furigana": [
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "鬼廟",
+          "きびょう"
+        ],
+        [
+          "もののけ",
+          null
+        ],
+        [
+          "困った",
+          "こまった"
+        ],
+        [
+          "ときは",
+          null
+        ]
+      ]
     },
     {
       "id": "84065f9a-46fd-4c3a-8f8a-9108cfc97483",
@@ -74,8 +276,58 @@
       "start": 36.28000043103449,
       "end": 41.920061206896555,
       "translations": {
-        "en": ""
-      }
+        "en": "Alliance, true alliance, alliance, true alliance—let's call Onmyoji right away!"
+      },
+      "furigana": [
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "すぐに",
+          null
+        ],
+        [
+          "呼びましょう",
+          "よびましょう"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽子",
+          "おんようじ"
+        ]
+      ]
     },
     {
       "id": "fa904321-7922-4b01-aad9-5a4bdaabae10",
@@ -84,7 +336,13 @@
       "end": 42.920041015624996,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Let's go!",
+          null
+        ]
+      ]
     },
     {
       "id": "4548894c-4be2-4194-9ffc-e5c585b2ef23",
@@ -92,8 +350,14 @@
       "start": 44.66000441576087,
       "end": 54.560060461956525,
       "translations": {
-        "en": ""
-      }
+        "en": "Yeah! Yeah! Yeah! Yeah!"
+      },
+      "furigana": [
+        [
+          "イェーイ! イェーイ! イェーイ! イェーイ!",
+          null
+        ]
+      ]
     },
     {
       "id": "87dc961f-d1c2-4606-be2f-c1f09e51fe1b",
@@ -101,8 +365,66 @@
       "start": 55.80000089541547,
       "end": 62.640062141833816,
       "translations": {
-        "en": ""
-      }
+        "en": "Yet death that leaves regrets in this world ends up being told to sink and remember."
+      },
+      "furigana": [
+        [
+          "てなお",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "この",
+          null
+        ],
+        [
+          "世",
+          "よ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "未練",
+          "みれん"
+        ],
+        [
+          "残す",
+          "のこす"
+        ],
+        [
+          "死",
+          "し"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "沈み",
+          "しずみ"
+        ],
+        [
+          "覚えよ",
+          "おぼえよ"
+        ],
+        [
+          "と",
+          null
+        ],
+        [
+          "なり果てる",
+          "なりはてる"
+        ]
+      ]
     },
     {
       "id": "1585d9d3-7dfc-4c77-bcbc-4f645ddb8bb6",
@@ -110,8 +432,46 @@
       "start": 63.36000164473685,
       "end": 67.78006222587719,
       "translations": {
-        "en": ""
-      }
+        "en": "The path of Onyo is to purify that wicked blood."
+      },
+      "furigana": [
+        [
+          "その",
+          null
+        ],
+        [
+          "悪しき",
+          "あしき"
+        ],
+        [
+          "血",
+          "ち"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "清める",
+          "きよめる"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽",
+          "おんよう"
+        ],
+        [
+          "のみち",
+          null
+        ]
+      ]
     },
     {
       "id": "f73e79b2-2ef0-4981-b134-fa48144f4671",
@@ -119,8 +479,38 @@
       "start": 67.9600006028939,
       "end": 79.02005616961415,
       "translations": {
-        "en": ""
-      }
+        "en": "The evil born into the human world,"
+      },
+      "furigana": [
+        [
+          "人",
+          "ひと"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "世",
+          "よ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "生まれし",
+          "うまれし"
+        ],
+        [
+          "悪",
+          "あく"
+        ],
+        [
+          "を",
+          null
+        ]
+      ]
     },
     {
       "id": "29f2d749-1c7d-43d0-a74b-dcc7e7d4ff9c",
@@ -128,8 +518,22 @@
       "start": 80.780000588697,
       "end": 92.34005729984301,
       "translations": {
-        "en": ""
-      }
+        "en": "Bury it away into darkness."
+      },
+      "furigana": [
+        [
+          "闇",
+          "やみ"
+        ],
+        [
+          "にへと",
+          null
+        ],
+        [
+          "葬れよ",
+          "ほうむれよ"
+        ]
+      ]
     },
     {
       "id": "362e48af-e84c-4e8b-89de-8fe1cf1c0eea",
@@ -137,8 +541,42 @@
       "start": 93.6000011829653,
       "end": 99.80006230283912,
       "translations": {
-        "en": ""
-      }
+        "en": "Begone, evil spirits! Begone, evil spirits! When yokai and spirits cause trouble,"
+      },
+      "furigana": [
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "妖怪",
+          "ようかい"
+        ],
+        [
+          "あやかし",
+          null
+        ],
+        [
+          "困った",
+          "こまった"
+        ],
+        [
+          "ときは",
+          null
+        ]
+      ]
     },
     {
       "id": "1808f5a3-7e04-4af2-bb1f-e2343e179746",
@@ -146,8 +584,58 @@
       "start": 100.00000131118881,
       "end": 105.58006228146853,
       "translations": {
-        "en": ""
-      }
+        "en": "Alliance, true alliance, alliance, true alliance—let's have Onmyoji help us!"
+      },
+      "furigana": [
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "助けて",
+          "たすけて"
+        ],
+        [
+          "もらおう",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽子",
+          "おんようじ"
+        ]
+      ]
     },
     {
       "id": "91f2c5d5-69fc-472c-aff5-c7126946c012",
@@ -156,7 +644,13 @@
       "end": 106.44004901960784,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Let's go!",
+          null
+        ]
+      ]
     },
     {
       "id": "67a720bb-30df-478e-b2f4-1b4dab444d98",
@@ -164,8 +658,14 @@
       "start": 110.76001914206641,
       "end": 118.18006192343174,
       "translations": {
-        "en": ""
-      }
+        "en": "Yeah! Yeah! Yeah! Yeah!"
+      },
+      "furigana": [
+        [
+          "イェーイ! イェーイ! イェーイ! イェーイ!",
+          null
+        ]
+      ]
     },
     {
       "id": "147841b3-0ac6-4303-987a-8972d89bc77a",
@@ -173,8 +673,46 @@
       "start": 119.44000121191135,
       "end": 126.50006232686981,
       "translations": {
-        "en": ""
-      }
+        "en": "Those whose resentment and hatred grow while they live are summoned by evil spirit and evil force."
+      },
+      "furigana": [
+        [
+          "生きながら",
+          "いきながら"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "恨み",
+          "うらみ"
+        ],
+        [
+          "憎しみ",
+          "にくしみ"
+        ],
+        [
+          "募りし",
+          "つのりし"
+        ],
+        [
+          "は",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悪気悪量",
+          "あくきあくりょう"
+        ],
+        [
+          "呼びさまれ",
+          "よびさまれ"
+        ]
+      ]
     },
     {
       "id": "edd2e8ec-b973-4417-8448-6c1af408d821",
@@ -182,8 +720,42 @@
       "start": 127.38000154320989,
       "end": 131.8600591563786,
       "translations": {
-        "en": ""
-      }
+        "en": "Even troubling that circulation is the path of Onyo."
+      },
+      "furigana": [
+        [
+          "その",
+          null
+        ],
+        [
+          "血行",
+          "けっこう"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "悩みる",
+          "なやみる"
+        ],
+        [
+          "も",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽",
+          "おんよう"
+        ],
+        [
+          "のみち",
+          null
+        ]
+      ]
     },
     {
       "id": "6c4698d1-0029-4b04-a2ba-48ebc79cc628",
@@ -191,8 +763,34 @@
       "start": 133.02000422158153,
       "end": 143.2800570428336,
       "translations": {
-        "en": ""
-      }
+        "en": "At the end of love's breathing,"
+      },
+      "furigana": [
+        [
+          "愛しさ",
+          "いとしさ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "息吐く",
+          "いきづく"
+        ],
+        [
+          "果て",
+          "はて"
+        ],
+        [
+          "に",
+          null
+        ]
+      ]
     },
     {
       "id": "e6958bd1-5314-47b2-bd91-e087c3967a5d",
@@ -200,8 +798,26 @@
       "start": 144.84000059429476,
       "end": 155.98005576465928,
       "translations": {
-        "en": ""
-      }
+        "en": "Comfort the ailing heart."
+      },
+      "furigana": [
+        [
+          "病む",
+          "やむ"
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "慰めよ",
+          "なぐさめよ"
+        ]
+      ]
     },
     {
       "id": "4c69f24c-eb7b-43fa-ab92-9e8983c65904",
@@ -209,8 +825,42 @@
       "start": 157.6800019778481,
       "end": 163.78006230221519,
       "translations": {
-        "en": ""
-      }
+        "en": "Begone, evil spirits! Begone, evil spirits! When grudges and resentment cause trouble,"
+      },
+      "furigana": [
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "怨念",
+          "おんねん"
+        ],
+        [
+          "怨恨",
+          "えんこん"
+        ],
+        [
+          "困った",
+          "こまった"
+        ],
+        [
+          "ときは",
+          null
+        ]
+      ]
     },
     {
       "id": "62a0fdb7-8dac-4a71-aa03-570a8ced8330",
@@ -218,8 +868,58 @@
       "start": 163.98000129310347,
       "end": 169.54006120689655,
       "translations": {
-        "en": ""
-      }
+        "en": "Alliance, true alliance, alliance, true alliance—let's have Onmyoji calm them!"
+      },
+      "furigana": [
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "鎮めて",
+          "しずめて"
+        ],
+        [
+          "もらおう",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽子",
+          "おんようじ"
+        ]
+      ]
     },
     {
       "id": "c1a7f1a6-6ec3-4c30-b908-c447a961a931",
@@ -228,7 +928,13 @@
       "end": 170.08004464285716,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Let's go!",
+          null
+        ]
+      ]
     },
     {
       "id": "00da203c-0f85-452b-86f1-2f9b9b0ea58d",
@@ -237,7 +943,13 @@
       "end": 188.0200589057508,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Uh, uh, uh, uh, uh, uh, uh",
+          null
+        ]
+      ]
     },
     {
       "id": "8eec6cfb-61fd-4cc6-9c81-a697c655a85a",
@@ -246,7 +958,13 @@
       "end": 192.86003134272997,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Uh, uh, uh, uh, uh, uh",
+          null
+        ]
+      ]
     },
     {
       "id": "4a13c2bd-dd52-49b5-8ca0-e488a95189bc",
@@ -254,8 +972,74 @@
       "start": 200.32,
       "end": 205.5600617924528,
       "translations": {
-        "en": ""
-      }
+        "en": "In sad times, in sad times, at such times darkness forms in the gaps of people's hearts."
+      },
+      "furigana": [
+        [
+          "悲しい",
+          "かなしい"
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悲しい",
+          "かなしい"
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "人",
+          "ひと"
+        ],
+        [
+          "はそんな",
+          "はそんな"
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "隙間",
+          "すきま"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "闇",
+          "やみ"
+        ],
+        [
+          "ができる",
+          "ができる"
+        ]
+      ]
     },
     {
       "id": "cf5c53bd-3dd7-4ed8-95bd-cf1ed2de879f",
@@ -263,8 +1047,62 @@
       "start": 206.2200015625,
       "end": 210.74006041666667,
       "translations": {
-        "en": ""
-      }
+        "en": "Into that darkness in the heart, monsters mercilessly make their way in."
+      },
+      "furigana": [
+        [
+          "その",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "闇",
+          "やみ"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "魔物",
+          "まもの"
+        ],
+        [
+          "たちは",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "容赦なく",
+          "ようしゃなく"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "入り込んで",
+          "はいりこんで"
+        ],
+        [
+          "くるのだ",
+          null
+        ]
+      ]
     },
     {
       "id": "2cfdcbe2-3874-4f18-94dc-abfc154f9c8c",
@@ -272,8 +1110,50 @@
       "start": 211.8400011755486,
       "end": 217.8200597570533,
       "translations": {
-        "en": ""
-      }
+        "en": "So even if it hurts, don't lose heart! Don't get depressed! Don't fret!"
+      },
+      "furigana": [
+        [
+          "だから",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "苦しくても",
+          "くるしくても"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "くじけるな",
+          null
+        ],
+        [
+          "! ",
+          null
+        ],
+        [
+          "落ち込むな",
+          "おちこむな"
+        ],
+        [
+          "! ",
+          null
+        ],
+        [
+          "くいろくいろするな",
+          null
+        ],
+        [
+          "!",
+          null
+        ]
+      ]
     },
     {
       "id": "c517e945-097c-42c4-b179-e7c4cbb61a70",
@@ -281,8 +1161,66 @@
       "start": 219.40000164473685,
       "end": 224.16005756578946,
       "translations": {
-        "en": ""
-      }
+        "en": "For an unyielding, tough heart is the strongest weapon of all!"
+      },
+      "furigana": [
+        [
+          "何事",
+          "なにごと"
+        ],
+        [
+          "にも",
+          null
+        ],
+        [
+          "懲りしない",
+          "こりしない"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "強靭",
+          "きょうじん"
+        ],
+        [
+          "な",
+          null
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "こそが",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "最強",
+          "さいきょう"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "武器",
+          "ぶき"
+        ],
+        [
+          "なのだから",
+          null
+        ],
+        [
+          "!",
+          null
+        ]
+      ]
     },
     {
       "id": "755815ec-f128-4c1a-84d0-c53190c27930",
@@ -290,8 +1228,34 @@
       "start": 224.7600007079288,
       "end": 235.76005633090614,
       "translations": {
-        "en": ""
-      }
+        "en": "That heart wavering with loneliness,"
+      },
+      "furigana": [
+        [
+          "寂しさ",
+          "さびしさ"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "揺らめく",
+          "ゆらめく"
+        ],
+        [
+          "心",
+          "こころ"
+        ],
+        [
+          "を",
+          null
+        ]
+      ]
     },
     {
       "id": "0ad4294c-437d-4c22-919a-a7103dae7599",
@@ -299,8 +1263,30 @@
       "start": 237.54000055886735,
       "end": 249.90005812220565,
       "translations": {
-        "en": ""
-      }
+        "en": "Smash whatever targets it!"
+      },
+      "furigana": [
+        [
+          "狙う",
+          "ねらう"
+        ],
+        [
+          "もの",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "打ち砕け",
+          "うちくだけ"
+        ],
+        [
+          "!",
+          null
+        ]
+      ]
     },
     {
       "id": "5c4681ec-bee4-4cfc-ae6d-c4b7e2093d59",
@@ -308,8 +1294,42 @@
       "start": 252.0000017578125,
       "end": 258.2000623046875,
       "translations": {
-        "en": ""
-      }
+        "en": "Begone, evil spirits! Begone, evil spirits! When facial-expression phenomena cause trouble,"
+      },
+      "furigana": [
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "表情現象",
+          "ひょうじょうげんしょう"
+        ],
+        [
+          "困った",
+          "こまった"
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
     },
     {
       "id": "d76c480d-32cd-4030-bbd5-381b9f993c85",
@@ -317,8 +1337,58 @@
       "start": 258.38000129757785,
       "end": 264.020062283737,
       "translations": {
-        "en": ""
-      }
+        "en": "Alliance, true alliance, alliance, true alliance—let's have Onmyoji drive them away!"
+      },
+      "furigana": [
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "払って",
+          "はらって"
+        ],
+        [
+          "もらおう",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽子",
+          "おんようじ"
+        ]
+      ]
     },
     {
       "id": "b5e5908c-17d3-4a80-8094-a14f1afdea42",
@@ -327,7 +1397,13 @@
       "end": 264.46004464285716,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Let's go!",
+          null
+        ]
+      ]
     },
     {
       "id": "07e6a10f-52e5-4f34-a090-85cdcdc4a76c",
@@ -335,8 +1411,46 @@
       "start": 264.84000138449363,
       "end": 270.9800621044304,
       "translations": {
-        "en": ""
-      }
+        "en": "Begone, evil spirits! Begone, evil spirits! When curses and being cursed cause trouble,"
+      },
+      "furigana": [
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "悪霊退散",
+          "あくりょうたいさん"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "呪い",
+          "のろい"
+        ],
+        [
+          "呪われ",
+          "のろわれ"
+        ],
+        [
+          "困った",
+          "こまった"
+        ],
+        [
+          "時",
+          "とき"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
     },
     {
       "id": "d57b8a0a-4ed0-40d1-875b-f3dbda71c1e5",
@@ -344,8 +1458,58 @@
       "start": 271.18000129757786,
       "end": 276.820062283737,
       "translations": {
-        "en": ""
-      }
+        "en": "Alliance, true alliance, alliance, true alliance—let's consult Onmyoji!"
+      },
+      "furigana": [
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "同盟",
+          "どうめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "正盟",
+          "せいめい"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "相談",
+          "そうだん"
+        ],
+        [
+          "しましょう",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽子",
+          "おんようじ"
+        ]
+      ]
     },
     {
       "id": "5fb210db-4bb7-45fc-90fe-adce0e49e384",
@@ -354,7 +1518,13 @@
       "end": 277.2400304054054,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Let's go!",
+          null
+        ]
+      ]
     },
     {
       "id": "5c6fb839-2b6c-42d0-8af5-4bafa551b29f",
@@ -362,8 +1532,26 @@
       "start": 277.80000320512823,
       "end": 280.000061965812,
       "translations": {
-        "en": ""
-      }
+        "en": "As expected, Onmyoji is dependable."
+      },
+      "furigana": [
+        [
+          "やっぱり",
+          null
+        ],
+        [
+          "頼れる",
+          "たよれる"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "音陽子",
+          "おんようじ"
+        ]
+      ]
     },
     {
       "id": "d247fdfb-83a9-4b43-a7e2-b217f56117ef",
@@ -372,7 +1560,13 @@
       "end": 280.46003289473686,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Let's go!",
+          null
+        ]
+      ]
     },
     {
       "id": "8c28dd85-aab0-4252-9632-2c04cfdafd28",
@@ -380,8 +1574,38 @@
       "start": 281.00000157374103,
       "end": 285.62005350719426,
       "translations": {
-        "en": ""
-      }
+        "en": "Everyone's hero, On! Yo! Ji!"
+      },
+      "furigana": [
+        [
+          "みんなのヒーロー ",
+          null
+        ],
+        [
+          "音",
+          "おん"
+        ],
+        [
+          "!",
+          null
+        ],
+        [
+          "陽",
+          "よう"
+        ],
+        [
+          "!",
+          null
+        ],
+        [
+          "子",
+          "じ"
+        ],
+        [
+          "!",
+          null
+        ]
+      ]
     },
     {
       "id": "63d1e278-3a9d-45fd-8f10-61f6f1fa1d2a",
@@ -390,7 +1614,13 @@
       "end": 293.10005354774535,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Yeah! Yeah! Yeah!",
+          null
+        ]
+      ]
     },
     {
       "id": "e7c30c8e-a44c-4552-8ba1-01159073cbd3",
@@ -399,7 +1629,13 @@
       "end": 302.8600553333334,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Yeah! Yeah! Yeah!",
+          null
+        ]
+      ]
     },
     {
       "id": "a4c81186-eac9-48d6-a36a-ba1a900ccb8e",
@@ -408,7 +1644,13 @@
       "end": 312.8800589906417,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": [
+        [
+          "Yeah! Yeah! Yeah! Yeah!",
+          null
+        ]
+      ]
     },
     {
       "id": "fff10d66-809a-4a1f-951d-2ebcffc34472",
@@ -416,8 +1658,18 @@
       "start": 315.02000568181813,
       "end": 316.10005681818177,
       "translations": {
-        "en": ""
-      }
+        "en": "Increase it!"
+      },
+      "furigana": [
+        [
+          "増物",
+          "ぞうぶつ"
+        ],
+        [
+          "しろよ",
+          null
+        ]
+      ]
     }
   ]
 }
