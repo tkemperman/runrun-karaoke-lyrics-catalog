@@ -1,0 +1,423 @@
+{
+  "schemaVersion": 4,
+  "videoId": "6GBJyMryLU0",
+  "videoUrl": "https://www.youtube.com/watch?v=6GBJyMryLU0",
+  "videoTitle": "【LIVE】レッツゴー! 陰陽師／LET'S GO! ONMYOUJI (Cover)【FUWAMOCO】",
+  "title": "レッツゴー！陰陽師",
+  "artist": "矢部野彦麿 & 琴姫 With 坊主ダンサーズ",
+  "originalLanguage": "und",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": false,
+  "display": {
+    "fontSize": 30,
+    "position": 13,
+    "translationFontSize": 23,
+    "translationPosition": 8,
+    "showOriginal": true,
+    "showTranslation": true,
+    "showNext": false
+  },
+  "source": {
+    "provider": "audioshake",
+    "url": "https://www.audioshake.ai/"
+  },
+  "blocks": [
+    {
+      "id": "5925efa0-2395-4b5b-90d4-6562dad6125f",
+      "text": "あるいは困難が化学で解決するこの平成の時代",
+      "start": 1.4000175,
+      "end": 4.98006225,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "bd82bc04-7854-4f0e-b1ce-ca4904e4a1e9",
+      "text": "人々の閉ざされた心の闇に蔓延る致命猛力が存在していた",
+      "start": 5.620000484496124,
+      "end": 10.720062257751938,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "371d3197-c593-4f8a-a066-3fab5117f32e",
+      "text": "化学の力ではどうしようもできないその切っ替えの役に立ち向かう",
+      "start": 11.42000160944206,
+      "end": 15.940062231759658,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "05acf54a-602c-49b2-a037-911b49aabb31",
+      "text": "神明を不可思議にて 悪さんくさい男が一人",
+      "start": 16.240000343406592,
+      "end": 19.840062156593405,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "6659f446-0f3e-4956-86e4-e9447a18944d",
+      "text": "悪霊退散 悪霊退散 鬼廟もののけ困ったときは",
+      "start": 30,
+      "end": 35.800058467741934,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "84065f9a-46fd-4c3a-8f8a-9108cfc97483",
+      "text": "同盟 正盟 同盟 正盟 すぐに呼びましょう 音陽子",
+      "start": 36.28000043103449,
+      "end": 41.920061206896555,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "fa904321-7922-4b01-aad9-5a4bdaabae10",
+      "text": "Let's go!",
+      "start": 42.08,
+      "end": 42.920041015624996,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "4548894c-4be2-4194-9ffc-e5c585b2ef23",
+      "text": "イェーイ! イェーイ! イェーイ! イェーイ!",
+      "start": 44.66000441576087,
+      "end": 54.560060461956525,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "87dc961f-d1c2-4606-be2f-c1f09e51fe1b",
+      "text": "てなお この世に未練残す死は 沈み覚えよとなり果てる",
+      "start": 55.80000089541547,
+      "end": 62.640062141833816,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "1585d9d3-7dfc-4c77-bcbc-4f645ddb8bb6",
+      "text": "その悪しき血を清めるが 音陽のみち",
+      "start": 63.36000164473685,
+      "end": 67.78006222587719,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "f73e79b2-2ef0-4981-b134-fa48144f4671",
+      "text": "人の世に生まれし悪を",
+      "start": 67.9600006028939,
+      "end": 79.02005616961415,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "29f2d749-1c7d-43d0-a74b-dcc7e7d4ff9c",
+      "text": "闇にへと葬れよ",
+      "start": 80.780000588697,
+      "end": 92.34005729984301,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "362e48af-e84c-4e8b-89de-8fe1cf1c0eea",
+      "text": "悪霊退散 悪霊退散 妖怪あやかし困ったときは",
+      "start": 93.6000011829653,
+      "end": 99.80006230283912,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "1808f5a3-7e04-4af2-bb1f-e2343e179746",
+      "text": "同盟 正盟 同盟 正盟 助けてもらおう 音陽子",
+      "start": 100.00000131118881,
+      "end": 105.58006228146853,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "91f2c5d5-69fc-472c-aff5-c7126946c012",
+      "text": "Let's go!",
+      "start": 105.76000735294117,
+      "end": 106.44004901960784,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "67a720bb-30df-478e-b2f4-1b4dab444d98",
+      "text": "イェーイ! イェーイ! イェーイ! イェーイ!",
+      "start": 110.76001914206641,
+      "end": 118.18006192343174,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "147841b3-0ac6-4303-987a-8972d89bc77a",
+      "text": "生きながら 恨み憎しみ募りしは 悪気悪量呼びさまれ",
+      "start": 119.44000121191135,
+      "end": 126.50006232686981,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "edd2e8ec-b973-4417-8448-6c1af408d821",
+      "text": "その血行を悩みるも 音陽のみち",
+      "start": 127.38000154320989,
+      "end": 131.8600591563786,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "6c4698d1-0029-4b04-a2ba-48ebc79cc628",
+      "text": "愛しさの 息吐く果てに",
+      "start": 133.02000422158153,
+      "end": 143.2800570428336,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "e6958bd1-5314-47b2-bd91-e087c3967a5d",
+      "text": "病む心 慰めよ",
+      "start": 144.84000059429476,
+      "end": 155.98005576465928,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "4c69f24c-eb7b-43fa-ab92-9e8983c65904",
+      "text": "悪霊退散 悪霊退散 怨念怨恨困ったときは",
+      "start": 157.6800019778481,
+      "end": 163.78006230221519,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "62a0fdb7-8dac-4a71-aa03-570a8ced8330",
+      "text": "同盟 正盟 同盟 正盟 鎮めてもらおう 音陽子",
+      "start": 163.98000129310347,
+      "end": 169.54006120689655,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "c1a7f1a6-6ec3-4c30-b908-c447a961a931",
+      "text": "Let's go!",
+      "start": 169.80001339285715,
+      "end": 170.08004464285716,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "00da203c-0f85-452b-86f1-2f9b9b0ea58d",
+      "text": "Uh, uh, uh, uh, uh, uh, uh",
+      "start": 170.34000006656015,
+      "end": 188.0200589057508,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "8eec6cfb-61fd-4cc6-9c81-a697c655a85a",
+      "text": "Uh, uh, uh, uh, uh, uh",
+      "start": 189.62000129821956,
+      "end": 192.86003134272997,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "4a13c2bd-dd52-49b5-8ca0-e488a95189bc",
+      "text": "悲しい時 悲しい時 人はそんな時 心の隙間に闇ができる",
+      "start": 200.32,
+      "end": 205.5600617924528,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "cf5c53bd-3dd7-4ed8-95bd-cf1ed2de879f",
+      "text": "その心の闇に 魔物たちは 容赦なく 入り込んでくるのだ",
+      "start": 206.2200015625,
+      "end": 210.74006041666667,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "2cfdcbe2-3874-4f18-94dc-abfc154f9c8c",
+      "text": "だから 苦しくても くじけるな! 落ち込むな! くいろくいろするな!",
+      "start": 211.8400011755486,
+      "end": 217.8200597570533,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "c517e945-097c-42c4-b179-e7c4cbb61a70",
+      "text": "何事にも懲りしない 強靭な心こそが 最強の武器なのだから!",
+      "start": 219.40000164473685,
+      "end": 224.16005756578946,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "755815ec-f128-4c1a-84d0-c53190c27930",
+      "text": "寂しさで 揺らめく心を",
+      "start": 224.7600007079288,
+      "end": 235.76005633090614,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "0ad4294c-437d-4c22-919a-a7103dae7599",
+      "text": "狙うもの 打ち砕け!",
+      "start": 237.54000055886735,
+      "end": 249.90005812220565,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "5c4681ec-bee4-4cfc-ae6d-c4b7e2093d59",
+      "text": "悪霊退散 悪霊退散 表情現象困った時は",
+      "start": 252.0000017578125,
+      "end": 258.2000623046875,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "d76c480d-32cd-4030-bbd5-381b9f993c85",
+      "text": "同盟 正盟 同盟 正盟 払ってもらおう 音陽子",
+      "start": 258.38000129757785,
+      "end": 264.020062283737,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "b5e5908c-17d3-4a80-8094-a14f1afdea42",
+      "text": "Let's go!",
+      "start": 264.200015625,
+      "end": 264.46004464285716,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "07e6a10f-52e5-4f34-a090-85cdcdc4a76c",
+      "text": "悪霊退散 悪霊退散 呪い呪われ困った時は",
+      "start": 264.84000138449363,
+      "end": 270.9800621044304,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "d57b8a0a-4ed0-40d1-875b-f3dbda71c1e5",
+      "text": "同盟 正盟 同盟 正盟 相談しましょう 音陽子",
+      "start": 271.18000129757786,
+      "end": 276.820062283737,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "5fb210db-4bb7-45fc-90fe-adce0e49e384",
+      "text": "Let's go!",
+      "start": 277.00001013513514,
+      "end": 277.2400304054054,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "5c6fb839-2b6c-42d0-8af5-4bafa551b29f",
+      "text": "やっぱり頼れる 音陽子",
+      "start": 277.80000320512823,
+      "end": 280.000061965812,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "d247fdfb-83a9-4b43-a7e2-b217f56117ef",
+      "text": "Let's go!",
+      "start": 280.18000986842105,
+      "end": 280.46003289473686,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "8c28dd85-aab0-4252-9632-2c04cfdafd28",
+      "text": "みんなのヒーロー 音!陽!子!",
+      "start": 281.00000157374103,
+      "end": 285.62005350719426,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "63d1e278-3a9d-45fd-8f10-61f6f1fa1d2a",
+      "text": "Yeah! Yeah! Yeah!",
+      "start": 286.76000099469496,
+      "end": 293.10005354774535,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "e7c30c8e-a44c-4552-8ba1-01159073cbd3",
+      "text": "Yeah! Yeah! Yeah!",
+      "start": 296.3600011666667,
+      "end": 302.8600553333334,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "a4c81186-eac9-48d6-a36a-ba1a900ccb8e",
+      "text": "Yeah! Yeah! Yeah! Yeah!",
+      "start": 305.9400010026738,
+      "end": 312.8800589906417,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "fff10d66-809a-4a1f-951d-2ebcffc34472",
+      "text": "増物しろよ",
+      "start": 315.02000568181813,
+      "end": 316.10005681818177,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
