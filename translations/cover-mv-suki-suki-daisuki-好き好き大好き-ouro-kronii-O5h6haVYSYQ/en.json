@@ -10,17 +10,7 @@
   "offset": 0,
   "furiganaEnabled": true,
   "display": {
-    "captionGap": 0,
-    "lyricsColor": "#ffffff",
-    "translationColor": "#a5f3fc",
-    "sweepColor": "#f472b6",
-    "fontSize": 30,
-    "position": 8,
-    "translationFontSize": 30,
-    "translationPosition": 4,
-    "showOriginal": true,
-    "showTranslation": true,
-    "showNext": false
+    "sweepColor": "#f472b6"
   },
   "source": {
     "provider": "lrclib",
