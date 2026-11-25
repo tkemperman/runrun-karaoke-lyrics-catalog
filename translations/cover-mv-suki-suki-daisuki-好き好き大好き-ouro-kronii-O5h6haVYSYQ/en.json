@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 4,
+  "videoId": "O5h6haVYSYQ",
+  "videoUrl": "https://www.youtube.com/watch?v=O5h6haVYSYQ",
+  "videoTitle": "【Cover MV】Suki Suki Daisuki / 好き好き大好き - Ouro Kronii",
+  "title": "好き好き大好き",
+  "artist": "Jun Togawa",
+  "originalLanguage": "und",
+  "translationLanguage": "en",
+  "offset": 0,
+  "furiganaEnabled": false,
+  "display": {
+    "fontSize": 30,
+    "position": 13,
+    "translationFontSize": 23,
+    "translationPosition": 8,
+    "showOriginal": true,
+    "showTranslation": true,
+    "showNext": false
+  },
+  "source": {
+    "provider": "lrclib",
+    "url": "https://lrclib.net/api/get/7728679"
+  },
+  "blocks": [
+    {
+      "id": "2abd5c80-11de-4cb4-af80-6fb5353b0bea",
+      "text": "常識をはるかに超えてつのる想い",
+      "start": 23.07,
+      "end": 29.79,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "14304ca8-cd27-4588-a43f-959261bbf233",
+      "text": "突然変異的に勃発したバラ色の恋",
+      "start": 29.79,
+      "end": 36.81,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "7b1d1355-e88f-44f0-badd-f00e0f91ed6e",
+      "text": "もはや暴力的とも言える程の純愛",
+      "start": 36.81,
+      "end": 43.3,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "c24bd2a1-591d-4787-a462-1a8eaf59ba73",
+      "text": "既に昭和史に刻む勢いのジュ・テーム",
+      "start": 43.3,
+      "end": 51.42,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "8ecf6d21-398b-4bf2-b9d8-4fceb94f8ca5",
+      "text": "Kiss me 殴るように唇に血が滲む程",
+      "start": 51.42,
+      "end": 58.29,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "2e3070e3-45fd-488d-9c7f-4a89d2a8c29c",
+      "text": "Hold me あばらが音を立てて折れる程",
+      "start": 58.29,
+      "end": 65.66,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "8f7f25d2-29bd-4df3-8f43-d0041a9134d8",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 65.66,
+      "end": 72.42,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "92de2506-c786-4d8e-9480-6ca0401488a0",
+      "text": "好き好き大好き",
+      "start": 72.42,
+      "end": 75.93,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "be6fb02e-0d63-46b1-a8af-ed44ce074467",
+      "text": "愛してるって言わなきゃ殺す",
+      "start": 75.93,
+      "end": 79.6,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "7d5b5ef2-36c5-4805-b005-79ceba03876b",
+      "text": "",
+      "start": 79.6,
+      "end": 94.85,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "3491ca35-d7e9-44f4-9099-8d542cb65874",
+      "text": "日常を打破して具体化するエロス",
+      "start": 94.85,
+      "end": 101.5,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "2d885d7b-33d0-4f89-ab21-fb38e7b753b3",
+      "text": "本能で重ねる情事 無限地獄",
+      "start": 101.5,
+      "end": 108.31,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "dd17d12c-269c-4279-b218-f3425c95ce63",
+      "text": "アンチニヒリズムの直感認識は",
+      "start": 108.31,
+      "end": 115.04,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "eda60efe-6456-42c7-9bea-09ecd4612854",
+      "text": "潜在的幼児性暴力癖を誘発",
+      "start": 115.04,
+      "end": 123.2,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "a48d664f-6262-47a0-9479-f417b93ee54e",
+      "text": "Kiss me 殴るように唇に血が滲む程",
+      "start": 123.2,
+      "end": 129.94,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "a17f5c0c-1865-4982-b969-e6ccde7be76c",
+      "text": "Hold me あばらが音を立てて折れる程",
+      "start": 129.94,
+      "end": 137.43,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "c78ae365-6fee-448a-82f4-fa64a042e6f4",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 137.43,
+      "end": 144.27,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "a5acab12-564a-44e3-a41a-75dad789b65c",
+      "text": "好き好き大好き",
+      "start": 144.27,
+      "end": 147.62,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "d1d8022f-296e-4bbf-84ba-0a786948baad",
+      "text": "愛してるって言わなきゃ殺す",
+      "start": 147.62,
+      "end": 152.44,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "c68e67a0-6174-46af-b247-4bc11a3961aa",
+      "text": "Kiss me 殴るように唇に血が滲む程",
+      "start": 152.44,
+      "end": 159.12,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "6f279674-e7d4-48c7-abd3-47c8af247156",
+      "text": "Hold me あばらが音を立てて折れる程",
+      "start": 159.12,
+      "end": 166.53,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "b86e69ae-b3f6-4b8e-8251-caa4258b656f",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 166.53,
+      "end": 173.31,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "03e5b1ef-0c64-4bb0-97d4-844d8ff9a8fa",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 173.31,
+      "end": 180.04,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "c5796b4c-5fdd-4e0f-83fd-a448f6b235de",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 180.04,
+      "end": 186.98,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "d3b0ac4e-b729-4fea-88cc-c376133ffd5a",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 186.98,
+      "end": 193.7,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "0becc44a-8e2b-4a08-b39e-6dfcf1752492",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 193.7,
+      "end": 200.58,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "3ef28a78-70d7-4721-bd94-5f55214c3f4d",
+      "text": "好き好き大好き 好き好き大好き",
+      "start": 200.58,
+      "end": 205.13,
+      "translations": {
+        "en": ""
+      }
+    },
+    {
+      "id": "cd1c2fc7-6286-46ab-8fde-e28cc2ab2ba8",
+      "text": "",
+      "start": 205.13,
+      "end": null,
+      "translations": {
+        "en": ""
+      }
+    }
+  ]
+}
