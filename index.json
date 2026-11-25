@@ -24,6 +24,17 @@
       ]
     },
     {
+      "file": "translations/cover-mv-suki-suki-daisuki-好き好き大好き-ouro-kronii-O5h6haVYSYQ/en.json",
+      "videoId": "O5h6haVYSYQ",
+      "title": "好き好き大好き",
+      "artist": "Jun Togawa",
+      "originalLanguage": "und",
+      "translationLanguage": "en",
+      "translationLanguages": [
+        "en"
+      ]
+    },
+    {
       "file": "translations/fuwamoco-x-senchou-sing-ahoy-h3chCOV_phw/en.json",
       "videoId": "h3chCOV_phw",
       "title": "Ahoy!! 我ら宝鐘海賊団☆",
