@@ -5,10 +5,10 @@
   "videoTitle": "【Cover MV】Suki Suki Daisuki / 好き好き大好き - Ouro Kronii",
   "title": "好き好き大好き",
   "artist": "Jun Togawa",
-  "originalLanguage": "und",
+  "originalLanguage": "ja",
   "translationLanguage": "en",
   "offset": 0,
-  "furiganaEnabled": false,
+  "furiganaEnabled": true,
   "display": {
     "fontSize": 30,
     "position": 13,
@@ -29,8 +29,30 @@
       "start": 23.07,
       "end": 29.79,
       "translations": {
-        "en": ""
-      }
+        "en": "Feelings swelling far beyond common sense"
+      },
+      "furigana": [
+        [
+          "常識",
+          "じょうしき"
+        ],
+        [
+          "をはるかに",
+          null
+        ],
+        [
+          "超えて",
+          "こえて"
+        ],
+        [
+          "つのる",
+          null
+        ],
+        [
+          "想い",
+          "おもい"
+        ]
+      ]
     },
     {
       "id": "14304ca8-cd27-4588-a43f-959261bbf233",
@@ -38,8 +60,38 @@
       "start": 29.79,
       "end": 36.81,
       "translations": {
-        "en": ""
-      }
+        "en": "A rose-colored love that erupted like a sudden mutation"
+      },
+      "furigana": [
+        [
+          "突然変異的",
+          "とつぜんへんいてき"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "勃発",
+          "ぼっぱつ"
+        ],
+        [
+          "した",
+          null
+        ],
+        [
+          "バラ色",
+          "ばらいろ"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "恋",
+          "こい"
+        ]
+      ]
     },
     {
       "id": "7b1d1355-e88f-44f0-badd-f00e0f91ed6e",
@@ -47,8 +99,38 @@
       "start": 36.81,
       "end": 43.3,
       "translations": {
-        "en": ""
-      }
+        "en": "A pure love so intense it could already be called violent"
+      },
+      "furigana": [
+        [
+          "もはや",
+          null
+        ],
+        [
+          "暴力的",
+          "ぼうりょくてき"
+        ],
+        [
+          "とも",
+          null
+        ],
+        [
+          "言える",
+          "いえる"
+        ],
+        [
+          "程",
+          "ほど"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "純愛",
+          "じゅんあい"
+        ]
+      ]
     },
     {
       "id": "c24bd2a1-591d-4787-a462-1a8eaf59ba73",
@@ -56,8 +138,38 @@
       "start": 43.3,
       "end": 51.42,
       "translations": {
-        "en": ""
-      }
+        "en": "A je t'aime with enough force to be etched into Showa history"
+      },
+      "furigana": [
+        [
+          "既に",
+          "すでに"
+        ],
+        [
+          "昭和史",
+          "しょうわし"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "刻む",
+          "きざむ"
+        ],
+        [
+          "勢い",
+          "いきおい"
+        ],
+        [
+          "の",
+          null
+        ],
+        [
+          "ジュ・テーム",
+          null
+        ]
+      ]
     },
     {
       "id": "8ecf6d21-398b-4bf2-b9d8-4fceb94f8ca5",
@@ -65,8 +177,58 @@
       "start": 51.42,
       "end": 58.29,
       "translations": {
-        "en": ""
-      }
+        "en": "Kiss me, until my lips bleed as though you were punching me"
+      },
+      "furigana": [
+        [
+          "Kiss",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "me",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "殴る",
+          "なぐる"
+        ],
+        [
+          "ように",
+          null
+        ],
+        [
+          "唇",
+          "くちびる"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "血",
+          "ち"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "滲む",
+          "にじむ"
+        ],
+        [
+          "程",
+          "ほど"
+        ]
+      ]
     },
     {
       "id": "2e3070e3-45fd-488d-9c7f-4a89d2a8c29c",
@@ -74,8 +236,50 @@
       "start": 58.29,
       "end": 65.66,
       "translations": {
-        "en": ""
-      }
+        "en": "Hold me, until my ribs snap with a sound"
+      },
+      "furigana": [
+        [
+          "Hold",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "me",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "あばらが",
+          null
+        ],
+        [
+          "音",
+          "おと"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "立てて",
+          "たてて"
+        ],
+        [
+          "折れる",
+          "おれる"
+        ],
+        [
+          "程",
+          "ほど"
+        ]
+      ]
     },
     {
       "id": "8f7f25d2-29bd-4df3-8f43-d0041a9134d8",
@@ -83,8 +287,22 @@
       "start": 65.66,
       "end": 72.42,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "92de2506-c786-4d8e-9480-6ca0401488a0",
@@ -92,8 +310,14 @@
       "start": 72.42,
       "end": 75.93,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "be6fb02e-0d63-46b1-a8af-ed44ce074467",
@@ -101,8 +325,26 @@
       "start": 75.93,
       "end": 79.6,
       "translations": {
-        "en": ""
-      }
+        "en": "If you don't say you love me, I'll kill you"
+      },
+      "furigana": [
+        [
+          "愛してる",
+          "あいしてる"
+        ],
+        [
+          "って",
+          null
+        ],
+        [
+          "言わなきゃ",
+          "いわなきゃ"
+        ],
+        [
+          "殺す",
+          "ころす"
+        ]
+      ]
     },
     {
       "id": "7d5b5ef2-36c5-4805-b005-79ceba03876b",
@@ -111,7 +353,8 @@
       "end": 94.85,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": []
     },
     {
       "id": "3491ca35-d7e9-44f4-9099-8d542cb65874",
@@ -119,8 +362,38 @@
       "start": 94.85,
       "end": 101.5,
       "translations": {
-        "en": ""
-      }
+        "en": "Eros that shatters everyday life and takes concrete form"
+      },
+      "furigana": [
+        [
+          "日常",
+          "にちじょう"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "打破",
+          "だは"
+        ],
+        [
+          "して",
+          null
+        ],
+        [
+          "具体化",
+          "ぐたいか"
+        ],
+        [
+          "する",
+          null
+        ],
+        [
+          "エロス",
+          null
+        ]
+      ]
     },
     {
       "id": "2d885d7b-33d0-4f89-ab21-fb38e7b753b3",
@@ -128,8 +401,34 @@
       "start": 101.5,
       "end": 108.31,
       "translations": {
-        "en": ""
-      }
+        "en": "Lovemaking layered by instinct—an endless hell"
+      },
+      "furigana": [
+        [
+          "本能",
+          "ほんのう"
+        ],
+        [
+          "で",
+          null
+        ],
+        [
+          "重ねる",
+          "かさねる"
+        ],
+        [
+          "情事",
+          "じょうじ"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "無限地獄",
+          "むげんじごく"
+        ]
+      ]
     },
     {
       "id": "dd17d12c-269c-4279-b218-f3425c95ce63",
@@ -137,8 +436,22 @@
       "start": 108.31,
       "end": 115.04,
       "translations": {
-        "en": ""
-      }
+        "en": "The intuitive recognition of anti-nihilism"
+      },
+      "furigana": [
+        [
+          "アンチニヒリズムの",
+          null
+        ],
+        [
+          "直感認識",
+          "ちょっかんにんしき"
+        ],
+        [
+          "は",
+          null
+        ]
+      ]
     },
     {
       "id": "eda60efe-6456-42c7-9bea-09ecd4612854",
@@ -146,8 +459,30 @@
       "start": 115.04,
       "end": 123.2,
       "translations": {
-        "en": ""
-      }
+        "en": "Triggers latent infantile violent tendencies"
+      },
+      "furigana": [
+        [
+          "潜在的",
+          "せんざいてき"
+        ],
+        [
+          "幼児性",
+          "ようじせい"
+        ],
+        [
+          "暴力癖",
+          "ぼうりょくへき"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "誘発",
+          "ゆうはつ"
+        ]
+      ]
     },
     {
       "id": "a48d664f-6262-47a0-9479-f417b93ee54e",
@@ -155,8 +490,58 @@
       "start": 123.2,
       "end": 129.94,
       "translations": {
-        "en": ""
-      }
+        "en": "Kiss me, until my lips bleed as though you were punching me"
+      },
+      "furigana": [
+        [
+          "Kiss",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "me",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "殴る",
+          "なぐる"
+        ],
+        [
+          "ように",
+          null
+        ],
+        [
+          "唇",
+          "くちびる"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "血",
+          "ち"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "滲む",
+          "にじむ"
+        ],
+        [
+          "程",
+          "ほど"
+        ]
+      ]
     },
     {
       "id": "a17f5c0c-1865-4982-b969-e6ccde7be76c",
@@ -164,8 +549,50 @@
       "start": 129.94,
       "end": 137.43,
       "translations": {
-        "en": ""
-      }
+        "en": "Hold me, until my ribs snap with a sound"
+      },
+      "furigana": [
+        [
+          "Hold",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "me",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "あばらが",
+          null
+        ],
+        [
+          "音",
+          "おと"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "立てて",
+          "たてて"
+        ],
+        [
+          "折れる",
+          "おれる"
+        ],
+        [
+          "程",
+          "ほど"
+        ]
+      ]
     },
     {
       "id": "c78ae365-6fee-448a-82f4-fa64a042e6f4",
@@ -173,8 +600,22 @@
       "start": 137.43,
       "end": 144.27,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "a5acab12-564a-44e3-a41a-75dad789b65c",
@@ -182,8 +623,14 @@
       "start": 144.27,
       "end": 147.62,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "d1d8022f-296e-4bbf-84ba-0a786948baad",
@@ -191,8 +638,26 @@
       "start": 147.62,
       "end": 152.44,
       "translations": {
-        "en": ""
-      }
+        "en": "If you don't say you love me, I'll kill you"
+      },
+      "furigana": [
+        [
+          "愛してる",
+          "あいしてる"
+        ],
+        [
+          "って",
+          null
+        ],
+        [
+          "言わなきゃ",
+          "いわなきゃ"
+        ],
+        [
+          "殺す",
+          "ころす"
+        ]
+      ]
     },
     {
       "id": "c68e67a0-6174-46af-b247-4bc11a3961aa",
@@ -200,8 +665,58 @@
       "start": 152.44,
       "end": 159.12,
       "translations": {
-        "en": ""
-      }
+        "en": "Kiss me, until my lips bleed as though you were punching me"
+      },
+      "furigana": [
+        [
+          "Kiss",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "me",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "殴る",
+          "なぐる"
+        ],
+        [
+          "ように",
+          null
+        ],
+        [
+          "唇",
+          "くちびる"
+        ],
+        [
+          "に",
+          null
+        ],
+        [
+          "血",
+          "ち"
+        ],
+        [
+          "が",
+          null
+        ],
+        [
+          "滲む",
+          "にじむ"
+        ],
+        [
+          "程",
+          "ほど"
+        ]
+      ]
     },
     {
       "id": "6f279674-e7d4-48c7-abd3-47c8af247156",
@@ -209,8 +724,50 @@
       "start": 159.12,
       "end": 166.53,
       "translations": {
-        "en": ""
-      }
+        "en": "Hold me, until my ribs snap with a sound"
+      },
+      "furigana": [
+        [
+          "Hold",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "me",
+          null
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "あばらが",
+          null
+        ],
+        [
+          "音",
+          "おと"
+        ],
+        [
+          "を",
+          null
+        ],
+        [
+          "立てて",
+          "たてて"
+        ],
+        [
+          "折れる",
+          "おれる"
+        ],
+        [
+          "程",
+          "ほど"
+        ]
+      ]
     },
     {
       "id": "b86e69ae-b3f6-4b8e-8251-caa4258b656f",
@@ -218,8 +775,22 @@
       "start": 166.53,
       "end": 173.31,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "03e5b1ef-0c64-4bb0-97d4-844d8ff9a8fa",
@@ -227,8 +798,22 @@
       "start": 173.31,
       "end": 180.04,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "c5796b4c-5fdd-4e0f-83fd-a448f6b235de",
@@ -236,8 +821,22 @@
       "start": 180.04,
       "end": 186.98,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "d3b0ac4e-b729-4fea-88cc-c376133ffd5a",
@@ -245,8 +844,22 @@
       "start": 186.98,
       "end": 193.7,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "0becc44a-8e2b-4a08-b39e-6dfcf1752492",
@@ -254,8 +867,22 @@
       "start": 193.7,
       "end": 200.58,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "3ef28a78-70d7-4721-bd94-5f55214c3f4d",
@@ -263,8 +890,22 @@
       "start": 200.58,
       "end": 205.13,
       "translations": {
-        "en": ""
-      }
+        "en": "Love, love, I love you; love, love, I love you"
+      },
+      "furigana": [
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ],
+        [
+          " ",
+          null
+        ],
+        [
+          "好き好き大好き",
+          "すきすきだいすき"
+        ]
+      ]
     },
     {
       "id": "cd1c2fc7-6286-46ab-8fde-e28cc2ab2ba8",
@@ -273,7 +914,8 @@
       "end": null,
       "translations": {
         "en": ""
-      }
+      },
+      "furigana": []
     }
   ]
 }
