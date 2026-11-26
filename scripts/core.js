@@ -7,29 +7,73 @@
   }
   function project(videoId, title = "") {
     title = title.trim();
-    return { schemaVersion: 4, display: displayDefaults(), furiganaEnabled: false, videoId, videoUrl: `https://www.youtube.com/watch?v=${videoId}`, videoTitle: title, title, artist: "", originalLanguage: "und", translationLanguage: "en", offset: 0, source: null, blocks: [] };
+    return { schemaVersion: 5, display: displayDefaults(), furiganaEnabled: false, videoId, videoUrl: `https://www.youtube.com/watch?v=${videoId}`, videoTitle: title, title, artist: "", originalLanguage: "und", translationLanguage: "en", offset: 0, source: null, blocks: [] };
   }
   function displayDefaults() {
-    return { fontSize: 30, position: 13, translationFontSize: 23, translationPosition: 8, showOriginal: true, showTranslation: true, showNext: false };
+    return { captionGap: 0, lyricsColor: "#ffffff", translationColor: "#a5f3fc", sweepColor: "#f472b6", fontSize: 30, position: 13, translationFontSize: 23, translationPosition: 8, showOriginal: true, showTranslation: true, showNext: false };
   }
   function languages(value) {
     return [...new Set([value.translationLanguage, ...value.blocks.flatMap(row => Object.keys(row.translations))])].sort();
   }
+  function singleTranslation(value) {
+    const p = validate(value);
+    for (const row of p.blocks) {
+      row.translations = Object.hasOwn(row.translations, p.translationLanguage)
+        ? { [p.translationLanguage]: row.translations[p.translationLanguage] } : {};
+    }
+    return p;
+  }
+  function renameTranslationLanguage(value, language) {
+    if (typeof language !== 'string' || !/^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$/.test(language.trim())) throw new Error('Enter a language code such as en, nl or pt-BR.');
+    language = language.trim();
+    const p = singleTranslation(value), previous = p.translationLanguage;
+    if (language === previous) return p;
+    for (const row of p.blocks) {
+      if (Object.hasOwn(row.translations, previous)) {
+        row.translations[language] = row.translations[previous];
+        delete row.translations[previous];
+      }
+    }
+    p.translationLanguage = language;
+    return p;
+  }
   function exportProject(value) {
     const p = validate(value);
+    // Normalize the saved copy without disrupting text currently being edited.
+    for (const row of p.blocks) {
+      const start = row.text.length - row.text.trimStart().length, end = row.text.trimEnd().length;
+      if (row.furigana && (start || end !== row.text.length)) {
+        let offset = 0;
+        row.furigana = row.furigana.flatMap(([text, reading]) => {
+          const trimmed = text.slice(Math.max(0, start - offset), Math.max(0, end - offset));
+          offset += text.length;
+          return trimmed ? [[trimmed, reading]] : [];
+        });
+      }
+      if (row.sweep && (start || end !== row.text.length)) {
+        let cursor = 0;
+        row.sweep = row.sweep.flatMap(part => {
+          const left = Math.max(0, start - cursor), right = Math.min(part.text.length, end - cursor);
+          cursor += part.text.length;
+          return right > left ? [{ ...part, text: part.text.slice(left, right) }] : [];
+        });
+      }
+      if (row.sweep && !row.sweep.length) delete row.sweep;
+      row.text = row.text.trim();
+      row.translations = Object.fromEntries(Object.entries(row.translations).map(([language, text]) => [language, text.trim()]));
+    }
     return { schemaVersion: p.schemaVersion, videoId: p.videoId, videoUrl: p.videoUrl, videoTitle: p.videoTitle,
       title: p.title, artist: p.artist, originalLanguage: p.originalLanguage, translationLanguage: p.translationLanguage,
       offset: p.offset, furiganaEnabled: p.furiganaEnabled, display: p.display, source: p.source,
       blocks: p.blocks.map(b => ({ id: b.id, text: b.text, start: b.start, end: b.end, translations: b.translations,
-        ...(b.furigana ? { furigana: b.furigana } : {}) })) };
+        ...(b.furigana ? { furigana: b.furigana } : {}), ...(b.sweep ? { sweep: b.sweep } : {}) })) };
   }
   function fingerprint(value) {
     const p = exportProject(value);
-    delete p.translationLanguage;
     return JSON.stringify(p);
   }
   function mergeTranslations(current, incoming) {
-    const a = validate(current), b = validate(incoming);
+    const a = singleTranslation(current), b = singleTranslation(incoming);
     if (!a.blocks.length) return { project: b, conflicts: [], replacement: false };
     if (a.videoId !== b.videoId || a.blocks.length !== b.blocks.length ||
         (a.originalLanguage !== 'und' && b.originalLanguage !== 'und' && a.originalLanguage !== b.originalLanguage)) {
@@ -43,17 +87,17 @@
     }
     const conflicts = new Set();
     a.blocks.forEach((row, i) => {
-      for (const [language, text] of Object.entries(matched[i].translations)) {
-        if (row.translations[language]?.trim() && row.translations[language] !== text) conflicts.add(language);
-        row.translations[language] = text;
-      }
+      const previous = row.translations[a.translationLanguage] || '';
+      const incoming = matched[i].translations[b.translationLanguage] || '';
+      if (previous.trim() && (a.translationLanguage !== b.translationLanguage || previous !== incoming)) conflicts.add(a.translationLanguage);
+      row.translations = { ...matched[i].translations };
     });
     a.translationLanguage = b.translationLanguage;
     if (a.originalLanguage === 'und') a.originalLanguage = b.originalLanguage;
     return { project: a, conflicts: [...conflicts], replacement: false };
   }
   function validate(value) {
-    if (!value || ![1, 2, 3, 4].includes(value.schemaVersion)) throw new Error("Unsupported project schema.");
+    if (!value || ![1, 2, 3, 4, 5].includes(value.schemaVersion)) throw new Error("Unsupported project schema.");
     value = { ...value };
     if (value.schemaVersion === 1) {
       value.schemaVersion = 2;
@@ -90,6 +134,7 @@
       }
       if (row.start === null && row.end !== null) throw new Error("Set a start before an end time.");
       if (row.end !== null && row.end <= row.start) throw new Error("End time must be after start time.");
+      if (row.sweep !== undefined) validateSweep(row);
       if (!row.translations || typeof row.translations !== "object" || Array.isArray(row.translations)) throw new Error("Invalid translations.");
       for (const [language, text] of Object.entries(row.translations)) {
         if (!/^[a-zA-Z]{2,8}(-[a-zA-Z0-9]{1,8})*$/.test(language) || typeof text !== "string" || text.length > 20000) throw new Error("Invalid translation entry.");
@@ -101,12 +146,46 @@
       value.source = { provider: source.provider, url: source.url };
     }
     const display = { ...displayDefaults(), ...(value.display || {}) };
+    if (!Number.isFinite(display.captionGap) || display.captionGap < -30 || display.captionGap > 30) throw new Error('Invalid caption spacing.');
+    // Migrate the former negative-spacing experiment to the closest text fit.
+    display.captionGap = Math.max(0, display.captionGap);
+    for (const key of ['lyricsColor', 'translationColor', 'sweepColor']) {
+      if (typeof display[key] !== 'string' || !/^#[0-9a-fA-F]{6}$/.test(display[key])) throw new Error(`Invalid ${key === 'sweepColor' ? 'highlight' : key} color.`);
+    }
     for (const key of ['fontSize', 'translationFontSize']) if (!Number.isFinite(display[key]) || display[key] < 12 || display[key] > 80) throw new Error('Invalid text size.');
     for (const key of ['position', 'translationPosition']) if (!Number.isFinite(display[key]) || display[key] < 0 || display[key] > 90) throw new Error('Invalid text position.');
     for (const key of ['showOriginal', 'showTranslation', 'showNext']) if (typeof display[key] !== 'boolean') throw new Error('Invalid text visibility.');
     value.display = Object.fromEntries(Object.keys(displayDefaults()).map(key => [key, display[key]]));
-    value.schemaVersion = 4;
+    value.schemaVersion = 5;
     return JSON.parse(JSON.stringify(value));
+  }
+  // Sweep timestamps share the block clock: video seconds minus project.offset.
+  function validateSweep(row) {
+    if (!Array.isArray(row.sweep) || !row.sweep.length || row.sweep.length > row.text.length || row.start === null || row.end === null) throw new Error("Sweep needs timed segments and a timed line.");
+    let previous = row.start;
+    for (const part of row.sweep) {
+      if (!part || typeof part.text !== "string" || !part.text || !Number.isFinite(part.start) || !Number.isFinite(part.end) || part.start < previous || part.end <= part.start || part.end > row.end) throw new Error("Invalid sweep: segments must be ordered, non-overlapping and inside the line.");
+      previous = part.end;
+    }
+    if (row.sweep.map(part => part.text).join("") !== row.text) throw new Error("Sweep segments must exactly match the original lyrics.");
+    // Do not split surrogate pairs, combining characters or emoji sequences.
+    const boundaries = new Set([...new Intl.Segmenter(undefined, { granularity: "grapheme" }).segment(row.text)].map(part => part.index));
+    let cursor = 0;
+    for (const part of row.sweep) {
+      if (!boundaries.has(cursor)) throw new Error("Sweep boundaries must not split a grapheme.");
+      cursor += part.text.length;
+    }
+    return row.sweep;
+  }
+  function sweepPosition(row, videoTime, offset = 0) {
+    const time = videoTime - offset;
+    let cursor = 0;
+    for (const part of row.sweep || []) {
+      if (time <= part.start) return cursor;
+      if (time < part.end) return cursor + part.text.length * (time - part.start) / (part.end - part.start);
+      cursor += part.text.length;
+    }
+    return cursor;
   }
   function validateFurigana(text, parts) {
     const kana = /^[\p{Script=Hiragana}\p{Script=Katakana}ー・\s]+$/u;
@@ -181,7 +260,7 @@
     return rows;
   }
   function exportLrc(value, timed = true) {
-    const project = validate(value);
+    const project = exportProject(value);
     if (!project.blocks.length) throw new Error("Add lyrics first.");
     const text = row => row.text.replace(/[\r\n]+/g, " ");
     if (!timed) return project.blocks.map(text).join("\n") + "\n";
@@ -214,7 +293,8 @@
     if (!rows[index] || !Number.isFinite(time) || time < 0) throw new Error("No valid line or playback time.");
     const previous = rows[index - 1];
     if (previous?.start !== null && previous?.start >= time) throw new Error("The next line must start after the previous line.");
-    if (previous?.start !== null && previous) previous.end = time;
+    if (previous?.start !== null && previous) { previous.end = time; delete previous.sweep; }
+    delete rows[index].sweep;
     rows[index].start = time;
     if (rows[index].end !== null && rows[index].end <= time) rows[index].end = null;
   }
@@ -239,13 +319,20 @@
     const blocks = value.blocks.map((block, position) => {
       if (position < index) return block;
       const shift = time => time === null ? null : Number((time + delta).toFixed(3));
-      return { ...block, start: position === index ? start : shift(block.start), end: shift(block.end) };
+      const result = { ...block, start: position === index ? start : shift(block.start), end: shift(block.end) };
+      if (result.sweep) {
+        if (position === index && start === null) delete result.sweep;
+        else result.sweep = result.sweep.map(part => ({ ...part, start: shift(part.start), end: shift(part.end) }));
+      }
+      return result;
     });
     // Validate the entire shift before applying any times to the current project.
     validate({ ...value, blocks });
     for (let position = index; position < blocks.length; position++) {
       value.blocks[position].start = blocks[position].start;
       value.blocks[position].end = blocks[position].end;
+      if (blocks[position].sweep) value.blocks[position].sweep = blocks[position].sweep;
+      else delete value.blocks[position].sweep;
     }
   }
   function syncLine(value, row, seconds) {
@@ -257,7 +344,7 @@
     try { validate(value); }
     catch (error) { row.start = previousStart; value.offset = previousOffset; throw error; }
   }
-  const api = { displayDefaults, languages, exportProject, fingerprint, mergeTranslations, replaceFuriganaTerm, validateFurigana, alignKana, block, project, validate, parseLrc, importLyrics, exportLrc, activeBlock, stamp, matchTranslation, moveLineStart, syncLine };
+  const api = { validateSweep, sweepPosition, displayDefaults, languages, singleTranslation, renameTranslationLanguage, exportProject, fingerprint, mergeTranslations, replaceFuriganaTerm, validateFurigana, alignKana, block, project, validate, parseLrc, importLyrics, exportLrc, activeBlock, stamp, matchTranslation, moveLineStart, syncLine };
   root.KaraokeCore = api;
   if (typeof module !== "undefined") module.exports = api;
 })(globalThis);

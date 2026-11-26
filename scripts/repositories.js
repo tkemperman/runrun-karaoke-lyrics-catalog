@@ -32,6 +32,12 @@
   }
   function encodedPath(file) { return file.split('/').map(encodeURIComponent).join('/'); }
   function cleanProject(value) { return C.exportProject(value); }
+  function publicationProject(value) {
+    const project = C.singleTranslation(cleanProject(value));
+    // Share the sweep color; other display choices belong to the viewer.
+    project.display = { sweepColor: project.display.sweepColor };
+    return project;
+  }
   function translationLanguages(p) {
     const stored = [...new Set(p.blocks.flatMap(row => Object.keys(row.translations)))].sort();
     return stored.length ? stored : [p.translationLanguage];
@@ -80,7 +86,7 @@
     return project;
   }
   function destination(source, value, videoTitle) {
-    const project = cleanProject(value);
+    const project = publicationProject(value);
     if (!source.repo) throw new Error('GitHub repository is missing.');
     if (!/^[a-zA-Z]{2,8}(-[a-zA-Z0-9]{1,8})*$/.test(project.translationLanguage)) throw new Error('Choose a valid translation language before publishing.');
     if (typeof videoTitle !== 'string' || !videoTitle.trim() || videoTitle.length > 2000) throw new Error('Wait for the YouTube video title before publishing.');
@@ -124,7 +130,7 @@
     return json(`${apiRoot(source)}${suffix}`, { method, headers: { ...auth(token), 'Content-Type': 'application/json' }, ...(body ? { body: JSON.stringify(body) } : {}) });
   }
   async function inspectBatch(source, token, value, videoTitle) {
-    const p = cleanProject(value);
+    const p = C.singleTranslation(cleanProject(value));
     if (!videoTitle?.trim()) throw new Error('Wait for the YouTube video title before publishing.');
     const ref = await apiRequest(source, token, `/git/ref/heads/${encodedPath(source.branch)}`);
     const sha = ref.object?.sha;
@@ -144,7 +150,7 @@
   async function publishBatch(source, token, value, sha, videoTitle) {
     const reviewed = await inspectBatch(source, token, value, videoTitle);
     if (reviewed.sha !== sha) throw new Error('GitHub content changed. Review the destination again.');
-    const p = cleanProject(value); p.videoTitle = videoTitle;
+    const p = publicationProject(value); p.videoTitle = videoTitle;
     const identity = await commitIdentity(token);
     const tree = reviewed.files.map(item => {
       const copy = { ...p, translationLanguage: item.language, blocks: p.blocks.map(row => ({ ...row,

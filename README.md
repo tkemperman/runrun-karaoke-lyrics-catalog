@@ -2,6 +2,8 @@
 
 Set up your own public lyrics and translation repository for [ルンルンKARAOKE](https://github.com/tkemperman/runrun-karaoke).
 
+The catalog accepts project schemas 1–5, including progressive highlighting (sweep timing), and generates catalog schema 1. When upgrading the extension's project schema, update `scripts/core.js` and `scripts/repositories.js` together from its `lyrics-repository-template/scripts/` directory. Run `node scripts/build-index.js` to validate all published projects and rebuild the index.
+
 ## Setup
 
 1. **Fork this repository.** Click [Fork](https://github.com/tkemperman/runrun-karaoke-lyrics-catalog/fork), select your account, and create the fork. Use your fork's name in step 4. A local clone is optional; the extension uploads directly to GitHub. To start with an empty catalog, use the add-on's `lyrics-repository-template/` instead.
